@@ -51,16 +51,20 @@ img, audio, video {
 
 /* Title Settings */
 
-.ShulkerLogo {
+.ShulkerLogoText {
     font-size:4.5vw;
     color: rgb(73, 193, 248);
 }
 
-.ShulkerLogo:hover {
+.ShulkerLogoText:hover {
     filter:hue-rotate(3600deg);
     transition:30s;
 }
 
+.ShulkerLogo {
+    display: flex;
+    justify-content: center;
+}
 
 /* Divider Settings */
 
