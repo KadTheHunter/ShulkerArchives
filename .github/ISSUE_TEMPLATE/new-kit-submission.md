@@ -2,7 +2,7 @@
 name: New Kit Submission
 about: Template for submitting a new Kit
 title: "[NEW KIT] "
-labels: ''
+labels: New Kit
 assignees: KadTheHunter
 
 ---
