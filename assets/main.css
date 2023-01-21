@@ -124,9 +124,10 @@ table, td, th {
     border: 1px solid rgb(255, 255, 255);
     padding: 15px;
     text-align: left;
+    table-layout: fixed;
 }
 th {
-    background-color: #000000;
+    background-color: rgb(86, 86, 86);
     color: rgb(0, 255, 0);
 }
   table {
@@ -137,7 +138,7 @@ th {
     height: 70px;
 }
   td:hover {
-    background-color: rgb(81, 0, 105);
+    background-color: rgb(172, 172, 172);
 }
 
 
