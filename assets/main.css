@@ -1,7 +1,9 @@
 body {
 	align-items: center;
 	text-align: center;
+    /* background-image: url(background.png); */
     background-color: rgb(43, 43, 43);
+    background-size: 500%;
     color: white;
     font-family: Arial, Helvetica, sans-serif;
     font-size:22px;
@@ -16,40 +18,6 @@ body {
 	justify-content: center;
 	align-items: center;
 	text-align: center;
-}
-
-.left-box {
-    display: inline-block;
-    width: 30%;
-    height: 500px;
-    border-top: 2px solid #000000;
-    border-right: 2px solid #000000;
-    border-left: 2px solid #000000;
-}
-.left-box:hover {
-    color:chartreuse;
-}
-.middle-box {
-    display: inline-block;
-    width:30%;
-    height:500px;
-    border-top: 2px solid #000000;
-    border-right: 2px solid #000000;
-    border-left: 2px solid #000000;
-}
-.middle-box:hover {
-    color:chartreuse;
-}
-.right-box {
-    display: inline-block;
-    width:30%;
-    height:500px;
-    border-top: 2px solid #000000;
-    border-right: 2px solid #000000;
-    border-left: 2px solid #000000;
-}
-.right-box:hover {
-    color:chartreuse;
 }
 
 a {color: rgb(73, 193, 248);text-decoration: none;}
@@ -99,6 +67,7 @@ select {
     padding: 10px;
 }
 
+/* Part of the copied stuff from R74n */
 ::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
   color: lightgray;
   opacity: 1; /* Firefox */
@@ -118,27 +87,37 @@ hr {
     margin-top:30px;
 }
 
-/*.lidesc {margin-left:10px;}*/
-.lidesc, dd {font-style:italic;}
-.lidesc::before, dd::before {content:"↳ "}
-.cw[open="false"] {cursor:pointer;background-color:rgb(39, 39, 39);padding:5px;border-radius:20px;line-height:2;}
-.cw[open="false"]:active {background-color:rgb(61, 61, 61);}
-.cw[open="true"] {transition:0.5s;}
-.desc {display:block;margin-left:10px;}
-.desc::before {content:"↳ "}
-/*.wordtxt {}*/
-.wordsep {color:rgb(85, 85, 85);}
-.wordcom {color:lightgray}
-.worddef {color:lightgray;font-style:italic;}
-.wordlist {white-space:pre-wrap;margin-left:10px;margin-left:40px;}
-.wordline {margin-left: -20px;text-indent: 10px;}
-.toc {margin:0px;}
+/* Table Settings */
+table, td, th {
+    border: 1px solid black;
+    padding: 15px;
+    text-align: left;
+}
+th {
+    background-color: #04aa3b57;
+    color: white;
+}
+  table {
+    border-collapse: collapse;
+    width: 100%;
+}
+  th {
+    height: 70px;
+}
+  tr:hover {
+    background-color: rgb(81, 0, 105);
+}
 
-.divblock {display:inline-block;margin:0.4rem;padding:0.4rem;vertical-align:middle;max-width:500px;}
+/* Footer Settings */
 
-table {border-collapse:collapse}
-td, th {border:0.5px solid gray;padding:5px;padding-left:10px}
-th {background-color:#00ffff;color:black}
-tr:nth-child(odd){background-color: #272727;}
-
-.linkcategory {color:yellow}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(31, 31, 31);
+    color: rgb(30, 255, 0);
+    text-align: center;
+    font-family: 'Lucida Console';
+    font-size: 14px;
+}
