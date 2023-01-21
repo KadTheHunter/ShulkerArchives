@@ -141,6 +141,15 @@ th {
 }
 
 
+/* Denoted List Settings */
+
+dt, dd {
+    border: 1px solid rgb(255, 255, 255);
+    padding: 15px;
+    text-align: left;
+}
+
+
 /* Footer Settings */
 
 .footer {
