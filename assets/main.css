@@ -78,6 +78,48 @@ hr {
     margin-top:30px;
 }
 
+
+/* Button Settings */
+
+.button {
+    align-items: center;
+    background-color: rgb(73, 193, 248);
+    border: 1px solid #ffffff;
+    border-radius: 16px;
+    box-sizing: border-box;
+    color: #ffffff;
+    cursor: pointer;
+    font-family: Inter, sans-serif;
+    font-size: 18px;
+    justify-content: center;
+    line-height: 28px;
+    max-width: 50%;
+    padding: 14px 22px;
+    text-decoration: none;
+    transition: all .2s;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+}
+  
+.button:active, .button:hover {
+    outline: 0;
+}
+  
+.button:hover {
+    background-color: #153b44;
+    border-color: rgb(255, 255, 255);
+}
+  
+@media (min-width: 768px) {
+    .button {
+        font-size: 20px;
+        min-width: 200px;
+        padding: 14px 16px;
+    }
+}
+
+
 /* Table Settings */
 table, td, th {
     border: 1px solid black;
