@@ -1,3 +1,5 @@
+/* General Settings */
+
 body {
 	align-items: center;
 	text-align: center;
@@ -20,64 +22,52 @@ body {
 	text-align: center;
 }
 
-a {color: rgb(73, 193, 248);text-decoration: none;}
-a:active, a:hover:active {color: rgb(255, 179, 255);}
-a:hover {color: rgb(255, 121, 255);}
+
+/* Misc. Clusterfuck I copied from R74n */
+
+a {
+    color: rgb(73, 193, 248);text-decoration: none;
+}
+
+a:active, a:hover:active {
+    color: rgb(255, 179, 255);
+}
+
+a:hover {
+    color: rgb(255, 121, 255);
+}
+
+a:link {
+    color: #ff00dd;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #700061;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+img, audio, video {
+    vertical-align:middle;max-width:100%
+}
 
 
+/* Title Settings */
 
-.pagetitle, .backbutton, .R74nicon {display: inline-block;margin:0px;vertical-align: middle;margin-left:10px}
-.pagetitle, .ShulkerLogo {font-size:4.5vw}
-.backbutton {font-size:60px}
-.pagetitle {margin-left: 10px;}
-.ShulkerLogo {height:50px;width:50px;transition:3s;}
-
-b {font-weight:bold;}
-i {font-style:italic;}
-
-img, audio, video {vertical-align:middle;max-width:100%}
-
+.ShulkerLogo {
+    font-size:4.5vw;
+    color: rgb(73, 193, 248);
+}
 
 .ShulkerLogo:hover {
     filter:hue-rotate(3600deg);
     transition:30s;
 }
 
-textarea, input[type=text], input[type=number] {
-    background-color: rgb(107,107,107);
-    color: rgb(255,255,255);
-    border-radius: 15px;
-    border-style: none;
-    outline: 0;
-    padding: 10px;
-}
-input[type=number] {width:100px}
-textarea:focus {
-    box-shadow: 0 0 3pt 2pt rgb(31, 31, 31);
-}
-textarea {
-    max-width:80%;
-}
-select {
-    background-color: rgb(107,107,107);
-    color: rgb(255,255,255);
-    border-radius: 15px;
-    border-style: none;
-    outline: 0;
-    padding: 10px;
-}
 
-/* Part of the copied stuff from R74n */
-::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
-  color: lightgray;
-  opacity: 1; /* Firefox */
-}
-:-ms-input-placeholder { /* Internet Explorer 10-11 */
-  color: lightgray;
-}
-::-ms-input-placeholder { /* Microsoft Edge */
-  color: lightgray;
-}
+/* Divider Settings */
 
 hr {
     border: 1px solid rgb(53, 53, 53);
@@ -107,6 +97,7 @@ th {
   tr:hover {
     background-color: rgb(81, 0, 105);
 }
+
 
 /* Footer Settings */
 
