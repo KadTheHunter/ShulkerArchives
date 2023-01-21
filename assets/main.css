@@ -44,12 +44,6 @@ a:link {
     text-decoration: none;
 }
 
-a:visited {
-    color: #700061;
-    background-color: transparent;
-    text-decoration: none;
-}
-
 img, audio, video {
     vertical-align:middle;max-width:100%
 }
