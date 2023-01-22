@@ -16,10 +16,6 @@ assignees: KadTheHunter
 ### Description
 - 
 
-### Block
-(e.g. red_shulker_box)
--
-
 ### NBT Data 
 (Paste on the line between backticks)
 ```
