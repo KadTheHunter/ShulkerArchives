@@ -12,6 +12,12 @@ body {
     word-wrap: break-word;
     padding: 6%;
 }
+
+.article {
+    align-items: left;
+	text-align: left;
+    font-size: 22px;
+}
 .content {
     margin:10px;
     margin-top:20px;
