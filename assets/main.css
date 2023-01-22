@@ -108,7 +108,32 @@ hr {
     background-color: #153b44;
     border-color: rgb(255, 255, 255);
 }
-  
+
+.buttonWide {
+    align-items: center;
+    background-color: rgb(73, 193, 248);
+    border: 0px solid #ffffff;
+    border-radius: 200px;
+    box-sizing: border-box;
+    color: #ffffff;
+    cursor: pointer;
+    font-family: Inter, sans-serif;
+    font-size: 18px;
+    justify-content: center;
+    line-height: 5px;
+    padding: 14px 22px;
+    text-decoration: none;
+    transition: all .2s;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+}
+
+.buttonWide:hover {
+    background-color: #153b44;
+    border-color: rgb(255, 255, 255);
+}
+
 @media (min-width: 768px) {
     .button {
         font-size: 20px;
@@ -116,7 +141,6 @@ hr {
         padding: 14px 16px;
     }
 }
-
 
 /* Table Settings */
 
