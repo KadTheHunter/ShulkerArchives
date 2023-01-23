@@ -32,7 +32,7 @@
         <a href="../index.html"><button class="buttonWide" type="button"><i>Looking for Shulker Kits instead of Individual Items? Click me!</i></button></a>
       <div class="center">
         <input type="text" id="search" onkeyup="searchTable()" placeholder="Search for Names, Authors, Descriptions, Item IDs...">
-        <table id="items">
+        <table class="sortable" id="items">
           <tr>
             <th>Item Name</th>
             <th>Author</th>
@@ -110,6 +110,7 @@
     <div class="footer">
       <p>Created by KaddicusAlmighty, suggested by Parsa__ & antigamesm12</p>
     </div>
+    <script src="../assets/js/sorttable.js"></script>
     <script>
       function searchTable() {
         var input, filter, found, table, tr, td, i, j;
