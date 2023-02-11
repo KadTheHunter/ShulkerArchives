@@ -1,42 +1,45 @@
 /* General Settings */
 
 body {
-	align-items: center;
-	text-align: center;
+    align-items: center;
+    text-align: center;
     /* background-image: url(background.png); */
     background-color: rgb(43, 43, 43);
     background-size: 500%;
     color: white;
     font-family: Arial, Helvetica, sans-serif;
-    font-size:22px;
+    font-size: 22px;
     word-wrap: break-word;
     padding: 6%;
 }
 
 .article {
     align-items: left;
-	text-align: left;
+    text-align: left;
     font-size: 22px;
 }
+
 .content {
-    margin:10px;
-    margin-top:20px;
+    margin: 10px;
+    margin-top: 20px;
 }
 
 .center {
-	justify-content: center;
-	align-items: center;
-	text-align: center;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
 }
 
 
 /* Misc. Clusterfuck I copied from R74n */
 
 a {
-    color: rgb(73, 193, 248);text-decoration: none;
+    color: rgb(73, 193, 248);
+    text-decoration: none;
 }
 
-a:active, a:hover:active {
+a:active,
+a:hover:active {
     color: rgb(255, 179, 255);
 }
 
@@ -44,21 +47,24 @@ a:hover {
     color: rgb(255, 121, 255);
 }
 
-img, audio, video {
-    vertical-align:middle;max-width:100%
+img,
+audio,
+video {
+    vertical-align: middle;
+    max-width: 100%
 }
 
 
 /* Title Settings */
 
 .ShulkerLogoText {
-    font-size:4.5vw;
+    font-size: 4.5vw;
     color: rgb(73, 193, 248);
 }
 
 .ShulkerLogoText:hover {
-    filter:hue-rotate(3600deg);
-    transition:30s;
+    filter: hue-rotate(3600deg);
+    transition: 30s;
 }
 
 .ShulkerLogo {
@@ -70,10 +76,10 @@ img, audio, video {
 
 hr {
     border: 1px solid rgb(53, 53, 53);
-    margin-left:50px;
-    margin-right:50px;
-    margin-bottom:30px;
-    margin-top:30px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 30px;
+    margin-top: 30px;
 }
 
 
@@ -99,11 +105,12 @@ hr {
     -webkit-user-select: none;
     touch-action: manipulation;
 }
-  
-.button:active, .button:hover {
+
+.button:active,
+.button:hover {
     outline: 0;
 }
-  
+
 .button:hover {
     background-color: #153b44;
     border-color: rgb(255, 255, 255);
@@ -157,57 +164,70 @@ hr {
     border: 1px solid #ddd;
     margin-top: 12px;
     margin-bottom: 12px;
-  }
+}
 
 
 /* Table Sorting Settings*/
 
-table.sortable th::after, th.sorttable_sorted::after, th.sorttable_sorted_reverse::after {
+table.sortable th::after,
+th.sorttable_sorted::after,
+th.sorttable_sorted_reverse::after {
     content: " ";
     display: inline-block;
     width: 24px;
     height: 24px;
-  }
-  th.sorttable_sorted::after {
+}
+
+th.sorttable_sorted::after {
     background: url(my-sorted-icon.png);
     background-size: contain;
-  }
-  th.sorttable_sorted_reverse::after {
+}
+
+th.sorttable_sorted_reverse::after {
     background: url(my-sorted-reversed-icon.png);
     background-size: cover;
-  }
-  #sorttable_sortfwdind, #sorttable_sortrevind { 
-    display: none; 
+}
+
+#sorttable_sortfwdind,
+#sorttable_sortrevind {
+    display: none;
 }
 
 
 /* Table Settings */
 
-table, td, th {
+table,
+td,
+th {
     border: 1px solid rgb(255, 255, 255);
     padding: 15px;
     text-align: left;
     table-layout: fixed;
 }
+
 th {
     background-color: rgb(86, 86, 86);
     color: rgb(0, 255, 0);
 }
-  table {
+
+table {
     border-collapse: collapse;
     width: 100%;
 }
-  th {
+
+th {
     height: 70px;
 }
-  td:hover {
+
+td:hover {
     background-color: rgb(172, 172, 172);
 }
 
 
 /* Denoted List Settings */
 
-dt, dd {
+dt,
+dd {
     border: 1px solid rgb(255, 255, 255);
     padding: 15px;
     text-align: left;
