@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>The Shulker Archives</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+    <link rel="stylesheet" href="../assets/main.css" />
+  </head>
+  <body class="is-preload">
+    <div id="wrapper">
+      <header id="header">
+        <div class="inner">
+          <span class="ShulkerLogoText"><a href="../index.html">Shulker Archives</a></span>
+          <a class="ShulkerLogo">
+            <img src="../assets/Shulker_shooting.gif" height="100px" width=“100px”>
+          </a>
+        </div>
+      </header>
+      <div id="main">
+        <div class="inner">
+          <header>
+            <h2>Welcome to the Shulker Archives</h2>
+            <hr>
+            <a href="../html/UsingNBT.html"><button class="button" type="button">Using NBT</button></a>
+            <a href="../html/Resources.html"><button class="button" type="button">Resources</button></a>
+            <hr>
+            <p>Below is a list of books, with links to their raw NBT data.</p>
+            <p>If you would like to submit a book, please head to the <a href="https://github.com/KadTheHunter/ShulkerArchives/issues/new/choose">GitHub Issues</a> page and choose "New Book Submission"</p>
+            <hr>
+          </header>
+        </div>
+      <div class="center">
+        <input type="text" id="search" onkeyup="searchTable()" placeholder="Search for Names, Authors, Descriptions, Item IDs...">
+        <table class="sortable" id="items">
+          <tr>
+            <th>Item Name</th>
+            <th>Author</th>
+            <th class="sorttable_nosort">Description</th>
+            <th>Item ID</th>
+            <th class="sorttable_nosort">NBT</th>
+          </tr>
+        </table>
+        <!--
+          NEW BOOK CODE TEMPLATE
+
+          COPY/PASTE THE BELOW CODE TO ADD A NEW ITEM
+
+          <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td><a href="../nbt/books/">NBT</a></td>
+          </tr>
+
+          TAKE CARE TO FORMAT IT RIGHT
+
+          BE SURE TO FOLLOW THE RULES IN THE COMMENT BELOW!
+        -->
+        <br>
+        <!--
+          OKIEDOKIE ARTICHOKIE THEN
+
+          Time for a big-ass comment on adding new items.
+
+          Rule #1: Follow the Issue. If there isn't an Issue open, then open one. I am lazy, you are lazy, but laziness is not an excuse in this case.
+          Rule #2: Use the template provided above, and fill in the information in the following order:
+            Book Name
+            Author Name
+            Book Description
+            Book Type (Writable/Written)
+            Link to NBT
+          Rule #3 Format the code properly or I will fucking kill you. No excuses.
+          Rule #4: CHECK YOUR WORK!!!
+            - Use an extension in your editor to preview the page, or open your local copy of index.html in your browser and view your changes!
+            - Check the NBT Data of the book in-game, to make sure the data linked is accurate!
+            - Double check that everything is spelled correctly; Item Name, Author, Description, etc!
+          Rule #5: When committing your changes, close the issue alongside your commit!
+            - This can be done by including one of "close, closes, closed, fixes, fixed" followed by the issue number (e.g Close #3)
+          Rule #6: You can bundle multiple books into one commit, just make sure you follow Rule #4 and close all relative issues, and don't include any changes unrelated to adding in a book.
+          
+          That is all, and happy committing :)
+
+            - Kaddicus
+        -->
+      </div>
+    </div>
+    <div class="footer">
+      <p>Created by KaddicusAlmighty</p>
+    </div>
+    <script src="../assets/js/sorttable.js"></script>
+    <script>
+      function searchTable() {
+        var input, filter, found, table, tr, td, i, j;
+        input = document.getElementById("search");
+        filter = input.value.toUpperCase();
+        table = document.getElementById("items");
+        tr = table.getElementsByTagName("tr");
+        for (i = 0; i < tr.length; i++) {
+          td = tr[i].getElementsByTagName("td");
+          for (j = 0; j < td.length; j++) {
+            if (td[j].innerHTML.toUpperCase().indexOf(filter) > -1) {
+              found = true;
+            }
+          }
+          if (found) {
+            tr[i].style.display = "";
+            found = false;
+          } else {
+            tr[i].style.display = "none";
+          }
+        }
+      }
+      </script>
+  </body>
+</html>
