@@ -1,580 +1,586 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <title>The Shulker Archives</title>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-    <link rel="stylesheet" href="assets/main.css" />
-  </head>
-  <body class="is-preload">
-    <div id="wrapper">
-      <header id="header">
-        <div class="inner">
-          <span class="ShulkerLogoText"><a href="index.html">Shulker Archives</a></span>
-          <a class="ShulkerLogo">
-            <img src="assets/Shulker_shooting.gif" height="100px" width=“100px”>
-          </a>
-        </div>
-      </header>
-      <div id="main">
-        <div class="inner">
-          <header>
-            <h2>Welcome to the Shulker Archives</h2>
-            <hr>
-            <a href="html/UsingNBT.html"><button class="button" type="button">Using NBT</button></a>
-            <a href="html/Resources.html"><button class="button" type="button">Resources</button></a>
-            <hr>
-            <p>Below is a list of archived kits, with links to their raw NBT data.</p>
-            <p>If you would like to submit a kit, please head to the <a href="https://github.com/KadTheHunter/ShulkerArchives/issues/new/choose">GitHub Issues</a> page and choose "New Kit Submission".</p>
-            <hr>
-          </header>
-        </div>
+
+<head>
+  <title>The Shulker Archives</title>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+  <link rel="stylesheet" href="assets/main.css" />
+</head>
+
+<body class="is-preload">
+  <div id="wrapper">
+    <header id="header">
+      <div class="inner">
+        <span class="ShulkerLogoText"><a href="index.html">Shulker Archives</a></span>
+        <a class="ShulkerLogo">
+          <img src="assets/Shulker_shooting.gif" height="100px" width=“100px”>
+        </a>
       </div>
-      <a href="html/Items.html"><button class="buttonWide" type="button"><i>Looking for Individual Items instead of Shulker Kits? Click me!</i></button></a>
-      <div class="center">
-        <input type="text" id="search" onkeyup="searchTable()" placeholder="Search for Names, Authors, Descriptions, Block IDs..." autocomplete="off" onclick="nebulaEntry();">
-        <table class="sortable" id="kits">
-          <tr>
-            <th>Kit Name</th>
-            <th>Author</th>
-            <th class="sorttable_nosort">Description</th>
-            <th>Block ID</th>
-            <th class="sorttable_nosort">NBT</th>
-          </tr>
-          <tr>
-            <td>深量 Omega Humane Kit 深量</td>
-            <td>BuildingAbyss90</td>
-            <td>N/A</td>
-            <td>red_shulker_box</td>
-            <td><a href="nbt/OmegaHumaneKit.txt">NBT</a></td>
-          </tr>
-          <tr>
-            <td>Colorless (Αχρωμος)</td>
-            <td>Feueristic</td>
-            <td>A chest with a very cool sword named Αχρωμος.</td>
-            <td>chest</td>
-            <td><a href="nbt/Αχρωμος.txt">NBT</a></td> 
-          </tr>
-          <tr>
-            <td>Tuff Kit (ᴛᴜꜰꜰ ᴋɪᴛ)</td>
-            <td>UltimEVB</td>
-            <td>A kit based on the Tuff block, has a sword and armor.</td>
-            <td>light_gray_shulker_box</td>
-            <td><a href="nbt/TuffKit.txt">NBT</a></td>
-          </tr>
-          <tr>
-            <td>Weasley's Wildfire Whiz-Bangs | Deflagration Deluxe Edition</td>
-            <td>KaddicusAlmighty</td>
-            <td>A collection of the best custom fireworks</td>
-            <td>orange_shulker_box</td>
-            <td><a href="nbt/WildfireWhizbangsDeflagDeluxe.txt">NBT</a></td>
-          </tr>
-          <tr>
-            <td>Xelion Tripex Axe</td>
-            <td>quack95</td>
-            <td>A kit with an armor stand holding a cool axe</td>
-            <td>white_shulker_box</td>
-            <td><a href="nbt/XelionTripexAxe.txt">NBT</a></td>
-          </tr>
-          <tr>
-            <td>If It Bleeds (ɨƒ ɨȶ ɮʟɛɛɖs)</td>
-            <td>Katsuo__</td>
-            <td>A creepy kit containing a curved blade that thirsts for blood, and two ceremonial crystals</td>
-            <td>red_shulker_box</td>
-            <td><a href="nbt/IfItBleeds.txt">NBT</a></td>
-          </tr>
-          <tr>
-            <td>Kit From The Orange Sands</td>
-            <td>twoeighths</td>
-            <td>A full kit with an orange theme.</td>
-            <td>orange_shulker_box</td>
-            <td><a href="nbt/KitFromTheOrangeSands.txt">NBT</a></td>
-          </tr>
-          <tr>
-            <td>MPD Kit | KaddicusAlmighty Edition</td>
-            <td>KaddicusAlmighty</td>
-            <td>Contains the heads from different skins worn by KaddicusAlmighty, each with special effects</td>
-            <td>white_shulker_box</td>
-            <td><a href="nbt/MPDKitKaddicusEdition.txt">NBT</a></td>
-          </tr>
-          <tr>
-            <td>Alphabet & Number Banners</td>
-            <td>Pending</td>
-            <td>Contains two chests, with banners displaying letters and numbers in various different colors</td>
-            <td>red_shulker_box</td>
-            <td><a href="nbt/Alphabet&NumberBanners.txt">NBT</a></td>
-          </tr>
-          <tr>
-            <td>P.A.X Potion Crate</td>
-            <td>Pending</td>
-            <td>A collection of 27 potions with unique and fairly deadly effects</td>
-            <td>purple_shulker_box</td>
-            <td><a href="nbt/P.A.XPotionCrate.txt">NBT</a></td>
-          </tr>
-          <tr>
-            <td>videogamesm12 Kit</td>
-            <td>renzothehottie</td>
-            <td>A kit based off the legendary TotalFreedom Admin, Developer and Owner 'videogamesm12'</td>
-            <td>purple_shulker_box</td>
-            <td><a href="nbt/videogamesm12Kit.txt">NBT</a></td>
-          </tr>
-          <tr>
-            <td>Sudo Kit</td>
-            <td>OperatorTheDope</td>
-            <td>A PvP/Troll kit based off the <code>sudo</code> command</td>
-            <td>light_blue_shulker_box</td>
-            <td><a href="nbt/SudoKit.txt">NBT</a></td>
-          </tr>
-          <tr>
-            <td>Sudo Kit v2</td>
-            <td>OperatorTheDope</td>
-            <td>A PvP/Troll kit based off the <code>sudo</code> command</td>
-            <td>light_blue_shulker_box</td>
-            <td><a href="nbt/SudoKitv2.txt">NBT</a></td>
-          </tr>
-          <tr>
-            <td>Sudo Kit v3</td>
-            <td>OperatorTheDope</td>
-            <td>A PvP/Troll kit based off the <code>sudo</code> command</td>
-            <td>blue_shulker_box</td>
-            <td><a href="nbt/SudoKitv3.txt">NBT</a></td>
-          </tr>
-          <tr>
-            <td>Sudo Kit v4</td>
-            <td>TheRickPower978</td>
-            <td>A PvP/Troll kit based off the <code>sudo</code> command</td>
-            <td>yellow_shulker_box</td>
-            <td><a href="nbt/SudoKitv4.txt">NBT</a></td>
-          </tr>
-          <tr>
-            <td>Super Barrel</td>
-            <td>MarioKartWii</td>
-            <td>A barrel with some amazing blocks in it</td>
-            <td>barrel</td>
-            <td><a href="nbt/SuperBarrel.txt">NBT</a></td>
-          </tr>
-          <tr>
-            <td>Fake Operating System (假操作系统)</td>
-            <td>OperatorTheDope</td>
-            <td>Fake Operating System</td>
-            <td>white_shulker_box</td>
-            <td><a href="nbt/假操作系统.txt">NBT</a></td>
-          </tr>
-          <tr>
-            <td>Vex Kit v1</td>
-            <td>GioVarquez</td>
-            <td>It's like the Sudo Kits, but with the vex command?</td>
-            <td>red_shulker_box</td>
-            <td><a href="nbt/VexKitv1">NBT</a></td>
-          </tr>
-          <tr>
-            <td>RyanUwU</td>
-            <td>RyanUwU</td>
-            <td>RyanUwU Kit</td>
-            <td>yellow_shulker_box</td>
-            <td><a href="nbt/RyanUwU.txt">NBT</a></td>
-          </tr>
-          <tr>
-            <td>RyanUwU 2</td>
-            <td>RyanUwU</td>
-            <td>RyanUwU Kit 2</td>
-            <td>red_shulker_box</td>
-            <td><a href="nbt/RyanUwU2.txt">NBT</a></td>
-          </tr>
-          <tr>
-            <td>RyanUwU 3 (Bee Box 1.15)</td>
-            <td>RyanUwU</td>
-            <td>RyanUwU Kit 3 (Bee Box 1.15)</td>
-            <td>yellow_shulker_box</td>
-            <td><a href="nbt/RyanUwU3.txt">NBT</a></td>
-          </tr>
-          <tr>
-            <td>RyanUwU 4 (HD Heads)</td>
-            <td>RyanUwU</td>
-            <td>RyanUwU Kit 4 (HD Heads)</td>
-            <td>lime_shulker_box</td>
-            <td><a href="nbt/RyanUwU4.txt">NBT</a></td>
-          </tr>
-          <tr>
-            <td>RyanUwU 5 (Nether Box)</td>
-            <td>RyanUwU</td>
-            <td>RyanUwU Kit 5 (Nether Box)</td>
-            <td>red_shulker_box</td>
-            <td><a href="nbt/RyanUwU5.txt">NBT</a></td>
-          </tr>
-          <tr>
-            <td>RyanUwU 6 (HD Heads 2)</td>
-            <td>RyanUwU</td>
-            <td>RyanUwU Kit 6 (HD Heads 2)</td>
-            <td>magenta_shulker_box</td>
-            <td><a href="nbt/RyanUwU6.txt">NBT</a></td>
-          </tr>
-          <tr>
-            <td>Neon Rainbow Horse Armor</td>
-            <td>RyanUwU</td>
-            <td>Contains custom colored horse armor in bright/neon colors</td>
-            <td>brown_shulker_box</td>
-            <td><a href="nbt/NeonRainbowHorseArmor.txt">NBT</a></td>
-          </tr>
-          <tr>
-            <td>Neon Rainbow Potions</td>
-            <td>RyanUwU</td>
-            <td>Contains custom colored Potions in bright/neon colors</td>
-            <td>white_shulker_box</td>
-            <td><a href="nbt/NeonRainbowPotions.txt">NBT</a></td>
-          </tr>
-          <tr>
-            <td>Neon Rainbow Lingering Potions</td>
-            <td>RyanUwU</td>
-            <td>Contains custom colored Lingering Potions in bright/neon colors</td>
-            <td>white_shulker_box</td>
-            <td><a href="nbt/NeonRainbowLingeringPotions.txt">NBT</a></td>
-          </tr>
-          <tr>
-            <td>Neon Rainbow Maps & Arrows</td>
-            <td>RyanUwU</td>
-            <td>Contains custom colored Maps & Arrows in bright/neon colors</td>
-            <td>white_shulker_box</td>
-            <td><a href="nbt/NeonRainbowMaps&Arrows.txt">NBT</a></td>
-          </tr>
-          <tr>
-            <td>Neon Rainbow Helmets & Chestplates</td>
-            <td>RyanUwU</td>
-            <td>Contains custom colored Helmets & Chestplates in bright/neon colors</td>
-            <td>brown_shulker_box</td>
-            <td><a href="nbt/NeonRainbowHelmets&Chestplates.txt">NBT</a></td>
-          </tr>
-          <tr>
-            <td>Neon Rainbow Leggings & Boots</td>
-            <td>RyanUwU</td>
-            <td>Contains custom colored Leggings & Boots in bright/neon colors</td>
-            <td>brown_shulker_box</td>
-            <td><a href="nbt/NeonRainbowLeggings&Boots.txt">NBT</a></td>
-          </tr>
-          <tr>
-            <td>Your Dinner!</td>
-            <td>Pending</td>
-            <td>A healthy dinner, complete with tableware & cutlery</td>
-            <td>brown_shulker_box</td>
-            <td><a href="nbt/YourDinner!.txt">NBT</a></td>
-          </tr>
-          <tr>
-            <td>Ultimate Elements</td>
-            <td>Pending</td>
-            <td>Contains the Ultimate Elements</td>
-            <td>magenta_shulker_box</td>
-            <td><a href="nbt/UltimateElements.txt">NBT</a></td>
-          </tr>
-          <tr>
-            <td>Pride Flag/Shields</td>
-            <td>Pending</td>
-            <td>Contains various LGBT flags attached to shields</td>
-            <td>white_shulker_box</td>
-            <td><a href="nbt/PrideFlagShields.txt">NBT</a></td>
-          </tr>
-          <tr>
-            <td>Food Kit</td>
-            <td>Pending</td>
-            <td>Contains misc national foods</td>
-            <td>light_gray_shulker_box</td>
-            <td><a href="nbt/FoodKit.txt">NBT</a></td>
-          </tr>
-          <tr>
-            <td>KELICORP ENVIRO™ Suit Package</td>
-            <td>keli5</td>
-            <td>ENVIRO™ Suit Package made for KELICORP Personnel</td>
-            <td>yellow_shulker_box</td>
-            <td><a href="nbt/KELICORPENVIROSuitPackage.txt">NBT</a></td>
-          </tr>
-          <tr>
-            <td>keli5's Music Kit</td>
-            <td>keli5</td>
-            <td>A kit with music discs relabeled as other songs, with lyrics in the lore.</td>
-            <td>gray_shulker_box</td>
-            <td><a href="nbt/keli5sMusicKit.txt">NBT</a></td>
-          </tr>
-          <tr>
-            <td>20w14inf</td>
-            <td>Pending</td>
-            <td>Has a set of mysterious books, and a sword called Stabby McStabface</td>
-            <td>lime_shulker_box</td>
-            <td><a href="nbt/20w14inf.txt">NBT</a></td>
-          </tr>
-          <tr>
-            <td>Farmers Kit</td>
-            <td>Pending</td>
-            <td>Everything a farmer needs</td>
-            <td>light_gray_shulker_box</td>
-            <td><a href="nbt/FarmersKit.txt">NBT</a></td>
-          </tr>
-          <tr>
-            <td>3gg Utility Create</td>
-            <td>Pending</td>
-            <td>Misc. Utilities</td>
-            <td>red_shulker_box</td>
-            <td><a href="nbt/3ggUtilityCrate.txt">NBT</a></td>
-          </tr>
-          <tr>
-            <td>Emerald Armor</td>
-            <td>Pending</td>
-            <td>Contains Emerald colored armor, and an HD emerald head</td>
-            <td>lime_shulker_box</td>
-            <td><a href="nbt/EmeraldArmor.txt">NBT</a></td>
-          </tr>
-          <tr>
-            <td>Wet Kit</td>
-            <td>Pending</td>
-            <td>A wet/ocean themed kit</td>
-            <td>blue_shulker_box</td>
-            <td><a href="nbt/WetKit.txt">NBT</a></td>
-          </tr>
-          <tr>
-            <td>Purge Kit</td>
-            <td>Pending</td>
-            <td>Digital Piracy themed Kit</td>
-            <td>green_shulker_box</td>
-            <td><a href="nbt/PurgeKit.txt">NBT</a></td>
-          </tr>
-          <tr>
-            <td>My Custom Items</td>
-            <td>Pending</td>
-            <td>A collection of custom items and heads</td>
-            <td>lime_shulker_box</td>
-            <td><a href="nbt/MyCustomItems.txt">NBT</a></td>
-          </tr>
-          <tr>
-            <td>MessyJessy05's box of girly stuff</td>
-            <td>MessyJessy05</td>
-            <td>A box of cute and girly items</td>
-            <td>pink_shulker_box</td>
-            <td><a href="nbt/MessyJessy05sBoxOfGirlyStuff.txt">NBT</a></td>
-          </tr>
-          <tr>
-            <td>Infinity Stones</td>
-            <td>Pending</td>
-            <td>Infinity Stones</td>
-            <td>yellow_shulker_box</td>
-            <td><a href="nbt/InfinityStones.txt">NBT</a></td>
-          </tr>
-          <tr>
-            <td>Pickaxe Box</td>
-            <td>Pending</td>
-            <td>Contains various custom pickaxes</td>
-            <td>light_gray_shulker_box</td>
-            <td><a href="nbt/PickaxeBox.txt">NBT</a></td>
-          </tr>
-          <tr>
-            <td>Neptune's Box Of Noodles</td>
-            <td>Pending</td>
-            <td>A box of assorted noodles</td>
-            <td>orange_shulker_box</td>
-            <td><a href="nbt/NeptunesBoxOfNoodles.txt">NBT</a></td>
-          </tr>
-          <tr>
-            <td>Creeper - AWW man</td>
-            <td>Pending</td>
-            <td>Creeper - AWW man</td>
-            <td>green_shulker_box</td>
-            <td><a href="nbt/CreeperAwwMan.txt">NBT</a></td>
-          </tr>
-          <tr>
-            <td>Gmod Weapons</td>
-            <td>Caketaco</td>
-            <td>Three Gmod Weapons</td>
-            <td>light_blue_shulker_box</td>
-            <td><a href="nbt/GmodWeapons.txt">NBT</a></td>
-          </tr>
-          <tr>
-            <td>MYC Minifigures I</td>
-            <td>OperatorTheDope</td>
-            <td>Contains 9 Shibe armorstands</td>
-            <td>yellow_shulker_box</td>
-            <td><a href="nbt/MYCMinifiguresI.txt">NBT</a></td>
-          </tr>
-          <tr>
-            <td>Fish Finger Holder</td>
-            <td>Pending</td>
-            <td>Exactly 1,728 roasted fish fingers</td>
-            <td>pink_shulker_box</td>
-            <td><a href="nbt/FishFingerHolder.txt">NBT</a></td>
-          </tr>
-          <tr>
-            <td>Shiram's Honeyed Kit</td>
-            <td>Pending</td>
-            <td>A Honey themed Kit</td>
-            <td>yellow_shulker_box</td>
-            <td><a href="nbt/ShiramsHoneyedKit.txt">NBT</a></td>
-          </tr>
-          <tr>
-            <td>Dat_Cats Items</td>
-            <td>Dat_Internet_Cat</td>
-            <td>Misc Items made by Dat_Internet_Cat</td>
-            <td>white_shulker_box</td>
-            <td><a href="nbt/Dat_CatsItems.txt">NBT</a></td>
-          </tr>
-          <tr>
-            <td>elementary Breeze v2</td>
-            <td>iceyou</td>
-            <td>A relatively advanced personal kit</td>
-            <td>cyan_shulker_box</td>
-            <td><a href="nbt/elementaryBreezev2.txt">NBT</a></td>
-          </tr>
-          <tr>
-            <td>[ C0D0 Kit ]</td>
-            <td>Pending</td>
-            <td>C0D0 Sword & Armor</td>
-            <td>shulker_box</td>
-            <td><a href="nbt/C0D0Kit.txt">NBT</a></td>
-          </tr>
-          <tr>
-            <td>THESENSE | RECRUIT</td>
-            <td>Pending</td>
-            <td>THESENSE | RECRUIT</td>
-            <td>shulker_box</td>
-            <td><a href="nbt/THESENSERECRUIT.txt">NBT</a></td>
-          </tr>
-          <tr>
-            <td>Blue's Kit of Madness</td>
-            <td>Pending</td>
-            <td>Blue's Kit of Madness</td>
-            <td>shulker_box</td>
-            <td><a href="nbt/BluesKitOfMadness.txt">NBT</a></td>
-          </tr>
-          <tr>
-            <td>Cosmic HER0 Pack</td>
-            <td>Pending</td>
-            <td>╬ Cosmic HER0 Pack ╬</td>
-            <td>shulker_box</td>
-            <td><a href="nbt/CosmicHER0Pack.txt">NBT</a></td>
-          </tr>
-          <tr>
-            <td>DashTheDevilDog Brand Tranquilizer Equipment</td>
-            <td>DashTheDevilDog</td>
-            <td>DashTheDevilDog's Tranquilizer Equipment</td>
-            <td>shulker_box</td>
-            <td><a href="nbt/DashTheDevilDogBrandTranqEquipment.txt">NBT</a></td>
-          </tr>
-          <tr>
-            <td>EMP Kit</td>
-            <td>Pending</td>
-            <td>EEEMP KitEE</td>
-            <td>shulker_box</td>
-            <td><a href="nbt/EMPKit.txt">NBT</a></td>
-          </tr>
-          <tr>
-            <td>NASA Kit</td>
-            <td>Pending</td>
-            <td>NASA Kit</td>
-            <td>cyan_shulker_box</td>
-            <td><a href="nbt/NASAKit.txt">NBT</a></td>
-          </tr>
-          <tr>
-            <td>DIY Kit</td>
-            <td>Pending</td>
-            <td>DIY Kit</td>
-            <td>brown_shulker_box</td>
-            <td><a href="nbt/DIYKit.txt">NBT</a></td>
-          </tr>
-          <tr>
-            <td>lol 2.0</td>
-            <td>MorganAnkan</td>
-            <td>Lots and lots of pixel art lore</td>
-            <td>pink_shulker_box</td>
-            <td><a href="nbt/lol2.0.txt">NBT</a></td>
-          </tr>
-          <tr>
-            <td>RainbowPots</td>
-            <td>Pending</td>
-            <td>Rainbow Colored Lingering Potions</td>
-            <td>blue_shulker_box</td>
-            <td><a href="nbt/RainbowPots.txt">NBT</a></td>
-          </tr>
-          <tr>
-            <td>Multicolored Potions</td>
-            <td>Pending</td>
-            <td>Multicolored Potions</td>
-            <td>white_shulker_box</td>
-            <td><a href="nbt/MulticoloredPotions.txt">NBT</a></td>
-          </tr>
-          <tr>
-            <td>Jack's Hacked Items</td>
-            <td>Pending</td>
-            <td>Jack's Hacked Items</td>
-            <td>gray_shulker_box</td>
-            <td><a href="nbt/JacksHackedItems.txt">NBT</a></td>
-          </tr>
-          <tr>
-            <td>Gem Box</td>
-            <td>Pending</td>
-            <td>Gem Box</td>
-            <td>gray_shulker_box</td>
-            <td><a href="nbt/GemBox.txt">NBT</a></td>
-          </tr>
-          <tr>
-            <td>Lore items from TF</td>
-            <td>Pending</td>
-            <td>Lore items from TF</td>
-            <td>blue_shulker_box</td>
-            <td><a href="nbt/LoreitemsfromTF.txt">NBT</a></td>
-          </tr>
-          <tr>
-            <td>COOLER MASTER pc case</td>
-            <td>Pending</td>
-            <td>COOLER MASTER pc case</td>
-            <td>gray_shulker_box</td>
-            <td><a href="nbt/COOLERMASTERpccase.txt">NBT</a></td>
-          </tr>
-          <tr>
-            <td>Penis At Spawn Kit</td>
-            <td>Folfy_Blue</td>
-            <td>Penis At Spawn Kit</td>
-            <td>pink_shulker_box</td>
-            <td><a href="nbt/PenisAtSpawnKit.txt">NBT</a></td>
-          </tr>
-          <tr>
-            <td>Oclyc's Awesome Shulker Box!</td>
-            <td>Oclyc</td>
-            <td>Oclyc's Awesome Shulker Box!</td>
-            <td>black_shulker_box</td>
-            <td><a href="nbt/OclycsAwesomeShulkerBox.txt">NBT</a></td>
-          </tr>
-          <tr>
-            <td>Light Box</td>
-            <td>Pending</td>
-            <td>A box full of Light!</td>
-            <td>yellow_shulker_box</td>
-            <td><a href="nbt/LightBox.txt">NBT</a></td>
-          </tr>
-          <tr>
-            <td>AMOGUS KIT</td>
-            <td>Pending</td>
-            <td>AMOGUS KIT</td>
-            <td>red_shulker_box</td>
-            <td><a href="nbt/AMOGUSKIT.txt">NBT</a></td>
-          </tr>
-          <tr>
-            <td>ClayCoconut Kit</td>
-            <td>renzothehottie</td>
-            <td>ClayCoconut Kit</td>
-            <td></td>
-            <td><a href="nbt/ClayCoconutKit.txt">NBT</a></td>
-          </tr>
-          <tr>
-            <td>Lyicx Kit</td>
-            <td>renzothehottie</td>
-            <td>Lyicx Kit</td>
-            <td>purple_shulker_box</td>
-            <td><a href="nbt/LyicxKit.txt">NBT</a></td>
-          </tr>
-          <tr>
-            <td>hackworks box</td>
-            <td>Pending</td>
-            <td>hackworks box</td>
-            <td>cyan_shulker_box</td>
-            <td><a href="nbt/hackworksbox.txt">NBT</a></td>
-          </tr>
-        </table>
-        <!--
+    </header>
+    <div id="main">
+      <div class="inner">
+        <header>
+          <h2>Welcome to the Shulker Archives</h2>
+          <hr>
+          <a href="html/UsingNBT.html"><button class="button" type="button">Using NBT</button></a>
+          <a href="html/Resources.html"><button class="button" type="button">Resources</button></a>
+          <hr>
+          <p>Below is a list of archived kits, with links to their raw NBT data.</p>
+          <p>If you would like to submit a kit, please head to the <a
+              href="https://github.com/KadTheHunter/ShulkerArchives/issues/new/choose">GitHub Issues</a> page and choose
+            "New Kit Submission".</p>
+          <hr>
+        </header>
+      </div>
+    </div>
+    <a href="html/Items.html"><button class="buttonWide" type="button"><i>Looking for Individual Items instead of
+          Shulker Kits? Click me!</i></button></a>
+    <div class="center">
+      <input type="text" id="search" onkeyup="searchTable()"
+        placeholder="Search for Names, Authors, Descriptions, Block IDs..." autocomplete="off" onclick="nebulaEntry();">
+      <table class="sortable" id="kits">
+        <tr>
+          <th>Kit Name</th>
+          <th>Author</th>
+          <th class="sorttable_nosort">Description</th>
+          <th>Block ID</th>
+          <th class="sorttable_nosort">NBT</th>
+        </tr>
+        <tr>
+          <td>深量 Omega Humane Kit 深量</td>
+          <td>BuildingAbyss90</td>
+          <td>N/A</td>
+          <td>red_shulker_box</td>
+          <td><a href="nbt/OmegaHumaneKit.txt">NBT</a></td>
+        </tr>
+        <tr>
+          <td>Colorless (Αχρωμος)</td>
+          <td>Feueristic</td>
+          <td>A chest with a very cool sword named Αχρωμος.</td>
+          <td>chest</td>
+          <td><a href="nbt/Αχρωμος.txt">NBT</a></td>
+        </tr>
+        <tr>
+          <td>Tuff Kit (ᴛᴜꜰꜰ ᴋɪᴛ)</td>
+          <td>UltimEVB</td>
+          <td>A kit based on the Tuff block, has a sword and armor.</td>
+          <td>light_gray_shulker_box</td>
+          <td><a href="nbt/TuffKit.txt">NBT</a></td>
+        </tr>
+        <tr>
+          <td>Weasley's Wildfire Whiz-Bangs | Deflagration Deluxe Edition</td>
+          <td>KaddicusAlmighty</td>
+          <td>A collection of the best custom fireworks</td>
+          <td>orange_shulker_box</td>
+          <td><a href="nbt/WildfireWhizbangsDeflagDeluxe.txt">NBT</a></td>
+        </tr>
+        <tr>
+          <td>Xelion Tripex Axe</td>
+          <td>quack95</td>
+          <td>A kit with an armor stand holding a cool axe</td>
+          <td>white_shulker_box</td>
+          <td><a href="nbt/XelionTripexAxe.txt">NBT</a></td>
+        </tr>
+        <tr>
+          <td>If It Bleeds (ɨƒ ɨȶ ɮʟɛɛɖs)</td>
+          <td>Katsuo__</td>
+          <td>A creepy kit containing a curved blade that thirsts for blood, and two ceremonial crystals</td>
+          <td>red_shulker_box</td>
+          <td><a href="nbt/IfItBleeds.txt">NBT</a></td>
+        </tr>
+        <tr>
+          <td>Kit From The Orange Sands</td>
+          <td>twoeighths</td>
+          <td>A full kit with an orange theme.</td>
+          <td>orange_shulker_box</td>
+          <td><a href="nbt/KitFromTheOrangeSands.txt">NBT</a></td>
+        </tr>
+        <tr>
+          <td>MPD Kit | KaddicusAlmighty Edition</td>
+          <td>KaddicusAlmighty</td>
+          <td>Contains the heads from different skins worn by KaddicusAlmighty, each with special effects</td>
+          <td>white_shulker_box</td>
+          <td><a href="nbt/MPDKitKaddicusEdition.txt">NBT</a></td>
+        </tr>
+        <tr>
+          <td>Alphabet & Number Banners</td>
+          <td>Pending</td>
+          <td>Contains two chests, with banners displaying letters and numbers in various different colors</td>
+          <td>red_shulker_box</td>
+          <td><a href="nbt/Alphabet&NumberBanners.txt">NBT</a></td>
+        </tr>
+        <tr>
+          <td>P.A.X Potion Crate</td>
+          <td>Pending</td>
+          <td>A collection of 27 potions with unique and fairly deadly effects</td>
+          <td>purple_shulker_box</td>
+          <td><a href="nbt/P.A.XPotionCrate.txt">NBT</a></td>
+        </tr>
+        <tr>
+          <td>videogamesm12 Kit</td>
+          <td>renzothehottie</td>
+          <td>A kit based off the legendary TotalFreedom Admin, Developer and Owner 'videogamesm12'</td>
+          <td>purple_shulker_box</td>
+          <td><a href="nbt/videogamesm12Kit.txt">NBT</a></td>
+        </tr>
+        <tr>
+          <td>Sudo Kit</td>
+          <td>OperatorTheDope</td>
+          <td>A PvP/Troll kit based off the <code>sudo</code> command</td>
+          <td>light_blue_shulker_box</td>
+          <td><a href="nbt/SudoKit.txt">NBT</a></td>
+        </tr>
+        <tr>
+          <td>Sudo Kit v2</td>
+          <td>OperatorTheDope</td>
+          <td>A PvP/Troll kit based off the <code>sudo</code> command</td>
+          <td>light_blue_shulker_box</td>
+          <td><a href="nbt/SudoKitv2.txt">NBT</a></td>
+        </tr>
+        <tr>
+          <td>Sudo Kit v3</td>
+          <td>OperatorTheDope</td>
+          <td>A PvP/Troll kit based off the <code>sudo</code> command</td>
+          <td>blue_shulker_box</td>
+          <td><a href="nbt/SudoKitv3.txt">NBT</a></td>
+        </tr>
+        <tr>
+          <td>Sudo Kit v4</td>
+          <td>TheRickPower978</td>
+          <td>A PvP/Troll kit based off the <code>sudo</code> command</td>
+          <td>yellow_shulker_box</td>
+          <td><a href="nbt/SudoKitv4.txt">NBT</a></td>
+        </tr>
+        <tr>
+          <td>Super Barrel</td>
+          <td>MarioKartWii</td>
+          <td>A barrel with some amazing blocks in it</td>
+          <td>barrel</td>
+          <td><a href="nbt/SuperBarrel.txt">NBT</a></td>
+        </tr>
+        <tr>
+          <td>Fake Operating System (假操作系统)</td>
+          <td>OperatorTheDope</td>
+          <td>Fake Operating System</td>
+          <td>white_shulker_box</td>
+          <td><a href="nbt/假操作系统.txt">NBT</a></td>
+        </tr>
+        <tr>
+          <td>Vex Kit v1</td>
+          <td>GioVarquez</td>
+          <td>It's like the Sudo Kits, but with the vex command?</td>
+          <td>red_shulker_box</td>
+          <td><a href="nbt/VexKitv1">NBT</a></td>
+        </tr>
+        <tr>
+          <td>RyanUwU</td>
+          <td>RyanUwU</td>
+          <td>RyanUwU Kit</td>
+          <td>yellow_shulker_box</td>
+          <td><a href="nbt/RyanUwU.txt">NBT</a></td>
+        </tr>
+        <tr>
+          <td>RyanUwU 2</td>
+          <td>RyanUwU</td>
+          <td>RyanUwU Kit 2</td>
+          <td>red_shulker_box</td>
+          <td><a href="nbt/RyanUwU2.txt">NBT</a></td>
+        </tr>
+        <tr>
+          <td>RyanUwU 3 (Bee Box 1.15)</td>
+          <td>RyanUwU</td>
+          <td>RyanUwU Kit 3 (Bee Box 1.15)</td>
+          <td>yellow_shulker_box</td>
+          <td><a href="nbt/RyanUwU3.txt">NBT</a></td>
+        </tr>
+        <tr>
+          <td>RyanUwU 4 (HD Heads)</td>
+          <td>RyanUwU</td>
+          <td>RyanUwU Kit 4 (HD Heads)</td>
+          <td>lime_shulker_box</td>
+          <td><a href="nbt/RyanUwU4.txt">NBT</a></td>
+        </tr>
+        <tr>
+          <td>RyanUwU 5 (Nether Box)</td>
+          <td>RyanUwU</td>
+          <td>RyanUwU Kit 5 (Nether Box)</td>
+          <td>red_shulker_box</td>
+          <td><a href="nbt/RyanUwU5.txt">NBT</a></td>
+        </tr>
+        <tr>
+          <td>RyanUwU 6 (HD Heads 2)</td>
+          <td>RyanUwU</td>
+          <td>RyanUwU Kit 6 (HD Heads 2)</td>
+          <td>magenta_shulker_box</td>
+          <td><a href="nbt/RyanUwU6.txt">NBT</a></td>
+        </tr>
+        <tr>
+          <td>Neon Rainbow Horse Armor</td>
+          <td>RyanUwU</td>
+          <td>Contains custom colored horse armor in bright/neon colors</td>
+          <td>brown_shulker_box</td>
+          <td><a href="nbt/NeonRainbowHorseArmor.txt">NBT</a></td>
+        </tr>
+        <tr>
+          <td>Neon Rainbow Potions</td>
+          <td>RyanUwU</td>
+          <td>Contains custom colored Potions in bright/neon colors</td>
+          <td>white_shulker_box</td>
+          <td><a href="nbt/NeonRainbowPotions.txt">NBT</a></td>
+        </tr>
+        <tr>
+          <td>Neon Rainbow Lingering Potions</td>
+          <td>RyanUwU</td>
+          <td>Contains custom colored Lingering Potions in bright/neon colors</td>
+          <td>white_shulker_box</td>
+          <td><a href="nbt/NeonRainbowLingeringPotions.txt">NBT</a></td>
+        </tr>
+        <tr>
+          <td>Neon Rainbow Maps & Arrows</td>
+          <td>RyanUwU</td>
+          <td>Contains custom colored Maps & Arrows in bright/neon colors</td>
+          <td>white_shulker_box</td>
+          <td><a href="nbt/NeonRainbowMaps&Arrows.txt">NBT</a></td>
+        </tr>
+        <tr>
+          <td>Neon Rainbow Helmets & Chestplates</td>
+          <td>RyanUwU</td>
+          <td>Contains custom colored Helmets & Chestplates in bright/neon colors</td>
+          <td>brown_shulker_box</td>
+          <td><a href="nbt/NeonRainbowHelmets&Chestplates.txt">NBT</a></td>
+        </tr>
+        <tr>
+          <td>Neon Rainbow Leggings & Boots</td>
+          <td>RyanUwU</td>
+          <td>Contains custom colored Leggings & Boots in bright/neon colors</td>
+          <td>brown_shulker_box</td>
+          <td><a href="nbt/NeonRainbowLeggings&Boots.txt">NBT</a></td>
+        </tr>
+        <tr>
+          <td>Your Dinner!</td>
+          <td>Pending</td>
+          <td>A healthy dinner, complete with tableware & cutlery</td>
+          <td>brown_shulker_box</td>
+          <td><a href="nbt/YourDinner!.txt">NBT</a></td>
+        </tr>
+        <tr>
+          <td>Ultimate Elements</td>
+          <td>Pending</td>
+          <td>Contains the Ultimate Elements</td>
+          <td>magenta_shulker_box</td>
+          <td><a href="nbt/UltimateElements.txt">NBT</a></td>
+        </tr>
+        <tr>
+          <td>Pride Flag/Shields</td>
+          <td>Pending</td>
+          <td>Contains various LGBT flags attached to shields</td>
+          <td>white_shulker_box</td>
+          <td><a href="nbt/PrideFlagShields.txt">NBT</a></td>
+        </tr>
+        <tr>
+          <td>Food Kit</td>
+          <td>Pending</td>
+          <td>Contains misc national foods</td>
+          <td>light_gray_shulker_box</td>
+          <td><a href="nbt/FoodKit.txt">NBT</a></td>
+        </tr>
+        <tr>
+          <td>KELICORP ENVIRO™ Suit Package</td>
+          <td>keli5</td>
+          <td>ENVIRO™ Suit Package made for KELICORP Personnel</td>
+          <td>yellow_shulker_box</td>
+          <td><a href="nbt/KELICORPENVIROSuitPackage.txt">NBT</a></td>
+        </tr>
+        <tr>
+          <td>keli5's Music Kit</td>
+          <td>keli5</td>
+          <td>A kit with music discs relabeled as other songs, with lyrics in the lore.</td>
+          <td>gray_shulker_box</td>
+          <td><a href="nbt/keli5sMusicKit.txt">NBT</a></td>
+        </tr>
+        <tr>
+          <td>20w14inf</td>
+          <td>Pending</td>
+          <td>Has a set of mysterious books, and a sword called Stabby McStabface</td>
+          <td>lime_shulker_box</td>
+          <td><a href="nbt/20w14inf.txt">NBT</a></td>
+        </tr>
+        <tr>
+          <td>Farmers Kit</td>
+          <td>Pending</td>
+          <td>Everything a farmer needs</td>
+          <td>light_gray_shulker_box</td>
+          <td><a href="nbt/FarmersKit.txt">NBT</a></td>
+        </tr>
+        <tr>
+          <td>3gg Utility Create</td>
+          <td>Pending</td>
+          <td>Misc. Utilities</td>
+          <td>red_shulker_box</td>
+          <td><a href="nbt/3ggUtilityCrate.txt">NBT</a></td>
+        </tr>
+        <tr>
+          <td>Emerald Armor</td>
+          <td>Pending</td>
+          <td>Contains Emerald colored armor, and an HD emerald head</td>
+          <td>lime_shulker_box</td>
+          <td><a href="nbt/EmeraldArmor.txt">NBT</a></td>
+        </tr>
+        <tr>
+          <td>Wet Kit</td>
+          <td>Pending</td>
+          <td>A wet/ocean themed kit</td>
+          <td>blue_shulker_box</td>
+          <td><a href="nbt/WetKit.txt">NBT</a></td>
+        </tr>
+        <tr>
+          <td>Purge Kit</td>
+          <td>Pending</td>
+          <td>Digital Piracy themed Kit</td>
+          <td>green_shulker_box</td>
+          <td><a href="nbt/PurgeKit.txt">NBT</a></td>
+        </tr>
+        <tr>
+          <td>My Custom Items</td>
+          <td>Pending</td>
+          <td>A collection of custom items and heads</td>
+          <td>lime_shulker_box</td>
+          <td><a href="nbt/MyCustomItems.txt">NBT</a></td>
+        </tr>
+        <tr>
+          <td>MessyJessy05's box of girly stuff</td>
+          <td>MessyJessy05</td>
+          <td>A box of cute and girly items</td>
+          <td>pink_shulker_box</td>
+          <td><a href="nbt/MessyJessy05sBoxOfGirlyStuff.txt">NBT</a></td>
+        </tr>
+        <tr>
+          <td>Infinity Stones</td>
+          <td>Pending</td>
+          <td>Infinity Stones</td>
+          <td>yellow_shulker_box</td>
+          <td><a href="nbt/InfinityStones.txt">NBT</a></td>
+        </tr>
+        <tr>
+          <td>Pickaxe Box</td>
+          <td>Pending</td>
+          <td>Contains various custom pickaxes</td>
+          <td>light_gray_shulker_box</td>
+          <td><a href="nbt/PickaxeBox.txt">NBT</a></td>
+        </tr>
+        <tr>
+          <td>Neptune's Box Of Noodles</td>
+          <td>Pending</td>
+          <td>A box of assorted noodles</td>
+          <td>orange_shulker_box</td>
+          <td><a href="nbt/NeptunesBoxOfNoodles.txt">NBT</a></td>
+        </tr>
+        <tr>
+          <td>Creeper - AWW man</td>
+          <td>Pending</td>
+          <td>Creeper - AWW man</td>
+          <td>green_shulker_box</td>
+          <td><a href="nbt/CreeperAwwMan.txt">NBT</a></td>
+        </tr>
+        <tr>
+          <td>Gmod Weapons</td>
+          <td>Caketaco</td>
+          <td>Three Gmod Weapons</td>
+          <td>light_blue_shulker_box</td>
+          <td><a href="nbt/GmodWeapons.txt">NBT</a></td>
+        </tr>
+        <tr>
+          <td>MYC Minifigures I</td>
+          <td>OperatorTheDope</td>
+          <td>Contains 9 Shibe armorstands</td>
+          <td>yellow_shulker_box</td>
+          <td><a href="nbt/MYCMinifiguresI.txt">NBT</a></td>
+        </tr>
+        <tr>
+          <td>Fish Finger Holder</td>
+          <td>Pending</td>
+          <td>Exactly 1,728 roasted fish fingers</td>
+          <td>pink_shulker_box</td>
+          <td><a href="nbt/FishFingerHolder.txt">NBT</a></td>
+        </tr>
+        <tr>
+          <td>Shiram's Honeyed Kit</td>
+          <td>Pending</td>
+          <td>A Honey themed Kit</td>
+          <td>yellow_shulker_box</td>
+          <td><a href="nbt/ShiramsHoneyedKit.txt">NBT</a></td>
+        </tr>
+        <tr>
+          <td>Dat_Cats Items</td>
+          <td>Dat_Internet_Cat</td>
+          <td>Misc Items made by Dat_Internet_Cat</td>
+          <td>white_shulker_box</td>
+          <td><a href="nbt/Dat_CatsItems.txt">NBT</a></td>
+        </tr>
+        <tr>
+          <td>elementary Breeze v2</td>
+          <td>iceyou</td>
+          <td>A relatively advanced personal kit</td>
+          <td>cyan_shulker_box</td>
+          <td><a href="nbt/elementaryBreezev2.txt">NBT</a></td>
+        </tr>
+        <tr>
+          <td>[ C0D0 Kit ]</td>
+          <td>Pending</td>
+          <td>C0D0 Sword & Armor</td>
+          <td>shulker_box</td>
+          <td><a href="nbt/C0D0Kit.txt">NBT</a></td>
+        </tr>
+        <tr>
+          <td>THESENSE | RECRUIT</td>
+          <td>Pending</td>
+          <td>THESENSE | RECRUIT</td>
+          <td>shulker_box</td>
+          <td><a href="nbt/THESENSERECRUIT.txt">NBT</a></td>
+        </tr>
+        <tr>
+          <td>Blue's Kit of Madness</td>
+          <td>Pending</td>
+          <td>Blue's Kit of Madness</td>
+          <td>shulker_box</td>
+          <td><a href="nbt/BluesKitOfMadness.txt">NBT</a></td>
+        </tr>
+        <tr>
+          <td>Cosmic HER0 Pack</td>
+          <td>Pending</td>
+          <td>╬ Cosmic HER0 Pack ╬</td>
+          <td>shulker_box</td>
+          <td><a href="nbt/CosmicHER0Pack.txt">NBT</a></td>
+        </tr>
+        <tr>
+          <td>DashTheDevilDog Brand Tranquilizer Equipment</td>
+          <td>DashTheDevilDog</td>
+          <td>DashTheDevilDog's Tranquilizer Equipment</td>
+          <td>shulker_box</td>
+          <td><a href="nbt/DashTheDevilDogBrandTranqEquipment.txt">NBT</a></td>
+        </tr>
+        <tr>
+          <td>EMP Kit</td>
+          <td>Pending</td>
+          <td>EEEMP KitEE</td>
+          <td>shulker_box</td>
+          <td><a href="nbt/EMPKit.txt">NBT</a></td>
+        </tr>
+        <tr>
+          <td>NASA Kit</td>
+          <td>Pending</td>
+          <td>NASA Kit</td>
+          <td>cyan_shulker_box</td>
+          <td><a href="nbt/NASAKit.txt">NBT</a></td>
+        </tr>
+        <tr>
+          <td>DIY Kit</td>
+          <td>Pending</td>
+          <td>DIY Kit</td>
+          <td>brown_shulker_box</td>
+          <td><a href="nbt/DIYKit.txt">NBT</a></td>
+        </tr>
+        <tr>
+          <td>lol 2.0</td>
+          <td>MorganAnkan</td>
+          <td>Lots and lots of pixel art lore</td>
+          <td>pink_shulker_box</td>
+          <td><a href="nbt/lol2.0.txt">NBT</a></td>
+        </tr>
+        <tr>
+          <td>RainbowPots</td>
+          <td>Pending</td>
+          <td>Rainbow Colored Lingering Potions</td>
+          <td>blue_shulker_box</td>
+          <td><a href="nbt/RainbowPots.txt">NBT</a></td>
+        </tr>
+        <tr>
+          <td>Multicolored Potions</td>
+          <td>Pending</td>
+          <td>Multicolored Potions</td>
+          <td>white_shulker_box</td>
+          <td><a href="nbt/MulticoloredPotions.txt">NBT</a></td>
+        </tr>
+        <tr>
+          <td>Jack's Hacked Items</td>
+          <td>Pending</td>
+          <td>Jack's Hacked Items</td>
+          <td>gray_shulker_box</td>
+          <td><a href="nbt/JacksHackedItems.txt">NBT</a></td>
+        </tr>
+        <tr>
+          <td>Gem Box</td>
+          <td>Pending</td>
+          <td>Gem Box</td>
+          <td>gray_shulker_box</td>
+          <td><a href="nbt/GemBox.txt">NBT</a></td>
+        </tr>
+        <tr>
+          <td>Lore items from TF</td>
+          <td>Pending</td>
+          <td>Lore items from TF</td>
+          <td>blue_shulker_box</td>
+          <td><a href="nbt/LoreitemsfromTF.txt">NBT</a></td>
+        </tr>
+        <tr>
+          <td>COOLER MASTER pc case</td>
+          <td>Pending</td>
+          <td>COOLER MASTER pc case</td>
+          <td>gray_shulker_box</td>
+          <td><a href="nbt/COOLERMASTERpccase.txt">NBT</a></td>
+        </tr>
+        <tr>
+          <td>Penis At Spawn Kit</td>
+          <td>Folfy_Blue</td>
+          <td>Penis At Spawn Kit</td>
+          <td>pink_shulker_box</td>
+          <td><a href="nbt/PenisAtSpawnKit.txt">NBT</a></td>
+        </tr>
+        <tr>
+          <td>Oclyc's Awesome Shulker Box!</td>
+          <td>Oclyc</td>
+          <td>Oclyc's Awesome Shulker Box!</td>
+          <td>black_shulker_box</td>
+          <td><a href="nbt/OclycsAwesomeShulkerBox.txt">NBT</a></td>
+        </tr>
+        <tr>
+          <td>Light Box</td>
+          <td>Pending</td>
+          <td>A box full of Light!</td>
+          <td>yellow_shulker_box</td>
+          <td><a href="nbt/LightBox.txt">NBT</a></td>
+        </tr>
+        <tr>
+          <td>AMOGUS KIT</td>
+          <td>Pending</td>
+          <td>AMOGUS KIT</td>
+          <td>red_shulker_box</td>
+          <td><a href="nbt/AMOGUSKIT.txt">NBT</a></td>
+        </tr>
+        <tr>
+          <td>ClayCoconut Kit</td>
+          <td>renzothehottie</td>
+          <td>ClayCoconut Kit</td>
+          <td></td>
+          <td><a href="nbt/ClayCoconutKit.txt">NBT</a></td>
+        </tr>
+        <tr>
+          <td>Lyicx Kit</td>
+          <td>renzothehottie</td>
+          <td>Lyicx Kit</td>
+          <td>purple_shulker_box</td>
+          <td><a href="nbt/LyicxKit.txt">NBT</a></td>
+        </tr>
+        <tr>
+          <td>hackworks box</td>
+          <td>Pending</td>
+          <td>hackworks box</td>
+          <td>cyan_shulker_box</td>
+          <td><a href="nbt/hackworksbox.txt">NBT</a></td>
+        </tr>
+      </table>
+      <!--
           NEW KIT CODE TEMPLATE
 
           COPY/PASTE THE BELOW CODE TO ADD A NEW KIT
@@ -591,8 +597,8 @@
 
           BE SURE TO FOLLOW THE RULES IN THE COMMENT BELOW!
         -->
-        <br>
-        <!--
+      <br>
+      <!--
           OKIEDOKIE ARTICHOKIE THEN
 
           Time for a big-ass comment on adding new kits.
@@ -617,13 +623,14 @@
 
             - Kaddicus
         -->
-      </div>
     </div>
-    <div class="footer">
-      <p>Created by KaddicusAlmighty</p>
-    </div>
-    <script src="assets/js/sorttable.js"></script>
-    <script src="assets/js/searchtable.js"></script>
-    <script type="text/javascript" src="assets/js/nebula.js"></script>
-  </body>
+  </div>
+  <div class="footer">
+    <p>Created by KaddicusAlmighty</p>
+  </div>
+  <script src="assets/js/sorttable.js"></script>
+  <script src="assets/js/searchtable.js"></script>
+  <script type="text/javascript" src="assets/js/nebula.js"></script>
+</body>
+
 </html>

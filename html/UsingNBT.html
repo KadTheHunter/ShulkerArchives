@@ -1,89 +1,106 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <title>The Shulker Archives</title>
-        <meta charset="utf-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-        <link rel="stylesheet" href="../assets/main.css" />
-     </head>
-     <body class="is-preload">
-        <div id="wrapper">
-           <header id="header">
-              <div class="inner">
-                <span class="ShulkerLogoText"><a href="../index.html">Shulker Archives</a></span>
-                <a class="ShulkerLogo">
-                 <img src="../assets/Shulker_shooting.gif" height="100px" width=“100px”>
-                </a>
-              </div>
-           </header>
-           <div id="main">
-              <div class="inner">
-                 <header>
-                    <h2>Welcome to the Shulker Archives</h2>
-                    <hr>
-                    <a href="../html/UsingNBT.html"><button class="button" type="button">Using NBT</button></a>
-                    <a href="../html/Resources.html"><button class="button" type="button">Resources</button></a>
-                    <hr>
-                    <h1>Using NBT Data:<br>A Guide</h1>
-                    <div class="article">
-                     <h2>Beginner</h2>
-                     <p>So, you came here, found a cool Kit or Item, and want to get it in Minecraft, but don't know how.
-                        <br>
-                        <br>
-                        That's where this guide comes in!
-                     </p>
-                     <p>In the following section, we'll look at the basics of using NBT Data to get cool Kits and Items in Minecraft, including the tools and commands needed.</p>
-                     <h3>Setup</h3>
-                     <p>The easiest way to add NBT in-game, is via a command. However, the command can be complicated or even impossible if you play Vanilla and/or have a really long string of NBT; For that reason, it's best to use a Modded setup for this.
-                        <br>
-                        <br>
-                        Below is the recommended group of Mods you will need to start off
-                     </p>
-                     <ul>
-                        <li>Fabric</li>
-                        <li>Fabric API</li>
-                        <li>Meteor Client</li>
-                     </ul>
-                     <p>There are fancier editors such as IBE, but they are far more complicated to use.</p>
-                     <p>Once you have loaded into your world (or a server where you have sufficient privileges), take the item or container indicated in the archive, such as a red_shulker_box or diamond_sword, and hold it.
-                        <br>
-                        <br>
-                        Next, open chat, and type <code>.nbt set </code> followed by the NBT copied from the archive.
-                        <br>
-                        <br>
-                        If the text is all blue, then there are no issues, and you can go ahead an enter it. Enjoy your newly minted Kit or Item!
-                        <br>
-                        <br>
-                        If however the text is all red, then there is an issue with the command or NBT, and you need to begin again.
-                        <br>
-                        <br>
-                        Should the text be all red even if you followed all steps correctly, please open an Issue using the Changes & Issues template, stating which Kit or Item you were attempting to make, and we'll see if there's an issue with the archived NBT.
-                     </p>
-                     <hr>
-                     <h2>Advanced</h2>
-                     <p>This section is for more advanced users. If you haven't followed the Beginner Guide yet, please do not attempt this Advanced Guide. If you <i>have</i> followed the Beginner Guide, but don't intend on making Kits or Items, please do not attempt this Advanced Guide.
-                        <br>
-                        Basically, if you have zero intention of creating your own unique Kits and Items, stay away from this Advanced Guide. There is nothing here to benefit you
-                     </p>
-                     <h3>Setup</h3>
-                     <p>TBA</p>
-                     <hr>
-                     <h2>Known Bugs/Issues</h2>
-                     <p>Below are known bugs/issues related to NBT Editing, and any known solutions for them.</p>
+
+<head>
+   <title>The Shulker Archives</title>
+   <meta charset="utf-8" />
+   <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+   <link rel="stylesheet" href="../assets/main.css" />
+</head>
+
+<body class="is-preload">
+   <div id="wrapper">
+      <header id="header">
+         <div class="inner">
+            <span class="ShulkerLogoText"><a href="../index.html">Shulker Archives</a></span>
+            <a class="ShulkerLogo">
+               <img src="../assets/Shulker_shooting.gif" height="100px" width=“100px”>
+            </a>
+         </div>
+      </header>
+      <div id="main">
+         <div class="inner">
+            <header>
+               <h2>Welcome to the Shulker Archives</h2>
+               <hr>
+               <a href="../html/UsingNBT.html"><button class="button" type="button">Using NBT</button></a>
+               <a href="../html/Resources.html"><button class="button" type="button">Resources</button></a>
+               <hr>
+               <h1>Using NBT Data:<br>A Guide</h1>
+               <div class="article">
+                  <h2>Beginner</h2>
+                  <p>So, you came here, found a cool Kit or Item, and want to get it in Minecraft, but don't know how.
                      <br>
-                     <h3>oshi.architecture.properties</h3>
-                     <p>This error (seen in log files following a crash related to NBT) is basically Fabric shitting the bed over <i>something</i> in the NBT, despite there being no real issue.
-                        <br>
-                        <br>
-                        The major downside to this bug is that it can prevent loading certain Kits and Items in a Minecraft instance that is using Fabric.
-                        <br>
-                        <br>
-                        A common workaround is to load the Kits/Items in a Forge instance, then copy them over to fabric via a world save file.
-                     </p>
-                    <!--Explain meteor commands and how to create kits (hold shulker, use .nbt, etc)-->
-                    <!--Also add NBT Bugs (ref KN site with oshi.arch section), ask Parsa__ for details abt Passenger/Egg bugs-->
-                    <!--ITEMS: WHEN USING IBE SNBT EDITOR, APPEND AN EXTRA } (CURLY BRACKET) TO THE NBT-->
-                    <!--KITS: WHEN USING IBE SNBT EDITOR, APPEND ,tag: TO THE NBT, THEN PASTE BEFORE THE FINAL } (CURLY BRACKET)-->
-                 </header>
-              </div>
-           </div>
+                     <br>
+                     That's where this guide comes in!
+                  </p>
+                  <p>In the following section, we'll look at the basics of using NBT Data to get cool Kits and Items in
+                     Minecraft, including the tools and commands needed.</p>
+                  <h3>Setup</h3>
+                  <p>The easiest way to add NBT in-game, is via a command. However, the command can be complicated or
+                     even impossible if you play Vanilla and/or have a really long string of NBT; For that reason, it's
+                     best to use a Modded setup for this.
+                     <br>
+                     <br>
+                     Below is the recommended group of Mods you will need to start off
+                  </p>
+                  <ul>
+                     <li>Fabric</li>
+                     <li>Fabric API</li>
+                     <li>Meteor Client</li>
+                  </ul>
+                  <p>There are fancier editors such as IBE, but they are far more complicated to use.</p>
+                  <p>Once you have loaded into your world (or a server where you have sufficient privileges), take the
+                     item or container indicated in the archive, such as a red_shulker_box or diamond_sword, and hold
+                     it.
+                     <br>
+                     <br>
+                     Next, open chat, and type <code>.nbt set </code> followed by the NBT copied from the archive.
+                     <br>
+                     <br>
+                     If the text is all blue, then there are no issues, and you can go ahead an enter it. Enjoy your
+                     newly minted Kit or Item!
+                     <br>
+                     <br>
+                     If however the text is all red, then there is an issue with the command or NBT, and you need to
+                     begin again.
+                     <br>
+                     <br>
+                     Should the text be all red even if you followed all steps correctly, please open an Issue using the
+                     Changes & Issues template, stating which Kit or Item you were attempting to make, and we'll see if
+                     there's an issue with the archived NBT.
+                  </p>
+                  <hr>
+                  <h2>Advanced</h2>
+                  <p>This section is for more advanced users. If you haven't followed the Beginner Guide yet, please do
+                     not attempt this Advanced Guide. If you <i>have</i> followed the Beginner Guide, but don't intend
+                     on making Kits or Items, please do not attempt this Advanced Guide.
+                     <br>
+                     Basically, if you have zero intention of creating your own unique Kits and Items, stay away from
+                     this Advanced Guide. There is nothing here to benefit you
+                  </p>
+                  <h3>Setup</h3>
+                  <p>TBA</p>
+                  <hr>
+                  <h2>Known Bugs/Issues</h2>
+                  <p>Below are known bugs/issues related to NBT Editing, and any known solutions for them.</p>
+                  <br>
+                  <h3>oshi.architecture.properties</h3>
+                  <p>This error (seen in log files following a crash related to NBT) is basically Fabric shitting the
+                     bed over <i>something</i> in the NBT, despite there being no real issue.
+                     <br>
+                     <br>
+                     The major downside to this bug is that it can prevent loading certain Kits and Items in a Minecraft
+                     instance that is using Fabric.
+                     <br>
+                     <br>
+                     A common workaround is to load the Kits/Items in a Forge instance, then copy them over to fabric
+                     via a world save file.
+                  </p>
+                  <!--Explain meteor commands and how to create kits (hold shulker, use .nbt, etc)-->
+                  <!--Also add NBT Bugs (ref KN site with oshi.arch section), ask Parsa__ for details abt Passenger/Egg bugs-->
+                  <!--ITEMS: WHEN USING IBE SNBT EDITOR, APPEND AN EXTRA } (CURLY BRACKET) TO THE NBT-->
+                  <!--KITS: WHEN USING IBE SNBT EDITOR, APPEND ,tag: TO THE NBT, THEN PASTE BEFORE THE FINAL } (CURLY BRACKET)-->
+            </header>
+         </div>
+      </div>
