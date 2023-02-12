@@ -92,7 +92,7 @@ function validateNBT() {
     }
     updateOutput();
 }
-document.getElementById("go").onclick = function () {
+document.getElementById("validate").onclick = function () {
     location.hash = "#" + input.value.replace(/[%\r\n\0]/g, function (m) {
         var esc = m.charCodeAt(0).toString(16);
         if (esc.length < 2) esc = "0" + esc;
