@@ -251,12 +251,9 @@ textarea {
     outline: none;
 }
 
-
 textarea:focus {
     background: rgba(70, 70, 70, 0.07);
 }
-
-textarea[readonly] {}
 
 #validate {
     margin: 5px 0;
