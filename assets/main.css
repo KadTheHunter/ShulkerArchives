@@ -230,6 +230,22 @@ td:hover {
 }
 
 
+/* NBT Settings */
+
+pre code {
+    display: block;
+    font-family: Consolas,"courier new";
+    color: rgb(0, 255, 13);
+    background-color: rgb(23, 23, 23);
+    padding: 2px;
+    font-size: 100%;
+}
+
+pre {
+    white-space: pre-wrap;
+}
+
+
 /* Denoted List Settings */
 
 dt,
