@@ -232,17 +232,29 @@ td:hover {
 
 /* NBT Settings */
 
-pre code {
+pre {
     display: block;
+    position: relative;
     font-family: Consolas,"courier new";
-    color: rgb(0, 255, 13);
+    color: rgb(0, 255, 0);
     background-color: rgb(23, 23, 23);
-    padding: 2px;
-    font-size: 100%;
+    padding: 1.75rem 0 1.75rem 1rem;
+    font-size: 66%;
+    white-space: pre-wrap;
 }
 
-pre {
-    white-space: pre-wrap;
+pre button {
+    position: absolute;
+    background-color: rgb(23, 23, 23);
+    border: 0px groove #ffffff;
+    top: 5px;
+    right: 5px;
+}
+
+pre button:hover {
+    border: 2px solid;
+    border-color: rgb(0, 255, 0);
+    border-radius: 5px;
 }
 
 
