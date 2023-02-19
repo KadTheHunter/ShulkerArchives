@@ -246,7 +246,8 @@ pre {
 pre button {
     position: absolute;
     background-color: rgb(23, 23, 23);
-    border: 0px groove #ffffff;
+    border: 0px solid #ffffff;
+    color: rgb(0, 255, 0);
     top: 5px;
     right: 5px;
 }
