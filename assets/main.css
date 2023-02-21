@@ -235,7 +235,7 @@ td:hover {
 pre {
     display: block;
     position: relative;
-    font-family: Consolas,"courier new";
+    font-family: Consolas, "courier new";
     color: rgb(0, 255, 0);
     background-color: rgb(23, 23, 23);
     padding: 1.75rem 0 1.75rem 1rem;
@@ -275,7 +275,7 @@ textarea {
     display: block;
     background: rgba(0, 0, 0, 0.07);
     color: #00855d;
-    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     transition: background-color 0.2s ease 0s;
     outline: none;
 }
