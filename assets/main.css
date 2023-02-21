@@ -258,6 +258,17 @@ pre button:hover {
     border-radius: 5px;
 }
 
+a[download]:link {
+    color: rgb(0, 140, 255);
+    text-decoration: underline;
+}
+
+a[download]:hover,
+a[download]:focus {
+    color:rgb(255, 121, 255);
+    text-decoration: none;
+}
+
 
 /* Denoted List Settings */
 
