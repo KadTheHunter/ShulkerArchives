@@ -1,76 +1,72 @@
 <!DOCTYPE html>
 <html lang="en">
-<meta name="description" content="A collection of NBT data for Items and Shulker Kits.">
+<meta name="description" content="A collection of NBT data for Items and Shulker Kits." />
 
 <head>
-  <title>The Shulker Archives</title>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-  <link rel="stylesheet" href="../assets/main.min.css" />
+    <title>The Shulker Archives</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+    <link rel="stylesheet" href="../assets/main.min.css" />
 </head>
 
-<body class="is-preload">
-  <div id="wrapper">
-    <header id="header">
-      <div class="inner">
-        <span class="ShulkerLogoText"><a href="../index.html">Shulker Archives</a></span>
-        <a class="ShulkerLogo">
-          <img alt="" src="../assets/Shulker_shooting.gif" height="100px" width="100px">
-        </a>
-      </div>
-    </header>
-    <div id="main">
-      <div class="inner">
-        <header>
-          <h2>Welcome to the Shulker Archives</h2>
-          <hr>
-          <a href="../html/UsingNBT.html"><button class="button" type="button">Using NBT</button></a>
-          <a href="../html/Resources.html"><button class="button" type="button">Resources</button></a>
-          <a href="../html/snbtlinter.html"><button class="button" type="button">SNBT Linter</button></a>
-          <hr>
-          <p>Below is a list of individual items, with links to their raw NBT data.</p>
-          <p>If you would like to submit an item, please head to the <a
-              href="https://github.com/KadTheHunter/ShulkerArchives/issues/new/choose">GitHub Issues</a> page and choose
-            "New Item Submission"</p>
-          <hr>
-        </header>
-      </div>
-      <a href="../index.html"><button class="buttonWide" type="button"><i>Looking for Shulker Kits instead of Individual
-            Items? Click me!</i></button></a>
-      <div class="center">
-        <input type="text" id="search" onkeyup="searchTable()"
-          placeholder="Search for Names, Authors, Descriptions, Item IDs...">
-        <table class="sortable" id="items">
-          <tr>
-            <th>Item Name</th>
-            <th>Author</th>
-            <th class="sorttable_nosort">Description</th>
-            <th>Item ID</th>
-            <th class="sorttable_nosort">NBT</th>
-          </tr>
-          <tr>
-            <td>The Paranoid</td>
-            <td>Odsseys</td>
-            <td>An arrow with some effects</td>
-            <td>tipped_arrow</td>
-            <td><a href="../nbt/items/TheParanoid.txt">NBT</a></td>
-          </tr>
-          <tr>
-            <td>Xelion Monix Scythe</td>
-            <td>quack95</td>
-            <td>An armor stand with a scythe</td>
-            <td>armor_stand</td>
-            <td><a href="../nbt/items/XelionMonixScythe.txt">NBT</a></td>
-          </tr>
-          <tr>
-            <td>Bundle O' Fun</td>
-            <td>Mob0</td>
-            <td>A bundle full of fun and joy (just don't ever open it)</td>
-            <td>bundle</td>
-            <td><a href="../nbt/items/BundleOFun.txt">NBT</a></td>
-          </tr>
-        </table>
-        <!--
+<header>
+    <span class="ShulkerLogoText"><a href="../index.html">Shulker Archives</a></span>
+    <a class="ShulkerLogo">
+        <img alt="" src="../assets/Shulker_shooting.gif" height="100px" width="100px">
+    </a>
+    <h2>Welcome to the Shulker Archives</h2>
+    <hr>
+    <a href="../html/UsingNBT.html"><button class="button" type="button">Using NBT</button></a>
+    <a href="../html/Resources.html"><button class="button" type="button">Resources</button></a>
+    <a href="../html/snbtlinter.html"><button class="button" type="button">SNBT Linter</button></a>
+    <hr>
+    <p>Below is a list of individual items, with links to their raw NBT data.</p>
+    <p>If you would like to submit an item, please head to the <a
+            href="https://github.com/KadTheHunter/ShulkerArchives/issues/new/choose">GitHub Issues</a> page and
+        choose
+        "New Item Submission"</p>
+    <hr>
+</header>
+
+<body class="Items">
+    <main class="Items">
+        <a href="../index.html"><button class="buttonWide" type="button"><i>Looking for Shulker Kits instead of
+                    Individual
+                    Items? Click me!</i></button></a>
+        <div class="center">
+            <input type="text" id="search" onkeyup="searchTable()"
+                placeholder="Search for Names, Authors, Descriptions, Item IDs...">
+            <table class="sortable" id="items">
+                <tr>
+                    <th>Item Name</th>
+                    <th>Author</th>
+                    <th class="sorttable_nosort">Description</th>
+                    <th>Item ID</th>
+                    <th class="sorttable_nosort">NBT</th>
+                </tr>
+                <tr>
+                    <td>The Paranoid</td>
+                    <td>Odsseys</td>
+                    <td>An arrow with some effects</td>
+                    <td>tipped_arrow</td>
+                    <td><a href="../nbt/items/TheParanoid.txt">NBT</a></td>
+                </tr>
+                <tr>
+                    <td>Xelion Monix Scythe</td>
+                    <td>quack95</td>
+                    <td>An armor stand with a scythe</td>
+                    <td>armor_stand</td>
+                    <td><a href="../nbt/items/XelionMonixScythe.txt">NBT</a></td>
+                </tr>
+                <tr>
+                    <td>Bundle O' Fun</td>
+                    <td>Mob0</td>
+                    <td>A bundle full of fun and joy (just don't ever open it)</td>
+                    <td>bundle</td>
+                    <td><a href="../nbt/items/BundleOFun.txt">NBT</a></td>
+                </tr>
+            </table>
+            <!--
           NEW ITEM CODE TEMPLATE
 
           COPY/PASTE THE BELOW CODE TO ADD A NEW ITEM
@@ -87,8 +83,8 @@
 
           BE SURE TO FOLLOW THE RULES IN THE COMMENT BELOW!
         -->
-        <br>
-        <!--
+            <br>
+            <!--
           OKIEDOKIE ARTICHOKIE THEN
 
           Time for a big-ass comment on adding new items.
@@ -113,10 +109,10 @@
 
             - Kaddicus
         -->
-      </div>
-    </div>
+        </div>
+    </main>
     <div class="footer">
-      <p>Created by KaddicusAlmighty</p>
+        <p>Created by KaddicusAlmighty</p>
     </div>
     <script src="../assets/js/sorttable.min.js"></script>
     <!--
@@ -125,27 +121,27 @@
       Breaks the search function, despite the same thing working on main page...
     -->
     <script>
-      function searchTable() {
-        var input, filter, found, table, tr, td, i, j;
-        input = document.getElementById("search");
-        filter = input.value.toUpperCase();
-        table = document.getElementById("items");
-        tr = table.getElementsByTagName("tr");
-        for (i = 0; i < tr.length; i++) {
-          td = tr[i].getElementsByTagName("td");
-          for (j = 0; j < td.length; j++) {
-            if (td[j].innerHTML.toUpperCase().indexOf(filter) > -1) {
-              found = true;
+        function searchTable() {
+            var input, filter, found, table, tr, td, i, j;
+            input = document.getElementById("search");
+            filter = input.value.toUpperCase();
+            table = document.getElementById("items");
+            tr = table.getElementsByTagName("tr");
+            for (i = 0; i < tr.length; i++) {
+                td = tr[i].getElementsByTagName("td");
+                for (j = 0; j < td.length; j++) {
+                    if (td[j].innerHTML.toUpperCase().indexOf(filter) > -1) {
+                        found = true;
+                    }
+                }
+                if (found) {
+                    tr[i].style.display = "";
+                    found = false;
+                } else {
+                    tr[i].style.display = "none";
+                }
             }
-          }
-          if (found) {
-            tr[i].style.display = "";
-            found = false;
-          } else {
-            tr[i].style.display = "none";
-          }
         }
-      }
     </script>
 </body>
 
