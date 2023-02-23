@@ -1,22 +1,19 @@
 /* General Settings */
 
+header {
+    color: rgb(200, 200, 200);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
 body {
     align-items: center;
     text-align: center;
-    /* background-image: url(background.png); */
     background-color: rgb(43, 43, 43);
     background-size: 500%;
-    color: white;
-    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(200, 200, 200);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 22px;
     word-wrap: break-word;
     padding: 6%;
-}
-
-.article {
-    align-items: left;
-    text-align: left;
-    font-size: 22px;
 }
 
 .content {
@@ -97,7 +94,7 @@ hr {
     border: 0px solid #ffffff;
     border-radius: 200px;
     box-sizing: border-box;
-    color: #ffffff;
+    color: rgb(255, 255, 255);
     cursor: pointer;
     font-family: Inter, sans-serif;
     font-size: 18px;
@@ -214,15 +211,16 @@ th {
 th {
     background-color: rgb(86, 86, 86);
     color: rgb(0, 255, 0);
+    height: 70px;
+}
+
+td {
+    color:rgb(200, 200, 200);
 }
 
 table {
     border-collapse: collapse;
     width: 100%;
-}
-
-th {
-    height: 70px;
 }
 
 td:hover {
@@ -277,6 +275,97 @@ dd {
     border: 1px solid rgb(255, 255, 255);
     padding: 15px;
     text-align: left;
+}
+
+
+/* Using NBT */
+
+html {
+	scroll-behavior: smooth;
+}
+
+nav.UsingNBT {
+	padding-right: 0;
+	border-right: 1px solid #efefef;
+}
+
+nav.UsingNBT a {
+	text-decoration: none;
+    display: block;
+	padding: .125rem 0;
+	color: #ccc;
+	transition: all 50ms ease-in-out;
+}
+
+nav.UsingNBT a:hover,
+nav.UsingNBT a:focus {
+	color: rgb(73, 193, 248);
+}
+
+nav.UsingNBT li.active > a {
+	color: rgb(0, 255, 0);
+	font-weight: 500;
+}
+
+nav.UsingNBT ol {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+    text-align: left;
+}
+
+nav.UsingNBT ul {
+    list-style: symbols(cyclic "∖");
+}
+
+nav.UsingNBT li {
+	margin-left: 1rem;
+}
+
+main.UsingNBT > nav {
+	position: sticky;
+	top: 2rem;
+	align-self: start;
+}
+
+main.UsingNBT {
+	display: grid;
+	grid-template-columns: 15em 1fr;
+	max-width: 100em;
+	width: 90%;
+}
+
+body.UsingNBT {
+    align-items: center;
+    text-align: center;
+    background-color: rgb(43, 43, 43);
+    background-size: 500%;
+    color: rgb(200, 200, 200);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 22px;
+    word-wrap: break-word;
+    padding: 3%;
+}
+
+body.UsingNBT > h1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+}
+
+section.UsingNBT > h2,
+section.UsingNBT > h3 {
+    color: aqua;
+}
+
+section.UsingNBT {
+    align-items: left;
+    text-align: left;
+    font-size: 22px;
+    margin: 60px;
+}
+
+section.UsingNBT li {
+    margin-left: 2rem;
 }
 
 
