@@ -6,7 +6,7 @@
     <title>The Shulker Archives</title>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-    <link rel="stylesheet" href="../assets/main.css" />
+    <link rel="stylesheet" href="../assets/main.min.css" />
 </head>
 
 <header>
@@ -32,13 +32,27 @@
                 <li><a href="#UsingNBTFiles">Using NBT Files</a></li>
                 <li><a href="#UsingSNBT">Using SNBT</a></li>
                 <ul>
-                    <li class=""><a href="#UsingSNBT--NBTEditor">NBT Editor</a></li>
-                    <li class=""><a href="#UsingSNBT--IBEEditor">IBE Editor</a></li>
-                    <li class=""><a href="#UsingSNBT--MeteorClient">Meteor Client</a></li>
+                    <li class=""><a href="#UsingSNBT--NBTEditor">Importing SNBT via NBT Editor</a></li>
+                    <li class=""><a href="#UsingSNBT--IBEEditor">Importing SNBT via IBE Editor</a></li>
+                    <li class=""><a href="#UsingSNBT--MeteorClient">Importing SNBT via Meteor Client</a></li>
                 </ul>
-                <li><a href="#CreatingsKitsItems">Creating Kits & Items</a></li>
+                <li><a href="#CreatingKitsItems">Creating Kits & Items</a></li>
+                <ul>
+                    <li class=""><a href="#CreatingKitsItems--IBEEditor">IBE Editor</a></li>
+                    <li class=""><a href="#CreatingKitsItems--FZMM">FZMM</a></li>
+                    <li class=""><a href="#CreatingKitsItems--YourImagination">Your Imagination</a></li>
+                </ul>
                 <li><a href="#StoringKitsItems">Storing Kits & Items</a></li>
                 <li><a href="#ExportingKitsItems">Exporting Kits & Items</a></li>
+                <ul>
+                    <li><a href="#ExportingKitsItems--NBTFiles">Exporting as .nbt files</a></li>
+                    <li><a href="#ExportingKitsItems--SNBT">Exporting as SNBT</a></li>
+                    <ul>
+                        <li><a href="#ExportingKitsItems--SNBT--NBTEditor">Exporting SNBT via NBT Editor</a></li>
+                        <li><a href="#ExportingKitsItems--SNBT--IBEEditor">Exporting SNBT via IBE Editor</a></li>
+                        <li><a href="#ExportingKitsItems--SNBT--MeteorClient">Exporting SNBT via Meteor Client</a></li>
+                    </ul>
+                </ul>
                 <li><a href="#MiscNBTInformation">Misc. NBT Information</a></li>
                 <li><a href="#Index">Index</a></li>
             </ol>
@@ -56,12 +70,12 @@
             <section id="Prerequisites" class="UsingNBT">
                 <h2>Prerequisites</h2>
                 <p>To get started with anything NBT related, you'll need a few basic mods:</p>
-                <li>NBT Editor ≥1.10.0 by mega12345mega</li>
-                <li>Pick Block Pro ≥1.6.16 by Sjouwer</li>
-                <li>Adaptive Tooltips ≥1.1.1 by isXander</li>
-                <li>
-                    <h3>TODO: Make these links to the Mods</h3>
+                <li><a href="https://modrinth.com/mod/nbt-editor/version/1.10.0">NBT Editor ≥1.10.0</a> by mega12345mega
                 </li>
+                <li><a href="https://modrinth.com/mod/pick-block-pro/version/1.6.16">Pick Block Pro ≥1.6.16</a> by
+                    Sjouwer</li>
+                <li><a href="https://modrinth.com/mod/adaptive-tooltips/version/1.1.1">Adaptive Tooltips ≥1.1.1</a> by
+                    isXander</li>
                 <p>These three mods are absolutely essential for working with NBT, and all users of the Archives should
                     have them.</p>
                 <p>More advanced and niche Mods (and external applications) will be listed below in their relevant
@@ -96,7 +110,7 @@
                 <h3>NBT Editor</h3>
                 <p>This method doesn't involve any additional mods besides those in Prerequisites, and is in the middle
                     in terms of difficulty and ease-of-use.</p>
-                <p>To use the SNBT, manually copy the SNBT but *exclude* the ,tag: prefix when selecting it.</p>
+                <p>To use the SNBT, manually copy the SNBT but <i>exclude</i> the <code>,tag:</code> prefix when selecting it.</p>
                 <p>Once copied, open your inventory and hover over the item you wish to add the SNBT to, then click the
                     spacebar.</p>
                 <p>In the NBT Editor menu choose the button labeled 'Expand', remove any SNBT in the form it brings up,
@@ -107,7 +121,8 @@
             <hr>
             <section id="UsingSNBT--IBEEditor" class="UsingNBT">
                 <h3>IBE Editor</h3>
-                <p>For this method, you will of course need IBE Editor.</p>
+                <p>For this method, you will of course need <a
+                        href="https://modrinth.com/mod/ibe-editor/version/2.2.2%2B1.19.3-fabric">IBE Editor</a>.</p>
                 <p>If you need to use SNBT, IBE Editor is the best option. It has the bonus functionality of being
                     excellent for NBT Editing and Item Creation, while also being fairly easy to use to add or edit
                     SNBT.</p>
@@ -120,20 +135,56 @@
             <hr>
             <section id="UsingSNBT--MeteorClient" class="UsingNBT">
                 <h3>Meteor Client</h3>
-                <p>For this method, you will of course need Meteor Client.</p>
+                <p>For this method, you will of course need <a href="https://meteorclient.com/">Meteor Client</a>.</p>
                 <p>Meteor Client is easily the worst option of the three for SNBT (or any NBT for that matter), but it
                     does work, and many like to use it.</p>
-                <p>To use the SNBT, copy the SNBT but (just like with NBT Editor) *exclude* the ,tag: prefix when
+                <p>To use the SNBT, copy the SNBT but (just like with NBT Editor) <i>exclude</i> the <code>,tag:</code> prefix when
                     selecting it.</p>
-                <p>Once copied, hold the item you wish to apply the SNBT to, then open chat and type .nbt paste.</p>
+                <p>Once copied, hold the item you wish to apply the SNBT to, then open chat and type <code>.nbt paste</code>.</p>
                 <p>Hit enter, and it should be applied.</p>
                 <p>Voila, you have your new Kit or Item!</p>
             </section>
             <hr>
-            <section id="CreatingsKitsItems" class="UsingNBT">
+            <section id="CreatingKitsItems" class="UsingNBT">
                 <h2>Creating your own Kits & Items</h2>
                 <p>You've got other peoples Kits and Items, and now you want to make your own... but how can you do
                     that?</p>
+                <p>Well, while we can't tell you what to create, we can give you some pointers and tools to use.</p>
+            </section>
+            <hr>
+            <section id="CreatingKitsItems--IBEEditor" class="UsingNBT">
+                <h3>IBE Editor</h3>
+                <p>Mentioned above under 'Using SNBT', <a
+                        href="https://modrinth.com/mod/ibe-editor/version/2.2.2%2B1.19.3-fabric">IBE Editor</a> is one
+                    of the best mods currently available for
+                    editing Items; Whether
+                    you want to quickly adjust the Name and Lore, fiddle around with Enchantments and Attributes, or do
+                    a deep dive into the
+                    NBT Tags, IBE Editor is the mod to do it with.</p>
+            </section>
+            <hr>
+            <section id="CreatingKitsItems--FZMM" class="UsingNBT">
+                <h3>FZMM</h3>
+                <p><a href="https://modrinth.com/mod/fzmm/version/0.1.2">FZMM</a> is a curious little mod, offering a
+                    handful of fairly niche but incredibly useful utilities.</p>
+                <p>The most useful of its utilities for Item-making however, is the Text Format module, which offers an
+                    amazingly intricate
+                    and detailed menu to create text, while also being quite intuitive. The cherry on top? It can export
+                    your created text
+                    as Lore, Item Name, or just copy it to your clipboard!</p>
+            </section>
+            <hr>
+            <section id="CreatingKitsItems--YourImagination" class="UsingNBT">
+                <h3>Your Imagination</h3>
+                <p>Many things are important in Item Making... but above all else, use your imagination. Look at other
+                    peoples kits as inspiration, not goals.</p>
+                <p>Don't be discouraged if you don't understand all the aspects of NBT Editing, or are confused when
+                    someone mentions
+                    things like NaN Attribute Amounts or Damage Frames; It takes time to learn about the intricacies of
+                    NBT Editing.</p>
+                <p>Remember, if you ever have questions, feel free to ask on The Shulker Archives Discord server; Even
+                    if someone here
+                    doesn't know the answer, we'd be more than happy to help find the answer.</p>
             </section>
             <hr>
             <section id="StoringKitsItems" class="UsingNBT">
@@ -145,7 +196,8 @@
                 <p>The mods you've installed along the way all come with some form of Storage or another, from NBT
                     Editors 'Client Chest', to IBE Editors 'Vault', but all of them have their bugs and issues that
                     prevent them from being the best.</p>
-                <p>What, then, <i>is</i> the best? Why JEI of course.</p>
+                <p>What, then, <i>is</i> the best? Why <a href="https://modrinth.com/mod/jei/version/12.2.0.17">JEI</a>
+                    of course.</p>
                 <p>JEI <i>aka</i> Just Enough Items, has an excellent feature called "Bookmarks".</p>
                 <p>To use this, simply hover over anything in your Inventory, and press 'a'.</p>
                 <p>Voila! The item is now saved in the 'Bookmarks' tab on the left.</p>
@@ -158,17 +210,73 @@
             <hr>
             <section id="ExportingKitsItems" class="UsingNBT">
                 <h2>Exporting Kits & Items</h2>
-                <p>...</p>
+                <p>There are two main ways to export your Kits and Items, each specific to what format you're exporting
+                    to.</p>
+            </section>
+            <hr>
+            <section id="ExportingKitsItems--NBTFiles" class="UsingNBT">
+                <h3>Exporting as .nbt files</h3>
+                <p>The best way to export it (and the core method of these Archives) is as a .nbt file.</p>
+                <p>To do so, you will need NBT Editor installed.</p>
+                <p>While holding the Kit or Item you wish to export, open chat and type <code>/nbt export file</code>.
+                </p>
+                <p>Voila! It is now exported as a .nbt file, located in <code>.minecraft/nbteditor/exported/</code></p>
+            </section>
+            <hr>
+            <section id="ExportingKitsItems--SNBT" class="UsingNBT">
+                <h3>Exporting as SNBT</h3>
+                <p>The secondary method of export is as SNBT.</p>
+                <p>To do so, you will need NBT Editor <i>or</i> IBE Editor <i>or</i> Meteor Client.</p>
+            </section>
+            <hr>
+            <section id="ExportingKitsItems--SNBT--NBTEditor" class="UsingNBT">
+                <h3>Exporting SNBT via NBT Editor</h3>
+                <p>Open your inventory, hover over the Kit or Item you wish to export, and press spacebar.</p>
+                <p>Choose 'Expand', then click onto the form it brings up, press CTRL+A and then CTRL+C to copy the SNBT
+                    to your clipboard.</p>
+                <p>Voila! You now have the SNBT of that Kit or Item.</p>
+            </section>
+            <hr>
+            <section id="ExportingKitsItems--SNBT--IBEEditor" class="UsingNBT">
+                <h3>Exporting SNBT via IBE Editor</h3>
+                <p>Hold the Kit or Item you wish to export, and open the SNBT Editor by pressing the assigned hotkey
+                    (default is <code>R</code>)</p>
+                <p>Click onto the form it brings up, press CTRL+A and then CTRL+C to copy the SNBT to your clipboard.
+                </p>
+                <p><i>Please note that IBE prefaces SNBT with additional data, e.g:</i>
+                    <code>{Count:1,id:"minecraft:white_shulker_box",tag:}</code> <i>which must be removed or altered
+                        prior to using the copied SNBT.</i>
+                </p>
+                <p>Voila! You now have the SNBT of that Kit or Item.</p>
+            </section>
+            <hr>
+            <section id="ExportingKitsItems--SNBT--MeteorClient" class="UsingNBT">
+                <h3>Exporting SNBT via Meteor Client</h3>
+                <p>Hold the Kit or Item you wish to export, and open chat.</p>
+                <p>Type <code>.nbt copy</code> in chat.</p>
+                <p>Voila! You now have the SNBT of that kit or Item.</p>
             </section>
             <hr>
             <section id="MiscNBTInformation" class="UsingNBT">
                 <h2>Misc. NBT Information</h2>
-                <p>...</p>
+                <p><i>Clickity Clackity</i> goes Kaddicus' keyboard...</p>
+                <p>This section is still being written!</p>
+                <p>Check back soon :D</p>
             </section>
             <hr>
             <section id="Index" class="UsingNBT">
                 <h2>Index</h2>
-                <p>...</p>
+                <p><i>Clickity Clackity</i> goes Kaddicus' keyboard...</p>
+                <p>This section is still being written!</p>
+                <p>Check back soon :D</p>
+                <p><i>Temporary Index:</i></p>
+                <li><a href="https://modrinth.com/mod/adaptive-tooltips/version/1.1.1">Adaptive Tooltips</a></li>
+                <li><a href="https://modrinth.com/mod/fzmm/version/0.1.2">FZMM</a></li>
+                <li><a href="https://modrinth.com/mod/ibe-editor/version/2.2.2%2B1.19.3-fabric">IBE Editor</a></li>
+                <li><a href="https://modrinth.com/mod/jei/version/12.2.0.17">JEI</a></li>
+                <li><a href="https://meteorclient.com/">Meteor Client</a></li>
+                <li><a href="https://modrinth.com/mod/nbt-editor/version/1.10.0">NBT Editor</a></li>
+                <li><a href="https://modrinth.com/mod/pick-block-pro/version/1.6.16">Pick Block Pro</a></li>
             </section>
             <hr>
         </div>

@@ -354,7 +354,7 @@ body.UsingNBT > h1 {
 
 section.UsingNBT > h2,
 section.UsingNBT > h3 {
-    color: aqua;
+    color: rgba(0, 255, 255, 0.850);
 }
 
 section.UsingNBT {
@@ -366,6 +366,11 @@ section.UsingNBT {
 
 section.UsingNBT li {
     margin-left: 2rem;
+}
+
+section.UsingNBT code {
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 121, 255);
 }
 
 
