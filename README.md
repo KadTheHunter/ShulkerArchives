@@ -1,6 +1,14 @@
-# ShulkerArchives
+# Shulker Archives
 ![Cute Mascot :3](assets/Shulker_shooting.gif)
 
 Website to archive Shulker Kit NBT Data
 
 [https://kadthehunter.github.io/ShulkerArchives/](https://kadthehunter.github.io/ShulkerArchives/)
+
+Unless you have an interest in opening a PR or reporting a bug, there's really no reason for you to be looking at this repo.
+
+If you're looking to submit a kit, item or book, contact Kaddicus by one of the below methods:
+
+- On `freedom.play.totalfreedom.me` via `/mail send KaddicusAlmighty <msg>`
+- In Discord DMs @ `Kaddicus#2019`
+- On Discord @ [discord.gg/pVYcyseBMD](discord.gg/pVYcyseBMD)
