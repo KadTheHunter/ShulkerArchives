@@ -7,6 +7,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
     <link rel="stylesheet" href="../assets/main.min.css" />
+    <link rel="stylesheet" type="text/css" href="../assets/DataTables/datatables.css" />
 </head>
 
 <header>
@@ -29,19 +30,26 @@
 
 <body class="Books">
     <main class="Books">
-        <a href="html/Items.html"><button class="buttonWide" type="button"><i>Looking for Individual Items instead of
-                    Shulker Kits? Click me!</i></button></a>
         <div class="center">
-            <input type="text" id="search" onkeyup="searchTable()"
-                placeholder="Search for Names, Authors, Descriptions, IDs...">
-            <table class="sortable" id="books">
-                <tr>
-                    <th>Item Name</th>
-                    <th>Author</th>
-                    <th class="sorttable_nosort">Description</th>
-                    <th>Item ID</th>
-                    <th class="sorttable_nosort">NBT</th>
-                </tr>
+            <table id="books">
+                <thead>
+                    <tr>
+                        <th>Item Name</th>
+                        <th>Author</th>
+                        <th>Description</th>
+                        <th>Item ID</th>
+                        <th>NBT</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td><a href="../nbt/books/">NBT</a></td>
+                    </tr>
+                </tbody>
             </table>
             <!--
           NEW BOOK CODE TEMPLATE
@@ -91,30 +99,22 @@
     <div class="footer">
         <p>Created by KaddicusAlmighty</p>
     </div>
-    <script src="../assets/js/sorttable.min.js"></script>
+
+    <script src="assets/js/jquery-3.6.3.min.js"></script>
+
+    <script type="text/javascript" charset="utf8" src="assets/DataTables/datatables.min.js"></script>
+
     <script>
-        function searchTable() {
-            var input, filter, found, table, tr, td, i, j;
-            input = document.getElementById("search");
-            filter = input.value.toUpperCase();
-            table = document.getElementById("items");
-            tr = table.getElementsByTagName("tr");
-            for (i = 0; i < tr.length; i++) {
-                td = tr[i].getElementsByTagName("td");
-                for (j = 0; j < td.length; j++) {
-                    if (td[j].innerHTML.toUpperCase().indexOf(filter) > -1) {
-                        found = true;
-                    }
+        $(function () {
+            $("#books").dataTable({
+                "pagingType": "full_numbers",
+                "language": {
+                    "zeroRecords": "No Books found :("
                 }
-                if (found) {
-                    tr[i].style.display = "";
-                    found = false;
-                } else {
-                    tr[i].style.display = "none";
-                }
-            }
-        }
+            });
+        })
     </script>
+
 </body>
 
 </html>

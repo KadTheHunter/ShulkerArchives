@@ -7,6 +7,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
     <link rel="stylesheet" href="../assets/main.min.css" />
+    <link rel="stylesheet" type="text/css" href="../assets/DataTables/datatables.css" />
 </head>
 
 <header>
@@ -34,37 +35,39 @@
                     Individual
                     Items? Click me!</i></button></a>
         <div class="center">
-            <input type="text" id="search" onkeyup="searchTable()"
-                placeholder="Search for Names, Authors, Descriptions, Item IDs...">
-            <table class="sortable" id="items">
-                <tr>
-                    <th>Item Name</th>
-                    <th>Author</th>
-                    <th class="sorttable_nosort">Description</th>
-                    <th>Item ID</th>
-                    <th class="sorttable_nosort">NBT</th>
-                </tr>
-                <tr>
-                    <td>The Paranoid</td>
-                    <td>Odsseys</td>
-                    <td>An arrow with some effects</td>
-                    <td>tipped_arrow</td>
-                    <td><a href="../nbt/items/TheParanoid.txt">NBT</a></td>
-                </tr>
-                <tr>
-                    <td>Xelion Monix Scythe</td>
-                    <td>quack95</td>
-                    <td>An armor stand with a scythe</td>
-                    <td>armor_stand</td>
-                    <td><a href="../nbt/items/XelionMonixScythe.txt">NBT</a></td>
-                </tr>
-                <tr>
-                    <td>Bundle O' Fun</td>
-                    <td>Mob0</td>
-                    <td>A bundle full of fun and joy (just don't ever open it)</td>
-                    <td>bundle</td>
-                    <td><a href="../nbt/items/BundleOFun.txt">NBT</a></td>
-                </tr>
+            <table id="items">
+                <thead>
+                    <tr>
+                        <th>Item Name</th>
+                        <th>Author</th>
+                        <th>Description</th>
+                        <th>Item ID</th>
+                        <th>NBT</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>The Paranoid</td>
+                        <td>Odsseys</td>
+                        <td>An arrow with some effects</td>
+                        <td>tipped_arrow</td>
+                        <td><a href="../nbt/items/TheParanoid.txt">NBT</a></td>
+                    </tr>
+                    <tr>
+                        <td>Xelion Monix Scythe</td>
+                        <td>quack95</td>
+                        <td>An armor stand with a scythe</td>
+                        <td>armor_stand</td>
+                        <td><a href="../nbt/items/XelionMonixScythe.txt">NBT</a></td>
+                    </tr>
+                    <tr>
+                        <td>Bundle O' Fun</td>
+                        <td>Mob0</td>
+                        <td>A bundle full of fun and joy (just don't ever open it)</td>
+                        <td>bundle</td>
+                        <td><a href="../nbt/items/BundleOFun.txt">NBT</a></td>
+                    </tr>
+                </tbody>
             </table>
             <!--
           NEW ITEM CODE TEMPLATE
@@ -114,35 +117,22 @@
     <div class="footer">
         <p>Created by KaddicusAlmighty</p>
     </div>
-    <script src="../assets/js/sorttable.min.js"></script>
-    <!--
-      For some reason, using:
-      <script src="../assets/js/searchtable.min.js"></script>
-      Breaks the search function, despite the same thing working on main page...
-    -->
+
+    <script src="../assets/js/jquery-3.6.3.min.js"></script>
+
+    <script type="text/javascript" charset="utf8" src="../assets/DataTables/datatables.min.js"></script>
+
     <script>
-        function searchTable() {
-            var input, filter, found, table, tr, td, i, j;
-            input = document.getElementById("search");
-            filter = input.value.toUpperCase();
-            table = document.getElementById("items");
-            tr = table.getElementsByTagName("tr");
-            for (i = 0; i < tr.length; i++) {
-                td = tr[i].getElementsByTagName("td");
-                for (j = 0; j < td.length; j++) {
-                    if (td[j].innerHTML.toUpperCase().indexOf(filter) > -1) {
-                        found = true;
-                    }
+        $(function () {
+            $("#items").dataTable({
+                "pagingType": "full_numbers",
+                "language": {
+                    "zeroRecords": "No Items found :("
                 }
-                if (found) {
-                    tr[i].style.display = "";
-                    found = false;
-                } else {
-                    tr[i].style.display = "none";
-                }
-            }
-        }
+            });
+        })
     </script>
+
 </body>
 
 </html>

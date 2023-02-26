@@ -4,6 +4,7 @@ header {
     color: rgb(200, 200, 200);
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
+
 body {
     align-items: center;
     text-align: center;
@@ -34,7 +35,7 @@ body {
 }
 
 
-/* Misc. Clusterfuck I copied from R74n */
+/* Links */
 
 a {
     color: rgb(73, 193, 248);
@@ -50,12 +51,6 @@ a:hover {
     color: rgb(255, 121, 255);
 }
 
-img,
-audio,
-video {
-    vertical-align: middle;
-    max-width: 100%
-}
 
 
 /* Title Settings */
@@ -153,53 +148,8 @@ hr {
 }
 
 
-/* Search Function */
-
-#search {
-    background-image: url(searchblue.png);
-    background-position: 10px 10px;
-    background-repeat: no-repeat;
-    background-color: black;
-    width: 80%;
-    font-size: 16px;
-    color: aqua;
-    padding: 12px 20px 12px 40px;
-    border: 1px solid #ddd;
-    margin-top: 12px;
-    margin-bottom: 12px;
-}
-
-
-/* Table Sorting Settings*/
-
-table.sortable th::after,
-th.sorttable_sorted::after,
-th.sorttable_sorted_reverse::after {
-    content: " ";
-    display: inline-block;
-    width: 24px;
-    height: 24px;
-}
-
-th.sorttable_sorted::after {
-    background: url(my-sorted-icon.png);
-    background-size: contain;
-}
-
-th.sorttable_sorted_reverse::after {
-    background: url(my-sorted-reversed-icon.png);
-    background-size: cover;
-}
-
-#sorttable_sortfwdind,
-#sorttable_sortrevind {
-    display: none;
-}
-
-
 /* Table Settings */
 
-table,
 td,
 th {
     border: 1px solid rgb(255, 255, 255);
@@ -215,16 +165,23 @@ th {
 }
 
 td {
-    color:rgb(200, 200, 200);
+    color: rgb(200, 200, 200);
 }
 
 table {
     border-collapse: collapse;
-    width: 100%;
 }
 
 td:hover {
-    background-color: rgb(172, 172, 172);
+    background-color: rgb(85, 85, 85);
+}
+
+input[type=search] {
+    color: aqua;
+}
+
+select {
+    color: rgb(0, 255, 0);
 }
 
 
@@ -263,7 +220,7 @@ a[download]:link {
 
 a[download]:hover,
 a[download]:focus {
-    color:rgb(255, 121, 255);
+    color: rgb(255, 121, 255);
     text-decoration: none;
 }
 
@@ -281,36 +238,36 @@ dd {
 /* Using NBT */
 
 html {
-	scroll-behavior: smooth;
+    scroll-behavior: smooth;
 }
 
 nav.UsingNBT {
-	padding-right: 0;
-	border-right: 1px solid #efefef;
+    padding-right: 0;
+    border-right: 1px solid #efefef;
 }
 
 nav.UsingNBT a {
-	text-decoration: none;
+    text-decoration: none;
     display: block;
-	padding: .125rem 0;
-	color: #ccc;
-	transition: all 50ms ease-in-out;
+    padding: .125rem 0;
+    color: #ccc;
+    transition: all 50ms ease-in-out;
 }
 
 nav.UsingNBT a:hover,
 nav.UsingNBT a:focus {
-	color: rgb(73, 193, 248);
+    color: rgb(73, 193, 248);
 }
 
 nav.UsingNBT li.active > a {
-	color: rgb(0, 255, 0);
-	font-weight: 500;
+    color: rgb(0, 255, 0);
+    font-weight: 500;
 }
 
 nav.UsingNBT ol {
-	list-style: none;
-	margin: 0;
-	padding: 0;
+    list-style: none;
+    margin: 0;
+    padding: 0;
     text-align: left;
 }
 
@@ -319,20 +276,20 @@ nav.UsingNBT ul {
 }
 
 nav.UsingNBT li {
-	margin-left: 1rem;
+    margin-left: 1rem;
 }
 
 main.UsingNBT > nav {
-	position: sticky;
-	top: 2rem;
-	align-self: start;
+    position: sticky;
+    top: 2rem;
+    align-self: start;
 }
 
 main.UsingNBT {
-	display: grid;
-	grid-template-columns: 15em 1fr;
-	max-width: 100em;
-	width: 90%;
+    display: grid;
+    grid-template-columns: 15em 1fr;
+    max-width: 100em;
+    width: 90%;
 }
 
 body.UsingNBT {
