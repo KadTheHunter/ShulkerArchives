@@ -17,6 +17,10 @@ body {
     padding: 6%;
 }
 
+code {
+    color: rgb(0, 255, 0);
+}
+
 .content {
     margin: 10px;
     margin-top: 20px;
@@ -83,13 +87,13 @@ hr {
 
 /* Button Settings */
 
-.button {
+button.button {
     align-items: center;
-    background-color: rgb(73, 193, 248);
+    background-color: rgb(86, 86, 86);
     border: 0px solid #ffffff;
     border-radius: 200px;
     box-sizing: border-box;
-    color: rgb(255, 255, 255);
+    color: rgb(0, 255, 0);
     cursor: pointer;
     font-family: Inter, sans-serif;
     font-size: 18px;
@@ -104,38 +108,8 @@ hr {
     touch-action: manipulation;
 }
 
-.button:active,
-.button:hover {
-    outline: 0;
-}
-
-.button:hover {
-    background-color: #153b44;
-    border-color: rgb(255, 255, 255);
-}
-
-.buttonWide {
-    align-items: center;
-    background-color: rgb(73, 193, 248);
-    border: 0px solid #ffffff;
-    border-radius: 200px;
-    box-sizing: border-box;
-    color: #ffffff;
-    cursor: pointer;
-    font-family: Inter, sans-serif;
-    font-size: 18px;
-    justify-content: center;
-    line-height: 5px;
-    padding: 14px 22px;
-    text-decoration: none;
-    transition: all .2s;
-    user-select: none;
-    -webkit-user-select: none;
-    touch-action: manipulation;
-}
-
-.buttonWide:hover {
-    background-color: #153b44;
+button.button:hover {
+    background-color: rgb(43, 43, 43);
     border-color: rgb(255, 255, 255);
 }
 
