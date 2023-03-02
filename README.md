@@ -1,6 +1,8 @@
 # Shulker Archives
 ![Cute Mascot :3](assets/Shulker_shooting.gif)
 
+![Alt](https://repobeats.axiom.co/api/embed/969590d0e93138cbc0d66c5fc51b68f4b498a331.svg "Repobeats analytics image")
+
 Website to archive Shulker Kit NBT Data
 
 [https://kadthehunter.github.io/ShulkerArchives/](https://kadthehunter.github.io/ShulkerArchives/)
