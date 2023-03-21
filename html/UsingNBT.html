@@ -42,6 +42,7 @@
                 <li class=""><a href="#UsingSNBT--NBTEditor">Importing SNBT via NBT Editor</a></li>
                 <li class=""><a href="#UsingSNBT--IBEEditor">Importing SNBT via IBE Editor</a></li>
                 <li class=""><a href="#UsingSNBT--MeteorClient">Importing SNBT via Meteor Client</a></li>
+                <li class=""><a href="#UsingSNBT--DataMerge">A Note on Data Merge</a></li>
             </ul>
             <li><a href="#CreatingKitsItems">Creating Kits & Items</a></li>
             <ul>
@@ -152,6 +153,16 @@
             </p>
             <p>Hit enter, and it should be applied.</p>
             <p>Voila, you have your new Kit or Item!</p>
+        </section>
+        <hr>
+        <section id="UsingSNBT--DataMerge" class="UsingNBT">
+            <h3>A Note on Data Merge</h3>
+            <p>A common command associated with NBT is <code>/data merge</code>.</p>
+            <p>While the SNBT provided by these Archives is, to a degree, useable with this command, it has a major drawback:</p>
+            <p>Name and Lore of the containing storage (Chest, Barrel, Shulker, etc) will not be added.</p>
+            <p>In addition to this, using the <code>/data merge</code> command for Shulker Kits is an ordeal in and of itself, involving Command Blocks, Fiddly Coordinates, and significant manual editing of the SNBT.</p>
+            <p>For these reasons, instructions on this command will <b>NOT</b> be provided here, and support will not be given to those seeking to use this command.</p>
+            <p><i>For those who will say "but my Vanilla Client only supports <code>/data merge</code>!", <b>too bad</b>. There is zero reason <b>not</b> to use a modded client when working with NBT, even if you're just browsing Shulker Kits and not actually editing items.</i></p>
         </section>
         <hr>
         <section id="CreatingKitsItems" class="UsingNBT">
