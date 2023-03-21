@@ -55,6 +55,7 @@ function loadSettings() {
         }
     }
 }
+
 loadSettings();
 
 function getNoteString() {
@@ -92,6 +93,7 @@ function validateNBT() {
     }
     updateOutput();
 }
+
 document.getElementById("validate").onclick = function () {
     location.hash = "#" + input.value.replace(/[%\r\n\0]/g, function (m) {
         var esc = m.charCodeAt(0).toString(16);
@@ -150,5 +152,6 @@ function loadLink() {
         output.value = "";
     }
 }
+
 window.onhashchange = document.onhashchange = loadLink;
 loadLink();

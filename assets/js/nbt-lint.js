@@ -9,7 +9,8 @@
     var root = this, previous_nbtlint = root.nbtlint;
 
     var nbtlint = {
-        TagBase: function () { },
+        TagBase: function () {
+        },
         quotedCharRE: /[^a-zA-Z0-9._+\-]/,
         /**
          * An NBT String tag
@@ -39,8 +40,8 @@
          * @param {number} value - The tag's value
          */
         TagNumberBase: function (value) {
-            if (value > this.maxValue) throw { error: "value_too_high", type: this.constructor, max: this.maxValue };
-            if (value < this.minValue) throw { error: "value_too_low", type: this.constructor, min: this.minValue };
+            if (value > this.maxValue) throw {error: "value_too_high", type: this.constructor, max: this.maxValue};
+            if (value < this.minValue) throw {error: "value_too_low", type: this.constructor, min: this.minValue};
             this.value = value;
         },
         /**
@@ -81,10 +82,13 @@
             }
 
             if (value === "0") return this.value = 0;
-            if (!/^[1-9][0-9]*$/.test(value)) throw { error: "invalid_format", message: "Badly formatted TagLong string" };
+            if (!/^[1-9][0-9]*$/.test(value)) throw {
+                error: "invalid_format",
+                message: "Badly formatted TagLong string"
+            };
             if (value.length > 19) {
-                if (sign === "-") throw { error: "value_too_low", type: nbtlint.TagLong, min: this.minValue };
-                throw { error: "value_too_high", type: nbtlint.TagLong, max: this.maxValue };
+                if (sign === "-") throw {error: "value_too_low", type: nbtlint.TagLong, min: this.minValue};
+                throw {error: "value_too_high", type: nbtlint.TagLong, max: this.maxValue};
             }
             if (value.length < 19) {
                 if (sign === "-") return this.value = sign + value;
@@ -95,8 +99,8 @@
             for (var i = 0; i < limit.length; ++i) {
                 if (value[i] !== limit[i]) {
                     if (value[i] < limit[i]) break;
-                    if (sign === "-") throw { error: "value_too_low", type: nbtlint.TagLong, min: this.minValue };
-                    throw { error: "value_too_high", type: nbtlint.TagLong, max: this.maxValue };
+                    if (sign === "-") throw {error: "value_too_low", type: nbtlint.TagLong, min: this.minValue};
+                    throw {error: "value_too_high", type: nbtlint.TagLong, max: this.maxValue};
                 }
             }
 
@@ -266,11 +270,15 @@
                 if (a > b) return 1;
                 return 0;
             };
-            var indexed = list.map(function (e, i) { return [e, i]; });
+            var indexed = list.map(function (e, i) {
+                return [e, i];
+            });
             indexed.sort(function (a, b) {
                 return cmp(a[0], b[0]) || (a[1] - b[1]);
             });
-            return indexed.map(function (e) { return e[0] });
+            return indexed.map(function (e) {
+                return e[0]
+            });
         },
         _printValue: function (value, space, indent, hasName, options) {
             var str;
@@ -486,8 +494,8 @@
                 exception += this.string.substring(Math.max(0, end - 35), end).replace(/\n/g, "\u21B5");
                 exception += "<--[HERE]";
                 exception = message + " at: " + exception;
-                if (suggestion) return { error: "parsing_error", message: exception, suggestion: suggestion };
-                return { error: "parsing_error", message: exception };
+                if (suggestion) return {error: "parsing_error", message: exception, suggestion: suggestion};
+                return {error: "parsing_error", message: exception};
             },
             readCompound: function () {
                 this.expect("{");
@@ -685,6 +693,7 @@
             children[i].prototype.constructor = children[i];
         }
     }
+
     extend(nbtlint.TagBase, [
         nbtlint.TagString,
         nbtlint.TagCompound,
@@ -795,7 +804,10 @@
      */
     nbtlint.TagCompound.prototype.add = function (key, value) {
         if (key in this.map) {
-            throw { error: "duplicate_key", message: "Duplicate key: " + nbtlint._printString(new nbtlint.TagString(key, true), {}) };
+            throw {
+                error: "duplicate_key",
+                message: "Duplicate key: " + nbtlint._printString(new nbtlint.TagString(key, true), {})
+            };
         }
         this.pairs.push([new nbtlint.TagString(key, true), value]);
         this.map[key] = value;
@@ -816,7 +828,10 @@
                 return this.pairs.splice(i, 1)[0][1];
             }
         }
-        throw { error: "inconsistent_state", message: "The internal state of this compound is borked. Did you mess with it?" };
+        throw {
+            error: "inconsistent_state",
+            message: "The internal state of this compound is borked. Did you mess with it?"
+        };
     };
     /**
      * Add a Tag to the end of a List.
