@@ -1070,13 +1070,6 @@
       "A collection of items from Fleshly's inventory",
       "purple_shulker_box",
       "<a href=nbt/kits/FleshlysInventoryItems.html>NBT</a>"
-    ],
-    [
-      "",
-      "",
-      "",
-      "",
-      "<a href=nbt/kits/Example.html>NBT</a>"
     ]
   ]
 }
