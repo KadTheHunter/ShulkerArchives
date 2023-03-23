@@ -1133,6 +1133,104 @@
       "MrHotDog's personal items",
       "red_shulker_box",
       "<a href=nbt/kits/MrHotDogsBox.html>NBT</a>"
+    ],
+    [
+      "dogeiscuts lowercase kit",
+      "DogeisCut",
+      "A personal kit all in lowercase",
+      "yellow_shulker_box",
+      "<a href=nbt/kits/dogeiscutslowercasekit.html>NBT</a>"
+    ],
+    [
+      "DogeisCut's Vaporeon Kit",
+      "DogeisCut",
+      "A Vaporeon",
+      "light_blue_shulker_box",
+      "<a href=nbt/kits/DogeisCutsVaporeonKit.html>NBT</a>"
+    ],
+    [
+      "Unobtainable Items",
+      "DogeisCut",
+      "Items that were mostly unobtainable prior to 1.19.3",
+      "black_shulker_box",
+      "<a href=nbt/kits/UnobtainableItems.html>NBT</a>"
+    ],
+    [
+      "DogeisCut's Wacky Box of Fun",
+      "DogeisCut",
+      "A wacky box of fun",
+      "yellow_shulker_box",
+      "<a href=nbt/kits/DogeisCutsWackyBoxOfFun.html>NBT</a>"
+    ],
+    [
+      "Non-existant Potions",
+      "DogeisCut",
+      "These potions don't exist",
+      "orange_shulker_box",
+      "<a href=nbt/kits/NonExistantPotions.html>NBT</a>"
+    ],
+    [
+      "DogeisCut's Stuff",
+      "DogeisCut",
+      "DogeisCut's personal items",
+      "shulker_box",
+      "<a href=nbt/kits/DogeisCutsStuff.html>NBT</a>"
+    ],
+    [
+      "Skyblock Shulker",
+      "UltimEVB",
+      "Ｓｋｙｂｌｏｃｋ Ｓｈｕｌｋｅｒ",
+      "gray_shulker_box",
+      "<a href=nbt/kits/SkyblockShulker.html>NBT</a>"
+    ],
+    [
+      "Skyblock Set/Armor Box",
+      "UltimEVB",
+      "A box of Skyblock Armor",
+      "black_shulker_box",
+      "<a href=nbt/kits/SkyblockSetArmorBox.html>NBT</a>"
+    ],
+    [
+      "Starter Kit but locked",
+      "UltimEVB",
+      "The starter kit, but locked",
+      "yellow_shulker_box",
+      "<a href=nbt/kits/StarterKitButLocked.html>NBT</a>"
+    ],
+    [
+      "Everywhere at the End of Time",
+      "UltimEVB",
+      "Map art",
+      "light_gray_shulker_box",
+      "<a href=nbt/kits/EverywhereAtTheEndOfTime.html>NBT</a>"
+    ],
+    [
+      "Ultim Party",
+      "UltimEVB",
+      "Custom heads bearing the letters of Ultim Party",
+      "cyan_shulker_box",
+      "<a href=nbt/kits/UltimParty.html>NBT</a>"
+    ],
+    [
+      "Apple.",
+      "UltimEVB",
+      "Apple.",
+      "red_shulker_box",
+      "<a href=nbt/kits/Apple.html>NBT</a>"
+    ],
+    [
+      "UltimEVB Marketable Plushie",
+      "UltimEVB",
+      "Assemble it into an UltimEVB Plushie!",
+      "light_blue_shulker_box",
+      "<a href=nbt/kits/UltimEVBMarketablePlushie.html>NBT</a>"
+    ],
+    [
+      "Fuze Fan Kit",
+      "UltimEVB",
+      "Subscribe to Fuze",
+      "red_shulker_box",
+      "<a href=nbt/kits/FuzeFanKit.html>NBT</a>"
     ]
   ]
 }
