@@ -15,7 +15,7 @@
     <span class="ShulkerLogoText"><a href="../index.html">Shulker Archives</a></span>
     <p class="ShulkerLogo">
             <video autoplay loop muted playsinline height="100px" width="100px">
-                <source src="assets/Shulker_shooting.webm" type="video/webm" />
+                <source src="../assets/Shulker_shooting.webm" type="video/webm" />
             </video>
     </p>
     <h2>Welcome to the Book Archives</h2>
@@ -70,7 +70,7 @@
 <script>
     $(function () {
         $("#books").dataTable({
-            ajax: 'nbt/books/Books.json',
+            ajax: '../nbt/books/Books.json',
             "pagingType": "full_numbers",
             "language": {
                 "zeroRecords": "No Books found :("
