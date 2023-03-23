@@ -1,3 +1,4 @@
+@charset "UTF-8";
 /*
  * This combined file was created by the DataTables downloader builder:
  *   https://datatables.net/download
@@ -10,7 +11,6 @@
  *   DataTables 1.13.2
  */
 
-@charset "UTF-8";
 :root {
     --dt-row-selected: 13, 110, 253;
     --dt-row-selected-text: 255, 255, 255;

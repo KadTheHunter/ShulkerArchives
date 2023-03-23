@@ -6227,7 +6227,7 @@
 
         if (tn) {
             msg += '. For more information about this error, please see ' +
-                'http://datatables.net/tn/' + tn;
+                'https://datatables.net/tn/' + tn;
         }
 
         if (!level) {

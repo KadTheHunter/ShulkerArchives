@@ -1,4 +1,4 @@
-const copyButtonLabel = "<img src=\"../../assets/copy.png\">";
+const copyButtonLabel = "<img alt=\"Copy SNBT\" src=\"../../assets/copy.png\">";
 
 // use a class selector if available
 let blocks = document.querySelectorAll("pre");
