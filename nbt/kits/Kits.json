@@ -1070,6 +1070,69 @@
       "A collection of items from Fleshly's inventory",
       "purple_shulker_box",
       "<a href=nbt/kits/FleshlysInventoryItems.html>NBT</a>"
+    ],
+    [
+      "TF Shop Item Box #2",
+      "Fleshly",
+      "A collection of Items for/from the TF Shop Plot",
+      "light_gray_shulker_box",
+      "<a href=nbt/kits/TFShopItemBox#2.html>NBT</a>"
+    ],
+    [
+      "Top Tier Kit",
+      "Fleshly",
+      "A Top Tier Kit",
+      "red_shulker_box",
+      "<a href=nbt/kits/TopTierKit.html>NBT</a>"
+    ],
+    [
+      "Hive Mind",
+      "Fleshly",
+      "Hive Mind",
+      "lime_shulker_box",
+      "<a href=nbt/kits/HiveMind.html>NBT</a>"
+    ],
+    [
+      "Terraria Red Weapons",
+      "Fleshly",
+      "Terraria Red Weapons",
+      "red_shulker_box",
+      "<a href=nbt/kits/TerrariaRedWeapons.html>NBT</a>"
+    ],
+    [
+      "Fleshly's Meme Kit",
+      "Fleshly",
+      "Meme items made by Fleshly",
+      "orange_shulker_box",
+      "<a href=nbt/kits/FleshlysMemeKit.html>NBT</a>"
+    ],
+    [
+      "Astral Infection",
+      "Fleshly",
+      "Astral Infection",
+      "cyan_shulker_box",
+      "<a href=nbt/kits/AstralInfection.html>NBT</a>"
+    ],
+    [
+      "from the heavens...",
+      "Shdow",
+      "˙˙˙suǝʌɐǝɥ ǝɥʇ ɯoɹɟ",
+      "white_shulker_box",
+      "<a href=nbt/kits/FromTheHeavens.html>NBT</a>"
+    ],
+    [
+      "client.onReady(proceedExecution)",
+      "Shdow",
+      "¢ℓιєηт.σηяєα∂у(ρяσ¢єє∂єχє¢υтιση)",
+      "black_shulker_box",
+      "<a href=nbt/kits/clientOnReady.html>NBT</a>"
+    ],
+    [
+      "MrHotDog's Box",
+      "Shdow",
+      "MrHotDog's personal items",
+      "red_shulker_box",
+      "<a href=nbt/kits/MrHotDogsBox.html>NBT</a>"
     ]
   ]
 }
