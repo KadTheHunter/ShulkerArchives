@@ -317,11 +317,23 @@ textarea:focus {
 #validate {
     margin: 5px 0;
     align-items: center;
-    background-color: rgb(73, 193, 248);
+    background-color: rgb(86, 86, 86);
     border: 0 solid #ffffff;
     border-radius: 200px;
     box-sizing: border-box;
-    color: #ffffff;
+    color: rgb(0, 255, 0);
+    cursor: pointer;
+    font-family: Inter, sans-serif;
+    font-size: 18px;
+    justify-content: center;
+    line-height: 28px;
+    max-width: 50%;
+    padding: 14px 22px;
+    text-decoration: none;
+    transition: all .2s;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
 }
 
 #validate:hover {
