@@ -1231,6 +1231,55 @@
       "Subscribe to Fuze",
       "red_shulker_box",
       "<a href=nbt/kits/FuzeFanKit.html>NBT</a>"
+    ],
+    [
+      "Far Kit",
+      "MarioKartWii",
+      "Far Kit",
+      "red_shulker_box",
+      "<a href=nbt/kits/FarKit.html>NBT</a>"
+    ],
+    [
+      "Far Kit II",
+      "MarioKartWii",
+      "Far Kit II",
+      "red_shulker_box",
+      "<a href=nbt/kits/FarKitII.html>NBT</a>"
+    ],
+    [
+      "Far Kit III",
+      "MarioKartWii",
+      "Far Kit III",
+      "purple_shulker_box",
+      "<a href=nbt/kits/FarKitIII.html>NBT</a>"
+    ],
+    [
+      "Far Kit IV",
+      "MarioKartWii",
+      "Far Kit IV",
+      "red_shulker_box",
+      "<a href=nbt/kits/FarKitIV.html>NBT</a>"
+    ],
+    [
+      "Far Kit Legit Edition",
+      "MarioKartWii",
+      "ＦＡＲ　Ｋｉｔ　（Ｌｅｇｉｔ　Ｅｄｉｔｉｏｎ）",
+      "red_shulker_box",
+      "<a href=nbt/kits/FarKitLegitEdition.html>NBT</a>"
+    ],
+    [
+      "MarioKartWii's Jukebox",
+      "MarioKartWii",
+      "Contains 13 music discs, and a link to a custom soundpack",
+      "brown_shulker_box",
+      "<a href=nbt/kits/MarioKartWiisJukebox.html>NBT</a>"
+    ],
+    [
+      "Present UwU",
+      "MarioKartWii",
+      "A present, uwu",
+      "blue_shulker_box",
+      "<a href=nbt/kits/PresentUwU.html>NBT</a>"
     ]
   ]
 }
