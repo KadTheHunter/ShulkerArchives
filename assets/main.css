@@ -337,7 +337,7 @@ textarea:focus {
 }
 
 #validate:hover {
-    background-color: #153b44;
+    background-color: rgb(43, 43, 43);
     border-color: rgb(255, 255, 255);
 }
 
