@@ -367,13 +367,23 @@ input {
 
 #controls label input,
 #controls label select {
-    width: 70px;
     position: absolute;
     left: 0;
+    color: rgb(0, 255, 0);
+    background-color: rgb(86, 86, 86);
+    border: 0;
 }
 
+#controls select option {
+    background-color: rgb(86, 86, 86);
+}
 #controls label input[type="checkbox"] {
     top: 6px;
+    width: 70px;
+}
+
+#controls label input[type="number"] {
+    width: 70px;
 }
 
 
