@@ -72,6 +72,7 @@
 <script>
     $(function () {
         $("#kits").dataTable({
+            stateSave: true,
             ajax: 'nbt/kits/Kits.json',
             "pagingType": "full_numbers",
             "language": {
