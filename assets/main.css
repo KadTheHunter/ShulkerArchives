@@ -392,7 +392,7 @@ textarea:focus {
 #validate {
     margin: 5px 0;
     align-items: center;
-    background-color: var(--background);
+    background-color: var(--altbackground);
     border: 0;
     border-radius: 200px;
     box-sizing: border-box;
@@ -412,7 +412,7 @@ textarea:focus {
 }
 
 #validate:hover {
-    background-color: var(--altbackground);
+    background-color: var(--background);
 }
 
 #nbt {
