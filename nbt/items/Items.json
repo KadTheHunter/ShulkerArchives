@@ -27,6 +27,13 @@
       "A bottle full of Sand. It's coarse, and rough... and it gets everywhere.",
       "splash_potion",
       "<a href=../nbt/items/BottleOfSand.html>NBT</a>"
+    ],
+    [
+      "Insta-Netherite Kit",
+      "CaliSakuraium",
+      "Instant Netherite",
+      "bundle",
+      "<a href=nbt/kits/InstaNetheriteKit.html>NBT</a>"
     ]
   ]
 }
