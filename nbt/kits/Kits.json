@@ -1280,6 +1280,13 @@
       "A present, uwu",
       "blue_shulker_box",
       "<a href=nbt/kits/PresentUwU.html>NBT</a>"
+    ],
+    [
+      "Parsa's God Pot",
+      "Parsa__",
+      "A God Potion",
+      "gray_shulker_box",
+      "<a href=nbt/kits/ParsasGodPot.html>NBT</a>"
     ]
   ]
 }
