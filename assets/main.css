@@ -1,3 +1,24 @@
+/* Global */
+
+:root {
+    --background: rgb(32, 35, 36);
+    --altbackground: rgb(65, 70, 73);
+    --text: rgb(200, 200, 200);
+    --alttext: rgb(0, 255, 0);
+    --tableborder: rgb(48, 52, 54);
+    --usingnbtdiv: rgb(53, 57, 59);
+}
+
+[data-theme="old"] {
+    --background: rgb(43, 43, 43);
+    --altbackground: rgb(86, 86, 86);
+    --text: rgb(200, 200, 200);
+    --alttext: rgb(0, 255, 0);
+    --tableborder: rgb(255, 255, 255);
+    --usingnbtdiv: rgb(239, 239, 239);
+}
+
+
 /* General Settings */
 
 header {
@@ -8,9 +29,8 @@ header {
 body {
     align-items: center;
     text-align: center;
-    background-color: rgb(43, 43, 43);
-    background-size: 500%;
-    color: rgb(200, 200, 200);
+    background-color: var(--background);
+    color: var(--text);
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 22px;
     word-wrap: break-word;
@@ -18,7 +38,7 @@ body {
 }
 
 code {
-    color: rgb(0, 255, 0);
+    color: var(--alttext);
 }
 
 .content {
@@ -80,16 +100,80 @@ hr {
 }
 
 
+/* Slider Settings */
+
+.theme-switch-wrapper {
+    display: flex;
+    align-items: center;
+    position: absolute;
+    right: 0;
+}
+
+em {
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 1rem;
+}
+
+.theme-switch {
+    display: inline-block;
+    height: 34px;
+    position: relative;
+    width: 60px;
+}
+
+.theme-switch input {
+    display:none;
+}
+
+.slider {
+    background-color: var(--altbackground);
+    bottom: 0;
+    cursor: pointer;
+    left: 0;
+    position: absolute;
+    right: 0;
+    top: 0;
+    transition: .4s;
+}
+
+.slider:before {
+    background-color: rgb(255, 255, 255);
+    bottom: 4px;
+    content: "";
+    height: 26px;
+    left: 4px;
+    position: absolute;
+    transition: .4s;
+    width: 26px;
+}
+
+input:checked + .slider {
+    background-color: var(--altbackground);
+}
+
+input:checked + .slider:before {
+    transform: translateX(26px);
+}
+
+.slider.round {
+    border-radius: 34px;
+}
+
+.slider.round:before {
+    border-radius: 50%;
+}
+
+
 /* Button Settings */
 
-/*noinspection DuplicatedCode*/
 button.button {
     align-items: center;
-    background-color: rgb(86, 86, 86);
-    border: 0 solid #ffffff;
+    background-color: var(--altbackground);
+    border: 0;
     border-radius: 200px;
     box-sizing: border-box;
-    color: rgb(0, 255, 0);
+    color: var(--alttext);
     cursor: pointer;
     font-family: Inter, sans-serif;
     font-size: 18px;
@@ -105,8 +189,7 @@ button.button {
 }
 
 button.button:hover {
-    background-color: rgb(43, 43, 43);
-    border-color: rgb(255, 255, 255);
+    background-color: var(--background);
 }
 
 @media (min-width: 768px) {
@@ -122,20 +205,20 @@ button.button:hover {
 
 td,
 th {
-    border: 1px solid rgb(255, 255, 255);
+    border: 1px solid var(--tableborder);
     padding: 15px;
     text-align: left;
     table-layout: fixed;
 }
 
 th {
-    background-color: rgb(86, 86, 86);
-    color: rgb(0, 255, 0);
+    background-color: var(--altbackground);
+    color: var(--alttext);
     height: 70px;
 }
 
 td {
-    color: rgb(200, 200, 200);
+    color: var(--text);
 }
 
 table {
@@ -143,15 +226,15 @@ table {
 }
 
 td:hover {
-    background-color: rgb(85, 85, 85);
+    background-color: var(--altbackground);
 }
 
 input[type=search] {
-    color: aqua;
+    color: rgb(0, 255, 255);
 }
 
 select {
-    color: rgb(0, 255, 0);
+    color: var(--alttext);
 }
 
 
@@ -212,14 +295,14 @@ html {
 
 nav.UsingNBT {
     padding-right: 0;
-    border-right: 1px solid #efefef;
+    border-right: 1px solid var(--usingnbtdiv);
 }
 
 nav.UsingNBT a {
     text-decoration: none;
     display: block;
     padding: .125rem 0;
-    color: #ccc;
+    color: var(--text);
     transition: all 50ms ease-in-out;
 }
 
@@ -262,14 +345,6 @@ main.UsingNBT {
 }
 
 body.UsingNBT {
-    align-items: center;
-    text-align: center;
-    background-color: rgb(43, 43, 43);
-    background-size: 500%;
-    color: rgb(200, 200, 200);
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    font-size: 22px;
-    word-wrap: break-word;
     padding: 3%;
 }
 
@@ -304,7 +379,7 @@ section.UsingNBT code {
 textarea {
     display: block;
     background: rgba(0, 0, 0, 0.07);
-    color: #00855d;
+    color: rgb(0, 133, 93);
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     transition: background-color 0.2s ease 0s;
     outline: none;
@@ -317,11 +392,11 @@ textarea:focus {
 #validate {
     margin: 5px 0;
     align-items: center;
-    background-color: rgb(86, 86, 86);
-    border: 0 solid #ffffff;
+    background-color: var(--background);
+    border: 0;
     border-radius: 200px;
     box-sizing: border-box;
-    color: rgb(0, 255, 0);
+    color: var(--alttext);
     cursor: pointer;
     font-family: Inter, sans-serif;
     font-size: 18px;
@@ -337,8 +412,7 @@ textarea:focus {
 }
 
 #validate:hover {
-    background-color: rgb(43, 43, 43);
-    border-color: rgb(255, 255, 255);
+    background-color: var(--altbackground);
 }
 
 #nbt {
@@ -369,13 +443,13 @@ input {
 #controls label select {
     position: absolute;
     left: 0;
-    color: rgb(0, 255, 0);
-    background-color: rgb(86, 86, 86);
+    color: var(--alttext);
+    background-color: var(--background);
     border: 0;
 }
 
 #controls select option {
-    background-color: rgb(86, 86, 86);
+    background-color: var(--background);
 }
 #controls label input[type="checkbox"] {
     top: 6px;
@@ -395,7 +469,7 @@ input {
     bottom: 0;
     width: 100%;
     background-color: rgb(31, 31, 31);
-    color: rgb(30, 255, 0);
+    color: var(--alttext);
     text-align: center;
     font-family: 'Lucida Console', sans-serif;
     font-size: 14px;
