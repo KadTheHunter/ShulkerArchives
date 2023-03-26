@@ -1287,6 +1287,62 @@
       "A God Potion",
       "gray_shulker_box",
       "<a href=nbt/kits/ParsasGodPot.html>NBT</a>"
+    ],
+    [
+      "Kit of the Crash",
+      "enderples",
+      "Contains some REALLY laggy armor",
+      "white_shulker_box",
+      "<a href=nbt/kits/KitOfTheCrash.html>NBT</a>"
+    ],
+    [
+      "Unopenable Shulkers",
+      "enderples",
+      "These Shulkers can't be opened",
+      "shulker_box",
+      "<a href=nbt/kits/UnopenableShulkers.html>NBT</a>"
+    ],
+    [
+      "Cutiee Kits v1 - ORIGINAL!",
+      "Indogamer262",
+      "A kit for Cutiees",
+      "pink_shulker_box",
+      "<a href=nbt/kits/CutieeKitsv1ORIGINAL.html>NBT</a>"
+    ],
+    [
+      "World Edit",
+      "Ganondorf629",
+      "World Edit Command Books",
+      "cyan_shulker_box",
+      "<a href=nbt/kits/WorldEdit.html>NBT</a>"
+    ],
+    [
+      "Backdoor box (DEV VER)",
+      "Unknown",
+      "Backdoor box Developer Version",
+      "white_shulker_box",
+      "<a href=nbt/kits/BackdoorBoxDevVer.html>NBT</a>"
+    ],
+    [
+      "JorkeythewhalesCustomWands",
+      "jorkeythewhale",
+      "Custom Wands",
+      "brown_shulker_box",
+      "<a href=nbt/kits/JorkeythewhalesCustomWands.html>NBT</a>"
+    ],
+    [
+      "KNOKBACK BLOK",
+      "Unknown",
+      "KNOKBACK",
+      "green_shulker_box",
+      "<a href=nbt/kits/KNOKBACKBLOK.html>NBT</a>"
+    ],
+    [
+      "Prisoner Suit",
+      "Unknown",
+      "Prisoner Suit",
+      "orange_shulker_box",
+      "<a href=nbt/kits/PrisonerSuit.html>NBT</a>"
     ]
   ]
 }
