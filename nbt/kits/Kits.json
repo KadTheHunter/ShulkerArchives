@@ -1343,6 +1343,13 @@
       "Prisoner Suit",
       "orange_shulker_box",
       "<a href=nbt/kits/PrisonerSuit.html>NBT</a>"
+    ],
+    [
+      "Wynncraft",
+      "Unknown",
+      "Wynncraft",
+      "brown_shulker_box",
+      "<a href=nbt/kits/Wynncraft.html>NBT</a>"
     ]
   ]
 }
