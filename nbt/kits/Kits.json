@@ -1350,6 +1350,20 @@
       "Wynncraft",
       "brown_shulker_box",
       "<a href=nbt/kits/Wynncraft.html>NBT</a>"
+    ],
+    [
+      "golden people must wear gold stuff",
+      "CoolestGuy94",
+      "Golden stuff for golden people",
+      "black_shulker_box",
+      "<a href=nbt/kits/GoldenPeopleMustWearGoldStuff.html>NBT</a>"
+    ],
+    [
+      "Night's Private Shulker Box",
+      "NightSoft",
+      "A collection of personal items",
+      "shulker_box",
+      "<a href=nbt/kits/NightsPrivateShulkerBox.html>NBT</a>"
     ]
   ]
 }
