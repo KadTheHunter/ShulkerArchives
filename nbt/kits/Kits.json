@@ -1364,6 +1364,104 @@
       "A collection of personal items",
       "shulker_box",
       "<a href=nbt/kits/NightsPrivateShulkerBox.html>NBT</a>"
+    ],
+    [
+      "POG! Shulker Box",
+      "Unknown",
+      "A very POG Shulker Box",
+      "lime_shulker_box",
+      "<a href=nbt/kits/POGShulkerBox.html>NBT</a>"
+    ],
+    [
+      "Wegny Kit",
+      "Unknown",
+      "Wegny",
+      "yellow_shulker_box",
+      "<a href=nbt/kits/WegnyKit.html>NBT</a>"
+    ],
+    [
+      "Hacked Items",
+      "Unknown",
+      "Hacked items",
+      "blue_shulker_box",
+      "<a href=nbt/kits/HackedItems.html>NBT</a>"
+    ],
+    [
+      "$ESO PA$",
+      "Unknown",
+      "$ESO PA$",
+      "white_shulker_box",
+      "<a href=nbt/kits/ESOPA.html>NBT</a>"
+    ],
+    [
+      "TMP's Kit V 3.0",
+      "Unknown",
+      "TMP's Kit V 3.0",
+      "light_blue_shulker_box",
+      "<a href=nbt/kits/TMPsKitV3.html>NBT</a>"
+    ],
+    [
+      "Red vs Blue",
+      "Unknown",
+      "Red vs Blue",
+      "purple_shulker_box",
+      "<a href=nbt/kits/RedvsBlue.html>NBT</a>"
+    ],
+    [
+      "UM21 O P KIT",
+      "Unknown",
+      "UM21 O P KIT",
+      "orange_shulker_box",
+      "<a href=nbt/kits/UM21OPKIT.html>NBT</a>"
+    ],
+    [
+      "poop crate",
+      "Unknown",
+      "poop",
+      "yellow_shulker_box",
+      "<a href=nbt/kits/poopcrate.html>NBT</a>"
+    ],
+    [
+      "Molnya",
+      "Ederofe",
+      "Mōlnya",
+      "blue_shulker_box",
+      "<a href=nbt/kits/Molnya.html>NBT</a>"
+    ],
+    [
+      "<Files Armor.bat>",
+      "File_EXE",
+      "All of File_EXE's hatred in one piece of armor",
+      "light_blue_shulker_box",
+      "<a href=nbt/kits/FilesArmor.html>NBT</a>"
+    ],
+    [
+      "Arctic Set",
+      "Unknown",
+      "Cold to the touch.....",
+      "light_blue_shulker_box",
+      "<a href=nbt/kits/ArcticSet.html>NBT</a>"
+    ],
+    [
+      "Furk's Kit",
+      "Furk_XV",
+      "Forged using God's materials",
+      "yellow_shulker_box",
+      "<a href=nbt/kits/FurksKit.html>NBT</a>"
+    ],
+    [
+      "God Box",
+      "Unknown",
+      "Kit of the HEAVENS",
+      "white_shulker_box",
+      "<a href=nbt/kits/GodBox.html>NBT</a>"
+    ],
+    [
+      "Aedan's gift kit",
+      "Unknown",
+      "Stuff",
+      "orange_shulker_box",
+      "<a href=nbt/kits/AedansGiftKit.html>NBT</a>"
     ]
   ]
 }
