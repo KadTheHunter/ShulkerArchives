@@ -1462,6 +1462,20 @@
       "Stuff",
       "orange_shulker_box",
       "<a href=nbt/kits/AedansGiftKit.html>NBT</a>"
+    ],
+    [
+      "[OLD] Nights Private Shulker Box",
+      "NightSoft",
+      "An old version of Nights Private Shulker Box",
+      "blue_shulker_box",
+      "<a href=nbt/kits/OLDNightsPrivateShulkerBox.html>NBT</a>"
+    ],
+    [
+      "Omega x Nightware",
+      "Night_Soft, Hooke_",
+      "Ωmega X ℵƪğǶŦɯǟřę",
+      "black_shulker_box",
+      "<a href=nbt/kits/OmegaxNightware.html>NBT</a>"
     ]
   ]
 }
