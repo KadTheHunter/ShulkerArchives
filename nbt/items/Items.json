@@ -29,11 +29,18 @@
       "<a href=../nbt/items/BottleOfSand.html>NBT</a>"
     ],
     [
+      "Parsa's God Pot",
+      "Parsa__",
+      "A God Potion",
+      "gray_shulker_box",
+      "<a href=/nbt/items/ParsasGodPot.html>NBT</a>"
+    ],
+    [
       "Insta-Netherite Kit",
       "CaliSakuraium",
       "Instant Netherite",
       "bundle",
-      "<a href=nbt/items/InstaNetheriteKit.html>NBT</a>"
+      "<a href=/nbt/items/InstaNetheriteKit.html>NBT</a>"
     ]
   ]
 }
