@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<meta name="description" content="A collection of NBT data for Unnamed Shulker Kits."/>
+
+<head>
+    <title>The Unnamed Archives</title>
+    <link rel="icon" type="image/png" href="../assets/favicon.ico"/>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <link rel="stylesheet" href="../assets/main.min.css"/>
+    <link rel="stylesheet" type="text/css" href="../assets/DataTables/datatables.min.css"/>
+</head>
+
+<header>
+    <span class="ShulkerLogoText"><a href="../index.html">Shulker Archives</a></span>
+    <p class="ShulkerLogo">
+        <video autoplay loop muted playsinline height="100px" width="100px">
+            <source src="../assets/Shulker_shooting.webm" type="video/webm" />
+        </video>
+    </p>
+    <h2>Welcome to the Unnamed Archives</h2>
+    <hr>
+    <a href="../html/UsingNBT.html">
+        <button class="button" type="button">Using NBT</button>
+    </a>
+    <a href="../html/Resources.html">
+        <button class="button" type="button">Resources</button>
+    </a>
+    <a href="../html/snbtlinter.html">
+        <button class="button" type="button">SNBT Linter</button>
+    </a>
+    <hr>
+    <p>Below is a list of archived Unnamed Kits, with links to their NBT.</p>
+    <p>If you would like to submit an item, please contact KaddicusAlmighty <br> on the TotalFreedom server via
+        <code>/mail</code>, or on Discord at <code>Kaddicus#2019</code></p>
+    <br>
+    <p>Check the buttons below for other Archives!</p>
+    <a href="../index.html">
+        <button class="button" type="button">Kits</button>
+    </a>
+    <a href="../html/books.html">
+        <button class="button" type="button">Books</button>
+    </a>
+    <hr>
+</header>
+
+<body class="Unnamed">
+<main class="Unnamed">
+    <div class="center">
+        <table id="unnamed">
+            <thead>
+            <tr>
+                <th>Author</th>
+                <th>Description</th>
+                <th>Item ID</th>
+                <th>NBT</th>
+            </tr>
+            </thead>
+        </table>
+    </div>
+</main>
+<div class="footer">
+    <p>Created by KaddicusAlmighty</p>
+</div>
+
+<script src="../assets/js/jquery-3.6.3.min.js"></script>
+
+<script type="text/javascript" charset="utf8" src="../assets/DataTables/datatables.min.js"></script>
+
+<script>
+    $(function () {
+        $("#unnamed").dataTable({
+            ajax: '../nbt/Unnamed/Unnamed.json',
+            "pagingType": "full_numbers",
+            "language": {
+                "zeroRecords": "No Items found :("
+            },
+            "columnDefs": [
+                {"searchable": false, "targets": 3}
+            ]
+        });
+    })
+</script>
+
+</body>
+
+</html>
