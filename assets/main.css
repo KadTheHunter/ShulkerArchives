@@ -9,15 +9,6 @@
     --usingnbtdiv: rgb(53, 57, 59);
 }
 
-[data-theme="old"] {
-    --background: rgb(43, 43, 43);
-    --altbackground: rgb(86, 86, 86);
-    --text: rgb(200, 200, 200);
-    --alttext: rgb(0, 255, 0);
-    --tableborder: rgb(255, 255, 255);
-    --usingnbtdiv: rgb(239, 239, 239);
-}
-
 
 /* General Settings */
 
