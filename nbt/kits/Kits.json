@@ -1840,6 +1840,69 @@
       "Ingressus",
       "red_shulker_box",
       "<a href=nbt/kits/Ingressus.html>NBT</a>"
+    ],
+    [
+      "Mobs secret cult items",
+      "Mob0",
+      "Items collected by Mob0",
+      "gray_shulker_box",
+      "<a href=nbt/kits/MobsSecretCultItems.html>NBT</a>"
+    ],
+    [
+      "N!emand's OP God Kit",
+      "N!emand",
+      "OP God Kit",
+      "gray_shulker_box",
+      "<a href=nbt/kits/N!emandsOPGodKit.html>NBT</a>"
+    ],
+    [
+      "NathanG152's SpecialKit",
+      "NathanG152",
+      "SpecialKit",
+      "light_blue_shulker_box",
+      "<a href=nbt/kits/NathanG152sSpecialKit.html>NBT</a>"
+    ],
+    [
+      "NiceGuySB Set",
+      "Unknown Author",
+      "NiceGuySB Set",
+      "lime_shulker_box",
+      "<a href=nbt/kits/NiceGuySBSet.html>NBT</a>"
+    ],
+    [
+      "Legend kit",
+      "Unknown Author",
+      "Legend kit",
+      "red_shulker_box",
+      "<a href=nbt/kits/Legendkit.html>NBT</a>"
+    ],
+    [
+      "Lolfaceftw's Gear",
+      "Lolfaceftw",
+      "Lolfaceftw's Gear",
+      "red_shulker_box",
+      "<a href=nbt/kits/LolfaceftwsGear.html>NBT</a>"
+    ],
+    [
+      "Loot:",
+      "BananaTheGamerYt",
+      "BananaTheGamerYt's Loot",
+      "lime_shulker_box",
+      "<a href=nbt/kits/Loot.html>NBT</a>"
+    ],
+    [
+      "Lootbox :)",
+      "Unknown Author",
+      "Lootbox :)",
+      "green_shulker_box",
+      "<a href=nbt/kits/Lootbox.html>NBT</a>"
+    ],
+    [
+      "Mighty Crate",
+      "Unknown Author",
+      "Mighty Crate",
+      "cyan_shulker_box",
+      "<a href=nbt/kits/MightyCrate.html>NBT</a>"
     ]
   ]
 }
