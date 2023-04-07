@@ -1903,6 +1903,321 @@
       "Mighty Crate",
       "cyan_shulker_box",
       "<a href=nbt/kits/MightyCrate.html>NBT</a>"
+    ],
+    [
+      "Nostalgia Kit",
+      "Unknown Author",
+      "Nostalgic",
+      "shulker_box",
+      "<a href=nbt/kits/NostalgiaKit.html>NBT</a>"
+    ],
+    [
+      "Omega Kit",
+      "Unknown Author",
+      "Omega Kit",
+      "magenta_shulker_box",
+      "<a href=nbt/kits/OmegaKit.html>NBT</a>"
+    ],
+    [
+      "Op Items",
+      "Unknown Author",
+      "Op Items",
+      "yellow_shulker_box",
+      "<a href=nbt/kits/OpItems.html>NBT</a>"
+    ],
+    [
+      "OP kit",
+      "Unknown Author",
+      "OP kit",
+      "light_blue_shulker_box",
+      "<a href=nbt/kits/OPkit.html>NBT</a>"
+    ],
+    [
+      "OP Shulker",
+      "Unknown Author",
+      "OP Shulker",
+      "red_shulker_box",
+      "<a href=nbt/kits/OPShulker.html>NBT</a>"
+    ],
+    [
+      "Nikki's Every-Day Stuff",
+      "Unknown Author",
+      "Every-Day Stuff",
+      "magenta_shulker_box",
+      "<a href=nbt/kits/NikkisEvery-DayStuff.html>NBT</a>"
+    ],
+    [
+      "Ninja Kit",
+      "Unknown Author",
+      "Turns you into a real Ninja!",
+      "black_shulker_box",
+      "<a href=nbt/kits/NinjaKit.html>NBT</a>"
+    ],
+    [
+      "Noah's Ultimate 8b8t Kit",
+      "Unknown Author",
+      "Ultimate 8b8t Kit",
+      "cyan_shulker_box",
+      "<a href=nbt/kits/NoahsUltimate8b8tKit.html>NBT</a>"
+    ],
+    [
+      "Nordic God Weapons",
+      "Unknown Author",
+      "Skadi like a melod-- no stop.",
+      "purple_shulker_box",
+      "<a href=nbt/kits/NordicGodWeapons.html>NBT</a>"
+    ],
+    [
+      "Rarity Nightmare Kit",
+      "Unknown Author",
+      "Rarity Nightmare Kit",
+      "red_shulker_box",
+      "<a href=nbt/kits/RarityNightmareKit.html>NBT</a>"
+    ],
+    [
+      "SBD ITEMS",
+      "Unknown Author",
+      "SBD ITEMS",
+      "red_shulker_box",
+      "<a href=nbt/kits/SBDITEMS.html>NBT</a>"
+    ],
+    [
+      "ScrapBlaster Kit",
+      "Unknown Author",
+      "ScrapBlaster Kit",
+      "yellow_shulker_box",
+      "<a href=nbt/kits/ScrapBlasterKit.html>NBT</a>"
+    ],
+    [
+      "Shadow Battle Shulker",
+      "Unknown Author",
+      "Shadow Battle Shulker",
+      "purple_shulker_box",
+      "<a href=nbt/kits/ShadowBattleShulker.html>NBT</a>"
+    ],
+    [
+      "OP SHULKER BOX: YeeterFlorian :)",
+      "YeeterFlorian",
+      "OP SHULKER BOX: YeeterFlorian",
+      "red_shulker_box",
+      "<a href=nbt/kits/OPSHULKERBOXYeeterFlorian.html>NBT</a>"
+    ],
+    [
+      "Phantom Lantern",
+      "Unknown Author",
+      "Phantom Lantern",
+      "gray_shulker_box",
+      "<a href=nbt/kits/PhantomLantern.html>NBT</a>"
+    ],
+    [
+      "Quartz",
+      "Unknown Author",
+      "Quartz",
+      "black_shulker_box",
+      "<a href=nbt/kits/Quartz.html>NBT</a>"
+    ],
+    [
+      "Rage Lootbox",
+      "Unknown Author",
+      "Rage Lootbox",
+      "orange_shulker_box",
+      "<a href=nbt/kits/RageLootbox.html>NBT</a>"
+    ],
+    [
+      "Random OP Kit",
+      "Unknown Author",
+      "Random OP Kit",
+      "orange_shulker_box",
+      "<a href=nbt/kits/RandomOPKit.html>NBT</a>"
+    ],
+    [
+      "Target Combat Crate",
+      "FilluS",
+      "Target Combat Crate",
+      "black_shulker_boxes",
+      "<a href=nbt/kits/TargetCombatCrate.html>NBT</a>"
+    ],
+    [
+      "The BestKit",
+      "Unknown Author",
+      "This Means You Got The BestKit",
+      "white_shulker_box",
+      "<a href=nbt/kits/TheBestKit.html>NBT</a>"
+    ],
+    [
+      "The Council Kit",
+      "Unknown Author",
+      "Warden X",
+      "purple_shulker_box",
+      "<a href=nbt/kits/TheCouncilKit.html>NBT</a>"
+    ],
+    [
+      "The End",
+      "Unknown Author",
+      "The End",
+      "purple_shulker_box",
+      "<a href=nbt/kits/TheEnd.html>NBT</a>"
+    ],
+    [
+      "Shrek Box Legendary Kit",
+      "BlockGodzilla",
+      "Shrek Box",
+      "green_shulker_box",
+      "<a href=nbt/kits/ShrekBoxLegendaryKit.html>NBT</a>"
+    ],
+    [
+      "Some stuff))))",
+      "__Winter__",
+      "Idk it's in russian or some shit",
+      "gray_shulker_box",
+      "<a href=nbt/kits/SomeStuff)))).html>NBT</a>"
+    ],
+    [
+      "Soulsand Valley Sniper Kit",
+      "Unknown Author",
+      "Soulsand Valley Sniper Kit",
+      "brown_shulker_box",
+      "<a href=nbt/kits/SoulSandValleySniperKit.html>NBT</a>"
+    ],
+    [
+      "Straight Pride Kit",
+      "Unknown Author",
+      "Holy fucking based, #StraightPride",
+      "white_shulker_box",
+      "<a href=nbt/kits/StraightPrideKit.html>NBT</a>"
+    ],
+    [
+      "Super [OP] Kit",
+      "Unknown Author",
+      "A collection of \"Super [OP]\" items.",
+      "yellow_shulker_box",
+      "<a href=nbt/kits/SuperOPKit.html>NBT</a>"
+    ],
+    [
+      "The OS Kit",
+      "EMPHACKS",
+      "The OS Kit",
+      "blue_shulker_box",
+      "<a href=nbt/kits/TheOSKit.html>NBT</a>"
+    ],
+    [
+      "The Soul Star Kit",
+      "Unknown Author",
+      "The Soul Star Kit",
+      "black_shulker_box",
+      "<a href=nbt/kits/TheSoulStarKit.html>NBT</a>"
+    ],
+    [
+      "THE STAFF KIT",
+      "r00t & QuacktasticMC",
+      "THE STAFF KIT",
+      "red_shulker_box",
+      "<a href=nbt/kits/THESTAFFKIT.html>NBT</a>"
+    ],
+    [
+      "TheTroll2001's Mega Abusive Shulker",
+      "TheTroll2001",
+      "TheTroll2001's stuff",
+      "orange_shulker_box",
+      "<a href=nbt/kits/TheTroll2001sMegaAbusiveShulker.html>NBT</a>"
+    ],
+    [
+      "THIS IS THE FIRST KIT I MADE PLS USE IT!",
+      "Unknown Author",
+      "This kit was \"made\" by a snot nosed 12 year old with too much access to Monster Energy and Mommy's Credit Card",
+      "black_shulker_box",
+      "<a href=nbt/kits/THISISTHEFIRSTKITIMADEPLSUSEIT.html>NBT</a>"
+    ],
+    [
+      "Tier - XVI - 3rd Edition Last gambit Kit",
+      "Unknown Author",
+      "Last Gambit",
+      "cyan_shulker_box",
+      "<a href=nbt/kits/Tier-XVI-ThirdEditionLastGambitKit.html>NBT</a>"
+    ],
+    [
+      "The Extremely Kit",
+      "Brawl_PvP",
+      "You've seen The BestKit, now see The Extremely Kit!",
+      "lime_shulker_box",
+      "<a href=nbt/kits/TheExtremelyKit.html>NBT</a>"
+    ],
+    [
+      "The Holy PvP Kit",
+      "Unknown Author",
+      "The Holy PvP Kit",
+      "shulker_box",
+      "<a href=nbt/kits/TheHolyPvPKit.html>NBT</a>"
+    ],
+    [
+      "THE LIME KIT",
+      "Unknown Author",
+      "THE LIME KIT",
+      "lime_shulker_box",
+      "<a href=nbt/kits/THELIMEKIT.html>NBT</a>"
+    ],
+    [
+      "UltimateKIT",
+      "Dast",
+      "Ultimate KIT",
+      "red_shulker_box",
+      "<a href=nbt/kits/UltimateKIT.html>NBT</a>"
+    ],
+    [
+      "xCryobyte's Kit",
+      "xCryobyte",
+      "xCryobyte's Kit",
+      "blue_shulker_box",
+      "<a href=nbt/kits/xCryobytesKit.html>NBT</a>"
+    ],
+    [
+      "VoidGod Armor Kit",
+      "Unknown Author",
+      "VoidGod Armor Kit",
+      "cyan_shulker_box",
+      "<a href=nbt/kits/VoidGodArmorKit.html>NBT</a>"
+    ],
+    [
+      "ZCraft Legends",
+      "Unknown Author",
+      "ZCraft Legends",
+      "lime_shulker_box",
+      "<a href=nbt/kits/ZCraftLegends.html>NBT</a>"
+    ],
+    [
+      "Ultima Kit",
+      "Unknown Author",
+      "Ultima Kit",
+      "shulker_box",
+      "<a href=nbt/kits/UltimaKit.html>NBT</a>"
+    ],
+    [
+      "Whale-PvP Kit",
+      "notaproboi",
+      "Whale-PvP Kit",
+      "cyan_shulker_box",
+      "<a href=nbt/kits/Whale-PvPKit.html>NBT</a>"
+    ],
+    [
+      "Tommy Kit",
+      "Unknown Author",
+      "Tommy Kit",
+      "gray_shulker_box",
+      "<a href=nbt/kits/TommyKit.html>NBT</a>"
+    ],
+    [
+      "Ultrasheeplord's Items",
+      "Ultrasheeplord",
+      "Ultrasheeplord's Items",
+      "light_blue_shulker_box",
+      "<a href=nbt/kits/UltrasheeplordsItems.html>NBT</a>"
+    ],
+    [
+      "xDragoncatx's Kit",
+      "xDragoncatx",
+      "xDragoncatx's Kit",
+      "black_shulker_box",
+      "<a href=nbt/kits/xDragoncatxsKit.html>NBT</a>"
     ]
   ]
 }
