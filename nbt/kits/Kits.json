@@ -2218,6 +2218,13 @@
       "xDragoncatx's Kit",
       "black_shulker_box",
       "<a href=nbt/kits/xDragoncatxsKit.html>NBT</a>"
+    ],
+    [
+      "GD Kit",
+      "UltimEVB",
+      "Geometry Dash Kit",
+      "black_shulker_box",
+      "<a href=nbt/kits/GDKit.html>NBT</a>"
     ]
   ]
 }
