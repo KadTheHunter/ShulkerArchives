@@ -2225,6 +2225,13 @@
       "Geometry Dash Kit",
       "black_shulker_box",
       "<a href=nbt/kits/GDKit.html>NBT</a>"
+    ],
+    [
+      "Cringe Kit",
+      "UltimEVB",
+      "It's Cringe",
+      "brown_shulker_box",
+      "<a href=nbt/kits/CringeKit.html>NBT</a>"
     ]
   ]
 }
