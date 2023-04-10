@@ -2246,6 +2246,13 @@
       "Player Heads depicting all sorts of food",
       "white_shulker_box",
       "<a href=nbt/kits/FoodPlayerHead.html>NBT</a>"
+    ],
+    [
+      "The Eternal Shulker",
+      "Qartonix",
+      "The Eternal Shulker",
+      "black_shulker_box",
+      "<a href=nbt/kits/TheEternalShulker.html>NBT</a>"
     ]
   ]
 }
