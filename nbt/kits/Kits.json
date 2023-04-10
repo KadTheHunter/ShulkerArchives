@@ -2253,6 +2253,13 @@
       "The Eternal Shulker",
       "black_shulker_box",
       "<a href=nbt/kits/TheEternalShulker.html>NBT</a>"
+    ],
+    [
+      "Wide Kit",
+      "UltimEVB",
+      "Contains widescreen versions of the heads of videogamesm12, KaddicusAlmighty, AeroAnaconda, decyj145, Parsa__ and Nevako",
+      "green_shulker_box",
+      "<a href=nbt/kits/WideKit.html>NBT</a>"
     ]
   ]
 }
