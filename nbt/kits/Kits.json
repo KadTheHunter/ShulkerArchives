@@ -2232,6 +2232,13 @@
       "It's Cringe",
       "brown_shulker_box",
       "<a href=nbt/kits/CringeKit.html>NBT</a>"
+    ],
+    [
+      "Galaxy Kit",
+      "Troube",
+      "Error 404",
+      "light_blue_shulker_box",
+      "<a href=nbt/kits/GalaxyKit.html>NBT</a>"
     ]
   ]
 }
