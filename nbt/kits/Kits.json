@@ -2260,6 +2260,34 @@
       "Contains widescreen versions of the heads of videogamesm12, KaddicusAlmighty, AeroAnaconda, decyj145, Parsa__ and Nevako",
       "green_shulker_box",
       "<a href=nbt/kits/WideKit.html>NBT</a>"
+    ],
+    [
+      "Angels of Death Kit",
+      "christophermav",
+      "Angels of Death Kit",
+      "white_shulker_box",
+      "<a href=nbt/kits/AngelsOfDeathKit.html>NBT</a>"
+    ],
+    [
+      "Echo Set",
+      "christophermav",
+      "Echo Set",
+      "green_shulker_box",
+      "<a href=nbt/kits/EchoSet.html>NBT</a>"
+    ],
+    [
+      "Infinity Kit",
+      "christophermav",
+      "Infinity Kit",
+      "blue_shulker_box",
+      "<a href=nbt/kits/InfinityKit.html>NBT</a>"
+    ],
+    [
+      "Kyrengard Kit",
+      "christophermav",
+      "Kyrengard Kit",
+      "red_shulker_box",
+      "<a href=nbt/kits/KyrengardKit.html>NBT</a>"
     ]
   ]
 }
