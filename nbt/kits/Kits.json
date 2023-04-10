@@ -2239,6 +2239,13 @@
       "Error 404",
       "light_blue_shulker_box",
       "<a href=nbt/kits/GalaxyKit.html>NBT</a>"
+    ],
+    [
+      "FoodPlayerHead",
+      "Unknown Author",
+      "Player Heads depicting all sorts of food",
+      "white_shulker_box",
+      "<a href=nbt/kits/FoodPlayerHead.html>NBT</a>"
     ]
   ]
 }
