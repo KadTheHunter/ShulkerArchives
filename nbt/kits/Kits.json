@@ -2288,6 +2288,237 @@
       "Kyrengard Kit",
       "red_shulker_box",
       "<a href=nbt/kits/KyrengardKit.html>NBT</a>"
+    ],
+    [
+      "FLUX",
+      "FileExtension",
+      "FLUX",
+      "white_shulker_box",
+      "<a href=nbt/kits/FLUX.html>NBT</a>"
+    ],
+    [
+      "Frostbitten Crate",
+      "FileExtension",
+      "Frostbitten PvP Crate",
+      "light_blue_shulker_box",
+      "<a href=nbt/kits/FrostbittenCrate.html>NBT</a>"
+    ],
+    [
+      "Synflex",
+      "FileExtension",
+      "Synflex The Set!",
+      "red_shulker_box",
+      "<a href=nbt/kits/Synflex.html>NBT</a>"
+    ],
+    [
+      "Ultraviolet Crate",
+      "FileExtension",
+      "Ultraviolet Crate",
+      "magenta_shulker_box",
+      "<a href=nbt/kits/UltravioletCrate.html>NBT</a>"
+    ],
+    [
+      "Enders Revenge",
+      "FileExtension",
+      "Enders Revenge",
+      "purple_shulker_box",
+      "<a href=nbt/kits/EndersRevenge.html>NBT</a>"
+    ],
+    [
+      "File.exeSet",
+      "FileExtension",
+      "File.exeSet",
+      "white_shulker_box",
+      "<a href=nbt/kits/File.exeSet.html>NBT</a>"
+    ],
+    [
+      "FileExtension's Latest Crate (9/6/2020)",
+      "FileExtension",
+      "Files latest crate",
+      "black_shulker_box",
+      "<a href=nbt/kits/FileExtensionsLatestCrate(9-6-2020).html>NBT</a>"
+    ],
+    [
+      "Kat's Horse Kit",
+      "Katsuo",
+      "Kat's Horse Kit",
+      "black_shulker_box",
+      "<a href=nbt/kits/KatsHorseKit.html>NBT</a>"
+    ],
+    [
+      "Kat's Kit",
+      "Katsuo",
+      "Kat's Kit",
+      "cyan_shulker_box",
+      "<a href=nbt/kits/KatsKit.html>NBT</a>"
+    ],
+    [
+      "Katsuo's Assassination Kit Updated",
+      "Katsuo",
+      "Katsuo's Assassination Kit Updated",
+      "white_shulker_box",
+      "<a href=nbt/kits/KatsuosAssassinationKitUpdated.html>NBT</a>"
+    ],
+    [
+      "Azure Lightning",
+      "Katsuo",
+      "Heaven's light has descended...",
+      "cyan_shulker_box",
+      "<a href=nbt/kits/AzureLightning.html>NBT</a>"
+    ],
+    [
+      "Chest of The Arcane Titans",
+      "Katsuo & xXezboyzeXx",
+      "Chest of The Arcane Titans",
+      "black_shulker_box",
+      "<a href=nbt/kits/ChestOfTheArcaneTitans.html>NBT</a>"
+    ],
+    [
+      "Chest of The Arcane Titans Revamped",
+      "Katsuo & xXezboyzeXx",
+      "Chest of The Arcane Titans Revamped",
+      "black_shulker_box",
+      "<a href=nbt/kits/ChestOfTheArcaneTitans[REVAMPED].html>NBT</a>"
+    ],
+    [
+      "Circle Kit",
+      "Katsuo",
+      "It builds a circle with command blocks",
+      "yellow_shulker_box",
+      "<a href=nbt/kits/CircleKit.html>NBT</a>"
+    ],
+    [
+      "Dark Companion Kit",
+      "Katsuo",
+      "Used uniquely by Dark Team",
+      "black_shulker_box",
+      "<a href=nbt/kits/DarkCompanionKit.html>NBT</a>"
+    ],
+    [
+      "Kat's Box Of Toyz",
+      "Katsuo",
+      "Kat's Bof of Toyz",
+      "yellow_shulker_box",
+      "<a href=nbt/kits/KatsBoxOfToyz.html>NBT</a>"
+    ],
+    [
+      "Narnia Dev",
+      "Katsuo & xXezboyzeXx",
+      "Narnia Dev",
+      "blue_shulker_box",
+      "<a href=nbt/kits/NarniaDev.html>NBT</a>"
+    ],
+    [
+      "Narnian Falchion Kit Dev",
+      "Katsuo__",
+      "Narnian Falchion Kit Dev",
+      "black_shulker_box",
+      "<a href=nbt/kits/NarnianFalchionKitDev.html>NBT</a>"
+    ],
+    [
+      "Narnia TF Version",
+      "Katsuo & xXezboyzeXx",
+      "Narnia TF Version",
+      "blue_shulker_box",
+      "<a href=nbt/kits/NarniaTFVersion.html>NBT</a>"
+    ],
+    [
+      "Katsuo's Bookend",
+      "Katsuo",
+      "Made for the Kit Archives, it provides copies of Kat's Character Books, and a guide on how Katsuo makes kits and items.",
+      "red_shulker_box",
+      "<a href=nbt/kits/KatsuosBookend.html>NBT</a>"
+    ],
+    [
+      "Katsuo Skyblock Kit",
+      "Katsuo",
+      "A collection of Skyblock items",
+      "magenta_shulker_box",
+      "<a href=nbt/kits/KatsuoSkyblockKit.html>NBT</a>"
+    ],
+    [
+      "Last Gambit Kit Final Edition",
+      "Katsuo",
+      "Last Gambit Kit Final Edition",
+      "cyan_shulker_box",
+      "<a href=nbt/kits/LastGambitKitFinalEdition.html>NBT</a>"
+    ],
+    [
+      "Light Companion Kit",
+      "Katsuo",
+      "Used uniquely by Light Team",
+      "white_shulker_box",
+      "<a href=nbt/kits/LightCompanionKit.html>NBT</a>"
+    ],
+    [
+      "Midnight Rising",
+      "Katsuo",
+      "Forged on Minus-05",
+      "white_shulker_box",
+      "<a href=nbt/kits/MidnightRising.html>NBT</a>"
+    ],
+    [
+      "Mob Mallicia",
+      "Katsuo",
+      "Mob Mallicia",
+      "light_blue_shulker_box",
+      "<a href=nbt/kits/MobMallicia.html>NBT</a>"
+    ],
+    [
+      "The Ultimate Katsuo Kit",
+      "Katsuo",
+      "The Ultimate Katsuo Kit",
+      "blue_shulker_box",
+      "<a href=nbt/kits/TheUltimateKatsuoKit.html>NBT</a>"
+    ],
+    [
+      "Tread Lightly",
+      "Katsuo",
+      "Tread Lightly...",
+      "gray_shulker_box",
+      "<a href=nbt/kits/TreadLightly.html>NBT</a>"
+    ],
+    [
+      "Ultimate Katsuo Kit V2",
+      "Katsuo",
+      "Ultimate Katsuo Kit V2",
+      "blue_shulker_box",
+      "<a href=nbt/kits/UltimateKatsuoKitV2.html>NBT</a>"
+    ],
+    [
+      "Rd Wntr",
+      "Katsuo",
+      "Red Winter is Coming",
+      "black_shulker_box",
+      "<a href=nbt/kits/RdWntr.html>NBT</a>"
+    ],
+    [
+      "Splitting Dawn Kit",
+      "Katsuo & xXezboyzeXx",
+      "Splitting Dawn Kit",
+      "yellow_shulker_box",
+      "<a href=nbt/kits/SplittingDawnKit.html>NBT</a>"
+    ],
+    [
+      "[The Exclusive Katsuo's Originals]",
+      "Katsuo",
+      "[The Exclusive Katsuo's Originals]",
+      "black_shulker_box",
+      "<a href=nbt/kits/TheExclusiveKatsuosOriginals.html>NBT</a>"
+    ],
+    [
+      "The Long Overdue Katsuo PVP Kit",
+      "Katsuo",
+      "The Long Overdue Katsuo PVP Kit",
+      "green_shulker_box",
+      "<a href=nbt/kits/TheLongOverdueKatsuoPVPKit.html>NBT</a>"
+    ],
+    [
+      "The Originals Kit",
+      "Katsuo",
+      "The Originals Kit",
+      "black_shulker_box",
+      "<a href=nbt/kits/TheOriginalsKit.html>NBT</a>"
     ]
   ]
 }
