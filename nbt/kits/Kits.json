@@ -2694,6 +2694,104 @@
       "Orange Troll Crate",
       "orange_shulker_box",
       "<a href=nbt/kits/OrangeTrollCrate.html>NBT</a>"
+    ],
+    [
+      "Mob0's Shulker",
+      "Mob0",
+      "Mob0's Shulker",
+      "pink_shulker_box",
+      "<a href=nbt/kits/Mob0sShulker.html>NBT</a>"
+    ],
+    [
+      "Thanos Kit",
+      "Mob0",
+      "Thanos Kit",
+      "purple_shulker_box",
+      "<a href=nbt/kits/ThanosKit.html>NBT</a>"
+    ],
+    [
+      "The Exterminator Reborn",
+      "Mob0",
+      "The Exterminator Reborn",
+      "black_shulker_box",
+      "<a href=nbt/kits/TheExterminatorReborn.html>NBT</a>"
+    ],
+    [
+      "_KermitDeFrog's Shulker",
+      "Mob0",
+      "_KermitDeFrog's Shulker",
+      "lime_shulker_box",
+      "<a href=nbt/kits/_KermitDeFrogsShulker.html>NBT</a>"
+    ],
+    [
+      "Holy Armor",
+      "Mob0",
+      "Holy Armor",
+      "red_shulker_box",
+      "<a href=nbt/kits/HolyArmor.html>NBT</a>"
+    ],
+    [
+      "HowMagical's Shulker",
+      "Mob0",
+      "HowMagical's Shulker",
+      "black_shulker_box",
+      "<a href=nbt/kits/HowMagicalsShulker.html>NBT</a>"
+    ],
+    [
+      "infinity.inc Supply Crate",
+      "Mob0",
+      "infinity.inc Supply Crate",
+      "light_blue_shulker_box",
+      "<a href=nbt/kits/infinity.incSupplyCrate.html>NBT</a>"
+    ],
+    [
+      "Nether Box",
+      "0800_Hybrid",
+      "Nether Box",
+      "red_shulker_box",
+      "<a href=nbt/kits/NetherBox.html>NBT</a>"
+    ],
+    [
+      "The Overseer's Chest",
+      "0800_Hybrid",
+      "The Overseer's Chest",
+      "yellow_shulker_box",
+      "<a href=nbt/kits/TheOverseersChest.html>NBT</a>"
+    ],
+    [
+      "0800_Hybrid's 1.6 MCPE Flowers",
+      "0800_Hybrid",
+      "0800_Hybrid's 1.6 MCPE Flowers",
+      "light_gray_shulker_box",
+      "<a href=nbt/kits/0800_Hybrids1.6MCPEFlowers.html>NBT</a>"
+    ],
+    [
+      "0800 Hybrid",
+      "0800_Hybrid",
+      "0800 Hybrid",
+      "light_blue_shulker_box",
+      "<a href=nbt/kits/0800Hybrid.html>NBT</a>"
+    ],
+    [
+      "Crate of Happiness",
+      "0800_Hybrid",
+      "Crate of Happiness",
+      "gray_shulker_box",
+      "<a href=nbt/kits/CrateOfHappiness.html>NBT</a>"
+    ],
+    [
+      "Infinitium",
+      "0800_Hybrid",
+      "Infinitium",
+      "white_shulker_box",
+      "<a href=nbt/kits/Infinitium.html>NBT</a>"
+    ],
+    [
+      "Metal Box",
+      "0800_Hybrid",
+      "Metal Box",
+      "lime_shulker_box",
+      "<a href=nbt/kits/MetalBox.html>NBT</a>"
     ]
   ]
 }
