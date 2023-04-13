@@ -2617,6 +2617,83 @@
       "Teslas's Griefing Kit v3.5.2",
       "black_shulker_box",
       "<a href=nbt/kits/TeslasGriefingKitv3.5.2.html>NBT</a>"
+    ],
+    [
+      "Spawn Egg BS",
+      "SuperRyn",
+      "Spawn Egg BS",
+      "pink_shulker_box",
+      "<a href=nbt/kits/SpawnEggBS.html>NBT</a>"
+    ],
+    [
+      "Spawn Renovation Kit",
+      "SuperRyn",
+      "Spawn Renovation Kit",
+      "brown_shulker_box",
+      "<a href=nbt/kits/SpawnRenovationKit.html>NBT</a>"
+    ],
+    [
+      "SuperRyn's Custom Item Pack 1",
+      "SuperRyn",
+      "SuperRyn's Custom Item Pack 1",
+      "green_shulker_box",
+      "<a href=nbt/kits/SuperRynsCustomItemPack1.html>NBT</a>"
+    ],
+    [
+      "Infection Kit",
+      "SuperRyn",
+      "Infection Kit",
+      "lime_shulker_box",
+      "<a href=nbt/kits/InfectionKit.html>NBT</a>"
+    ],
+    [
+      "Low-power Item Box 1",
+      "SuperRyn",
+      "Low-power Item Box 1",
+      "light_gray_shulker_box",
+      "<a href=nbt/kits/Low-powerItemBox1.html>NBT</a>"
+    ],
+    [
+      "Purge Kit",
+      "SuperRyn",
+      "Purge Kit",
+      "green_shulker_box",
+      "<a href=nbt/kits/PurgeKit_SuperRyn.html>NBT</a>"
+    ],
+    [
+      "Space Crate",
+      "Aarooncia",
+      "Space Crate",
+      "blue_shulker_box",
+      "<a href=nbt/kits/SpaceCrate.html>NBT</a>"
+    ],
+    [
+      "Trump Crate",
+      "Aarooncia",
+      "Trump Crate",
+      "cyan_shulker_box",
+      "<a href=nbt/kits/TrumpCrate.html>NBT</a>"
+    ],
+    [
+      "Yellowhanded Crate",
+      "Aarooncia",
+      "Yellowhanded Crate",
+      "yellow_shulker_box",
+      "<a href=nbt/kits/YellowhandedCrate.html>NBT</a>"
+    ],
+    [
+      "Food",
+      "Aarooncia",
+      "Food",
+      "light_blue_shulker_box",
+      "<a href=nbt/kits/Food.html>NBT</a>"
+    ],
+    [
+      "Orange Troll Crate",
+      "Aarooncia",
+      "Orange Troll Crate",
+      "orange_shulker_box",
+      "<a href=nbt/kits/OrangeTrollCrate.html>NBT</a>"
     ]
   ]
 }
