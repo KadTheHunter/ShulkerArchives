@@ -381,21 +381,21 @@
     [
       "EMP Kit",
       "Unknown Author",
-      "A basic PvP kit, contains crossbow, fireworks, OP armor and stick and a shield.",
+      "A basic PvP kit, contains crossbow, fireworks, OP armor, a stick and a shield.",
       "purple_shulker_box",
       "<a href=nbt/kits/EMPKit.html>NBT</a>"
     ],
     [
       "NASA Kit",
       "Unknown Author",
-      "NASA Kit",
+      "NASA-inspired kit. Contains some armor and items.",
       "cyan_shulker_box",
       "<a href=nbt/kits/NASAKit.html>NBT</a>"
     ],
     [
       "DIY Kit",
       "Unknown Author",
-      "DIY Kit",
+      "A kit that contains armor made out of cardboard and some tools.",
       "brown_shulker_box",
       "<a href=nbt/kits/DIYKit.html>NBT</a>"
     ],
@@ -423,56 +423,56 @@
     [
       "Jack's Hacked Items",
       "Unknown Author",
-      "Jack's Hacked Items",
+      "Contains 4 potions and binoculars.",
       "gray_shulker_box",
       "<a href=nbt/kits/JacksHackedItems.html>NBT</a>"
     ],
     [
       "Gem Box",
       "Unknown Author",
-      "Gem Box",
+      "Contains Dragon Armor (epic) and some non-existant ores.",
       "gray_shulker_box",
       "<a href=nbt/kits/GemBox.html>NBT</a>"
     ],
     [
       "Lore items from TF",
       "Unknown Author",
-      "Lore items from TF",
+      "Lore art items from TotalFreedom Minecraft server.",
       "blue_shulker_box",
       "<a href=nbt/kits/LoreitemsfromTF.html>NBT</a>"
     ],
     [
       "COOLER MASTER pc case",
       "Unknown Author",
-      "COOLER MASTER pc case",
+      "A \"PC Case\" which contains items with cool names.",
       "gray_shulker_box",
       "<a href=nbt/kits/COOLERMASTERpccase.html>NBT</a>"
     ],
     [
       "Penis At Spawn Kit",
       "Folfy_Blue",
-      "Penis At Spawn Kit",
+      "\"MOOOOOOOOOODS!\" Contains nothing interesting.",
       "pink_shulker_box",
       "<a href=nbt/kits/PenisAtSpawnKit.html>NBT</a>"
     ],
     [
       "Oclyc's Awesome Shulker Box!",
       "Oclyc",
-      "Oclyc's Awesome Shulker Box!",
+      "Spawn eggs, lore art and stuff.",
       "black_shulker_box",
       "<a href=nbt/kits/OclycsAwesomeShulkerBox.html>NBT</a>"
     ],
     [
       "Light Box",
       "Unknown Author",
-      "A box full of Light!",
+      "Let there be Light!",
       "yellow_shulker_box",
       "<a href=nbt/kits/LightBox.html>NBT</a>"
     ],
     [
       "AMOGUS KIT",
       "Unknown Author",
-      "AMOGUS KIT",
+      "STOP POSTING ABOUT AMONG US, IM TIRED OF SEEING IT!",
       "red_shulker_box",
       "<a href=nbt/kits/AMOGUSKIT.html>NBT</a>"
     ],
@@ -493,7 +493,7 @@
     [
       "hackworks box",
       "Unknown Author",
-      "hackworks box",
+      "Some \"illegal stuff\".",
       "cyan_shulker_box",
       "<a href=nbt/kits/hackworksbox.html>NBT</a>"
     ],
