@@ -3,7 +3,7 @@
     [
       "深量 Omega Humane Kit 深量",
       "BuildingAbyss90",
-      "A kit with a death-potion, OP armor on an armor stand, a fishing rod, and a water bucket.",
+      "A kit with a death-potion, armor stand with OP armor, a fishing rod, and a water bucket.",
       "red_shulker_box",
       "<a href=nbt/kits/OmegaHumaneKit.html>NBT</a>"
     ],
@@ -360,7 +360,7 @@
     [
       "Blue's Kit of Madness",
       "Unknown Author",
-      "A kit that contains armor with insane attributes and over-powered swords. Lame.",
+      "A kit that contains armor with insane attributes and over-powered swords.",
       "blue_shulker_box",
       "<a href=nbt/kits/BluesKitOfMadness.html>NBT</a>"
     ],
@@ -437,7 +437,7 @@
     [
       "Lore items from TF",
       "Unknown Author",
-      "Lore art items from TotalFreedom Minecraft server.",
+      "Lore art items from the TotalFreedom Minecraft server.",
       "blue_shulker_box",
       "<a href=nbt/kits/LoreitemsfromTF.html>NBT</a>"
     ],
@@ -451,14 +451,14 @@
     [
       "Penis At Spawn Kit",
       "Folfy_Blue",
-      "\"MOOOOOOOOOODS!\" Contains nothing interesting.",
+      "Totally contains nothing interesting.",
       "pink_shulker_box",
       "<a href=nbt/kits/PenisAtSpawnKit.html>NBT</a>"
     ],
     [
       "Oclyc's Awesome Shulker Box!",
       "Oclyc",
-      "Spawn eggs, lore art and stuff.",
+      "Spawn eggs, lore art and other stuff.",
       "black_shulker_box",
       "<a href=nbt/kits/OclycsAwesomeShulkerBox.html>NBT</a>"
     ],
