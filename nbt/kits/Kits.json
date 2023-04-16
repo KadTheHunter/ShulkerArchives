@@ -2841,6 +2841,104 @@
       "Pokebox Y⚱i",
       "pink_shulker_box",
       "<a href=nbt/kits/PokeboxYoi.html>NBT</a>"
+    ],
+    [
+      "Shade Set",
+      "Shyrix",
+      "Shade Set",
+      "gray_shulker_box",
+      "<a href=nbt/kits/ShadeSet.html>NBT</a>"
+    ],
+    [
+      "Shyrix's Cringe Items",
+      "Shyrix",
+      "Shyrix's Cringe Items",
+      "light_blue_shulker_box",
+      "<a href=nbt/kits/ShyrixsCringeItems.html>NBT</a>"
+    ],
+    [
+      "Shyrix's Sharp Object",
+      "Shyrix",
+      "An iron axe with constantly changing Attack Damage",
+      "white_shulker_box",
+      "<a href=nbt/kits/ShyrixsSharpObject.html>NBT</a>"
+    ],
+    [
+      "Apex Set (Diamond)",
+      "Shyrix",
+      "Apex Set (Diamond)",
+      "blue_shulker_box",
+      "<a href=nbt/kits/ApexSet(Diamond).html>NBT</a>"
+    ],
+    [
+      "Apex Set",
+      "Shyrix",
+      "Apex Set",
+      "black_shulker_box",
+      "<a href=nbt/kits/ApexSet.html>NBT</a>"
+    ],
+    [
+      "Apex V2",
+      "Shyrix",
+      "Apex V2",
+      "white_shulker_box",
+      "<a href=nbt/kits/ApexV2.html>NBT</a>"
+    ],
+    [
+      "Old TF Items",
+      "Shyrix",
+      "OLD TF Items",
+      "orange_shulker_box",
+      "<a href=nbt/kits/OldTFItems.html>NBT</a>"
+    ],
+    [
+      "Helth",
+      "Enchilada12",
+      "Helth",
+      "pink_shulker_box",
+      "<a href=nbt/kits/Helth.html>NBT</a>"
+    ],
+    [
+      "Legend of Zelda Kit",
+      "Enchilada12",
+      "Legend of Zelda Kit",
+      "blue_shulker_box",
+      "<a href=nbt/kits/LegendofZeldaKit.html>NBT</a>"
+    ],
+    [
+      "RapidDeployKit",
+      "Enchilada12",
+      "RapidDeployKit",
+      "yellow_shulker_box",
+      "<a href=nbt/kits/RapidDeployKit.html>NBT</a>"
+    ],
+    [
+      "ShibaKit",
+      "Enchilada12",
+      "ShibaKit",
+      "black_shulker_box",
+      "<a href=nbt/kits/ShibaKit.html>NBT</a>"
+    ],
+    [
+      "Compact Kit",
+      "Enchilada12",
+      "Compact Kit",
+      "shulker_box",
+      "<a href=nbt/kits/CompactKit.html>NBT</a>"
+    ],
+    [
+      "FBI Agent Kit",
+      "Enchilada12",
+      "FBI Agent Kit",
+      "black_shulker_box",
+      "<a href=nbt/kits/FBIAgentKit.html>NBT</a>"
+    ],
+    [
+      "GoldKit",
+      "Enchilada12",
+      "GoldKit",
+      "yellow_shulker_box",
+      "<a href=nbt/kits/GoldKit.html>NBT</a>"
     ]
   ]
 }
