@@ -2939,6 +2939,69 @@
       "GoldKit",
       "yellow_shulker_box",
       "<a href=nbt/kits/GoldKit.html>NBT</a>"
+    ],
+    [
+      "AUCreator Nostalgia v1.35",
+      "AUCreator",
+      "AUCreator Nostalgia v1.35",
+      "green_shulker_box",
+      "<a href=nbt/kits/AUCreatorNostalgiav1.35.html>NBT</a>"
+    ],
+    [
+      "Legit Kit",
+      "AUCreator",
+      "Contains the basics of PvP Combat, in a neat row.",
+      "light_blue_shulker_box",
+      "<a href=nbt/kits/LegitKit.html>NBT</a>"
+    ],
+    [
+      "Pac-Man.exe",
+      "AUCreator / PacMax1121",
+      "Pac-Man.exe",
+      "blue_shulker_box",
+      "<a href=nbt/kits/Pac-Man.exe.html>NBT</a>"
+    ],
+    [
+      "Power_Star Kit by Kirby10bc",
+      "AUCreator / Kirby10bc",
+      "Power_Star Kit by Kirby10bc",
+      "black_shulker_box",
+      "<a href=nbt/kits/Power_StarKitbyKirby10bc.html>NBT</a>"
+    ],
+    [
+      "True Hero's Kit",
+      "PacMax1121",
+      "Contains a handful of PvP items with Lore written in Japanese",
+      "red_shulker_box",
+      "<a href=nbt/kits/TrueHerosKit.html>NBT</a>"
+    ],
+    [
+      "Alpha Kit of 1.16+",
+      "AUCreator",
+      "Alpha Kit of 1.16+",
+      "blue_shulker_box",
+      "<a href=nbt/kits/AlphaKitOf1.16+.html>NBT</a>"
+    ],
+    [
+      "AU!EnderKirby of the Supernovas",
+      "AUCreator",
+      "AU!EnderKirby of the Supernovas",
+      "blue_shulker_box",
+      "<a href=nbt/kits/AU!EnderKirbyOfTheSupernovas.html>NBT</a>"
+    ],
+    [
+      "AUCreator + Kirby10bc",
+      "AUCreator / Kirby10bc",
+      "AUCreator + Kirby10bc",
+      "blue_shulker_box",
+      "<a href=nbt/kits/AUCreator+Kirby10bc.html>NBT</a>"
+    ],
+    [
+      "AUCreator Nostalgia v1.0",
+      "AUCreator",
+      "AUCreator Nostalgia v1.0",
+      "red_shulker_box",
+      "<a href=nbt/kits/AUCreatorNostalgiav1.0.html>NBT</a>"
     ]
   ]
 }
