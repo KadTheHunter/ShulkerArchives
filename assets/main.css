@@ -65,6 +65,17 @@ a:hover {
     color: rgb(255, 121, 255);
 }
 
+a[download]:link {
+    color: rgb(0, 140, 255);
+    text-decoration: underline;
+}
+
+a[download]:hover,
+a[download]:focus {
+    color: rgb(255, 121, 255);
+    text-decoration: none;
+}
+
 
 /* Title Settings */
 
@@ -161,45 +172,6 @@ input[type=search] {
 
 select {
     color: var(--alttext);
-}
-
-
-/* NBT Settings */
-
-pre {
-    display: block;
-    position: relative;
-    font-family: Consolas, "courier new", sans-serif;
-    color: rgb(0, 255, 0);
-    background-color: rgb(23, 23, 23);
-    padding: 1.75rem 0 1.75rem 1rem;
-    font-size: 66%;
-    white-space: pre-wrap;
-}
-
-pre button {
-    position: absolute;
-    background-color: rgb(23, 23, 23);
-    border: 0 solid #ffffff;
-    color: rgb(0, 255, 0);
-    top: 5px;
-    right: 5px;
-}
-
-pre button:hover {
-    border: 2px solid rgb(0, 255, 0);
-    border-radius: 5px;
-}
-
-a[download]:link {
-    color: rgb(0, 140, 255);
-    text-decoration: underline;
-}
-
-a[download]:hover,
-a[download]:focus {
-    color: rgb(255, 121, 255);
-    text-decoration: none;
 }
 
 
