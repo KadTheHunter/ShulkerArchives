@@ -5,6 +5,7 @@
     --altbackground: rgb(65, 70, 73);
     --text: rgb(200, 200, 200);
     --alttext: rgb(0, 255, 0);
+    --altalttext: rgb(0, 255, 255);
     --tableborder: rgb(48, 52, 54);
     --usingnbtdiv: rgb(53, 57, 59);
 }
@@ -167,11 +168,23 @@ td:hover {
 }
 
 input[type=search] {
-    color: rgb(0, 255, 255);
+    color: var(--altalttext);
 }
 
 select {
     color: var(--alttext);
+}
+
+tfoot tr.cus-footer th{
+    background: var(--background);
+}
+tfoot input {
+    width: 100%;
+    padding: 3px;
+    box-sizing: border-box;
+    border: 1px solid var(--text);
+    background: var(--background);
+    color: var(--altalttext);
 }
 
 

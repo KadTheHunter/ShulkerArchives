@@ -59,10 +59,17 @@
             <tr>
                 <th>Kit Name</th>
                 <th>Author</th>
-                <th class="sorttable_nosort">Description</th>
-                <th class="sorttable_nosort">NBT</th>
+                <th>Description</th>
+                <th>NBT</th>
             </tr>
             </thead>
+            <tfoot>
+            <tr class="cus-footer">
+                <th>Kit Name</th>
+                <th>Author</th>
+                <th>Description</th>
+            </tr>
+            </tfoot>
         </table>
     </div>
 </main>
@@ -80,15 +87,15 @@
             stateSave: true,
             ajax: 'nbt/kits/Kits.json',
             pagingType: "full_numbers",
-            columns: [
-                {
-                    width: "25%"
-                }
-            ],
+            autoWidth: false,
             columnDefs: [
                 {
-                    "searchable": false,
-                    "targets": 3
+                    searchable: false,
+                    targets: 3
+                },
+                {
+                    sortable: false,
+                    targets: -1
                 }
             ],
             language: [
@@ -97,7 +104,25 @@
                 }
             ]
         });
-    })
+
+        $('#kits tfoot tr.cus-footer th').each(function () {
+            var title = $(this).text();
+            $(this).html('<input type="text" placeholder="Search by '+title+'" />');
+        });
+
+        var table = $('#kits').DataTable();
+        table.columns([0,1,2]).every(function () {
+            var that = this;
+
+            $('input', this.footer()).on('keyup change', function () {
+                if (that.search() !== this.value) {
+                    that
+                        .search(this.value)
+                        .draw();
+                }
+            });
+        });
+    });
 </script>
 
 </body>

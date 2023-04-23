@@ -62,6 +62,13 @@
                 <th>NBT</th>
             </tr>
             </thead>
+            <tfoot>
+            <tr class="cus-footer">
+                <th>Item Name</th>
+                <th>Author</th>
+                <th>Description</th>
+            </tr>
+            </tfoot>
         </table>
     </div>
 </main>
@@ -79,15 +86,15 @@
             stateSave: true,
             ajax: '../nbt/items/Items.json',
             pagingType: "full_numbers",
-            columns: [
-                {
-                    width: "25%"
-                }
-            ],
+            autoWidth: false,
             columnDefs: [
                 {
-                    "searchable": false,
-                    "targets": 3
+                    searchable: false,
+                    targets: 3
+                },
+                {
+                    sortable: false,
+                    targets: -1
                 }
             ],
             language: [
@@ -96,7 +103,25 @@
                 }
             ]
         });
-    })
+
+        $('#items tfoot tr.cus-footer th').each(function () {
+            var title = $(this).text();
+            $(this).html('<input type="text" placeholder="Search by '+title+'" />');
+        });
+
+        var table = $('#items').DataTable();
+        table.columns([0,1,2]).every(function () {
+            var that = this;
+
+            $('input', this.footer()).on('keyup change', function () {
+                if (that.search() !== this.value) {
+                    that
+                        .search(this.value)
+                        .draw();
+                }
+            });
+        });
+    });
 </script>
 
 </body>
