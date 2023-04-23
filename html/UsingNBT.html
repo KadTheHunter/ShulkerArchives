@@ -42,13 +42,6 @@
             <li><a href="#Introduction">Introduction</a></li>
             <li><a href="#Prerequisites">Prerequisites</a></li>
             <li><a href="#UsingNBTFiles">Using NBT Files</a></li>
-            <li><a href="#UsingSNBT">Using SNBT</a></li>
-            <ul>
-                <li class=""><a href="#UsingSNBT--NBTEditor">Importing SNBT via NBT Editor</a></li>
-                <li class=""><a href="#UsingSNBT--IBEEditor">Importing SNBT via IBE Editor</a></li>
-                <li class=""><a href="#UsingSNBT--MeteorClient">Importing SNBT via Meteor Client</a></li>
-                <li class=""><a href="#UsingSNBT--DataMerge">A Note on Data Merge</a></li>
-            </ul>
             <li><a href="#CreatingKitsItems">Creating Kits & Items</a></li>
             <ul>
                 <li class=""><a href="#CreatingKitsItems--IBEEditor">IBE Editor</a></li>
@@ -59,12 +52,6 @@
             <li><a href="#ExportingKitsItems">Exporting Kits & Items</a></li>
             <ul>
                 <li><a href="#ExportingKitsItems--NBTFiles">Exporting as .nbt files</a></li>
-                <li><a href="#ExportingKitsItems--SNBT">Exporting as SNBT</a></li>
-                <ul>
-                    <li><a href="#ExportingKitsItems--SNBT--NBTEditor">Exporting SNBT via NBT Editor</a></li>
-                    <li><a href="#ExportingKitsItems--SNBT--IBEEditor">Exporting SNBT via IBE Editor</a></li>
-                    <li><a href="#ExportingKitsItems--SNBT--MeteorClient">Exporting SNBT via Meteor Client</a></li>
-                </ul>
             </ul>
             <li><a href="#MiscNBTInformation">Misc. NBT Information</a></li>
             <li><a href="#Index">Index</a></li>
@@ -108,66 +95,6 @@
                 screen.</p>
             <p>NBT Editor should automatically add the Kit or Item contained in the .nbt file into your Inventory,
                 using the first available slot.</p>
-        </section>
-        <hr>
-        <section id="UsingSNBT" class="UsingNBT">
-            <h3>Using SNBT</h3>
-            <p>The secondary core of the Archives: SNBT. But how do you use it?</p>
-            <p>There are a variety of ways to use S(tringified)NBT (that's what SNBT stands for!), but each has its
-                own issues. We'll go over three of the most common methods below: NBT Editor, IBE Editor, and Meteor
-                Client.</p>
-            <p><i><b>Please note that Items containing NaN/Inf attributes will NOT retain those attributes when
-                obtained from any source that uses SNBT. Only Hotbars and .nbt files can successfully save
-                Nan/Inf attributes.</b></i></p>
-        </section>
-        <hr>
-        <section id="UsingSNBT--NBTEditor" class="UsingNBT">
-            <h3>NBT Editor</h3>
-            <p>This method doesn't involve any additional mods besides those in Prerequisites, and is in the middle
-                in terms of difficulty and ease-of-use.</p>
-            <p>To use the SNBT, first copy the SNBT using the provided button.</p>
-            <p>Once copied, open your inventory and hover over the item you wish to add the SNBT to, then click the
-                spacebar.</p>
-            <p>In the NBT Editor menu choose the button labeled 'Expand', remove any SNBT in the form it brings up,
-                then paste the SNBT in.</p>
-            <p>Choose 'Done', 'Save Changes', and exit the Menu.</p>
-            <p>Voila, you have your new Kit or Item!</p>
-        </section>
-        <hr>
-        <section id="UsingSNBT--IBEEditor" class="UsingNBT">
-            <h3>IBE Editor</h3>
-            <p>For this method, you will of course need <a
-                    href="https://modrinth.com/mod/ibe-editor/version/2.2.2%2B1.19.3-fabric">IBE Editor</a>.</p>
-            <p>If you need to use SNBT, IBE Editor is the best option. It has the bonus functionality of being
-                excellent for NBT Editing and Item Creation, while also being fairly easy to use to add or edit
-                SNBT.</p>
-            <p>To use the SNBT, copy the SNBT either manually, or with the copy button provided on the page.</p>
-            <p>Then, while holding the item you wish to edit, open IBE's 'SNBT Editor' menu and click right before
-                the closing curly brace.</p>
-            <p>Type <code>,tag:</code> and then paste the SNBT in after it. Choose 'Done'.</p>
-            <p>Voila, you have your new Kit or Item!</p>
-        </section>
-        <hr>
-        <section id="UsingSNBT--MeteorClient" class="UsingNBT">
-            <h3>Meteor Client</h3>
-            <p>For this method, you will of course need <a href="https://meteorclient.com/">Meteor Client</a>.</p>
-            <p>Meteor Client is easily the worst option of the three for SNBT (or any NBT for that matter), but it
-                does work, and many like to use it.</p>
-            <p>First, copy the SNBT using the provided button.</p>
-            <p>Once copied, hold the item you wish to apply the SNBT to, then open chat and type <code>.nbt paste</code>.
-            </p>
-            <p>Hit enter, and it should be applied.</p>
-            <p>Voila, you have your new Kit or Item!</p>
-        </section>
-        <hr>
-        <section id="UsingSNBT--DataMerge" class="UsingNBT">
-            <h3>A Note on Data Merge</h3>
-            <p>A common command associated with NBT is <code>/data merge</code>.</p>
-            <p>While the SNBT provided by these Archives is, to a degree, useable with this command, it has a major drawback:</p>
-            <p>Name and Lore of the containing storage (Chest, Barrel, Shulker, etc) will not be added.</p>
-            <p>In addition to this, using the <code>/data merge</code> command for Shulker Kits is an ordeal in and of itself, involving Command Blocks, Fiddly Coordinates, and significant manual editing of the SNBT.</p>
-            <p>For these reasons, instructions on this command will <b>NOT</b> be provided here, and support will not be given to those seeking to use this command.</p>
-            <p><i>For those who will say "but my Vanilla Client only supports <code>/data merge</code>!", <b>too bad</b>. There is zero reason <b>not</b> to use a modded client when working with NBT, even if you're just browsing Shulker Kits and not actually editing items.</i></p>
         </section>
         <hr>
         <section id="CreatingKitsItems" class="UsingNBT">
@@ -246,40 +173,6 @@
             <p>While holding the Kit or Item you wish to export, open chat and type <code>/nbt export file</code>.
             </p>
             <p>Voila! It is now exported as a .nbt file, located in <code>.minecraft/nbteditor/exported/</code></p>
-        </section>
-        <hr>
-        <section id="ExportingKitsItems--SNBT" class="UsingNBT">
-            <h3>Exporting as SNBT</h3>
-            <p>The secondary method of export is as SNBT.</p>
-            <p>To do so, you will need NBT Editor <i>or</i> IBE Editor <i>or</i> Meteor Client.</p>
-        </section>
-        <hr>
-        <section id="ExportingKitsItems--SNBT--NBTEditor" class="UsingNBT">
-            <h3>Exporting SNBT via NBT Editor</h3>
-            <p>Open your inventory, hover over the Kit or Item you wish to export, and press spacebar.</p>
-            <p>Choose 'Expand', then click onto the form it brings up, press CTRL+A and then CTRL+C to copy the SNBT
-                to your clipboard.</p>
-            <p>Voila! You now have the SNBT of that Kit or Item.</p>
-        </section>
-        <hr>
-        <section id="ExportingKitsItems--SNBT--IBEEditor" class="UsingNBT">
-            <h3>Exporting SNBT via IBE Editor</h3>
-            <p>Hold the Kit or Item you wish to export, and open the SNBT Editor by pressing the assigned hotkey
-                (default is <code>R</code>)</p>
-            <p>Click onto the form it brings up, press CTRL+A and then CTRL+C to copy the SNBT to your clipboard.
-            </p>
-            <p><i>Please note that IBE prefaces SNBT with additional data, e.g:</i>
-                <code>{Count:1,id:"minecraft:white_shulker_box",tag:}</code> <i>which must be removed or altered
-                    prior to using the copied SNBT.</i>
-            </p>
-            <p>Voila! You now have the SNBT of that Kit or Item.</p>
-        </section>
-        <hr>
-        <section id="ExportingKitsItems--SNBT--MeteorClient" class="UsingNBT">
-            <h3>Exporting SNBT via Meteor Client</h3>
-            <p>Hold the Kit or Item you wish to export, and open chat.</p>
-            <p>Type <code>.nbt copy</code> in chat.</p>
-            <p>Voila! You now have the SNBT of that kit or Item.</p>
         </section>
         <hr>
         <section id="MiscNBTInformation" class="UsingNBT">
