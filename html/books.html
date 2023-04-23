@@ -14,9 +14,9 @@
 <header>
     <span class="ShulkerLogoText"><a href="../index.html">Shulker Archives</a></span>
     <p class="ShulkerLogo">
-            <video autoplay loop muted playsinline height="100px" width="100px">
-                <source src="../assets/Shulker_shooting.webm" type="video/webm" />
-            </video>
+        <video autoplay loop muted playsinline height="100px" width="100px">
+            <source src="../assets/Shulker_shooting.webm" type="video/webm"/>
+        </video>
     </p>
     <h2>Welcome to the Book Archives</h2>
     <hr>
@@ -27,7 +27,7 @@
         <button class="button" type="button">Resources</button>
     </a>
     <a href="../html/snbtlinter.html">
-            <button class="button" type="button">SNBT Linter</button>
+        <button class="button" type="button">SNBT Linter</button>
     </a>
     <a href="../html/Information.html">
         <button class="button" type="button">Information</button>
@@ -78,12 +78,22 @@
         $("#books").dataTable({
             stateSave: true,
             ajax: '../nbt/books/Books.json',
-            "pagingType": "full_numbers",
-            "language": {
-                "zeroRecords": "No Books found :("
-            },
-            "columnDefs": [
-                {"searchable": false, "targets": 3}
+            pagingType: "full_numbers",
+            columns: [
+                {
+                    width: "25%"
+                }
+            ],
+            columnDefs: [
+                {
+                    "searchable": false,
+                    "targets": 3
+                }
+            ],
+            language: [
+                {
+                    zeroRecords: "No Books found :("
+                }
             ]
         });
     })

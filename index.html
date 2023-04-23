@@ -79,12 +79,22 @@
         $("#kits").dataTable({
             stateSave: true,
             ajax: 'nbt/kits/Kits.json',
-            "pagingType": "full_numbers",
-            "language": {
-                "zeroRecords": "No Kits found :("
-            },
-            "columnDefs": [
-                {"searchable": false, "targets": 3}
+            pagingType: "full_numbers",
+            columns: [
+                {
+                    width: "25%"
+                }
+            ],
+            columnDefs: [
+                {
+                    "searchable": false,
+                    "targets": 3
+                }
+            ],
+            language: [
+                {
+                zeroRecords: "No Kits found :("
+                }
             ]
         });
     })
