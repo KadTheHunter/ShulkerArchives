@@ -161,6 +161,7 @@ td {
 
 table {
     border-collapse: collapse;
+    white-space: normal;
 }
 
 td:hover {
