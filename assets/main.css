@@ -178,6 +178,7 @@ select {
 tfoot tr.cus-footer th{
     background: var(--background);
 }
+
 tfoot input {
     width: 100%;
     padding: 3px;
