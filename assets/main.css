@@ -300,6 +300,10 @@ section.UsingNBT code {
     color: rgb(255, 121, 255);
 }
 
+article.altresource {
+    font-style: italic;
+}
+
 
 /* NBT Lint */
 
