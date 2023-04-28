@@ -2776,6 +2776,78 @@
       "DashTheDevilDog",
       "Model D4 Box",
       "<a href=nbt/kits/nbt/ModelD4Box.nbt>NBT</a>"
+    ],
+    [
+      "Friction Shulker Box",
+      "Emphacks",
+      "Friction Shulker Box",
+      "<a href=nbt/kits/nbt/FrictionShulkerBox.nbt>NBT</a>"
+    ],
+    [
+      "God Shulker Box",
+      "Emphacks",
+      "God Shulker Box",
+      "<a href=nbt/kits/nbt/GodShulkerBox.nbt>NBT</a>"
+    ],
+    [
+      "Irix Shulker Box",
+      "Emphacks",
+      "Irix Shulker Box",
+      "<a href=nbt/kits/nbt/IrixShulkerBox.nbt>NBT</a>"
+    ],
+    [
+      "Angel Crate",
+      "Emphacks",
+      "Angel Crate",
+      "<a href=nbt/kits/nbt/AngelCrate.nbt>NBT</a>"
+    ],
+    [
+      "AppleKit",
+      "Emphacks",
+      "AppleKit",
+      "<a href=nbt/kits/nbt/AppleKit.nbt>NBT</a>"
+    ],
+    [
+      "Death'sKIT",
+      "Emphacks",
+      "Death'sKIT",
+      "<a href=nbt/kits/nbt/DeathsKIT.nbt>NBT</a>"
+    ],
+    [
+      "Depression Kit",
+      "Emphacks",
+      "Depression Kit",
+      "<a href=nbt/kits/nbt/DepressionKit.nbt>NBT</a>"
+    ],
+    [
+      "Emp Shulker Box",
+      "Emphacks",
+      "Emp Shulker Box",
+      "<a href=nbt/kits/nbt/EmpShulkerBox.nbt>NBT</a>"
+    ],
+    [
+      "Evolutionary Kit",
+      "Emphacks",
+      "Evolutionary Kit",
+      "<a href=nbt/kits/nbt/EvolutionaryKit.nbt>NBT</a>"
+    ],
+    [
+      "Rainbow Shulker Box",
+      "Emphacks",
+      "Rainbow Shulker Box",
+      "<a href=nbt/kits/nbt/RainbowShulkerBox.nbt>NBT</a>"
+    ],
+    [
+      "THEDARKAGES",
+      "Emphacks",
+      "THEDARKAGES",
+      "<a href=nbt/kits/nbt/THEDARKAGES.nbt>NBT</a>"
+    ],
+    [
+      "ParanormalKit",
+      "Emphacks",
+      "ParanormalKit",
+      "<a href=nbt/kits/nbt/ParanormalKit.nbt>NBT</a>"
     ]
   ]
 }
