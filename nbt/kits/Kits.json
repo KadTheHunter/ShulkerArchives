@@ -2848,6 +2848,12 @@
       "Emphacks",
       "ParanormalKit",
       "<a href=nbt/kits/nbt/ParanormalKit.nbt>NBT</a>"
+    ],
+    [
+      "Magical Box",
+      "UltimEVB",
+      "Magical Box",
+      "<a href=nbt/kits/nbt/MagicalBox.nbt>NBT</a>"
     ]
   ]
 }
