@@ -92,12 +92,6 @@
       "<a href=nbt/kits/nbt/假操作系统.nbt download>NBT</a>"
     ],
     [
-      "Vex Kit v1",
-      "GioVarquez",
-      "It's like the Sudo Kits, but with the vex command?",
-      "<a href=nbt/kits/nbt/VexKitv1>NBT</a>"
-    ],
-    [
       "RyanUwU",
       "RyanUwU",
       "RyanUwU Kit",
@@ -2578,6 +2572,210 @@
       "AUCreator",
       "AUCreator Nostalgia v1.0",
       "<a href=nbt/kits/nbt/AUCreatorNostalgiav1.0.nbt download>NBT</a>"
+    ],
+    [
+      "C0SMOS",
+      "GioVarquez",
+      "C0SMOS",
+      "<a href=nbt/kits/nbt/C0SMOS.nbt>NBT</a>"
+    ],
+    [
+      "Operator Armor",
+      "GioVarquez",
+      "Operator Armor",
+      "<a href=nbt/kits/nbt/OperatorArmor.nbt>NBT</a>"
+    ],
+    [
+      "Hymoon",
+      "GioVarquez",
+      "Hymoon",
+      "<a href=nbt/kits/nbt/Hymoon.nbt>NBT</a>"
+    ],
+    [
+      "Items V2",
+      "GioVarquez",
+      "Items V2",
+      "<a href=nbt/kits/nbt/ItemsV2.nbt>NBT</a>"
+    ],
+    [
+      "GioVarquez",
+      "GioVarquez",
+      "GioVarquez",
+      "<a href=nbt/kits/nbt/GioVarquez.nbt>NBT</a>"
+    ],
+    [
+      "Fallen Kit",
+      "GioVarquez",
+      "Fallen Kit",
+      "<a href=nbt/kits/nbt/FallenKit.nbt>NBT</a>"
+    ],
+    [
+      "Demi God",
+      "GioVarquez",
+      "Demi God",
+      "<a href=nbt/kits/nbt/DemiGod.nbt>NBT</a>"
+    ],
+    [
+      "Illegal Kit",
+      "GioVarquez",
+      "Illegal Kit",
+      "<a href=nbt/kits/nbt/IllegalKit.nbt>NBT</a>"
+    ],
+    [
+      "GioVarquez Item Collection",
+      "GioVarquez",
+      "GioVarquez Item Collection",
+      "<a href=nbt/kits/nbt/GioVarquezItemCollection.nbt>NBT</a>"
+    ],
+    [
+      "The Covid-19 Shulker",
+      "GioVarquez",
+      "The Covid-19 Shulker",
+      "<a href=nbt/kits/nbt/TheCovid-19Shulker.nbt>NBT</a>"
+    ],
+    [
+      "Unknown Armored",
+      "GioVarquez",
+      "Unknown Armored",
+      "<a href=nbt/kits/nbt/UnknownArmored.nbt>NBT</a>"
+    ],
+    [
+      "VET",
+      "GioVarquez",
+      "Veteran Potion",
+      "<a href=nbt/kits/nbt/VET.nbt>NBT</a>"
+    ],
+    [
+      "VEX Kit V1",
+      "GioVarquez",
+      "VEX Kit V1",
+      "<a href=nbt/kits/nbt/VEXKitV1.nbt>NBT</a>"
+    ],
+    [
+      "Predator's Kit",
+      "GioVarquez",
+      "Predator's Kit",
+      "<a href=nbt/kits/nbt/PredatorsKit.nbt>NBT</a>"
+    ],
+    [
+      "SHIT KIT L",
+      "GioVarquez",
+      "SHIT KIT L",
+      "<a href=nbt/kits/nbt/SHITKITL.nbt>NBT</a>"
+    ],
+    [
+      "Skeleton",
+      "GioVarquez",
+      "Skeleton",
+      "<a href=nbt/kits/nbt/Skeleton.nbt>NBT</a>"
+    ],
+    [
+      "TentaBlacks2",
+      "GioVarquez",
+      "TentaBlacks2",
+      "<a href=nbt/kits/nbt/TentaBlacks2.nbt>NBT</a>"
+    ],
+    [
+      "Halloween 2020 Frankenstein Costume",
+      "DashTheDevilDog",
+      "Halloween 2020 Frankenstein Costume",
+      "<a href=nbt/kits/nbt/Halloween2020FrankensteinCostume.nbt>NBT</a>"
+    ],
+    [
+      "Halloween 2020 Grim Costume",
+      "DashTheDevilDog",
+      "Halloween 2020 Grim Costume",
+      "<a href=nbt/kits/nbt/Halloween2020GrimCostume.nbt>NBT</a>"
+    ],
+    [
+      "Halloween 2020 T-Rex Costume",
+      "DashTheDevilDog",
+      "Halloween 2020 T-Rex Costume",
+      "<a href=nbt/kits/nbt/Halloween2020T-RexCostume.nbt>NBT</a>"
+    ],
+    [
+      "Halloween 2020 Yeehaw Costume",
+      "DashTheDevilDog",
+      "Halloween 2020 Yeehaw Costume",
+      "<a href=nbt/kits/nbt/Halloween2020YeehawCostume.nbt>NBT</a>"
+    ],
+    [
+      "Dash's Anti Coronavirus Kit",
+      "DashTheDevilDog",
+      "Dash's Anti Coronavirus Kit",
+      "<a href=nbt/kits/nbt/DashsAntiCoronavirusKit.nbt>NBT</a>"
+    ],
+    [
+      "Dash's Revenge Kit",
+      "DashTheDevilDog",
+      "Dash's Revenge Kit",
+      "<a href=nbt/kits/nbt/DashsRevengeKit.nbt>NBT</a>"
+    ],
+    [
+      "dash's robot factory kits",
+      "DashTheDevilDog",
+      "dash's robot factory kits",
+      "<a href=nbt/kits/nbt/dashsrobotfactorykits.nbt>NBT</a>"
+    ],
+    [
+      "DevilTech PC Box",
+      "DashTheDevilDog",
+      "DevilTech PC Box",
+      "<a href=nbt/kits/nbt/DevilTechPCBox.nbt>NBT</a>"
+    ],
+    [
+      "Halloween 2020 Dragon Costume",
+      "DashTheDevilDog",
+      "Halloween 2020 Dragon Costume",
+      "<a href=nbt/kits/nbt/Halloween2020DragonCostume.nbt>NBT</a>"
+    ],
+    [
+      "Orium Armor Box",
+      "DashTheDevilDog",
+      "Orium Armor Box",
+      "<a href=nbt/kits/nbt/OriumArmorBox.nbt>NBT</a>"
+    ],
+    [
+      "Red Rover Armor Mk-2 Containment Unit",
+      "DashTheDevilDog",
+      "Red Rover Armor Mk-2 Containment Unit",
+      "<a href=nbt/kits/nbt/RedRoverArmorMk-2ContainmentUnit.nbt>NBT</a>"
+    ],
+    [
+      "Sollee Sauce 4 Pack",
+      "DashTheDevilDog",
+      "Sollee Sauce 4 Pack",
+      "<a href=nbt/kits/nbt/SolleeSauce4Pack.nbt>NBT</a>"
+    ],
+    [
+      "TFGenerations Dash",
+      "DashTheDevilDog",
+      "TFGenerations Dash",
+      "<a href=nbt/kits/nbt/TFGenerationsDash.nbt>NBT</a>"
+    ],
+    [
+      "Toy Crate",
+      "DashTheDevilDog",
+      "Toy Crate",
+      "<a href=nbt/kits/nbt/ToyCrate.nbt>NBT</a>"
+    ],
+    [
+      "Via-Kit",
+      "DashTheDevilDog",
+      "Via-Kit",
+      "<a href=nbt/kits/nbt/Via-Kit.nbt>NBT</a>"
+    ],
+    [
+      "Mk-3 Warper Armor Containment Unit",
+      "DashTheDevilDog",
+      "Mk-3 Warper Armor Containment Unit",
+      "<a href=nbt/kits/nbt/Mk-3WarperArmorContainmentUnit.nbt>NBT</a>"
+    ],
+    [
+      "Model D4 Box",
+      "DashTheDevilDog",
+      "Model D4 Box",
+      "<a href=nbt/kits/nbt/ModelD4Box.nbt>NBT</a>"
     ]
   ]
 }
