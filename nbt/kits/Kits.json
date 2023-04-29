@@ -2854,6 +2854,12 @@
       "UltimEVB",
       "Magical Box",
       "<a href=nbt/kits/nbt/MagicalBox.nbt>NBT</a>"
+    ],
+    [
+      "ThirtyFangs Legacy Kit",
+      "ThirtyFangs",
+      "This kit gives you powerful items and spawn eggs used to troll, as well as an exploit",
+      "<a href=nbt/kits/nbt/ThirtyFangsLegacyKit.nbt>NBT</a>"
     ]
   ]
 }
