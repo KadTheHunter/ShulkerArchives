@@ -72,7 +72,7 @@
             </tr>
             </thead>
             <tfoot>
-            <tr>
+            <tr class="cus-footer">
                 <th>Author</th>
                 <th>Description</th>
             </tr>
@@ -118,7 +118,7 @@
         });
 
         var table = $('#unnamed').DataTable();
-        table.columns([0,1,2]).every(function () {
+        table.columns([0,1]).every(function () {
             var that = this;
 
             $('input', this.footer()).on('keyup change', function () {
