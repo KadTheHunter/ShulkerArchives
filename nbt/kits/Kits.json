@@ -2858,6 +2858,102 @@
       "ThirtyFangs",
       "This kit gives you powerful items and spawn eggs used to troll, as well as an exploit",
       "<a href=nbt/kits/nbt/ThirtyFangsLegacyKit.nbt download>NBT</a>"
+    ],
+    [
+      "Furry Sword",
+      "Yurni",
+      "Furry Sword",
+      "<a href=nbt/kits/nbt/FurrySword.nbt download>NBT</a>"
+    ],
+    [
+      "Kanst's Mom",
+      "Yurni",
+      "Kanst's Mom",
+      "<a href=nbt/kits/nbt/KanstsMom.nbt download>NBT</a>"
+    ],
+    [
+      "Kill Arrow Proofing",
+      "Yurni",
+      "Kill Arrow Proofing",
+      "<a href=nbt/kits/nbt/KillArrowProofing.nbt download>NBT</a>"
+    ],
+    [
+      "Wings",
+      "Yurni",
+      "Wings",
+      "<a href=nbt/kits/nbt/Wings.nbt download>NBT</a>"
+    ],
+    [
+      "1.8 PvP",
+      "Yurni",
+      "1.8 PvP",
+      "<a href=nbt/kits/nbt/1.8PvP.nbt download>NBT</a>"
+    ],
+    [
+      "Boredum Kit",
+      "Yurni",
+      "Boredum Kit",
+      "<a href=nbt/kits/nbt/BoredumKit.nbt download>NBT</a>"
+    ],
+    [
+      "Egirl Kit",
+      "Yurni",
+      "Egirl Kit",
+      "<a href=nbt/kits/nbt/EgirlKit.nbt download>NBT</a>"
+    ],
+    [
+      "Fuck Kit Thieves",
+      "Yurni",
+      "Fuck Kit Thieves",
+      "<a href=nbt/kits/nbt/FuckKitThieves.nbt download>NBT</a>"
+    ],
+    [
+      "Fuck nohoeslolol",
+      "Yurni",
+      "Fuck nohoeslolol",
+      "<a href=nbt/kits/nbt/Fucknohoeslolol.nbt download>NBT</a>"
+    ],
+    [
+      "Yurni's Public 1.17+ Kit",
+      "Yurni",
+      "Yurni's Public 1.17+ Kit",
+      "<a href=nbt/kits/nbt/YurnisPublic1.17+Kit.nbt download>NBT</a>"
+    ],
+    [
+      "Yurni's Revamped Kit",
+      "Yurni",
+      "Yurni's Revamped Kit",
+      "<a href=nbt/kits/nbt/YurnisRevampedKit#0001.nbt download>NBT</a>"
+    ],
+    [
+      "Yurni's Revamped Kit",
+      "Yurni",
+      "Yurni's Revamped Kit (but in <b>Bold</b>",
+      "<a href=nbt/kits/nbt/YurnisRevampedKit.nbt download>NBT</a>"
+    ],
+    [
+      "Yurni Wanted A Pink Weapon",
+      "Yurni",
+      "Yurni Wanted A Pink Weapon",
+      "<a href=nbt/kits/nbt/YurniWantedAPinkWeapon.nbt download>NBT</a>"
+    ],
+    [
+      "Yurni Kit End Of TF",
+      "Yurni",
+      "Yurni Kit End Of TF",
+      "<a href=nbt/kits/nbt/YurniKitEndOfTF.nbt download>NBT</a>"
+    ],
+    [
+      "Yurni's Int Limit",
+      "Yurni",
+      "Yurni's Int Limit",
+      "<a href=nbt/kits/nbt/YurnisIntLimit.nbt download>NBT</a>"
+    ],
+    [
+      "Yurni's old kit. Old name",
+      "Yurni",
+      "Yurni's old kit. Old name",
+      "<a href=nbt/kits/nbt/YurnisOldKitOldName.nbt download>NBT</a>"
     ]
   ]
 }
