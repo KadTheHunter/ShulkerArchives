@@ -2954,6 +2954,144 @@
       "Yurni",
       "Yurni's old kit. Old name",
       "<a href=nbt/kits/nbt/YurnisOldKitOldName.nbt download>NBT</a>"
+    ],
+    [
+      "Custom Spawn Eggs 1",
+      "bigboypadilla",
+      "Custom Spawn Eggs 1",
+      "<a href=nbt/kits/nbt/CustomSpawnEggs1.nbt download>NBT</a>"
+    ],
+    [
+      "Custom Spawn Eggs 2",
+      "bigboypadilla",
+      "Custom Spawn Eggs 2",
+      "<a href=nbt/kits/nbt/CustomSpawnEggs2.nbt download>NBT</a>"
+    ],
+    [
+      "Immortal Slabs",
+      "bigboypadilla",
+      "Immortal Slabs",
+      "<a href=nbt/kits/nbt/ImmortalSlabs.nbt download>NBT</a>"
+    ],
+    [
+      "Interesting Blocks",
+      "bigboypadilla",
+      "Interesting Blocks",
+      "<a href=nbt/kits/nbt/InterestingBlocks.nbt download>NBT</a>"
+    ],
+    [
+      "Interesting Blocks 2",
+      "bigboypadilla",
+      "Interesting Blocks 2",
+      "<a href=nbt/kits/nbt/InterestingBlocks2.nbt download>NBT</a>"
+    ],
+    [
+      "127 Filled Dispensers",
+      "bigboypadilla",
+      "127 Filled Dispensers",
+      "<a href=nbt/kits/nbt/127FilledDispensers.nbt download>NBT</a>"
+    ],
+    [
+      "Best Possible Vanilla Kit",
+      "bigboypadilla",
+      "Best Possible Vanilla Kit",
+      "<a href=nbt/kits/nbt/BestPossibleVanillaKit.nbt download>NBT</a>"
+    ],
+    [
+      "Custom Armorstands",
+      "bigboypadilla",
+      "Custom Armorstands",
+      "<a href=nbt/kits/nbt/CustomArmorstands.nbt download>NBT</a>"
+    ],
+    [
+      "Illegal Stacked Items",
+      "bigboypadilla",
+      "Illegal Stacked Items",
+      "<a href=nbt/kits/nbt/IllegalStackedItems.nbt download>NBT</a>"
+    ],
+    [
+      "//replace Proof Blocks 1",
+      "bigboypadilla",
+      "//replace Proof Blocks 1",
+      "<a href=nbt/kits/nbt/replaceProofBlocks1.nbt download>NBT</a>"
+    ],
+    [
+      "//replace Proof Blocks 2",
+      "bigboypadilla",
+      "//replace Proof Blocks 2",
+      "<a href=nbt/kits/nbt/replaceProofBlocks2.nbt download>NBT</a>"
+    ],
+    [
+      "Structure Chest Loot Tables 1",
+      "bigboypadilla",
+      "Structure Chest Loot Tables 1",
+      "<a href=nbt/kits/nbt/StructureChestLootTables1.nbt download>NBT</a>"
+    ],
+    [
+      "Structure Chest Loot Tables 2",
+      "bigboypadilla",
+      "Structure Ches tLoot Tables 2",
+      "<a href=nbt/kits/nbt/StructureChestLootTables2.nbt download>NBT</a>"
+    ],
+    [
+      "Item Advancement Disabler",
+      "bigboypadilla",
+      "Item Advancement Disabler",
+      "<a href=nbt/kits/nbt/ItemAdvancementDisabler.nbt download>NBT</a>"
+    ],
+    [
+      "Locked Buttons",
+      "bigboypadilla",
+      "Locked Buttons",
+      "<a href=nbt/kits/nbt/LockedButtons.nbt download>NBT</a>"
+    ],
+    [
+      "Locked Pressure Plates",
+      "bigboypadilla",
+      "Locked Pressure Plates",
+      "<a href=nbt/kits/nbt/LockedPressurePlates.nbt download>NBT</a>"
+    ],
+    [
+      "Locked Storage",
+      "bigboypadilla",
+      "Locked Storage",
+      "<a href=nbt/kits/nbt/LockedStorage.nbt download>NBT</a>"
+    ],
+    [
+      "Overpowered Potions",
+      "bigboypadilla",
+      "Overpowered Potions",
+      "<a href=nbt/kits/nbt/OverpoweredPotions.nbt download>NBT</a>"
+    ],
+    [
+      "Unobtainable Items in Survival",
+      "bigboypadilla",
+      "Unobtainable Items in Survival",
+      "<a href=nbt/kits/nbt/UnobtainableItemsInSurvival.nbt download>NBT</a>"
+    ],
+    [
+      "Weaponized Enemy Spawn Eggs",
+      "bigboypadilla",
+      "Weaponized Enemy Spawn Eggs",
+      "<a href=nbt/kits/nbt/WeaponizedEnemySpawnEggs.nbt download>NBT</a>"
+    ],
+    [
+      "Technical Block Spawn Eggs",
+      "bigboypadilla",
+      "Technical Block Spawn Eggs",
+      "<a href=nbt/kits/nbt/TechnicalBlockSpawnEggs.nbt download>NBT</a>"
+    ],
+    [
+      "These Blocks Dont Exist",
+      "bigboypadilla",
+      "These Blocks Dont Exist",
+      "<a href=nbt/kits/nbt/TheseBlocksDontExist.nbt download>NBT</a>"
+    ],
+    [
+      "UnobtainableItems",
+      "bigboypadilla",
+      "UnobtainableItems",
+      "<a href=nbt/kits/nbt/UnobtainableItems-bigboypadilla.nbt download>NBT</a>"
     ]
   ]
 }
