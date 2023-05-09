@@ -3332,6 +3332,24 @@
       "OperatorTheDope",
       "Tax Collector's Toolkit",
       "<a href=nbt/kits/nbt/TaxCollectorsToolkit.nbt download>NBT</a>"
+    ],
+    [
+      "I/OP | Rating: Beginner",
+      "OperatorTheDope",
+      "I/OP | Rating: Beginner",
+      "<a href=nbt/kits/nbt/IOPBeginner.nbt download>NBT</a>"
+    ],
+    [
+      "I/OP | Rating: Advanced",
+      "OperatorTheDope",
+      "I/OP | Rating: Advanced",
+      "<a href=nbt/kits/nbt/IOPBeginner.nbt download>NBT</a>"
+    ],
+    [
+      "I/OP | Rating: Expert",
+      "OperatorTheDope",
+      "I/OP | Rating: Expert",
+      "<a href=nbt/kits/nbt/IOPBeginner.nbt download>NBT</a>"
     ]
   ]
 }
