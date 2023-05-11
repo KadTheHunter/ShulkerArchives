@@ -3350,6 +3350,19 @@
       "OperatorTheDope",
       "I/OP | Rating: Expert",
       "<a href=nbt/kits/nbt/IOPBeginner.nbt download>NBT</a>"
+    ],
+    [
+      "OP/Standard",
+      "OperatorTheDope",
+      "OP/Standard",
+      "<a href=nbt/kits/nbt/OPStandard.nbt download>NBT</a>"
+    ],
+    [
+      "Tax Collector's Toolkit II",
+      "OperatorTheDope",
+      "Tax Collector's Toolkit II",
+      "<a href=nbt/kits/nbt/TaxCollectorsToolkitII.nbt download>NBT</a>"
+    ],
     ]
   ]
 }
