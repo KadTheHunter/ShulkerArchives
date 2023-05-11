@@ -3363,6 +3363,29 @@
       "Tax Collector's Toolkit II",
       "<a href=nbt/kits/nbt/TaxCollectorsToolkitII.nbt download>NBT</a>"
     ],
+    [
+      "Griefer's Kit",
+      "zYoshaa",
+      "Griefer's Kit",
+      "<a href=nbt/kits/nbt/GriefersKit.nbt download>NBT</a>"
+    ],
+    [
+      "z32k's Backdoor Collection v1",
+      "z32k",
+      "z32k's Backdoor Collection v1",
+      "<a href=nbt/kits/nbt/z32ksBackdoorCollectionv1.nbt download>NBT</a>"
+    ],
+    [
+      "z32k's Griefing Collection v2",
+      "z32k",
+      "z32k's Griefing Collection v2",
+      "<a href=nbt/kits/nbt/z32ksGriefCollectionv2.nbt download>NBT</a>"
+    ],
+    [
+      "z32k's Griefing Collection v3",
+      "z32k",
+      "z32k's Griefing Collection v3",
+      "<a href=nbt/kits/nbt/z32ksGriefCollectionv3.nbt download>NBT</a>"
     ]
   ]
 }
