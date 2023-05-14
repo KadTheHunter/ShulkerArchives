@@ -7,10 +7,10 @@
       "<a href=nbt/kits/nbt/OmegaHumaneKit.nbt download>NBT</a>"
     ],
     [
-      "Colorless (Αχρωμος)",
+      "Achromos",
       "Feueristic",
       "A chest with a very cool sword named Αχρωμος.",
-      "<a href=nbt/kits/nbt/Αχρωμος.nbt download>NBT</a>"
+      "<a href=nbt/kits/nbt/Achromos.nbt download>NBT</a>"
     ],
     [
       "Tuff Kit (ᴛᴜꜰꜰ ᴋɪᴛ)",
@@ -428,10 +428,10 @@
       "<a href=nbt/kits/nbt/SculkArtifacts.nbt download>NBT</a>"
     ],
     [
-      "How to Not Make Items",
+      "shkler bxo",
       "Feueristic",
       "The worst item making practices ever, all in one box! AND for the low price of FREE!",
-      "<a href=nbt/kits/nbt/HowToNotMakeItems.nbt download>NBT</a>"
+      "<a href=nbt/kits/nbt/shklerbxo.nbt download>NBT</a>"
     ],
     [
       "Shulker Archives Advert. Kit",
@@ -1435,12 +1435,6 @@
       "Unknown Author",
       "Endermatter Kits",
       "<a href=nbt/kits/nbt/EndermatterKits.nbt download>NBT</a>"
-    ],
-    [
-      "End master set",
-      "Unknown Author",
-      "End master set",
-      "<a href=nbt/kits/nbt/EndMasterSet.nbt download>NBT</a>"
     ],
     [
       "epic gamer kit by robinhahn (pvp kit)",
@@ -3386,6 +3380,444 @@
       "z32k",
       "z32k's Griefing Collection v3",
       "<a href=nbt/kits/nbt/z32ksGriefCollectionv3.nbt download>NBT</a>"
+    ],
+    [
+      "Corrupt Amethyst Shard",
+      "Feueristic",
+      "A corrupt Amethyst Shard with flickering lore packaged inside of a chest.",
+      "<a href=nbt/kits/nbt/CorruptAmethystShard.nbt download>NBT</a>"
+    ],
+    [
+      "Armada Forceop V10",
+      "Unknown Author",
+      "Armada Forceop V10",
+      "<a href=nbt/kits/nbt/ArmadaForceOPV10.nbt download>NBT</a>"
+    ],
+    [
+      "Armada Kit",
+      "Unknown Author",
+      "Armada Kit",
+      "<a href=nbt/kits/nbt/ArmadaKit.nbt download>NBT</a>"
+    ],
+    [
+      "Armor",
+      "NukeCoderX",
+      "Armor",
+      "<a href=nbt/kits/nbt/ArmorNukeCoderX.nbt download>NBT</a>"
+    ],
+    [
+      "Axemtessential Crate",
+      "Unknown Author",
+      "Axemtessential Crate",
+      "<a href=nbt/kits/nbt/AxemtessentialCrate.nbt download>NBT</a>"
+    ],
+    [
+      "Admin Abuse",
+      "TFTWPhoenix",
+      "Admin Abuse",
+      "<a href=nbt/kits/nbt/AdminAbuse.nbt download>NBT</a>"
+    ],
+    [
+      "AdminKit",
+      "Unknown Author",
+      "AdminKit",
+      "<a href=nbt/kits/nbt/AdminKit.nbt download>NBT</a>"
+    ],
+    [
+      "Altfox's Ultra Kit",
+      "altfox",
+      "Altfox's Ultra Kit",
+      "<a href=nbt/kits/nbt/AltfoxsUltraKit.nbt download>NBT</a>"
+    ],
+    [
+      "amogus shulker",
+      "Unknown Author",
+      "amogus shulker",
+      "<a href=nbt/kits/nbt/amogusshulker.nbt download>NBT</a>"
+    ],
+    [
+      "Arikku's Builder Set II",
+      "Arikku",
+      "Arikku's Builder Set II",
+      "<a href=nbt/kits/nbt/ArikkusBuilderSetII.nbt download>NBT</a>"
+    ],
+    [
+      "BUILDER BOX",
+      "NukeCoderX",
+      "Spawn eggs for fake Oak Planks, Glass and Bricks",
+      "<a href=nbt/kits/nbt/BUILDERBOX.nbt download>NBT</a>"
+    ],
+    [
+      "BRO BOX",
+      "NukeCoderX",
+      "Four items made by NukeCoderX for thatbro907",
+      "<a href=nbt/kits/nbt/BROBOX.nbt download>NBT</a>"
+    ],
+    [
+      "Bossbar Kit",
+      "Unknown Author",
+      "Contains the redstone and commands blocks needed to create a custom bossbar",
+      "<a href=nbt/kits/nbt/BossbarKit.nbt download>NBT</a>"
+    ],
+    [
+      "Backdoor Box",
+      "Unknown Author",
+      "Contains backdoor signs for OP, GMC and Unban",
+      "<a href=nbt/kits/nbt/BackdoorBox.nbt download>NBT</a>"
+    ],
+    [
+      "Box Of Toys!!",
+      "Unknown Author",
+      "A box of fun Toys",
+      "<a href=nbt/kits/nbt/BoxOfToys.nbt download>NBT</a>"
+    ],
+    [
+      "Bockanator's Kit",
+      "Bockanator",
+      "A PvP kit with Bockanator's custom items",
+      "<a href=nbt/kits/nbt/BockanatorsKit.nbt download>NBT</a>"
+    ],
+    [
+      "Berry Kit",
+      "Unknown Author",
+      "Contains sweet berries, berry armor, berry pie and berry jam",
+      "<a href=nbt/kits/nbt/BerryKit.nbt download>NBT</a>"
+    ],
+    [
+      "chaos",
+      "Unknown Author",
+      "Contains the upheaval blade and bow, plus a shield and banner",
+      "<a href=nbt/kits/nbt/chaos.nbt download>NBT</a>"
+    ],
+    [
+      "BratGamingYtXD1's Archer Kit",
+      "BratGamingYtXD1",
+      "Custom crossbow, arrows, and stacked totem alongside a note",
+      "<a href=nbt/kits/nbt/BratGamingYtXD1sArcherKit.nbt download>NBT</a>"
+    ],
+    [
+      "Currency Box",
+      "Unknown Author",
+      "Contains the US Currency denominations",
+      "<a href=nbt/kits/nbt/CurrencyBox.nbt download>NBT</a>"
+    ],
+    [
+      "Cursed Enchants Box",
+      "Unknown Author",
+      "These items should not have these enchantments, and these enchantments should not exist",
+      "<a href=nbt/kits/nbt/CursedEnchantsBox.nbt download>NBT</a>"
+    ],
+    [
+      "DEADLY VIRUS",
+      "Unknown Author",
+      "Contains the splash potions 'defvid-36' and 'lefvid-54', plus a rocket launcher",
+      "<a href=nbt/kits/nbt/DEADLYVIRUS.nbt download>NBT</a>"
+    ],
+    [
+      "Debris Kit",
+      "Tom__uWu",
+      "Contains Debris armor and tools",
+      "<a href=nbt/kits/nbt/DebrisKit.nbt download>NBT</a>"
+    ],
+    [
+      "Chemical Box",
+      "nickful",
+      "16 chemicals and their formulas",
+      "<a href=nbt/kits/nbt/ChemicalBox.nbt download>NBT</a>"
+    ],
+    [
+      "Coconut Cereal's Drug",
+      "CoconutCereal",
+      "A box containing various drugs and paraphernalia",
+      "<a href=nbt/kits/nbt/CoconutCerealsDrug.nbt download>NBT</a>"
+    ],
+    [
+      "COGGNIZANTS CARBON KIT",
+      "coggnizant",
+      "Carbon armor and tools made by coggnizant",
+      "<a href=nbt/kits/nbt/COGGNIZANTSCARBONKIT.nbt download>NBT</a>"
+    ],
+    [
+      "CompileKit (opPVP)",
+      "Unknown Author",
+      "1 Crossbow, 2 arrows and 3 potions",
+      "<a href=nbt/kits/nbt/CompileKit.nbt download>NBT</a>"
+    ],
+    [
+      "Cook1e_Galaxy's assorted items",
+      "Cook1e_Galaxy",
+      "An assortment of 8 items made by Cook1e_Galaxy",
+      "<a href=nbt/kits/nbt/Cook1e_GalaxysAssortedItems.nbt download>NBT</a>"
+    ],
+    [
+      "Dumb Items",
+      "Unknown Author",
+      "Some incredibly dumb items, with zero benefit",
+      "<a href=nbt/kits/nbt/DumbItems.nbt download>NBT</a>"
+    ],
+    [
+      "EC from TotalFreedom",
+      "PawZ_YT",
+      "A collection of items from TotalFreedom, many bvy PawZ_YT",
+      "<a href=nbt/kits/nbt/ECfromTotalFreedom.nbt download>NBT</a>"
+    ],
+    [
+      "Enderchest A1",
+      "Unknown Author",
+      "Enderchest A1",
+      "<a href=nbt/kits/nbt/EnderchestA1.nbt download>NBT</a>"
+    ],
+    [
+      "Endermatter Shulker",
+      "Unknown Author",
+      "Contains 8 forms of Endermatter",
+      "<a href=nbt/kits/nbt/EndermatterShulker.nbt download>NBT</a>"
+    ],
+    [
+      "Delta's Portable Music-Box",
+      "Deltaxe",
+      "Spawn eggs that make music play",
+      "<a href=nbt/kits/nbt/DeltasPortableMusic-Box.nbt download>NBT</a>"
+    ],
+    [
+      "Demon Kit 3.0",
+      "Unknown Author",
+      "Demon Kit 3.0",
+      "<a href=nbt/kits/nbt/DemonKit3.0.nbt download>NBT</a>"
+    ],
+    [
+      "Deo's Drip",
+      "Unknown Author",
+      "Armor and weapons with some drip",
+      "<a href=nbt/kits/nbt/DeosDrip.nbt download>NBT</a>"
+    ],
+    [
+      "Draconic Gear",
+      "Unknown Author",
+      "Draconic Gear with long attributes",
+      "<a href=nbt/kits/nbt/DraconicGear.nbt download>NBT</a>"
+    ],
+    [
+      "Drugs",
+      "Holdingbacktears",
+      "Contains a miscellany of drugs and paraphernalia",
+      "<a href=nbt/kits/nbt/Drugs.nbt download>NBT</a>"
+    ],
+    [
+      "Gradients",
+      "Unknown Author",
+      "Demonstrates different gradients, color coded to items",
+      "<a href=nbt/kits/nbt/Gradients.nbt download>NBT</a>"
+    ],
+    [
+      "Hacked eggs",
+      "Unknown Author",
+      "Spawn eggs for the Pharaoh's Warrior and Pharaoh's Archer",
+      "<a href=nbt/kits/nbt/HackedEggs.nbt download>NBT</a>"
+    ],
+    [
+      "Ice & Fire Kit",
+      "Bockanator",
+      "Armor and weapons with an Ice and Fire theme",
+      "<a href=nbt/kits/nbt/Ice&FireKit.nbt download>NBT</a>"
+    ],
+    [
+      "IDK",
+      "Unknown Author",
+      "7 banners with patterns that culminate in a \"._.\" face",
+      "<a href=nbt/kits/nbt/IDK.nbt download>NBT</a>"
+    ],
+    [
+      "End master set",
+      "Unknown Author",
+      "Armor and items for the End Master",
+      "<a href=nbt/kits/nbt/EndMasterSet.nbt download>NBT</a>"
+    ],
+    [
+      "Ernest's Followers Pvp Set",
+      "Daddy_Salt",
+      "Armor, weapons and arrows for Ernest's followers, forged from Ernest's power",
+      "<a href=nbt/kits/nbt/ErnestsFollowersPvpSet.nbt download>NBT</a>"
+    ],
+    [
+      "Fire's STUFF",
+      "Unknown Author",
+      "Armor and weapons that are quite clearly marked \"Fire's STUFF\"",
+      "<a href=nbt/kits/nbt/FiresSTUFF.nbt download>NBT</a>"
+    ],
+    [
+      "Food Saturation Info",
+      "vajpka",
+      "Every food item with lore showing how much saturation it gives or takes",
+      "<a href=nbt/kits/nbt/FoodSaturationInfo.nbt download>NBT</a>"
+    ],
+    [
+      "God Kit",
+      "Unknown Author",
+      "\"tHe MoSt Op StuFf\" bitch stfu there's 4 different God Kits now.",
+      "<a href=nbt/kits/nbt/GodKit#0003.nbt download>NBT</a>"
+    ],
+    [
+      "LiquidExploits",
+      "Unknown Author",
+      "Exploits for Minecraft 1.8 to 1.10",
+      "<a href=nbt/kits/nbt/LiquidExploits.nbt download>NBT</a>"
+    ],
+    [
+      "Lumen Box",
+      "NukeCoderX",
+      "4 items related to Light and Glowing",
+      "<a href=nbt/kits/nbt/LumenBox.nbt download>NBT</a>"
+    ],
+    [
+      "Midas",
+      "Unknown Author",
+      "Golden armor and weapons",
+      "<a href=nbt/kits/nbt/Midas.nbt download>NBT</a>"
+    ],
+    [
+      "Infinity Stones",
+      "Arslan",
+      "All 6 Infinity Stones, in one box",
+      "<a href=nbt/kits/nbt/InfinityStones.nbt download>NBT</a>"
+    ],
+    [
+      "instinctual's TotalFreedom lootbox",
+      "Unknown Author",
+      "A collection of various items and HD Heads from TotalFreedom",
+      "<a href=nbt/kits/nbt/instinctualsTotalFreedomLootbox.nbt download>NBT</a>"
+    ],
+    [
+      "IS SHULKER",
+      "Indeterminate Author",
+      "Contains a miscellany of armor and weapons by Tentablacks, AUCreator, ismael_mp and others.",
+      "<a href=nbt/kits/nbt/ISSHULKER.nbt download>NBT</a>"
+    ],
+    [
+      "Kitty kit",
+      "Unknown Author",
+      "Diamond armor and weapons with latin naming and lore",
+      "<a href=nbt/kits/nbt/Kittykit.nbt download>NBT</a>"
+    ],
+    [
+      "Klockowy's Kit",
+      "Kloockowy",
+      "Armor and weapons by Klockowy",
+      "<a href=nbt/kits/nbt/KlockowysKit.nbt download>NBT</a>"
+    ],
+    [
+      "Lexi Kit",
+      "Space",
+      "Lexis head, potions, sword and shield",
+      "<a href=nbt/kits/nbt/LexiKit.nbt download>NBT</a>"
+    ],
+    [
+      "Potions",
+      "NukeCoderX",
+      "Beer and Recovery Potions",
+      "<a href=nbt/kits/nbt/PotionsNukeCoderX.nbt download>NBT</a>"
+    ],
+    [
+      "Potion Supplyer Kit",
+      "Unknown Author",
+      "Death, God, Water and Trolling potions",
+      "<a href=nbt/kits/nbt/PotionSupplyerKit.nbt download>NBT</a>"
+    ],
+    [
+      "PVP",
+      "Unknown Author",
+      "3 levels of PvP items; Somewhat OP, OP and Godlike",
+      "<a href=nbt/kits/nbt/PVP.nbt download>NBT</a>"
+    ],
+    [
+      "Radience Op PvP Kit",
+      "KriTikal___Error",
+      "Radience PvP items",
+      "<a href=nbt/kits/nbt/RadienceOpPvPKit.nbt download>NBT</a>"
+    ],
+    [
+      "Naughty Student's kit",
+      "Indogamer2K6",
+      "School Uniforms, Practice Armor and Weapons, and a Math Book",
+      "<a href=nbt/kits/nbt/NaughtyStudentsKit.nbt download>NBT</a>"
+    ],
+    [
+      "OFFICIAL IDIOT CRATE",
+      "Xicad",
+      "The armor and weapons of an Idiot, all enchanted with Idiocy",
+      "<a href=nbt/kits/nbt/OFFICIALIDIOTCRATE.nbt download>NBT</a>"
+    ],
+    [
+      "OP Fishing Kit",
+      "DoctorZene",
+      "Fishing items and treasure found at sea",
+      "<a href=nbt/kits/nbt/OPFishingKit.nbt download>NBT</a>"
+    ],
+    [
+      "OVERSTACK BOX",
+      "NukeCoderX",
+      "6 items stacked beyond the normal limit",
+      "<a href=nbt/kits/nbt/OVERSTACKBOX.nbt download>NBT</a>"
+    ],
+    [
+      "Possible Mastery Kit",
+      "Unknown Author",
+      "Armor and weapons for Possible Mastery",
+      "<a href=nbt/kits/nbt/PossibleMastery.nbt download>NBT</a>"
+    ],
+    [
+      "soyp's computer",
+      "soyp",
+      "Desktop icons of Soyps computer",
+      "<a href=nbt/kits/nbt/soypscomputer.nbt download>NBT</a>"
+    ],
+    [
+      "Spawner Box",
+      "NukeCoderX",
+      "Contains eggs for Paintings, Explosions, Flaming Skulls and Ghost Planks",
+      "<a href=nbt/kits/nbt/SpawnerBoxNukeCoderX.nbt download>NBT</a>"
+    ],
+    [
+      "Special Skyblock Items",
+      "SuperRyn (?)",
+      "5 items from Skyblock",
+      "<a href=nbt/kits/nbt/SpecialSkyblockItems.nbt download>NBT</a>"
+    ],
+    [
+      "Spleefer Kit",
+      "Unknown Author",
+      "All the materials needed for a 3 person spleef game",
+      "<a href=nbt/kits/nbt/SpleeferKit.nbt download>NBT</a>"
+    ],
+    [
+      "Revol's Items",
+      "Revol1337",
+      "Armor, sword and potion of Revol1337",
+      "<a href=nbt/kits/nbt/RevolsItems.nbt download>NBT</a>"
+    ],
+    [
+      "Ricardo Boss Fight",
+      "Hamis65",
+      "Ricardo Spawn Egg and Spawner with Command Blocks for generating his healthbar",
+      "<a href=nbt/kits/nbt/RicardoBossFight.nbt download>NBT</a>"
+    ],
+    [
+      "Sally's Drug Box",
+      "Unknown Author",
+      "A variety of drugs",
+      "<a href=nbt/kits/nbt/SallysDrugBox.nbt download>NBT</a>"
+    ],
+    [
+      "Science",
+      "Unknown Author",
+      "Crate of armor and tools from the Target Team",
+      "<a href=nbt/kits/nbt/Science.nbt download>NBT</a>"
+    ],
+    [
+      "SOUL Kit",
+      "Laurent_MC",
+      "Armor and tools for Team SOUL",
+      "<a href=nbt/kits/nbt/SOULKit.nbt download>NBT</a>"
     ]
   ]
 }
