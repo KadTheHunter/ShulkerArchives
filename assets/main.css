@@ -199,18 +199,20 @@ dd {
 }
 
 
-/* Using NBT & Resources */
+/* Using NBT & Resources & Guides */
 
 html {
     scroll-behavior: smooth;
 }
 
+nav.Guides,
 nav.Resources,
 nav.UsingNBT {
     padding-right: 0;
     border-right: 1px solid var(--usingnbtdiv);
 }
 
+nav.Guides a,
 nav.Resources a,
 nav.UsingNBT a {
     text-decoration: none;
@@ -220,6 +222,8 @@ nav.UsingNBT a {
     transition: all 50ms ease-in-out;
 }
 
+nav.Guides a:hover,
+nav.Guides a:focus,
 nav.Resources a:hover,
 nav.Resources a:focus,
 nav.UsingNBT a:hover,
@@ -227,12 +231,14 @@ nav.UsingNBT a:focus {
     color: rgb(73, 193, 248);
 }
 
+nav.Guides li.active > a,
 nav.Resources li.active > a,
 nav.UsingNBT li.active > a {
     color: rgb(0, 255, 0);
     font-weight: 500;
 }
 
+nav.Guides ol,
 nav.Resources ol,
 nav.UsingNBT ol {
     list-style: none;
@@ -241,16 +247,19 @@ nav.UsingNBT ol {
     text-align: left;
 }
 
+nav.Guides ul,
 nav.Resources ul,
 nav.UsingNBT ul {
     list-style: symbols(cyclic "∖");
 }
 
+nav.Guides li,
 nav.Resources li,
 nav.UsingNBT li {
     margin-left: 1rem;
 }
 
+main.Guides > nav,
 main.Resources > nav,
 main.UsingNBT > nav {
     position: sticky;
@@ -258,6 +267,7 @@ main.UsingNBT > nav {
     align-self: start;
 }
 
+main.Guides,
 main.Resources,
 main.UsingNBT {
     display: grid;
@@ -266,22 +276,26 @@ main.UsingNBT {
     width: 90%;
 }
 
+body.Guides,
 body.Resources,
 body.UsingNBT {
     padding: 3%;
 }
 
+body.Guides > h1,
 body.Resources > h1,
 body.UsingNBT > h1 {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-style: italic;
 }
 
+section.Guides > h2,
 section.Resources > h2,
 section.UsingNBT > h2 {
     color: rgba(0, 255, 255, 0.850);
 }
 
+section.Guides,
 section.Resources,
 section.UsingNBT {
     text-align: left;
@@ -289,18 +303,20 @@ section.UsingNBT {
     margin: 60px;
 }
 
+section.Guides li,
 section.Resources li,
 section.UsingNBT li {
     margin-left: 2rem;
 }
 
+section.Guides code,
 section.Resources code,
 section.UsingNBT code {
     background-color: rgb(0, 0, 0);
     color: rgb(255, 121, 255);
 }
 
-article.altresource {
+section.Resources article.altresource {
     font-style: italic;
 }
 
