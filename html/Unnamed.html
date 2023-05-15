@@ -62,9 +62,11 @@
 <body class="Unnamed">
 <main class="Unnamed">
     <div class="center">
+        <p>The Kits listed below are Unnamed Kits. As such, we have given them Archivist Assigned Names (AANs). Similarly, the files are suffixed with <code>_[AAN]</code> to help distinguish them from Named Kits. Should we ever find a named copy of a kit here, or the Author of the kit properly name it, we will move it to the main Kits page.</p>
         <table id="unnamed">
             <thead>
             <tr>
+                <th>AAN</th>
                 <th>Author</th>
                 <th>Description</th>
                 <th>NBT</th>
@@ -72,6 +74,7 @@
             </thead>
             <tfoot>
             <tr class="cus-footer">
+                <th>AAN</th>
                 <th>Author</th>
                 <th>Description</th>
             </tr>
@@ -117,7 +120,7 @@
         });
 
         var table = $('#unnamed').DataTable();
-        table.columns([0,1]).every(function () {
+        table.columns([0,1,2]).every(function () {
             var that = this;
 
             $('input', this.footer()).on('keyup change', function () {
