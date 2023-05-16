@@ -27,7 +27,7 @@
     [
       "Xelion Tripex Axe",
       "quack95",
-      "A kit with an armor stand holding a cool axe",
+      "An armor stand holding a cool axe",
       "<a href=nbt/kits/nbt/XelionTripexAxe.nbt download>NBT</a>"
     ],
     [
@@ -4460,6 +4460,60 @@
       "Kiraptor",
       "Armor, weapons and lots of items made by Kiraptor",
       "<a href=nbt/kits/nbt/TrashBox6.nbt download>NBT</a>"
+    ],
+    [
+      "Pog Axe Kit",
+      "quack95",
+      "A very poggers axe",
+      "<a href=nbt/kits/nbt/PogAxeKit.nbt download>NBT</a>"
+    ],
+    [
+      "quack95's epic items",
+      "quack95",
+      "Armor stand kits, arrows and a debug stick",
+      "<a href=nbt/kits/nbt/quack95sepicitems.nbt download>NBT</a>"
+    ],
+    [
+      "Wrath of Infinity",
+      "quack95",
+      "Leather Infinity armor, weapons, plus a troll potion and vanish potion",
+      "<a href=nbt/kits/nbt/WrathOfInfinity.nbt download>NBT</a>"
+    ],
+    [
+      "PUBLICqp Kit Series",
+      "quack95",
+      "An armorstand kit and some helpful milk",
+      "<a href=nbt/kits/nbt/PUBLICqpKitSeries.nbt download>NBT</a>"
+    ],
+    [
+      "[Kraken] Shulker of Life",
+      "quack95",
+      "Two special arrows, and a bow to apply them",
+      "<a href=nbt/kits/nbt/[Kraken]ShulkerOfLife.nbt download>NBT</a>"
+    ],
+    [
+      "Meltdown Kit",
+      "TeamMeltdown",
+      "Golden axe, bow, arrows, and FileExtensions Liquid Coolant",
+      "<a href=nbt/kits/nbt/MeltdownKit.nbt download>NBT</a>"
+    ],
+    [
+      "Meltdown Kit 2.0",
+      "TeamMeltdown",
+      "Golden armor, axe, bow and arrows, shield and potions",
+      "<a href=nbt/kits/nbt/MeltdownKit2.0.nbt download>NBT</a>"
+    ],
+    [
+      "DropperKit",
+      "Unknown Author",
+      "Contains armor, Dropper Helmet, shield, and arrows for Dropper Squad",
+      "<a href=nbt/kits/nbt/DropperKit.nbt download>NBT</a>"
+    ],
+    [
+      "Team TopHat",
+      "Team TopHat",
+      "Sword, shield and helmet of Team TopHat",
+      "<a href=nbt/kits/nbt/TeamTopHat.nbt download>NBT</a>"
     ]
   ]
 }
