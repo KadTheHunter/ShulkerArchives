@@ -4514,6 +4514,24 @@
       "Team TopHat",
       "Sword, shield and helmet of Team TopHat",
       "<a href=nbt/kits/nbt/TeamTopHat.nbt download>NBT</a>"
+    ],
+    [
+      "Server Destroyer Box",
+      "cat;#0001",
+      "Signs, Command Blocks and eggs for destroying servers",
+      "<a href=nbt/kits/nbt/ServerDestroyerBox.nbt download>NBT</a>"
+    ],
+    [
+      "Disirty's Abuse Kit",
+      "Disirty",
+      "Signs, Eggs, Command Blocks, Potions, and Items for griefing and chaos",
+      "<a href=nbt/kits/nbt/DisirtysAbuseKit.nbt download>NBT</a>"
+    ],
+    [
+      "Server Destroy",
+      "Unknown Author",
+      "Eggs for destroying servers",
+      "<a href=nbt/kits/nbt/ServerDestroy.nbt download>NBT</a>"
     ]
   ]
 }
