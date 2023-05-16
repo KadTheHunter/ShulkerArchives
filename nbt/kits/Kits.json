@@ -503,7 +503,7 @@
       "DimensionalCores",
       "LeoTheRavioli",
       "Sussy.",
-      "<a href=nbt/kits/nbt/DimensionalCores.nbt download>NBT</a>"
+      "<a href=nbt/kits/nbt/DimensionalCores(leo).nbt download>NBT</a>"
     ],
     [
       "ENFORCED",
@@ -4532,6 +4532,90 @@
       "Unknown Author",
       "Eggs for destroying servers",
       "<a href=nbt/kits/nbt/ServerDestroy.nbt download>NBT</a>"
+    ],
+    [
+      "Not so empty White Shulker Box",
+      "antigamesm12",
+      "A white shulker box that appears to be empty",
+      "<a href=nbt/kits/nbt/NotSoEmptyWhiteShulkerBox.nbt download>NBT</a>"
+    ],
+    [
+      "2010's Nostalgia Box",
+      "antigamesm12",
+      "Items filled with 2010's nostalgia",
+      "<a href=nbt/kits/nbt/2010sNostalgiaBox.nbt download>NBT</a>"
+    ],
+    [
+      "minecraft colored pots",
+      "antigamesm12",
+      "A variety of colored potions",
+      "<a href=nbt/kits/nbt/minecraftcoloredpots.nbt download>NBT</a>"
+    ],
+    [
+      "Country Flags",
+      "antigamesm12",
+      "Flags of different countries across the world",
+      "<a href=nbt/kits/nbt/CountryFlags.nbt download>NBT</a>"
+    ],
+    [
+      "Halloween Shulker",
+      "antigamesm12",
+      "All the items needed to celebrate Halloween",
+      "<a href=nbt/kits/nbt/HalloweenShulker.nbt download>NBT</a>"
+    ],
+    [
+      "Anti's Box of **** v1.0",
+      "antigamesm12",
+      "Misc. items made by antigamesm12",
+      "<a href=nbt/kits/nbt/AntisBoxOfv1.0.nbt download>NBT</a>"
+    ],
+    [
+      "Voidium Set",
+      "antigamesm12",
+      "Netherite Armor, weapons and tools, plus barrels of other items",
+      "<a href=nbt/kits/nbt/VoidiumSet.nbt download>NBT</a>"
+    ],
+    [
+      "Dimensional Cores",
+      "antigamesm12",
+      "Cores of the Overworld, Nether and End",
+      "<a href=nbt/kits/nbt/DimensionalCores(anti).nbt download>NBT</a>"
+    ],
+    [
+      "TF History Kit",
+      "antigamesm12",
+      "Items documenting the history of TotalFreedom",
+      "<a href=nbt/kits/nbt/TFHistoryKit.nbt download>NBT</a>"
+    ],
+    [
+      "0800_Hybrid Legacy Kit",
+      "antigamesm12",
+      "A collection of items made by 0800_Hybrid, assembled into a memorial kit by antigamesm12",
+      "<a href=nbt/kits/nbt/0800_HybridLegacyKit.nbt download>NBT</a>"
+    ],
+    [
+      "THE GRANITE CASTLE KIT",
+      "antigamesm12",
+      "A collection of items memeing on the Granite Castle",
+      "<a href=nbt/kits/nbt/THEGRANITECASTLEKIT.nbt download>NBT</a>"
+    ],
+    [
+      "Covid Briefcase",
+      "antigamesm12",
+      "3 variants of the Coronavirus 2019 disease inside of potion bottles",
+      "<a href=nbt/kits/nbt/CovidBriefcase.nbt download>NBT</a>"
+    ],
+    [
+      "Windows 95 computer",
+      "antigamesm12",
+      "Netherite armor and weapons, plus two potions",
+      "<a href=nbt/kits/nbt/Windows95computer.nbt download>NBT</a>"
+    ],
+    [
+      "THE DIORITE FORTRESS KIT",
+      "antigamesm12",
+      "A collection of items memeing on the Diorite Fortress",
+      "<a href=nbt/kits/nbt/THEDIORITEFORTRESSKIT.nbt download>NBT</a>"
     ]
   ]
 }
