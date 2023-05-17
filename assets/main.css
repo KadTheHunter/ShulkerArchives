@@ -199,6 +199,25 @@ dd {
 }
 
 
+/* FAQ */
+
+div.FAQ {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 20px;
+    align-items: stretch;
+}
+
+div.FAQ > card {
+    border: 5px solid var(--altbackground);
+    border-radius: 10px;
+}
+
+div.FAQ > card > h4 {
+    color: var(--altalttext);
+}
+
+
 /* Using NBT & Resources & Guides */
 
 html {
