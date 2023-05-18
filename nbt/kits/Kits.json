@@ -4499,7 +4499,7 @@
     ],
     [
       "Meltdown Kit 2.0",
-      "TeamMeltdown",
+      "Emphacks",
       "Golden armor, axe, bow and arrows, shield and potions",
       "<a href=nbt/kits/nbt/MeltdownKit2.0.nbt download>NBT</a>"
     ],
@@ -4616,6 +4616,42 @@
       "antigamesm12",
       "A collection of items memeing on the Diorite Fortress",
       "<a href=nbt/kits/nbt/THEDIORITEFORTRESSKIT.nbt download>NBT</a>"
+    ],
+    [
+      "The Founders Kit (Alpha v1.01)",
+      "Emphacks",
+      "Founders Blocks, and 32k Improvement weapons",
+      "<a href=nbt/kits/nbt/TheFoundersKitAlphav1.01.nbt download>NBT</a>"
+    ],
+    [
+      "XTPMUltraGodCrate",
+      "Emphacks",
+      "A locked shulker box with God Arrows and Potions, plus leather armor",
+      "<a href=nbt/kits/nbt/XTPMUltraGodCrate.nbt download>NBT</a>"
+    ],
+    [
+      "SwegKit",
+      "Emphacks",
+      "Sweg Grenades, Armor, Bow and Arrows",
+      "<a href=nbt/kits/nbt/SwegKit.nbt download>NBT</a>"
+    ],
+    [
+      "KFCKIT",
+      "Emphacks",
+      "Very powerful Bow, Arrows, Armor, Potion and Sword",
+      "<a href=nbt/kits/nbt/KFCKIT.nbt download>NBT</a>"
+    ],
+    [
+      "BeepBeepImmaSheepCrate",
+      "Emphacks",
+      "Armor, Blaze Rod and a Potion",
+      "<a href=nbt/kits/nbt/BeepBeepImmaSheepCrate.nbt download>NBT</a>"
+    ],
+    [
+      "HeroBrinesShulkerBox",
+      "Emphacks",
+      "Herobrines golden armor, Diamond Sword, Totem and Potion",
+      "<a href=nbt/kits/nbt/HeroBrinesShulkerBox.nbt download>NBT</a>"
     ]
   ]
 }
