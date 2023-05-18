@@ -383,6 +383,12 @@
       "Unknown IGN",
       "Elytra, scarf, shield and diamond sword",
       "<a href=nbt/unnamed/nbt/WolfiesScarf_[AAN].nbt download>NBT</a>"
+    ],
+    [
+      "Feueristic Telescope",
+      "Feueristic",
+      "A telescope with exquisite lore",
+      "<a href=nbt/kits/nbt/FeueristicTelescope.nbt download>NBT</a>"
     ]
   ]
 }
