@@ -4658,6 +4658,18 @@
       "Unknown Author",
       "Comet, Asteroid, Venus, Mercury, Proxima Centuari",
       "<a href=nbt/kits/nbt/CelestrialKit.nbt download>NBT</a>"
+    ],
+    [
+      "Neptune's Book Kit",
+      "Unknown IGN",
+      "Neptune's Book of Knowledge. Legend says this book contains all of Neptune's Curses",
+      "<a href=nbt/kits/nbt/NeptunesBookKit.nbt download>NBT</a>"
+    ],
+    [
+      "TF Shop Item Box #1",
+      "Fleshly",
+      "A collection of Items for/from the TF Shop Plot",
+      "<a href=nbt/kits/nbt/TFShopItemBox#1.nbt download>NBT</a>"
     ]
   ]
 }
