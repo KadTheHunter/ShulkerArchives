@@ -4694,6 +4694,12 @@
       "Jsteelers03",
       "Diamond Armor, Potions, Misc. Gear",
       "<a href=nbt/kits/nbt/OPPotionsGear&Other.nbt download>NBT</a>"
+    ],
+    [
+      "Butter Shulker Box",
+      "antigamesm12",
+      "Butter Armor",
+      "<a href=nbt/kits/nbt/ButterShulkerBox.nbt download>NBT</a>"
     ]
   ]
 }
