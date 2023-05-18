@@ -4670,6 +4670,12 @@
       "Fleshly",
       "A collection of Items for/from the TF Shop Plot",
       "<a href=nbt/kits/nbt/TFShopItemBox#1.nbt download>NBT</a>"
+    ],
+    [
+      "Apex Shtuff",
+      "Shyrix",
+      "Apex Shtuff",
+      "<a href=nbt/kits/nbt/ApexShtuff.nbt download>NBT</a>"
     ]
   ]
 }
