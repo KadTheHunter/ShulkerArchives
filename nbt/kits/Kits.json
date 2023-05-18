@@ -4652,6 +4652,12 @@
       "Emphacks",
       "Herobrines golden armor, Diamond Sword, Totem and Potion",
       "<a href=nbt/kits/nbt/HeroBrinesShulkerBox.nbt download>NBT</a>"
+    ],
+    [
+      "Celestrial Kit",
+      "Unknown Author",
+      "Comet, Asteroid, Venus, Mercury, Proxima Centuari",
+      "<a href=nbt/kits/nbt/CelestrialKit.nbt download>NBT</a>"
     ]
   ]
 }
