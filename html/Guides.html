@@ -45,9 +45,19 @@
 
 <body class="Guides">
 <h1>Guides</h1>
+<p>Before getting into any of the Guides, we expect you to have these Mods: <a href="Resources.html#FabricMods--NBTEditor">NBT Editor</a>, <a href="Resources.html#FabricMods--IBEEditor">IBE Editor</a>, <a href="Resources.html#FabricMods--FZMM">FZMM</a></p>
+<p>Each guide will mention which mod to use for any given step, but all three of these will be regularly used.</p>
+<p>We also recommend having the other mods listed on the <a href="Resources.html">Resources</a> page, as they are useful in later guides e.g: <a href="Resources.html#FabricMods--WNT">WNT</a> for <a href="#Mapart--Ripping">Mapart Ripping</a></p>
+<hr>
 <main class="Guides">
     <nav class="Guides">
         <ol>
+            <li><a href="#NBT">NBT</a></li>
+            <ul>
+                <li><a href="#NBT--IntroPrereq">Introduction</a></li>
+                <li><a href="#NBT--NameLore">Names & Lore</a></li>
+                <li><a href="#NBT--ColorGrad">Colors & Gradients</a></li>
+            </ul>
             <li><a href="#Mapart">Mapart</a></li>
             <ul>
                 <li><a href="#Mapart--Creating">Creating</a></li>
@@ -62,39 +72,140 @@
         </ol>
     </nav>
     <div class="Guides">
+        <section id="NBT" class="Guides">
+            <h2>NBT</h2>
+            <h4>Guides for NBT</h4>
+        </section>
+        <section id="NBT--IntroPrereq" class="Guides">
+            <h3>Introduction</h3>
+            <p>There are many aspects to NBT, from the most basic Names and Lore, to the most advanced and complicated of attributes. While the below guides are not intended to delve into the more complicated depths of NBT, they will hopefully show you all you need to get started with NBT editing.</p>
+        </section>
+        <hr>
+        <section id="NBT--NameLore" class="Guides">
+            <h3>Names & Lore</h3>
+            <p>The most basic aspect of NBT Editing: altering Names and Lore of an item.</p>
+            <p>There are a number of ways to accomplish changing the name of an item; A simple anvil will do it, albeit in a fairly crude manner, but we'll be using IBE Editor, as it's full fleshed and fairly easy to understand.</p>
+            <p>To begin, hold the item you wish to edit, and open the Item Editor (default keybind is <code>I</code>).</p>
+            <p>There will then be a list of menus on the left; Choose the one called "Display".</p>
+            <p>Enter whatever you wish to into the text box labeled "Custom Name".</p>
+            <p>Click on the "Done" button to save it.</p>
+            <p>That's it! Your item now has a custom name.</p>
+            <p>Now let's add some lore to it. Open the Item Editor and Navigate to the Display menu again, then click on the "+" button below the Custom Name.</p>
+            <p>This will add a Lore text box; You can have unlimited lore boxes, each one being a new line of lore on the item.</p>
+            <p>Enter whatever you wish into the text box, and save it.</p>
+            <p>To view the lore you've added, hover over the item in your inventory; Whatever you added should be shown there!</p>
+        </section>
+        <hr>
+        <section id="NBT--ColorGrad" class="Guides">
+            <h3>Colors & Gradients</h3>
+            <p>Now we'll make things more interesting- and more beautiful!</p>
+            <p>Return to the editor, highlight the name and choose one of the options in the menu floating above; If you're unsure what each is, hover over different buttons for a tooltip describing what they do.</p>
+            <p>To remove a style, click the button that added it; to remove a color, either choose a different color, or choose "Reset Color".</p>
+            <p>If you make a big mistake, you can use the orange reset button to the right of the text box to reset things to how they were when you opened the editor.</p>
+            <p>Now for something a bit more complicated: Gradients.</p>
+            <p>For this part, we'll be making use of FZMM, of which the default keybind is <code>Z</code>.</p>
+            <p>Open the FZMM Menu, and choose "Text Format".</p>
+            <p>In the Text Format menu, first enter the text you wish in the "Message" box.</p>
+            <p>Now, the gradient; While FZMM offers many fun options for coloring text, we'll be making use of the "Gradient" tab. Click on the Gradient button to get started.</p>
+            <p>Add and alter colors as you wish; There's no limit to how many colors you can use, but it's best to keep it fairly simple.</p>
+            <p>A preview of how it will look is shown in the top left under "Text Format". When you are satisfied with your gradient, choose an option from the buttons at the bottom to add it to your item.</p>
+            <p>Any option you choose will make a copy of your item with that option applied, so don't be afraid to try them out; Your original item will be left intact.</p>
+            <p>That's it! You have successfully added a gradient to your item.</p>
+            <p>Want extra practice? Try out FZMM's other Text Format options, like Rainbow and Interleaved.</p>
+        </section>
+        <hr>
         <section id="Mapart" class="Guides">
             <h2>Mapart</h2>
             <h4>Guides on Mapart</h4>
         </section>
         <section id="Mapart--Creating" class="Guides">
             <h3>Creating</h3>
-            <p>Test</p>
+            <h4>Epsilon Bot</h4>
+            <p>The first way to create mapart works in both single and multiplayer, and is called <a href="https://github.com/hhhzzzsss/EpsilonBot" target="_blank" rel="noopener noreferrer">Epsilon Bot</a>.</p>
+            <p>To get started download or clone the repository, and open it inside of something like <a href="https://code.visualstudio.com/Download" target="_blank" rel="noopener noreferrer">VS Code</a> or <a href="https://www.jetbrains.com/idea/download/" target="_blank" rel="noopener noreferrer">Intellij IDEA</a>.</p>
+            <p>Navigate to <code>EpsilonBot/src/main/resources/default-config.yml</code> and edit the information as follows:</p>
+            <li>Modify <code>host:</code> to the IP of the server you wish to connect to; Use localhost for a local world</li>
+            <li>Modify <code>port:</code> to the port of the server you wish to connect to; Typically this is the default 25565 and does not need to be edited.</li>
+            <li>Set <code>Username:</code> to the email for your Microsoft account</li>
+            <li>Set <code>Password:</code> to the password for your Microsoft account</li>
+            <li>Modify <code>mapartX:</code> and <code>mapartZ:</code> to different coordinates, if the world or server you play on restricts world size. To do so, find the northwest block of a chunk via F3, and use those coordinates.</li>
+            <li>Modify <code>commandPrefix:</code> to a custom prefix for you. If you aren't using this bot on TotalFreedom, you don't really need to do this, but it's still a good idea.</li>
+            <li>Modify <code>warpName:</code> to something unique. This the name the bot will use to attempt to set a <code>/warp</code> when the map is finished.</li>
+            <li>Add a new entry to <code>trusted:</code> with your UUID. Your UUID can be found by searching your username on a site like <a href="https://namemc.com/" target="_blank" rel="noopener noreferrer">NameMC</a>.</li>
+            <p>Once these changes are made, run <code>Main.java</code>.</p>
+            <p>The bot (or rather, the MC Account you chose) will connect to the world or server. To get started using it, use <code>`mapart link-to-a-img/image.png [1 2] [--NO_DITHER --USE_TRANSPARENCY]</code>, modifying the prefix to yours. The numbers indicate the width and height in maps, e.g <code>2 1</code> is 2 wide 1 high. The Dither and Transparency arguments are of course optional, but <code>--NO_DITHER</code> is highly recommended unless you preprocess the image.</p>
+            <p>Each mapart takes roughly 22 minutes for the Bot to build. It will send a message in chat when it is finished.</p>
+            <br>
+            <h4>.nbt Mapart Files</h4>
+            <p>Another way to create mapart, is to use an external program or site like <a href="https://rebane2001.com/mapartcraft/" target="_blank" rel="noopener noreferrer">MapartCraft</a> to generate and process an image into mapart, and then use the provided .nbt file as a schematic to build it in-game.</p>
+            <p>To get started, head to <a href="https://rebane2001.com/mapartcraft/" target="_blank" rel="noopener noreferrer">MapartCraft</a> and upload an image. Set the block selection to everything, and customize it as needed.</p>
+            <p>It is recommended you set "Dithering" to "None", as well as select which version you will be making it in, as the block selection will obviously vary between versions. Fiddle with the cropping mode and map size until you're comfortable with the result.</p>
+            <p>Click the "Download NBT" button. This .nbt file is different to those we use in the archives; Rather than drag-and-dropping into Minecraft, it must be placed somewhere in your Minecraft directory. The exact location will depend on the Mod you use, but I recommend <a href="https://www.curseforge.com/minecraft/mc-mods/litematica" target="_blank" rel="noopener noreferrer">Litematica</a>, the directory for which is chosen by you; A folder inside of <code>/.minecraft/</code> simply labeled "Schematics" works well.</p>
+            <p>Use your chosen mod or service to paste in your mapart (making sure you align it to chunk borders!), then use make a map from it.</p>
+            <br>
+            <h4>.dat Mapart Files</h4>
+            <p>Similar to .nbt Mapart Files, .dat Mapart Files can be made on <a href="https://rebane2001.com/mapartcraft/" target="_blank" rel="noopener noreferrer">MapartCraft</a>.</p>
+            <p>Follow the steps for .nbt Mapart Files as shown above, but change "Mode" from "Schematic (NBT)" to "Datafile (map.dat)", then choose the files with "Download mapdat". If the mapart is larger than 1x1, it is recommended to use the "Download mapdat.zip" option.</p>
+            <p>Cut the .dat files from your download folder, and paste them inside of <code>/.minecraft/saves/YourWorldName/data/</code>. If there are already map.dat files in there, you will need to change the numbers in the names of the ones you are adding before pasting them in (e.g: <code>map_0.dat</code> should become <code>map_101755.dat</code></p>
+            <p>Join your world, and create a mapart. Then, using NBT Editor or IBE Editor, modify the "map" tag to be the ID in the name of the .dat file.</p>
+            <p>You now have mapart, and <i>without</i> the large cumbersome build!</p>
         </section>
         <hr>
         <section id="Mapart--Saving" class="Guides">
             <h3>Saving</h3>
-            <p>Test</p>
+            <p>If you found a really cool mapart on a server and want to save it, the easiest way is to find the build used for it, and make a copy.</p>
+            <p>There really isn't much of a guide to write here; Find the build and save a copy either with WorldEdit if the server allows you to download its schematics, or Litematica if not.</p>
+            <p>For some tips and tricks, check <a href="#SavingBuilds--WorldEditSchematics">Saving Builds - WorldEdit/Schematics</a> </p>
         </section>
         <hr>
         <section id="Mapart--Ripping" class="Guides">
             <h3>Ripping</h3>
-            <p>Test</p>
+            <p>Unfortunately, sometimes mapart builds can not be found (or in the case of generated .dat files, don't even exist!).</p>
+            <p>This brings us to the final mapart guide: Ripping.</p>
+            <p>To rip mapart, you will need the mod <a href="Resources.html#FabricMods--WNT">WNT</a>, in addition to an NBT Editing mod.</p>
+            <p>First, get a copy of the mapart(s) you wish to rip, and place it in your inventory.</p>
+            <p>Find a nice, out of the way spot where there are few if any entities, and NO other maps be they in players inventories or in item frames.</p>
+            <p>Leave the world or server, and rejoin; This is to clear WNT's cache of entities, including maparts, so only the one(s) you wish to download are shown.</p>
+            <p>Now, go to WNTs Blackbox Menu (if it isn't open by default, run <code>/blackbox</code>. Select the "Maps" tab. It should only show the maps in your inventory, identifiable by ID.</p>
+            <p>To download them, click on "WNT" -> "Dump" -> "Maps" -> "Dump all map data in memory to disk" or "Dump specific map in memory to disk".</p>
+            <p>This will dump the maps .dat files to <code>/.minecraft/wnt/dumps/</code>. To get the map in a local world, follow the instructions in <a href="#Mapart--Creating">Mapart Creating</a> for adding .dat mapart files to your world.</p>
+            <p>Before proceeding with the following steps, you must rename the .dat files using the <code>map_#</code> scheme, replacing # with an incrementing number.</p>
+            <p>To extract actual images from these .dat files, download <code>map-to-img.jar</code> from <a href="https://github.com/mircokroon/minecraft-maps-to-images/releases/latest">GitHub</a>.</p>
+            <p>Now open Command Prompt, cd to the directory that map-to-img.jar is located in, and run the following command: <code>java -jar map-to-img.jar /path/to/the/.dat/files/</code>.</p>
+            <p>There will now be a folder called "out" in the directory the .dat files are in, containing the extracted images.</p>
         </section>
         <hr>
         <section id="SavingBuilds" class="Guides">
             <h2>Saving Builds</h2>
-            <h4>Blah</h4>
+            <h4>Guides on saving Builds</h4>
         </section>
         <section id="SavingBuilds--WorldEditSchematics" class="Guides">
             <h3>WorldEdit/Schematics</h3>
-            <p>Blah</p>
+            <p>One of the simplest ways of saving builds is with WorldEdit or Litematica schematics.</p>
+            <p>The instructions differ based on method, but it is recommended to use WorldEdit if you have access to download the generated .schematic files; Otherwise, use Litematica.</p>
+            <p>Below are some general pointers to help you out:</p>
+            <li>Always set the first position at the top, and second position at the bottom. This ensures when you load and paste it elsewhere, you don't accidentally sink it into the ground!</li>
+            <li>Take note of the cardinal/extracardinal directions either through F3 or a Map mod like <a href="https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap" target="_blank" rel="noopener noreferrer">Xaero's Minimap</a>, and be consistent with what direction your build will be pasted in. If you set Position 1 to the North-East and Position 2 + Copy in the South-West, the build will always paste in to the North-East.</li>
+            <li>Use a mod such as <a href="https://modrinth.com/mod/blockmeter" target="_blank" rel="noopener noreferrer">BlockMeter</a> to measure builds, and make sure you're copying the full build, as well as not copying excess air.</li>
+            <li>When using WorldEdit, add the <code>-a</code> flag to your <code>//paste</code> command; By ignoring air blocks, the time it takes to paste in can be drastically reduced!</li>
         </section>
         <hr>
         <section id="SavingBuilds--ChunkRipper" class="Guides">
             <h3>Chunk Ripper</h3>
-            <p>Blah</p>
+            <p>The Chunk Ripper is an effective, but rather extreme method of saving builds. It will copy and save the block contents of entire chunks locally, and then paste them into a local world.</p>
+            <p>This method completely ignores NBT data, such as the contents of Shulkers, Chests, Barrels, Signs, Item Frames, Armorstands, etc. so only use it when you don't care about saving any NBT.</p>
+            <p>This method also only works on 1.19-1.19.2 and older; The author archived the project, and a replacement has not come forward yet.</p>
+            <p>To get started, get the <a href="https://modrinth.com/mod/chunk-copy-fabric" target="_blank" rel="noopener noreferrer">ChunkCopy</a> mod for Fabric.</p>
+            <p>Head to the chunks you want to copy, note the coordinates down, enable the F3 Chunk viewer with <code>F3 + G</code>, and then run the following command: <code>/chunkcopy copy FileName 8</code>, replacing <code>FileName</code> with a name of your choice.</p>
+            <p>Use the chunk viewer you enabled to count chunks; Snake back and forth over the area, running the command above every 8 chunks.</p>
+            <p>Once you've ripped the area you wish, create a new world using the Void template, and run the following command: <code>/chunkcopy paste FileName 8</code>, again replacing <code>FileName</code> with the name you chose earlier.</p>
+            <p>The chunks will be pasted in at the <i>exact same</i> coordinates they were ripped from, so you will need to teleport to those coordinates you noted down earlier.</p>
+            <p>Congrats, you've now ripped chunks from one world to another!</p>
         </section>
         <hr>
+        <p>We're all out of guides :(</p>
+        <p>If you have a suggestion of a guide we should include here (or maybe you've even written a whole guide yourself?), feel free to open an Issue on our <a href="https://github.com/KadTheHunter/ShulkerArchives/issues" target="_blank" rel="noopener noreferrer">GitHub</a>, and we'll see about adding it! </p>
+        <p>(Do note, that Guides obviously must pertain to NBT in some way, be it the files made from ripping Maparts and Builds, or the intricacies of NBT tags on items.)</p>
     </div>
 </main>
 <div class="footer">
