@@ -1,4 +1,28 @@
 <!DOCTYPE html>
+
+<!--
+    Site made by Kad, aliases KadTheHunter, KaddicusAlmighty, Kadalyst.
+    Descriptions for some kits written by CoolestGuy94, alias 05.
+    All kits created by their respective Authors.
+
+    SNBT Linter (nbt-lint.js, page.js) was created by AjaxGb under the MIT License.
+    Source: https://github.com/AjaxGb/NBTLint
+-->
+
+<!--
+The default template for Item entries is provided below, because JSON doesn't allow comments:
+
+,
+[
+  "",
+  "",
+  "",
+  "<a href=nbt/items/nbt/.nbt download>NBT</a>"
+]
+
+When using WebStorm, I have this template saved as i+TAB in JSON files.
+-->
+
 <html lang="en">
 <meta name="description" content="A collection of NBT data for Items."/>
 
@@ -92,18 +116,18 @@
 <script>
     $(function () {
         $("#items").dataTable({
-            stateSave: true,
+            stateSave: true, // This allows saving the Search/Sort/Filter state in the browser
             ajax: '../nbt/items/Items.json',
-            pagingType: "full_numbers",
-            autoWidth: false,
+            pagingType: "full_numbers", // This shows  'First', 'Previous', 'Next' and 'Last' buttons, plus page numbers
+            autoWidth: false, // This is disabled for both optimization and sanity. No need for DT to check/calc width, no visual issues causing me a headache
             columnDefs: [
                 {
                     searchable: false,
-                    targets: 3
+                    targets: -1 // Leave as -1, because the NBT column will always be last
                 },
                 {
                     sortable: false,
-                    targets: -1
+                    targets: -1 // Leave as -1, because the NBT column will always be last
                 }
             ],
             language: [
@@ -119,7 +143,7 @@
         });
 
         var table = $('#items').DataTable();
-        table.columns([0,1,2]).every(function () {
+        table.columns([0,1,2]).every(function () { // [0,1,2] must be changed to match the columns we want searchable. This shouldn't ever have to be done, but noted here just in case.
             var that = this;
 
             $('input', this.footer()).on('keyup change', function () {

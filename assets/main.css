@@ -1,3 +1,16 @@
+/*
+Site made by Kad, aliases KadTheHunter, KaddicusAlmighty, Kadalyst.
+Descriptions for some kits written by CoolestGuy94, alias 05.
+All kits created by their respective Authors.
+*/
+
+/*
+Whenever datatables.css is updated to a newer DataTables version, the following entry MUST be altered, until this file overrides them:
+.dataTables_wrapper .dataTables_paginate .paginate_button.current, .dataTables_wrapper .dataTables_paginate .paginate_button.current:hover
+In the future I will have this file override them in the Table Settings area, for now we use the crude, manual method.
+*/
+
+
 /* Global */
 
 :root {
