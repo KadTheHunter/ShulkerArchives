@@ -13,6 +13,6 @@ repo.
 
 If you're looking to submit a kit, item or book, contact Kaddicus by one of the below methods:
 
-- On `freedom.play.totalfreedom.me` via `/mail send KaddicusAlmighty <msg>`
+- On `freedom.play.totalfreedom.me` via `/mail send Kadalyst <msg>`
 - In Discord DMs @ `Kaddicus#2019`
 - On Discord @ [discord.gg/pVYcyseBMD](discord.gg/pVYcyseBMD)

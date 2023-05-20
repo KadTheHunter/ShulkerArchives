@@ -143,7 +143,7 @@
             <li>Modify <code>warpName:</code> to something unique. This the name the bot will use to attempt to set a <code>/warp</code> when the map is finished.</li>
             <li>Add a new entry to <code>trusted:</code> with your UUID. Your UUID can be found by searching your username on a site like <a href="https://namemc.com/" target="_blank" rel="noopener noreferrer">NameMC</a>.</li>
             <p>Once these changes are made, run <code>Main.java</code>.</p>
-            <p>The bot (or rather, the MC Account you chose) will connect to the world or server. To get started using it, use <code>`mapart link-to-a-img/image.png [1 2] [--NO_DITHER --USE_TRANSPARENCY]</code>, modifying the prefix to yours. The numbers indicate the width and height in maps, e.g <code>2 1</code> is 2 wide 1 high. The Dither and Transparency arguments are of course optional, but <code>--NO_DITHER</code> is highly recommended unless you preprocess the image.</p>
+            <p>The bot (or rather, the MC Account you chose) will connect to the world or server. To get started using it, use <code>`mapart &#60;link-to-a-img/image.png&#62; [1 2] [--NO_DITHER --USE_TRANSPARENCY]</code>, modifying the prefix to yours. The numbers indicate the width and height in maps, e.g <code>2 1</code> is 2 wide 1 high. The Dither and Transparency arguments are of course optional, but <code>--NO_DITHER</code> is highly recommended unless you preprocess the image.</p>
             <p>Each mapart takes roughly 22 minutes for the Bot to build. It will send a message in chat when it is finished.</p>
             <br>
             <h4>.nbt Mapart Files</h4>
@@ -206,9 +206,9 @@
             <p>This method completely ignores NBT data, such as the contents of Shulkers, Chests, Barrels, Signs, Item Frames, Armorstands, etc. so only use it when you don't care about saving any NBT.</p>
             <p>This method also only works on 1.19-1.19.2 and older; The author archived the project, and a replacement has not come forward yet.</p>
             <p>To get started, get the <a href="https://modrinth.com/mod/chunk-copy-fabric" target="_blank" rel="noopener noreferrer">ChunkCopy</a> mod for Fabric.</p>
-            <p>Head to the chunks you want to copy, note the coordinates down, enable the F3 Chunk viewer with <code>F3 + G</code>, and then run the following command: <code>/chunkcopy copy FileName 8</code>, replacing <code>FileName</code> with a name of your choice.</p>
+            <p>Head to the chunks you want to copy, note the coordinates down, enable the F3 Chunk viewer with <code>F3 + G</code>, and then run the following command: <code>/chunkcopy copy &#60;saveName&#62; &#60;distance&#62;</code>.</p>
             <p>Use the chunk viewer you enabled to count chunks; Snake back and forth over the area, running the command above every 8 chunks.</p>
-            <p>Once you've ripped the area you wish, create a new world using the Void template, and run the following command: <code>/chunkcopy paste FileName 8</code>, again replacing <code>FileName</code> with the name you chose earlier.</p>
+            <p>Once you've ripped the area you wish, create a new world using the Void template, and run the following command: <code>/chunkcopy paste &#60;saveName&#62; &#60;distance&#62;</code>.</p>
             <p>The chunks will be pasted in at the <i>exact same</i> coordinates they were ripped from, so you will need to teleport to those coordinates you noted down earlier.</p>
             <p>Congrats, you've now ripped chunks from one world to another!</p>
         </section>
