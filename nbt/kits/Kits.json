@@ -1455,12 +1455,6 @@
       "<a href=nbt/kits/nbt/GearboxCoMeltdownEdition.nbt download>NBT</a>"
     ],
     [
-      "Goose's Kit v2.0",
-      "Unknown Author (Goose)",
-      "Goose's Kit v2.0",
-      "<a href=nbt/kits/nbt/GoosesKitv2.0.nbt download>NBT</a>"
-    ],
-    [
       "Green Allegarde Kit",
       "Unknown Author",
       "Green Allegarde",
@@ -2910,7 +2904,7 @@
     [
       "Yurni's Revamped Kit",
       "Yurni",
-      "Yurni's Revamped Kit (but in <b>Bold</b>",
+      "Yurni's Revamped Kit (but in <b>Bold</b>)",
       "<a href=nbt/kits/nbt/YurnisRevampedKit.nbt download>NBT</a>"
     ],
     [
@@ -4700,6 +4694,378 @@
       "antigamesm12",
       "Butter Armor",
       "<a href=nbt/kits/nbt/ButterShulkerBox.nbt download>NBT</a>"
+    ],
+    [
+      "-=[OP Stuff]=-",
+      "Unknown Author",
+      "Diamond armor and tools, bow, and some items, all enchanted",
+      "<a href=nbt/kits/nbt/-=[OPStuff]=-.nbt download>NBT</a>"
+    ],
+    [
+      "Communism",
+      "Unknown Author",
+      "10 items with a communist theme",
+      "<a href=nbt/kits/nbt/Communism.nbt download>NBT</a>"
+    ],
+    [
+      "Epic Gear",
+      "Unknown Author",
+      "Weapons, a shield and a banner, said to be unobtainable in survival",
+      "<a href=nbt/kits/nbt/EpicGear.nbt download>NBT</a>"
+    ],
+    [
+      "Defense and Movement",
+      "Unknown Author",
+      "A totem, nether star, fireworks and two shields",
+      "<a href=nbt/kits/nbt/Defense and Movement.nbt download>NBT</a>"
+    ],
+    [
+      "Box O Bosses",
+      "Unknown Author",
+      "A large collection of Spawn Eggs",
+      "<a href=nbt/kits/nbt/BoxOBosses.nbt download>NBT</a>"
+    ],
+    [
+      "CrackThrough's Ultimate CMB Tools v1 (Type 1)",
+      "CrackThrough",
+      "A collection of spawn eggs that run various commands when used",
+      "<a href=nbt/kits/nbt/CrackThroughsUltimateCMBToolsv1(Type1).nbt download>NBT</a>"
+    ],
+    [
+      "Anchi's Stuff",
+      "Anchii_kyara",
+      "A collection of items, weapons and armor by Anchii_kyara",
+      "<a href=nbt/kits/nbt/AnchisStuff.nbt download>NBT</a>"
+    ],
+    [
+      "Anchi's Stuff 2",
+      "Anchii_kyara",
+      "A collection of weapons and armor by Anchii_kyara",
+      "<a href=nbt/kits/nbt/AnchisStuff2.nbt download>NBT</a>"
+    ],
+    [
+      "DO NOT OPEN",
+      "Unknown Author",
+      "A splash potion called \"Zombified Liquid Toxic\"",
+      "<a href=nbt/kits/nbt/DONOTOPEN.nbt download>NBT</a>"
+    ],
+    [
+      "Goose's Kit v2.0",
+      "Unknown IGN",
+      "Weapons, Potions and Arrows made by Goose",
+      "<a href=nbt/kits/nbt/Goose's Kit v2.0.nbt download>NBT</a>"
+    ],
+    [
+      "[ezkits] kit",
+      "Unknown Author",
+      "A collection of weapons and items",
+      "<a href=nbt/kits/nbt/ezkitskit.nbt download>NBT</a>"
+    ],
+    [
+      "Golden Arsenal",
+      "Unknown Author",
+      "A jumbled collection of weapons, armor, shields, bows, arrows and ingots",
+      "<a href=nbt/kits/nbt/GoldenArsenal.nbt download>NBT</a>"
+    ],
+    [
+      "ExperiMental V3",
+      "Unknown Author",
+      "A collection of potions that was a precursor to the P.A.X Potion Crate",
+      "<a href=nbt/kits/nbt/ExperiMentalV3.nbt download>NBT</a>"
+    ],
+    [
+      "Holy Weapons",
+      "Unknown Author",
+      "A variety of Swords, Tridents, and Potions",
+      "<a href=nbt/kits/nbt/HolyWeapons.nbt download>NBT</a>"
+    ],
+    [
+      "Harmless spawn eggs",
+      "Unknown Author",
+      "7 supposedly harmless spawn eggs",
+      "<a href=nbt/kits/nbt/HarmlessSpawnEggs.nbt download>NBT</a>"
+    ],
+    [
+      "Horror",
+      "Unknown Author",
+      "1 jumpscare, 2 server deleters, 2 666's, all spawn eggs",
+      "<a href=nbt/kits/nbt/Horror.nbt download>NBT</a>"
+    ],
+    [
+      "ExperiMental V1.4.2",
+      "Unknown Author",
+      "A collection of potions that was a precursor to the P.A.X Potion Crate",
+      "<a href=nbt/kits/nbt/ExperiMentalV1.4.2.nbt download>NBT</a>"
+    ],
+    [
+      "ExperiMental V2",
+      "Unknown Author",
+      "A collection of potions that was a precursor to the P.A.X Potion Crate",
+      "<a href=nbt/kits/nbt/ExperiMentalV2.nbt download>NBT</a>"
+    ],
+    [
+      "JouLantia Potion Set",
+      "Unknown Author",
+      "A collection of JouLantia Potions",
+      "<a href=nbt/kits/nbt/JouLantiaPotionSet.nbt download>NBT</a>"
+    ],
+    [
+      "KriTikal's OP-PVP Kit Version 1.5",
+      "KriTikal___Error",
+      "A collection of illegally stacked potions, armorstands and a crossbow",
+      "<a href=nbt/kits/nbt/KriTikalsOP-PVPKitVersion1.5.nbt download>NBT</a>"
+    ],
+    [
+      "Hypixel kit!",
+      "Unknown Author",
+      "A collection of Armor, Weapons, Potions and Items from Hypixel",
+      "<a href=nbt/kits/nbt/HypixelKit!.nbt download>NBT</a>"
+    ],
+    [
+      "Hypixel Skyblock",
+      "Unknown Author",
+      "Golden armor, and a variety of weapons from Hypixel Skyblock",
+      "<a href=nbt/kits/nbt/HypixelSkyblock.nbt download>NBT</a>"
+    ],
+    [
+      "Loot Boxes",
+      "okmomo",
+      "7 lootbox spawn eggs",
+      "<a href=nbt/kits/nbt/LootBoxes.nbt download>NBT</a>"
+    ],
+    [
+      "jackpot",
+      "Misc. Authors",
+      "A collection of Bows and Swords by various authors",
+      "<a href=nbt/kits/nbt/jackpot.nbt download>NBT</a>"
+    ],
+    [
+      "JouLantia Arrow Set",
+      "Unknown Author",
+      "A collection of JouLantia Arrows",
+      "<a href=nbt/kits/nbt/JouLantiaArrowSet.nbt download>NBT</a>"
+    ],
+    [
+      "Legendary Set Of TotalFreedom",
+      "Unknown Author",
+      "Diamond armor, sword, bow and items from TotalFreedom",
+      "<a href=nbt/kits/nbt/LegendarySetOfTotalFreedom.nbt download>NBT</a>"
+    ],
+    [
+      "HULKer Box",
+      "shehxlk",
+      "Gamma Irradiated Serum, Gamma Bomb and Gamma-Ray Pulse potions",
+      "<a href=nbt/kits/nbt/HULKerBox.nbt download>NBT</a>"
+    ],
+    [
+      "Omega Ultima Eggs V9",
+      "Unknown Author",
+      "A collection of powerful spawn eggs",
+      "<a href=nbt/kits/nbt/OmegaUltimaEggsV9.nbt download>NBT</a>"
+    ],
+    [
+      "OPEggs",
+      "Unknown Author",
+      "\"OP\" Eggs",
+      "<a href=nbt/kits/nbt/OPEggs.nbt download>NBT</a>"
+    ],
+    [
+      "OP SWORDS COLLECTION",
+      "Steeved",
+      "A collection of 27 different swords",
+      "<a href=nbt/kits/nbt/OPSWORDSCOLLECTION.nbt download>NBT</a>"
+    ],
+    [
+      "Painbow",
+      "yodabird19",
+      "A collection of fun spawn eggs and dispensers",
+      "<a href=nbt/kits/nbt/Painbow.nbt download>NBT</a>"
+    ],
+    [
+      "meltstrap's Item Collection",
+      "meltstrap",
+      "A diamond sword, two pickaxes and an elytra",
+      "<a href=nbt/kits/nbt/meltstrapsItemCollection.nbt download>NBT</a>"
+    ],
+    [
+      "More Tools",
+      "Misc. Authors",
+      "Potions, Arrows and a Lodestone Compass",
+      "<a href=nbt/kits/nbt/MoreTools.nbt download>NBT</a>"
+    ],
+    [
+      "Oclyc's Goodie Box &#11088;",
+      "Oclyc",
+      "Spawn Eggs and funky items by Ocylyc",
+      "<a href=nbt/kits/nbt/OclycsGoodieBox.nbt download>NBT</a>"
+    ],
+    [
+      "Official [SpliffOS] Kit! &#11088;",
+      "Unknown Author",
+      "Bows, arrrows, potions and items for SpliffOS",
+      "<a href=nbt/kits/nbt/OfficialSpliffOSKit.nbt download>NBT</a>"
+    ],
+    [
+      "OMEGAS DRUGS STASH",
+      "Unknown Author",
+      "Various drugs bundled by Omega Co.",
+      "<a href=nbt/kits/nbt/OMEGASDRUGSSTASH.nbt download>NBT</a>"
+    ],
+    [
+      "Random Items Kit +WTF Kit",
+      "Misc. Authors",
+      "27 different potions by various authors",
+      "<a href=nbt/kits/nbt/RandomItemsKit+WTFKit.nbt download>NBT</a>"
+    ],
+    [
+      "Random Stuff",
+      "Unknown Author",
+      "Misc. swords and spawn eggs",
+      "<a href=nbt/kits/nbt/RandomStuff.nbt download>NBT</a>"
+    ],
+    [
+      "Saturn's Hack V1",
+      "Unknown IGN",
+      "2 powerful command books",
+      "<a href=nbt/kits/nbt/SaturnsHackV1.nbt download>NBT</a>"
+    ],
+    [
+      "PAWZ PAWZ PAWZ",
+      "Unknown Author",
+      "Crossbow, golden sword, arrows and two potions",
+      "<a href=nbt/kits/nbt/PAWZPAWZPAWZ.nbt download>NBT</a>"
+    ],
+    [
+      "Personal Custom",
+      "ph4nt0",
+      "Items made by ph4nt0",
+      "<a href=nbt/kits/nbt/PersonalCustom.nbt download>NBT</a>"
+    ],
+    [
+      "Potato King",
+      "Hypixel",
+      "3 items awarded to the winner of the Great Potato War",
+      "<a href=nbt/kits/nbt/PotatoKing.nbt download>NBT</a>"
+    ],
+    [
+      "Quartz_Playah's Jumbo Kit",
+      "Quartz_Playah",
+      "Eggs and Weapons by Quartz_Playah",
+      "<a href=nbt/kits/nbt/QuartzPlayahsJumboKit.nbt download>NBT</a>"
+    ],
+    [
+      "Quartz_Playah's Jumbo Kit 2.0",
+      "Quartz_Playah",
+      "Eggs and Weapons by Quartz_Playah",
+      "<a href=nbt/kits/nbt/QuartzPlayahsJumboKit2.0.nbt download>NBT</a>"
+    ],
+    [
+      "Raided Stuff",
+      "Unknown Author",
+      "Misc. Items",
+      "<a href=nbt/kits/nbt/RaidedStuff.nbt download>NBT</a>"
+    ],
+    [
+      "SuckPax Rejects Collection",
+      "Unknown IGN",
+      "7 spawn eggs",
+      "<a href=nbt/kits/nbt/SuckPaxRejectsCollection.nbt download>NBT</a>"
+    ],
+    [
+      "Stuff that was patched out long ago",
+      "Unknown Author",
+      "5 eggs that were patched out long ago",
+      "<a href=nbt/kits/nbt/Stuffthatwaspatchedoutlongago.nbt download>NBT</a>"
+    ],
+    [
+      "Shulkia Brew Box",
+      "Unknown Author",
+      "8 potions",
+      "<a href=nbt/kits/nbt/ShulkiaBrewBox.nbt download>NBT</a>"
+    ],
+    [
+      "SPY",
+      "Unknown Author",
+      "A box full of spy_vanish potions",
+      "<a href=nbt/kits/nbt/SPY.nbt download>NBT</a>"
+    ],
+    [
+      "Steve Things",
+      "Unknown Author",
+      "Diamond armor, weapons and tools plus misc. items",
+      "<a href=nbt/kits/nbt/SteveThings.nbt download>NBT</a>"
+    ],
+    [
+      "SkillExploits",
+      "Unknown Author",
+      "Exploit and crash items in the vein of LiquidExploits",
+      "<a href=nbt/kits/nbt/SkillExploits.nbt download>NBT</a>"
+    ],
+    [
+      "SBOFBox",
+      "Unknown Author",
+      "Misc. items and books",
+      "<a href=nbt/kits/nbt/SBOFBox.nbt download>NBT</a>"
+    ],
+    [
+      "Steve Machine Parts",
+      "Unknown Author",
+      "Parts for building Steve",
+      "<a href=nbt/kits/nbt/SteveMachineParts.nbt download>NBT</a>"
+    ],
+    [
+      "TooManyItems Collection",
+      "Unknown Author",
+      "Misc Armor, weapons and potions",
+      "<a href=nbt/kits/nbt/TooManyItemsCollection.nbt download>NBT</a>"
+    ],
+    [
+      "Tuxedo Kit",
+      "Unknown Author",
+      "Items with a tuxedo theme",
+      "<a href=nbt/kits/nbt/TuxedoKit.nbt download>NBT</a>"
+    ],
+    [
+      "Weapons selection case",
+      "Unknown Author",
+      "Various weapons and weaponized items",
+      "<a href=nbt/kits/nbt/WeaponsSelectionCase.nbt download>NBT</a>"
+    ],
+    [
+      "XxMCGAMERxX's Supply Box",
+      "XxMCGAMERxX ",
+      "Swords and potions",
+      "<a href=nbt/kits/nbt/XxMCGAMERxXSupplyBox.nbt download>NBT</a>"
+    ],
+    [
+      "Youtuber Join Troll",
+      "Unknown Author",
+      "Command blocks that make it seem like Youtubers joined/left",
+      "<a href=nbt/kits/nbt/YoutuberJoinTroll.nbt download>NBT</a>"
+    ],
+    [
+      "totally amazing OP kit by NotPetya",
+      "NotPetya",
+      "Shield, blaze rod, potion and leather helmet",
+      "<a href=nbt/kits/nbt/totallyamazingOPkitbyNotPetya.nbt download>NBT</a>"
+    ],
+    [
+      "TOXIC ITEMS",
+      "Unknown Author",
+      "Potions, armor, weapons and items",
+      "<a href=nbt/kits/nbt/TOXICITEMS.nbt download>NBT</a>"
+    ],
+    [
+      "TOXIC ITEMS 5",
+      "Unknown Author",
+      "A large variety of potions",
+      "<a href=nbt/kits/nbt/TOXICITEMS5.nbt download>NBT</a>"
+    ],
+    [
+      "Tr4mp's Suspicious Spawn Eggs",
+      "Tr4mp",
+      "Many suspicious spawn eggs",
+      "<a href=nbt/kits/nbt/Tr4mpsSuspiciousSpawnEggs.nbt download>NBT</a>"
     ]
   ]
 }
