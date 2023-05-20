@@ -5138,6 +5138,12 @@
       "Unknown Author",
       "Various fun items, potions, eggs and HD Heads",
       "<a href=nbt/kits/nbt/AlbertsFunItems.nbt download>NBT</a>"
+    ],
+    [
+      "Far Kit V",
+      "MarioKartWii",
+      "The fifth entry in the Far Kit series, its items are more superb than ever before",
+      "<a href=nbt/kits/nbt/FarKitV.nbt download>NBT</a>"
     ]
   ]
 }
