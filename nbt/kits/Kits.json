@@ -5144,6 +5144,12 @@
       "MarioKartWii",
       "The fifth entry in the Far Kit series, its items are more superb than ever before",
       "<a href=nbt/kits/nbt/FarKitV.nbt download>NBT</a>"
+    ],
+    [
+      "CORE's items",
+      "CORE",
+      "Armor, tools and black candles in a style similar to MarioKartWii's",
+      "<a href=nbt/kits/nbt/COREsItems.nbt download>NBT</a>"
     ]
   ]
 }
