@@ -5150,6 +5150,60 @@
       "COREplaysMC",
       "Armor, tools and black candles in a style similar to MarioKartWii's",
       "<a href=nbt/kits/nbt/COREsItems.nbt download>NBT</a>"
+    ],
+    [
+      "Extended Rainbow Elite Kit",
+      "greensilver",
+      "13 Rainbow shulkers bundled into a barrel",
+      "<a href=nbt/kits/nbt/ExtendedRainbowEliteKit.nbt download>NBT</a>"
+    ],
+    [
+      "TF Item Shop Items Kit",
+      "Unknown Author",
+      "Contains five items displayed as they are in the TotalFreedom Item Shop",
+      "<a href=nbt/kits/nbt/TFItemShopItemsKit.nbt download>NBT</a>"
+    ],
+    [
+      "Mob0's Tomb",
+      "Mob0",
+      "5 armor stands, 1 splash potion and 1 arrow",
+      "<a href=nbt/kits/nbt/Mob0sTomb.nbt download>NBT</a>"
+    ],
+    [
+      "the how box",
+      "Various Authors",
+      "A collection of items that makes you wonder \"how?\"",
+      "<a href=nbt/kits/nbt/thehowbox.nbt download>NBT</a>"
+    ],
+    [
+      "Custom Mobs &#11088;",
+      "ImproperIssues",
+      "7 Fake Player spawn eggs, 4 spawners and a Guidebook",
+      "<a href=nbt/kits/nbt/CustomMobs-ImproperIssues.nbt download>NBT</a>"
+    ],
+    [
+      "King Cheems Box",
+      "Yurni",
+      "Various Items, Weapons and Armor",
+      "<a href=nbt/kits/nbt/KingCheemsBox.nbt download>NBT</a>"
+    ],
+    [
+      "TheTroll2001's Box of 32k's",
+      "TheTroll2001",
+      "Diamond Weapons and Tools with 32k Enchantments, plus some spawn eggs",
+      "<a href=nbt/kits/nbt/TheTroll2001sBoxOf32ks.nbt download>NBT</a>"
+    ],
+    [
+      "ImproperIssues &#11088;",
+      "ImproperIssues / ItziSpyder",
+      "A collection of Items (including two sub-collections!) by ItziSpyder/ImproperIssyes",
+      "<a href=nbt/kits/nbt/ImproperIssues.nbt download>NBT</a>"
+    ],
+    [
+      "Blackhole Exploit Kit",
+      "FileExtension",
+      "Various items used for exploits and crashing",
+      "<a href=nbt/kits/nbt/BlackholeExploitKit.nbt download>NBT</a>"
     ]
   ]
 }
