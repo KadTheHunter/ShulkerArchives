@@ -5204,6 +5204,36 @@
       "FileExtension",
       "Various items used for exploits and crashing",
       "<a href=nbt/kits/nbt/BlackholeExploitKit.nbt download>NBT</a>"
+    ],
+    [
+      "Advanced Potions Ʊ 1.0",
+      "Chargefruit",
+      "A collection of useful potions created by Chargefruit, in all their forms",
+      "<a href=nbt/kits/nbt/AdvancedPotionsOmega1.0byChargefruit.nbt download>NBT</a>"
+    ],
+    [
+      "Operator Utilites + 1.0",
+      "Chargefruit",
+      "Useful items that typically aren't obtainable in Vanilla Minecraft",
+      "<a href=nbt/kits/nbt/OperatorUtilities+1.0byChargefruit.nbt download>NBT</a>"
+    ],
+    [
+      "Spawn Eggs + 1.0",
+      "Chargefruit",
+      "A collection of useful Spawn Eggs made by Chargefruit, divided into Hostile, Passive and Technical boxes",
+      "<a href=nbt/kits/nbt/SpawnEggs+1.0byChargefruit.nbt download>NBT</a>"
+    ],
+    [
+      "Anarchists Kit 1.0",
+      "Chargefruit",
+      "ForceOP, Griefing and Crash items made by Chargefruit",
+      "<a href=nbt/kits/nbt/AnarchistsKit1.0byChargefruit.nbt download>NBT</a>"
+    ],
+    [
+      "Practical Items 1.0",
+      "Chargefruit",
+      "Various items useful for building and item making",
+      "<a href=nbt/kits/nbt/PracticalItems1.0byChargefruit.nbt download>NBT</a>"
     ]
   ]
 }
