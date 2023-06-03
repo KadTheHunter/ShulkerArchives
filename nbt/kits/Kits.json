@@ -31,7 +31,7 @@
       "<a href=nbt/kits/nbt/XelionTripexAxe.nbt download>NBT</a>"
     ],
     [
-      "If It Bleeds (ɨƒ ɨȶ ɮʟɛɛɖs)",
+      "If It Bleeds (ɨƒ ɨȶ ɮʟɛɛɖs) &#11088;",
       "Katsuo__",
       "A creepy kit containing a curved blade that thirsts for blood, and two ceremonial crystals",
       "<a href=nbt/kits/nbt/IfItBleeds.nbt download>NBT</a>"
@@ -283,7 +283,7 @@
       "<a href=nbt/kits/nbt/Dat_CatsItems.nbt download>NBT</a>"
     ],
     [
-      "elementary Breeze v2",
+      "elementary Breeze v2 &#11088;",
       "iceyou",
       "A relatively advanced personal kit",
       "<a href=nbt/kits/nbt/elementaryBreezev2.nbt download>NBT</a>"
@@ -2134,6 +2134,12 @@
       "<a href=nbt/kits/nbt/TheOriginalsKit.nbt download>NBT</a>"
     ],
     [
+      "Katuso's Assassination Kit",
+      "Katsuo",
+      "Armor Stands, Weapons, Eggs and Arrows perfect for Assassinations",
+      "<a href=nbt/kits/nbt/KatsuosAssassinationKit.nbt download>NBT</a>"
+    ],
+    [
       "ItzSergioCobra's Illegal 32k Battle Box",
       "ItzSergioCobra",
       "ItzSergioCobra's Illegal 32k Battle Box",
@@ -3586,7 +3592,7 @@
       "<a href=nbt/kits/nbt/Drugs.nbt download>NBT</a>"
     ],
     [
-      "Gradients",
+      "Gradients &#11088;",
       "Unknown Author",
       "Demonstrates different gradients, color coded to items",
       "<a href=nbt/kits/nbt/Gradients.nbt download>NBT</a>"
@@ -3604,7 +3610,7 @@
       "<a href=nbt/kits/nbt/Ice&FireKit.nbt download>NBT</a>"
     ],
     [
-      "IDK",
+      "IDK &#11088;",
       "Unknown Author",
       "7 banners with patterns that culminate in a \"._.\" face",
       "<a href=nbt/kits/nbt/IDK.nbt download>NBT</a>"
@@ -4042,7 +4048,7 @@
       "<a href=nbt/kits/nbt/2koysEmojiGriefingBox.nbt download>NBT</a>"
     ],
     [
-      "Advanced Potions Ʊ 0.1",
+      "Advanced Potions Ʊ 0.1 &#11088;",
       "Chargefruit",
       "A collection of useful potions created by Chargefruit, in all their forms",
       "<a href=nbt/kits/nbt/AdvancedPotions0.1byChargefruit.nbt download>NBT</a>"
@@ -4342,7 +4348,7 @@
       "<a href=nbt/kits/nbt/SedekahdiasPrankBox.nbt download>NBT</a>"
     ],
     [
-      "Operator Utilities + 0.1",
+      "Operator Utilities + 0.1 &#11088;",
       "Chargefruit",
       "Useful items that typically aren't obtainable in Vanilla Minecraft",
       "<a href=nbt/kits/nbt/OperatorUtilities+0.1byChargefruit.nbt download>NBT</a>"
@@ -4420,13 +4426,13 @@
       "<a href=nbt/kits/nbt/sodacase.nbt download>NBT</a>"
     ],
     [
-      "Spawn Eggs + 0.1",
+      "Spawn Eggs + 0.1 &#11088;",
       "Chargefruit",
       "A collection of useful Spawn Eggs made by Chargefruit",
       "<a href=nbt/kits/nbt/SpawnEggs0.1+byChargefruit.nbt download>NBT</a>"
     ],
     [
-      "Spawn Eggs + 0.2",
+      "Spawn Eggs + 0.2 &#11088;",
       "Chargefruit",
       "A collection of useful Spawn Eggs divided into Hostile Mobs, Passive Mobs and Technical Entities",
       "<a href=nbt/kits/nbt/SpawnEggs+0.2byChargefruit.nbt download>NBT</a>"
@@ -5206,34 +5212,58 @@
       "<a href=nbt/kits/nbt/BlackholeExploitKit.nbt download>NBT</a>"
     ],
     [
-      "Advanced Potions Ʊ 1.0",
+      "Advanced Potions Ʊ 1.0 &#11088;",
       "Chargefruit",
       "A collection of useful potions created by Chargefruit, in all their forms",
       "<a href=nbt/kits/nbt/AdvancedPotionsOmega1.0byChargefruit.nbt download>NBT</a>"
     ],
     [
-      "Operator Utilites + 1.0",
+      "Operator Utilities + 1.0 &#11088;",
       "Chargefruit",
       "Useful items that typically aren't obtainable in Vanilla Minecraft",
       "<a href=nbt/kits/nbt/OperatorUtilities+1.0byChargefruit.nbt download>NBT</a>"
     ],
     [
-      "Spawn Eggs + 1.0",
+      "Spawn Eggs + 1.0 &#11088;",
       "Chargefruit",
       "A collection of useful Spawn Eggs made by Chargefruit, divided into Hostile, Passive and Technical boxes",
       "<a href=nbt/kits/nbt/SpawnEggs+1.0byChargefruit.nbt download>NBT</a>"
     ],
     [
-      "Anarchists Kit 1.0",
+      "Anarchists Kit 1.0 &#11088;",
       "Chargefruit",
       "ForceOP, Griefing and Crash items made by Chargefruit",
       "<a href=nbt/kits/nbt/AnarchistsKit1.0byChargefruit.nbt download>NBT</a>"
     ],
     [
-      "Practical Items 1.0",
+      "Practical Items 1.0 &#11088;",
       "Chargefruit",
       "Various items useful for building and item making",
       "<a href=nbt/kits/nbt/PracticalItems1.0byChargefruit.nbt download>NBT</a>"
+    ],
+    [
+      "Nigger Kit",
+      "xxBen",
+      "Everything you need to deal with niggers",
+      "<a href=nbt/kits/nbt/NiggerKit.nbt download>NBT</a>"
+    ],
+    [
+      "LegendaryCrateofsecrets 1",
+      "Misc. Authors",
+      "A collection of overstacked armor and weapons from other kits",
+      "<a href=nbt/kits/nbt/LegendaryCrateofsecrets1.nbt download>NBT</a>"
+    ],
+    [
+      "LegendaryCrateofsecrets 2",
+      "Misc. Authors",
+      "A collection of overstacked armor and weapons from other kits",
+      "<a href=nbt/kits/nbt/LegendaryCrateofsecrets2.nbt download>NBT</a>"
+    ],
+    [
+      "Tesla's Superweapons",
+      "_txsla",
+      "An unofficial in-dev Tesla kit, used to test features for new Tesla kits",
+      "<a href=nbt/kits/nbt/TeslasSuperweapons.nbt download>NBT</a>"
     ]
   ]
 }

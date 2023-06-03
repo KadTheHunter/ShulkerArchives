@@ -1,13 +1,13 @@
 {
   "data": [
     [
-      "Kat's Characters",
+      "Kat's Characters &#11088;",
       "Katsuo__",
       "All icons useable in Minecraft",
       "<a href=../nbt/books/nbt/KatsCharacters.nbt download>NBT</a>"
     ],
     [
-      "Marxx Characters Vol. 6",
+      "Marxx Characters Vol. 6 &#11088;",
       "Katuso__",
       "All icons useable in Minecraft",
       "<a href=../nbt/books/nbt/MarxxCharactersVol6.nbt download>NBT</a>"
@@ -19,10 +19,22 @@
       "<a href=../nbt/books/nbt/PleaseDoNotTouchThisVillage.nbt download>NBT</a>"
     ],
     [
-      "We Didn't Start The Fire: TF Edition",
+      "We Didn't Start The Fire: TF Edition &#11088;",
       "Billy Joel",
       "'We Didn't Start The Fire by Billy Joel', but adapted to TotalFreedom",
       "<a href=../nbt/books/nbt/WeDidntStartTheFireTFEdition.nbt download>NBT</a>"
+    ],
+    [
+      "Introduction (to SRC)",
+      "The Server Restoration Committee",
+      "A book introducing players to the Server Restoration Committee (SRC) and its goals",
+      "<a href=nbt/kits/nbt/IntroductionToSRC.nbt download>NBT</a>"
+    ],
+    [
+      "Fix VP, please!",
+      "SuperRyn",
+      "An article from the SRC detailing why Vulnerability Patcher is bad and should be fixed",
+      "<a href=nbt/kits/nbt/FixVPplease!.nbt download>NBT</a>"
     ]
   ]
 }
