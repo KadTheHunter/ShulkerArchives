@@ -35,6 +35,30 @@
       "SuperRyn",
       "An article from the SRC detailing why Vulnerability Patcher is bad and should be fixed",
       "<a href=nbt/kits/nbt/FixVPplease!.nbt download>NBT</a>"
+    ],
+    [
+      "Rickroll Lectern",
+      "Unknown Author",
+      "Flip the pages for a Rickroll",
+      "<a href=nbt/kits/nbt/RickrollLectern.nbt download>NBT</a>"
+    ],
+    [
+      "Video x Saturn Collection",
+      "videogamesm12",
+      "A book written by Videos ex, describing some spicy things",
+      "<a href=nbt/kits/nbt/VideoxSaturnCollection.nbt download>NBT</a>"
+    ],
+    [
+      "Welcome to TotalFreedom!",
+      "markbyron",
+      "Gives a quick overview of TotalFreedom for new players",
+      "<a href=nbt/kits/nbt/WelcomeToTotalFreedom!.nbt download>NBT</a>"
+    ],
+    [
+      "Can't believe I did math for a Minecraft bot",
+      "CoolestGuy94",
+      "Details the math for finding out how long it takes EpsilonBot to build a mapart",
+      "<a href=nbt/kits/nbt/CantBelieveIDidMathForAMinecraftBot.nbt download>NBT</a>"
     ]
   ]
 }
