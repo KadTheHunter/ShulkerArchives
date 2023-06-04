@@ -111,6 +111,8 @@ When using WebStorm, I have this template saved as u+TAB in JSON files.
 
 <script type="text/javascript" charset="utf8" src="../assets/DataTables/datatables.min.js"></script>
 
+<script type="text/javascript" charset="UTF-8" src="../assets/js/jquery.hotkeys.min.js"></script>
+
 <script>
     $(function () {
         $("#unnamed").dataTable({
@@ -151,6 +153,19 @@ When using WebStorm, I have this template saved as u+TAB in JSON files.
                         .draw();
                 }
             });
+        });
+    });
+</script>
+
+// Thank fuck for Rookie in July 2012 for posting about this https://datatables.net/forums/discussion/10892/keystroke-pagination or I'd have just given up. Other posts suggesting fuckin KeyTables...
+<script>
+    $(document).ready(function() {
+        $(document).bind('keydown', 'right', function() {
+            $(".next").click();
+        });
+
+        $(document).bind('keydown', 'left', function() {
+            $(".previous").click();
         });
     });
 </script>
