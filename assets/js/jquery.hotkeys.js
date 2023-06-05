@@ -157,7 +157,7 @@
         }
       });
 
-      // metaKey is triggered off ctrlKey erronously
+      // metaKey is triggered off ctrlKey erroneously
       if (event.metaKey && !event.ctrlKey && special !== "meta") {
         modif += "meta+";
       }
