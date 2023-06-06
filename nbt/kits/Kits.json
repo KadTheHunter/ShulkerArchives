@@ -5264,6 +5264,42 @@
       "_txsla",
       "An unofficial in-dev Tesla kit, used to test features for new Tesla kits",
       "<a href=nbt/kits/nbt/TeslasSuperweapons.nbt download>NBT</a>"
+    ],
+    [
+      "Custom Tools",
+      "Eczbek",
+      "Variety of utilities created by Eczbek",
+      "<a href=nbt/kits/nbt/CustomTools-Eczbek.nbt download>NBT</a>"
+    ],
+    [
+      "some explosives",
+      "Eczbek",
+      "9 different explosions, of various size and power",
+      "<a href=nbt/kits/nbt/SomeExplosives-Eczbek.nbt download>NBT</a>"
+    ],
+    [
+      "Creative Toolbox",
+      "Eczbek",
+      "Utilities and tools for Creative players, primarily unobtainables and variants",
+      "<a href=nbt/kits/nbt/CreativeToolbox-Eczbek.nbt download>NBT</a>"
+    ],
+    [
+      "Custom Heads",
+      "Eczbek",
+      "A collection of custom heads depicting various blocks",
+      "<a href=nbt/kits/nbt/CustomHeads-Eczbek.nbt download>NBT</a>"
+    ],
+    [
+      "BANNERS",
+      "Eczbek",
+      "22 banners depicting mobs and some of their variants",
+      "<a href=nbt/kits/nbt/BANNERS-Eczbek.nbt download>NBT</a>"
+    ],
+    [
+      "Custom Items",
+      "Eczbek",
+      "25 items made by Eczbek",
+      "<a href=nbt/kits/nbt/CustomItems-Eczbek.nbt download>NBT</a>"
     ]
   ]
 }
