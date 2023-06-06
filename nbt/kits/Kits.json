@@ -5300,6 +5300,18 @@
       "Eczbek",
       "25 items made by Eczbek",
       "<a href=nbt/kits/nbt/CustomItems-Eczbek.nbt download>NBT</a>"
+    ],
+    [
+      "quack's epic items v4.0",
+      "quack95",
+      "Quacks best items compacted into a single armorstand",
+      "<a href=nbt/kits/nbt/quacksEpicItemsv4.0.nbt download>NBT</a>"
+    ],
+    [
+      "keli5's music kit 2",
+      "keli5",
+      "keli5's favorite music part 2",
+      "<a href=nbt/kits/nbt/keli5sMusicKit2.nbt download>NBT</a>"
     ]
   ]
 }
