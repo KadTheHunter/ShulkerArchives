@@ -5312,6 +5312,48 @@
       "keli5",
       "keli5's favorite music part 2",
       "<a href=nbt/kits/nbt/keli5sMusicKit2.nbt download>NBT</a>"
+    ],
+    [
+      "TMP's Kit V 2.0",
+      "Unknown Author",
+      "Lightly enchanted diamond armor and tools, plus soem totems and basic supplies",
+      "<a href=nbt/kits/nbt/TMPsKitV2.nbt download>NBT</a>"
+    ],
+    [
+      "Steve Viruses",
+      "Unknown Author",
+      "Viruses (splash potions) to infect Steve (players)",
+      "<a href=nbt/kits/nbt/SteveViruses.nbt download>NBT</a>"
+    ],
+    [
+      "Troll Potions",
+      "Unknown Author",
+      "4 splash potions with mild effects",
+      "<a href=nbt/kits/nbt/TrollPotions.nbt download>NBT</a>"
+    ],
+    [
+      "talsman 1",
+      "Unknown Author",
+      "Contains 9 talismans in a box with a poorly spelled name",
+      "<a href=nbt/kits/nbt/talsman1.nbt download>NBT</a>"
+    ],
+    [
+      "Abuse Kit v5 Redux",
+      "EnderEyeGames",
+      "Redux edition of Abuse Kit v5 from the popular Abuse Kit series",
+      "<a href=nbt/kits/nbt/AbuseKitv5Redux.nbt download>NBT</a>"
+    ],
+    [
+      "CommandMaster XD Generators",
+      "CommandMasterXD",
+      "Repeating command blocks to generate various blocks",
+      "<a href=nbt/kits/nbt/CommandMasterXDGenerators.nbt download>NBT</a>"
+    ],
+    [
+      "Fionnns Gamble Box",
+      "Fionnn",
+      "Coins and membership ranks for... something",
+      "<a href=nbt/kits/nbt/FionnnsGambleBox.nbt download>NBT</a>"
     ]
   ]
 }
