@@ -185,6 +185,18 @@ When using WebStorm, I have this template saved as u+TAB in JSON files.
         $(document).bind('keydown', 'k', function() {
             window.location = "../index.html";
         });
+
+        $(document).bind('keydown', 'd', function() {
+            var table = $('#unnamed').DataTable();
+            table.order.neutral().draw(); // Sets the table to display in the order it's written in the JSON file via order.neutral().min.js
+            table.page('last').draw('page');
+        });
+
+        $(document).bind('keydown', 'shift+d', function() {
+            var table = $('#unnamed').DataTable();
+            table.order([0, 'asc']).draw(); // Resets the table to default sort order by ordering the Name column A-Z
+            table.page('first').draw('page');
+        });
     });
 </script>
 
