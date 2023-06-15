@@ -1393,10 +1393,10 @@
       "<a href=nbt/kits/nbt/DevToolKit.nbt download>NBT</a>"
     ],
     [
-      "Dew Kit",
+      "Dew Power",
       "Unknown Author",
       "A continuation of TotalFreedom history",
-      "<a href=nbt/kits/nbt/DewKit.nbt download>NBT</a>"
+      "<a href=nbt/kits/nbt/DewPower.nbt download>NBT</a>"
     ],
     [
       "Disco Shulker Box [Unlocked]",
@@ -5351,6 +5351,114 @@
       "Fionnn",
       "Coins and membership ranks for... something",
       "<a href=nbt/kits/nbt/FionnnsGambleBox.nbt download>NBT</a>"
+    ],
+    [
+      "Abuse Kit 3",
+      "EnderEyeGames",
+      "Griefing kit from the popular Abuse Kit series",
+      "<a href=nbt/kits/nbt/AbuseKitv3.nbt download>NBT</a>"
+    ],
+    [
+      "Abuse Kit v4 BETA",
+      "EnderEyeGames",
+      "Griefing kit from the popular Abuse Kit series",
+      "<a href=nbt/kits/nbt/AbuseKitv4-BETA.nbt download>NBT</a>"
+    ],
+    [
+      "Abuse Kit v4",
+      "EnderEyeGames",
+      "Griefing kit from the popular Abuse Kit series",
+      "<a href=nbt/kits/nbt/AbuseKitv4.nbt download>NBT</a>"
+    ],
+    [
+      "Abuse Kit v4.1",
+      "EnderEyeGames",
+      "Griefing kit from the popular Abuse Kit series",
+      "<a href=nbt/kits/nbt/AbuseKitv4.1.nbt download>NBT</a>"
+    ],
+    [
+      "Abuse Kit v5",
+      "EnderEyeGames",
+      "Griefing kit from the popular Abuse Kit series",
+      "<a href=nbt/kits/nbt/AbuseKitv5.nbt download>NBT</a>"
+    ],
+    [
+      "2koy's Box of Ultimate Abilitys 1.4",
+      "2koy",
+      "A collection of golden armor, sword, bow/crossbow, potions, eggs, spawners, command blocks, and more",
+      "<a href=nbt/kits/nbt/2koysBoxOfUltimateAbilitys1.4.nbt download>NBT</a>"
+    ],
+    [
+      "2koy's Emoji Griefing Box 1.3",
+      "2koy",
+      "Eggs, command blocks, spawners, furnaces and armorstands for griefing and crashing worlds and servers",
+      "<a href=nbt/kits/nbt/2koysEmojiGriefingBox1.3.nbt download>NBT</a>"
+    ],
+    [
+      "_ShyGuy_s OP Kit",
+      "_ShyGuy_",
+      "Leather armor, iron sword, cookies and a piece of redstone",
+      "<a href=nbt/kits/nbt/_ShyGuy_s_OPKit.nbt download>NBT</a>"
+    ],
+    [
+      "2koy's Box of Ultimate Abilitys 1.4.3",
+      "2koy",
+      "A collection of golden armor, sword, bow/crossbow, potions, eggs, and more",
+      "<a href=nbt/kits/nbt/2koysBoxOfUltimateAbilitys1.4.3.nbt download>NBT</a>"
+    ],
+    [
+      "Barrel Collection",
+      "FridiLT864",
+      "Purple shulker box with barrels 0.1, 1.0, and 1.1, each containing basic OP PvP materials",
+      "<a href=nbt/kits/nbt/BarrelCollection.nbt download>NBT</a>"
+    ],
+    [
+      "Bio-Labs Essentials",
+      "Misc. Authors",
+      "Part of OperatorTheDope's Sudo Kit, with arrows, potions, a shield and a sword from Bio-Labs",
+      "<a href=nbt/kits/nbt/Bio-LabsEssentials.nbt download>NBT</a>"
+    ],
+    [
+      "block spawn eggs part 1",
+      "Unknown Author",
+      "Eggs to spawn fake and unusable building blocks",
+      "<a href=nbt/kits/nbt/BlockSpawnEggsPart1.nbt download>NBT</a>"
+    ],
+    [
+      "Achillean Crate",
+      "Unknown Author",
+      "Heads for a variety of sexual orientations",
+      "<a href=nbt/kits/nbt/AchilleanCrate.nbt download>NBT</a>"
+    ],
+    [
+      "Arikku's Build Box 4",
+      "Arikku",
+      "Useful armor stands to include in your builds. Part of Arikku's Build series.",
+      "<a href=nbt/kits/nbt/ArikkusBuildBox4.nbt download>NBT</a>"
+    ],
+    [
+      "Arikku's Build Box 3",
+      "Arikku",
+      "Useful blockstates and armorstands to use in your builds. Part of Arikku's Build Series",
+      "<a href=nbt/kits/nbt/ArikkusBuildBoxIII.nbt download>NBT</a>"
+    ],
+    [
+      "Armor Stands",
+      "Jupiters",
+      "Collection of useful armorstands",
+      "<a href=nbt/kits/nbt/ArmorStands-Jupiters.nbt download>NBT</a>"
+    ],
+    [
+      "Astros Kit",
+      "MeMo_R3KT (?), Hypixel",
+      "Ancient Shadow Assassin armor, with diamond tools, egaps and totems",
+      "<a href=nbt/kits/nbt/AstrosKit.nbt download>NBT</a>"
+    ],
+    [
+      "Axolotl Kit",
+      "Midnightfeather",
+      "Everything axolotls! Spawn eggs for each type, lore-art, and themed gear",
+      "<a href=nbt/kits/nbt/AxolotlKit.nbt download>NBT</a>"
     ]
   ]
 }
