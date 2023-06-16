@@ -5453,6 +5453,24 @@
       "Midnightfeather",
       "Everything axolotls! Spawn eggs for each type, lore-art, and themed gear",
       "<a href=nbt/kits/nbt/AxolotlKit.nbt download>NBT</a>"
+    ],
+    [
+      "TotalFreedom Care-Package",
+      "Beta_Alpha (?)",
+      "Basic weapons and tools for Total Freedom, alongside gold and silver coins to buy Custom Items from Beta_Alpha",
+      "<a href=nbt/kits/nbt/TotalFreedomCare-Package.nbt download>NBT</a>"
+    ],
+    [
+      "Red Kit",
+      "Unknown Author",
+      "Leather armor and weapons with a Red Theme",
+      "<a href=../nbt/unnamed/nbt/RedKit_[AAN].nbt download>NBT</a>"
+    ],
+    [
+      "Blue Kit",
+      "Unknown Author",
+      "Blue themed armor and weapons",
+      "<a href=../nbt/unnamed/nbt/BlueKit_[AAN].nbt download>NBT</a>"
     ]
   ]
 }
