@@ -122,10 +122,15 @@ We use it In combination with the script imported below it, jquery.hotkeys.min.j
 <script>
     $(function () {
         $("#kits").dataTable({
-            stateSave: true, // This allows saving the Search/Sort/Filter state in the browser
+            // This allows saving the Search/Sort/Filter state in the browser
+            stateSave: true,
             ajax: 'nbt/kits/Kits.json',
-            pagingType: "full_numbers", // This shows  'First', 'Previous', 'Next' and 'Last' buttons, plus page numbers
-            autoWidth: false, // This is disabled for both optimization and sanity. No need for DT to check/calc width, no visual issues causing me a headache
+
+            // This shows  'First', 'Previous', 'Next' and 'Last' buttons, plus page numbers
+            pagingType: "full_numbers",
+
+            // This is disabled for both optimization and sanity. No need for DT to check/calc width, no visual issues causing me a headache
+            autoWidth: false,
             columnDefs: [
                 {
                     searchable: false,
@@ -149,7 +154,8 @@ We use it In combination with the script imported below it, jquery.hotkeys.min.j
         });
 
         var table = $('#kits').DataTable();
-        table.columns([0,1,2]).every(function () { // [0,1,2] must be changed to match the columns we want searchable. This shouldn't ever have to be done, but noted here just in case.
+        // [0,1,2] must be changed to match the columns we want searchable. This shouldn't ever have to be done, but noted here just in case.
+        table.columns([0,1,2]).every(function () {
             var that = this;
 
             $('input', this.footer()).on('keyup change', function () {
@@ -192,15 +198,17 @@ Thank fuck for Rookie in July 2012 for posting about this https://datatables.net
             window.location = "index.html";
         });
 
+        // Sets the table to display in the order it's written in the JSON file via order.neutral().min.js
         $(document).bind('keydown', 'd', function() {
             var table = $('#kits').DataTable();
-            table.order.neutral().draw(); // Sets the table to display in the order it's written in the JSON file via order.neutral().min.js
+            table.order.neutral().draw();
             table.page('last').draw('page');
         });
 
+        // Resets the table to default sort order by ordering the Name column A-Z
         $(document).bind('keydown', 'shift+d', function() {
             var table = $('#kits').DataTable();
-            table.order([0, 'asc']).draw(); // Resets the table to default sort order by ordering the Name column A-Z
+            table.order([0, 'asc']).draw();
             table.page('first').draw('page');
         });
     });
