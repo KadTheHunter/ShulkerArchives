@@ -1,7 +1,7 @@
 {
   "data": [
     [
-      "深量 Omega Humane Kit 深量",
+      "Omega Humane Kit",
       "BuildingAbyss90",
       "A kit with a death-potion, armor stand with OP armor, a fishing rod, and a water bucket.",
       "<a href=nbt/kits/nbt/OmegaHumaneKit.nbt download>NBT</a>"
@@ -22,7 +22,7 @@
       "Weasley's Wildfire Whiz-Bangs | Deflagration Deluxe Edition &#11088;",
       "KaddicusAlmighty",
       "A collection of the best custom fireworks",
-      "<a href=nbt/kits/nbt/WildfireWhizbangsDeflagDeluxe.nbt download>NBT</a>"
+      "<a href=nbt/kits/nbt/WeasleysWildfireWhizbangsDeflagDeluxe.nbt download>NBT</a>"
     ],
     [
       "Xelion Tripex Axe",
@@ -496,7 +496,7 @@
       "Back From the Grave v2.0",
       "GraveAwoken",
       "Contains four pieces from BFtG, plus a new Mystical Staff",
-      "<a href=nbt/kits/nbt/BTFGv2.0.nbt download>NBT</a>"
+      "<a href=nbt/kits/nbt/BackFromTheGravev2.0.nbt download>NBT</a>"
     ],
     [
       "DimensionalCores",
@@ -874,7 +874,7 @@
       "The CIT Pack Advertisement Kit &#11088;",
       "KaddicusAlmighty",
       "Kit with the essentials needed to advertise CIT Texture Packs",
-      "<a href=nbt/kits/nbt/CITPackAdvertisementKit.nbt download>NBT</a>"
+      "<a href=nbt/kits/nbt/TheCITPackAdvertisementKit.nbt download>NBT</a>"
     ],
     [
       "Basic Trench Warfare Weapons",
@@ -1165,7 +1165,7 @@
       "<a href=nbt/kits/nbt/HackedItems.nbt download>NBT</a>"
     ],
     [
-      "$ESO PA$",
+      "ESO PA",
       "Unknown",
       "$ESO PA$",
       "<a href=nbt/kits/nbt/ESOPA.nbt download>NBT</a>"
@@ -2113,7 +2113,7 @@
       "<a href=nbt/kits/nbt/SplittingDawnKit.nbt download>NBT</a>"
     ],
     [
-      "[The Exclusive Katsuo's Originals]",
+      "The Exclusive Katsuo's Originals",
       "Katsuo",
       "[The Exclusive Katsuo's Originals]",
       "<a href=nbt/kits/nbt/TheExclusiveKatsuosOriginals.nbt download>NBT</a>"
@@ -2155,7 +2155,7 @@
       "<a href=nbt/kits/nbt/BananaTheGamerYtAndItzSergioCobrasGodKit.nbt download>NBT</a>"
     ],
     [
-      "\"Bomb Protection Gear\"",
+      "Bomb Protection Gear",
       "ItzSergioCobra",
       "Bomb Protection Gear",
       "<a href=nbt/kits/nbt/BombProtectionGear.nbt download>NBT</a>"
@@ -2389,9 +2389,9 @@
       "<a href=nbt/kits/nbt/Miscellaneous.nbt download>NBT</a>"
     ],
     [
-      "ZINGZING",
+      "ZINGZONG",
       "billy7oblos",
-      "ZINGZING",
+      "ZINGZONG",
       "<a href=nbt/kits/nbt/ZINGZONG.nbt download>NBT</a>"
     ],
     [
@@ -2989,13 +2989,13 @@
       "<a href=nbt/kits/nbt/IllegalStackedItems.nbt download>NBT</a>"
     ],
     [
-      "//replace Proof Blocks 1",
+      "replace Proof Blocks 1",
       "bigboypadilla",
       "//replace Proof Blocks 1",
       "<a href=nbt/kits/nbt/replaceProofBlocks1.nbt download>NBT</a>"
     ],
     [
-      "//replace Proof Blocks 2",
+      "replace Proof Blocks 2",
       "bigboypadilla",
       "//replace Proof Blocks 2",
       "<a href=nbt/kits/nbt/replaceProofBlocks2.nbt download>NBT</a>"
@@ -3287,12 +3287,6 @@
       "OperatorTheDope",
       "Meltup Kit",
       "<a href=nbt/kits/nbt/MeltupKit.nbt download>NBT</a>"
-    ],
-    [
-      "Fake Operating System",
-      "OperatorTheDope",
-      "假操作系统",
-      "<a href=nbt/kits/nbt/FakeOperatingSystem.nbt download>NBT</a>"
     ],
     [
       "Santa's Terroristic Attack Bundle",
@@ -3913,7 +3907,7 @@
       "<a href=nbt/kits/nbt/UnderTBox.nbt download>NBT</a>"
     ],
     [
-      "\"WHOA\" Box",
+      "WHOA Box",
       "Jusandrew",
       "A very awesome collection of items by Jusandrew",
       "<a href=nbt/kits/nbt/WHOABox.nbt download>NBT</a>"
@@ -4174,7 +4168,7 @@
       "FFC0C KIT OF PINK AWESOMNESS",
       "Wecklerie",
       "Armor, flowers, shields and sticks, all with a PINK theme",
-      "<a href=nbt/kits/nbt/KITOFPINKAWESOMNESS.nbt download>NBT</a>"
+      "<a href=nbt/kits/nbt/FFC0CKITOFPINKAWESOMNESS.nbt download>NBT</a>"
     ],
     [
       "Dat Cats Steak House Merch Box",
@@ -4762,7 +4756,7 @@
       "[ezkits] kit",
       "Unknown Author",
       "A collection of weapons and items",
-      "<a href=nbt/kits/nbt/ezkitskit.nbt download>NBT</a>"
+      "<a href=nbt/kits/nbt/[ezkits]kit.nbt download>NBT</a>"
     ],
     [
       "Golden Arsenal",

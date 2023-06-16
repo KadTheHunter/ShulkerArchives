@@ -547,13 +547,13 @@
       "<a href=../nbt/items/nbt/LightCatalyst.nbt download>NBT</a>"
     ],
     [
-      "Potion of Immortality",
+      "Lingering Potion of Immortality",
       "OperatorTheDope",
       "Itempedia Basics Lingering Potion of Immortality",
       "<a href=../nbt/items/nbt/.nbt download>NBT</a>"
     ],
     [
-      "Potion of Totemkilling",
+      "Lingering Potion of Totemkilling",
       "iIFrozenFireIi, OperatorTheDope",
       "Itempedia Basics Lingering Potion of Totemkilling",
       "<a href=../nbt/items/nbt/.nbt download>NBT</a>"
@@ -727,12 +727,6 @@
       "<a href=../nbt/items/nbt/SlimyChestplate.nbt download>NBT</a>"
     ],
     [
-      "SPECTRE BOOTS",
-      "47",
-      "Fast leather boots for traversing the Archives",
-      "<a href=../nbt/items/nbt/SPECTREBOOTS.nbt download>NBT</a>"
-    ],
-    [
       "Spicy Midas' Sword",
       "Hypixel",
       "Fancy golden sword",
@@ -829,14 +823,14 @@
       "<a href=../nbt/items/nbt/Pencil.nbt download>NBT</a>"
     ],
     [
-      "Potion of Totemkilling",
+      "Splash Potion of Totemkilling",
       "iIFrozenFireIi, OperatorTheDope",
       "Itempedia Basics Splash Potion of Totemkilling",
       "<a href=../nbt/items/nbt/SplashPotionOfTotemKilling.nbt download>NBT</a>"
     ],
     [
-      "Potion of Immortality",
-      "peratorTheDope",
+      "Splash Potion of Immortality",
+      "OperatorTheDope",
       "Itempedia Basics Splash Potion of Immortality",
       "<a href=../nbt/items/nbt/SplashPotionOfImmortality.nbt download>NBT</a>"
     ],
@@ -919,7 +913,7 @@
       "<a href=../nbt/items/nbt/StarDustBow.nbt download>NBT</a>"
     ],
     [
-      "> sudo kill -9 $TARGET",
+      "sudo kill -9 $TARGET",
       "iIFrozenFireIi, OperatorTheDope",
       "Legendary kill pot",
       "<a href=../nbt/items/nbt/sudokill-9$target.nbt download>NBT</a>"
