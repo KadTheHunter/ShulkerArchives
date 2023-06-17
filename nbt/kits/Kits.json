@@ -5471,6 +5471,114 @@
       "Unknown Author",
       "Blue themed armor and weapons",
       "<a href=../nbt/unnamed/nbt/BlueKit_[AAN].nbt download>NBT</a>"
+    ],
+    [
+      "Ares Griefing Kit",
+      "Unknown Author",
+      "Spawn Eggs and Command Blocks from other griefing kits, mixed with low-quality diamond armor, and some Hypixel heads",
+      "<a href=nbt/kits/nbt/AresGriefingKit.nbt download>NBT</a>"
+    ],
+    [
+      "Axolotol Spawn Eggs",
+      "Archsenal1",
+      "Spawn eggs for different colored Axolotls",
+      "<a href=nbt/kits/nbt/AxolotolSpawnEggs.nbt download>NBT</a>"
+    ],
+    [
+      "Box of Death Pots and Arrows",
+      "FleshlyIsTaken",
+      "9 deathpots, 9 arrows and 9 glitched lodestone compasses",
+      "<a href=nbt/kits/nbt/BoxOfDeathPotsAndArrows.nbt download>NBT</a>"
+    ],
+    [
+      "_CookieMan_'s Annoying Sound Shulk",
+      "_CookieMans_",
+      "9 spawn eggs based off of Deltaxe's Music Box",
+      "<a href=nbt/kits/nbt/_CookieMan_sAnnoyingSoundShulk.nbt download>NBT</a>"
+    ],
+    [
+      "Abuse Kit v1",
+      "EnderEyeGames",
+      "The original Abuse Kit, with signs, eggs, and weapons for griefing, trolling and abusing",
+      "<a href=nbt/kits/nbt/AbuseKitv1.nbt download>NBT</a>"
+    ],
+    [
+      "Abuse Kit v2",
+      "EnderEyeGames",
+      "Successor to Abuse Kit v1, with more spawn eggs and potions",
+      "<a href=nbt/kits/nbt/AbuseKitv2.nbt download>NBT</a>"
+    ],
+    [
+      "Alco's Funnies",
+      "Alco_Rs11",
+      "7 items to crash servers and spam logs",
+      "<a href=nbt/kits/nbt/AlcosFunnies.nbt download>NBT</a>"
+    ],
+    [
+      "Anarchist's Kit 1.1",
+      "Chargefruit",
+      "Minor lore changes from v1.0",
+      "<a href=nbt/kits/nbt/AnarchistsKit1.1byChargefruit.nbt download>NBT</a>"
+    ],
+    [
+      "Ancient Necrons Armor",
+      "Hypixel",
+      "Ancient Necron armorset from Hypixel",
+      "<a href=nbt/kits/nbt/AncientNecronsArmor.nbt download>NBT</a>"
+    ],
+    [
+      "Circle Command Bundle",
+      "enderples",
+      "Command blocks to generate circles of various sizes",
+      "<a href=nbt/kits/nbt/CircleCommandBundle.nbt download>NBT</a>"
+    ],
+    [
+      "Clan BORN",
+      "Ivan_Groznyj",
+      "Diamodn armor, command block, diamond axe, potions and totems, all with russian names and lore",
+      "<a href=nbt/kits/nbt/ClanBorn.nbt download>NBT</a>"
+    ],
+    [
+      "Box of Doom",
+      "Unknown Author",
+      "Contains 5 other shulker boxes, labelled Spawn Eggs, Explosives/Potions, Random items I found in servers, Misc. Items, and Op Items",
+      "<a href=nbt/kits/nbt/BoxOfDoom.nbt download>NBT</a>"
+    ],
+    [
+      "Box of the Stars &#11088;",
+      "Unknown Author",
+      "Leather armor and misc items arranged nicely with themed lore, the Structure Void's lore in particular is interesting",
+      "<a href=nbt/kits/nbt/BoxoftheStars.nbt download>NBT</a>"
+    ],
+    [
+      "Chaotic Arrow Box",
+      "Unknown Author",
+      "9 different tipped arrows each with cool effects",
+      "<a href=nbt/kits/nbt/ChaoticArrowBox.nbt download>NBT</a>"
+    ],
+    [
+      "Cheez-It Kit",
+      "DarkerThanAfter",
+      "Cheez-It themed leather armor and sword",
+      "<a href=nbt/kits/nbt/Cheez-ItKit.nbt download>NBT</a>"
+    ],
+    [
+      "Chewbacca Kit",
+      "Unknown Author",
+      "Chewbacca head, leather armor, crossbow and arrows",
+      "<a href=nbt/kits/nbt/ChewbaccaKit.nbt download>NBT</a>"
+    ],
+    [
+      "Chungus Light (4 pk.)",
+      "Reperak",
+      "A 4 pack of Chungus Light brew",
+      "<a href=nbt/kits/nbt/ChungusLight(4pk).nbt download>NBT</a>"
+    ],
+    [
+      "Chungus PvP Kit",
+      "Misc. Authors",
+      "Diamond armor, potions, iron sword, egaps",
+      "<a href=nbt/kits/nbt/ChungusPvPKit.nbt download>NBT</a>"
     ]
   ]
 }
