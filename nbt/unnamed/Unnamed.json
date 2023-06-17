@@ -407,6 +407,12 @@
       "Reperak",
       "Diamond armor and sword, part of the Chungus Standard set, surrounded by Chungus Ltd. Packing Peanuts",
       "<a href=../nbt/unnamed/nbt/ChungusStandardSet_[AAN].nbt download>NBT</a>"
+    ],
+    [
+      "Blank Macetrap Armor",
+      "macetrap",
+      "Netherite armor with truly blank name and lore",
+      "<a href=../nbt/unnamed/nbt/BlankMacetrapArmor_[AAN].nbt download>NBT</a>"
     ]
   ]
 }
