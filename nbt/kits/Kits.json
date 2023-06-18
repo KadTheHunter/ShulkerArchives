@@ -727,12 +727,6 @@
       "<a href=nbt/kits/nbt/Sausage.nbt download>NBT</a>"
     ],
     [
-      "Gamemodes Kit",
-      "Unknown Author",
-      "Gamemodes Kit",
-      "<a href=nbt/kits/nbt/GamemodesKit.nbt download>NBT</a>"
-    ],
-    [
       "CAMO KIT",
       "Unknown Author",
       "Camo Kit",
@@ -1657,12 +1651,6 @@
       "<a href=nbt/kits/nbt/NoahsUltimate8b8tKit.nbt download>NBT</a>"
     ],
     [
-      "Nordic God Weapons",
-      "Unknown Author",
-      "Skadi like a melod-- no stop.",
-      "<a href=nbt/kits/nbt/NordicGodWeapons.nbt download>NBT</a>"
-    ],
-    [
       "Rarity Nightmare Kit",
       "Unknown Author",
       "Rarity Nightmare Kit",
@@ -1955,12 +1943,6 @@
       "FileExtension",
       "Ultraviolet Crate",
       "<a href=nbt/kits/nbt/UltravioletCrate.nbt download>NBT</a>"
-    ],
-    [
-      "Enders Revenge",
-      "FileExtension",
-      "Enders Revenge",
-      "<a href=nbt/kits/nbt/EndersRevenge.nbt download>NBT</a>"
     ],
     [
       "File.exeSet",
@@ -3782,7 +3764,7 @@
     ],
     [
       "Sally's Drug Box",
-      "Unknown Author",
+      "Unknown IGN",
       "A variety of drugs",
       "<a href=nbt/kits/nbt/SallysDrugBox.nbt download>NBT</a>"
     ],
@@ -3926,7 +3908,7 @@
     ],
     [
       "VOIDSTAR v2.5.1",
-      "Jackson_Truett",
+      "XanX15, BingoIsaac",
       "VOIDSTAR armor, weapons, spawners and items",
       "<a href=nbt/kits/nbt/VOIDSTARV2.5.1.nbt download>NBT</a>"
     ],
@@ -5579,6 +5561,1152 @@
       "Misc. Authors",
       "Diamond armor, potions, iron sword, egaps",
       "<a href=nbt/kits/nbt/ChungusPvPKit.nbt download>NBT</a>"
+    ],
+    [
+      "DA MEME BOX",
+      "Unknown Author",
+      "Leather armor and items based off popular memes",
+      "<a href=nbt/kits/nbt/DAMEMEBOX.nbt download>NBT</a>"
+    ],
+    [
+      "CORP Shulker",
+      "NotPetya",
+      "Golden armor that might protect you, and a stick that probably won't kill",
+      "<a href=nbt/kits/nbt/CORPShulker.nbt download>NBT</a>"
+    ],
+    [
+      "Craft_E_Jack's Halloween Kit",
+      "Craft_E_Jack",
+      "Reaper costume, scythe cosmetic and a Candy Basket",
+      "<a href=nbt/kits/nbt/Craft_E_JacksHalloweenKit.nbt download>NBT</a>"
+    ],
+    [
+      "Cum Kit",
+      "Yurni",
+      "Leather armor, iron sword and potion with a cum theme",
+      "<a href=nbt/kits/nbt/CumKit.nbt download>NBT</a>"
+    ],
+    [
+      "dead bush kit &#11088;",
+      "Unknown Author",
+      "Leather armor and misc items with ɥsnq pɐǝp lore",
+      "<a href=nbt/kits/nbt/DeadBushKit.nbt download>NBT</a>"
+    ],
+    [
+      "Crystal PvP",
+      "ImproperIssues",
+      "Contains shulkers for various modes and types of PvP",
+      "<a href=nbt/kits/nbt/CrystalPvP-ImproperIssues.nbt download>NBT</a>"
+    ],
+    [
+      "Darth Vader Kit",
+      "Unknown Author",
+      "Darth Vader head, armor and a red candle \"lightsaber\"",
+      "<a href=nbt/kits/nbt/DarthVaderKit.nbt download>NBT</a>"
+    ],
+    [
+      "CoolMob_EggsAndStuff",
+      "Unknown Author",
+      "Green leather armor, iron sword, emerald block hat and 2 spawn eggs",
+      "<a href=nbt/kits/nbt/CoolMob_EggsAndStuff.nbt download>NBT</a>"
+    ],
+    [
+      "Doomsday Squidward Set",
+      "Unknown Author",
+      "Misc. items for Squidward Doomsday",
+      "<a href=nbt/kits/nbt/DoomsdaySquidwardSet.nbt download>NBT</a>"
+    ],
+    [
+      "Detached Blocks",
+      "Unknown Author",
+      "Command Blocks to spawn halves of blocks",
+      "<a href=nbt/kits/nbt/DetachedBlocks.nbt download>NBT</a>"
+    ],
+    [
+      "dodo crate",
+      "_cor3y_",
+      "8 spawn eggs, a block of redstone and a spawner",
+      "<a href=nbt/kits/nbt/dodocrate.nbt download>NBT</a>"
+    ],
+    [
+      "Earthworm1's Titanium Kit",
+      "Earthworm1",
+      "Netherite armor, tools, potions, and weapons",
+      "<a href=nbt/kits/nbt/Earthworm1sTitaniumKit.nbt download>NBT</a>"
+    ],
+    [
+      "Ender Kit",
+      "EnderMomandNate (?)",
+      "Diamond sword, leather armor, potions, arrows and a book describing Ranks within Enders",
+      "<a href=nbt/kits/nbt/EnderKit.nbt download>NBT</a>"
+    ],
+    [
+      "Enders Arrow Pack 1",
+      "Misc. Authors",
+      "Various tipped arrows",
+      "<a href=nbt/kits/nbt/EndersArrowPack1.nbt download>NBT</a>"
+    ],
+    [
+      "Enders Arrow Pack 2",
+      "Misc. Authors",
+      "Various tipped arrows",
+      "<a href=nbt/kits/nbt/EndersArrowPack2.nbt download>NBT</a>"
+    ],
+    [
+      "Dominating",
+      "Unknown Author",
+      "Netherite sword, leather armor, totems and misc. items requested by BullseyeBond",
+      "<a href=nbt/kits/nbt/Dominating.nbt download>NBT</a>"
+    ],
+    [
+      "Enchants",
+      "Dys",
+      "Shulker containing shulkers containing lecterns for getting items, and books with pre-applied enchantment combinations",
+      "<a href=nbt/kits/nbt/Enchants-Dys.nbt download>NBT</a>"
+    ],
+    [
+      "Enders Items",
+      "Misc. Authors",
+      "Barrel containing collections of various Enders items",
+      "<a href=nbt/kits/nbt/EndersItems.nbt download>NBT</a>"
+    ],
+    [
+      "Esckeys Essentials",
+      "esckey123",
+      "Netherite armor, tools weapons and experience bottles",
+      "<a href=nbt/kits/nbt/EsckeysEssentials.nbt download>NBT</a>"
+    ],
+    [
+      "Enders Other Item Pack 3",
+      "Unknown Author",
+      "Spawn eggs and Armor Stands",
+      "<a href=nbt/kits/nbt/EndersOtherItemPack3.nbt download>NBT</a>"
+    ],
+    [
+      "Explosion-Proof Blocks 1",
+      "enderples",
+      "Explosion proof slabs",
+      "<a href=nbt/kits/nbt/ExplosionProofBlocks1.nbt download>NBT</a>"
+    ],
+    [
+      "Explosion-Proof Blocks 2",
+      "enderples",
+      "Explosion proof slabs",
+      "<a href=nbt/kits/nbt/ExplosionProofBlocks2.nbt download>NBT</a>"
+    ],
+    [
+      "Equator Hazmat",
+      "quack95",
+      "Hazmat helmets for Equator employees",
+      "<a href=nbt/kits/nbt/EquatorHazmat.nbt download>NBT</a>"
+    ],
+    [
+      "EquatorStandardHazmatKit",
+      "quack95",
+      "Hazmat helmets and armor for Equator employees",
+      "<a href=nbt/kits/nbt/EquatorStandardHazmatKit.nbt download>NBT</a>"
+    ],
+    [
+      "Ender Soldier Kit",
+      "EnderMomandNate",
+      "Leather armor, diamond sword, potions, crossbow and arrows for Ender Soldiers",
+      "<a href=nbt/kits/nbt/EnderSoldierKit.nbt download>NBT</a>"
+    ],
+    [
+      "Enders Revenge",
+      "Unknown Author",
+      "Diamodn armor, tools and weapons",
+      "<a href=nbt/kits/nbt/EndersRevenge.nbt download>NBT</a>"
+    ],
+    [
+      "fleshly_'s Unauthorized Items (Vol. I)",
+      "FleshlyIsTaken",
+      "9 items with cool lore",
+      "<a href=nbt/kits/nbt/fleshly_sUnauthorizedItems(Vol1).nbt download>NBT</a>"
+    ],
+    [
+      "Flopkit",
+      "z32k",
+      "Iron armor and tools, with potions and totems",
+      "<a href=nbt/kits/nbt/Flopkit.nbt download>NBT</a>"
+    ],
+    [
+      "FNAF GUY PVP KIT",
+      "FNAFGuy123",
+      "Diamond sword, chainmail chestplate and some sharp grass",
+      "<a href=nbt/kits/nbt/FNAFGUYPVPKIT.nbt download>NBT</a>"
+    ],
+    [
+      "Force OP Kit by Earthworm1 V.1.0",
+      "Earthworm1",
+      "Contains 3 books for social engineering OP from gullible Admins",
+      "<a href=nbt/kits/nbt/ForceOPKitByEarthworm1v1.0.nbt download>NBT</a>"
+    ],
+    [
+      "FANTASY'S KIT FOR TODDLERS",
+      "Unknown Author",
+      "Iron, chain and leather armor, with misc. items and 4 spawn eggs",
+      "<a href=nbt/kits/nbt/FANTASYSKITFORTODDLERS.nbt download>NBT</a>"
+    ],
+    [
+      "FEET!",
+      "Yurni",
+      "Item frame and armor stand with interesting lore",
+      "<a href=nbt/kits/nbt/FEET!.nbt download>NBT</a>"
+    ],
+    [
+      "Fireball Block Command Bundle",
+      "enderples",
+      "Command blocks for making a Fireball block",
+      "<a href=nbt/kits/nbt/FireballBlockCommandBundle.nbt download>NBT</a>"
+    ],
+    [
+      "Fireworks by LeoTheRavioli (Cosmos)",
+      "LeoTheRavioli",
+      "Cosmos Fireworks",
+      "<a href=nbt/kits/nbt/FireworksbyLeotheRavioli(Cosmos).nbt download>NBT</a>"
+    ],
+    [
+      "Fireworks by LeoTheRavioli (Nature)",
+      "LeoTheRavioli",
+      "Nature Fireworks",
+      "<a href=nbt/kits/nbt/FireworksbyLeotheRavioli(Nature).nbt download>NBT</a>"
+    ],
+    [
+      "Granite Castle Kit",
+      "Unknown Author",
+      "Kit memeing off of the Granite Castle raiders",
+      "<a href=nbt/kits/nbt/GraniteCastleKit.nbt download>NBT</a>"
+    ],
+    [
+      "hacker kit",
+      "Unknown Author",
+      "Collection of random misc. \"hacker\" items",
+      "<a href=nbt/kits/nbt/hackerKit.nbt download>NBT</a>"
+    ],
+    [
+      "Halloween Gear (2021)",
+      "Unknown Author",
+      "Collection of items for Halloween",
+      "<a href=nbt/kits/nbt/HalloweenGear(2021).nbt download>NBT</a>"
+    ],
+    [
+      "Founders Items",
+      "Jackthefounder",
+      "5 barrels, Extra, Fighting, Spawning, Griefing, and Potion",
+      "<a href=nbt/kits/nbt/FoundersItems.nbt download>NBT</a>"
+    ],
+    [
+      "Fury Kit",
+      "Chargefruit",
+      "Diamond armor and sword generated by ChatGPT",
+      "<a href=nbt/kits/nbt/FuryKit.nbt download>NBT</a>"
+    ],
+    [
+      "Game Cube Kit",
+      "DarkerThanAfter",
+      "Game Cube themed diamond armor and weapons",
+      "<a href=nbt/kits/nbt/GameCubeKit.nbt download>NBT</a>"
+    ],
+    [
+      "Gamemodes Kit",
+      "Unknown Author",
+      "5 items describing different gamemodes",
+      "<a href=nbt/kits/nbt/GamemodesKit.nbt download>NBT</a>"
+    ],
+    [
+      "give a fish a kill a man + meteorites",
+      "Unknown Author",
+      "Golden armor and sword with some incredibly confusing lore, and Tier 1 through Tier 9 meteorites",
+      "<a href=nbt/kits/nbt/giveafishakillaman+meteorites.nbt download>NBT</a>"
+    ],
+    [
+      "GMCkits Utility Book Box",
+      "Misc. Authors",
+      "6 Utility and 6 Troll books",
+      "<a href=nbt/kits/nbt/GMCkitsUtilityBookBox.nbt download>NBT</a>"
+    ],
+    [
+      "Hypixel Skyblock Items V1",
+      "Hypixel",
+      "Various bits of Hypixel armor",
+      "<a href=nbt/kits/nbt/HypixelSkyblockItemsV1.nbt download>NBT</a>"
+    ],
+    [
+      "Hypixel Skyblock Stuff",
+      "Hypixel",
+      "2 diamond swords, rose, Ancient Necron armor set, netherite pickaxe and bow all from Hypixel",
+      "<a href=nbt/kits/nbt/HypixelSkyblockStuff.nbt download>NBT</a>"
+    ],
+    [
+      "iKit",
+      "OperatorTheDope",
+      "NocBook Air Pro Max (2069), iSword 12 and AirPods designed for iToddlers to BTFO at the price",
+      "<a href=nbt/kits/nbt/iKit.nbt download>NBT</a>"
+    ],
+    [
+      "happy meal <3",
+      "Unknown Author",
+      "Misc. items depicting a McDonalds Happy Meal",
+      "<a href=nbt/kits/nbt/happymeal.nbt download>NBT</a>"
+    ],
+    [
+      "Helium's Items",
+      "Unknown IGN",
+      "Misc items made by Helium, many intended as gifts for other players",
+      "<a href=nbt/kits/nbt/HeliumsItems.nbt download>NBT</a>"
+    ],
+    [
+      "Henry's Magical Toy Box",
+      "Plasma_Rooster23",
+      "A collection of items made by EvilPlasma/Plasma_Rooster23",
+      "<a href=nbt/kits/nbt/HenrysMagicalToyBox.nbt download>NBT</a>"
+    ],
+    [
+      "Hey! wanna 1v1 prot 1 leather?",
+      "Unknown Author",
+      "Prot 1 leather armor, with sharp wooden hoe, crossbow, potions and enderpearls",
+      "<a href=nbt/kits/nbt/Hey!Wanna1v1Prot1Leather.nbt download>NBT</a>"
+    ],
+    [
+      "Hippos Grief Collection",
+      "TheRedHippo",
+      "Command Blocks, eggs and an armorstand for griefing",
+      "<a href=nbt/kits/nbt/HipposGriefCollection.nbt download>NBT</a>"
+    ],
+    [
+      "Human Withdrawal",
+      "nohoeslolol",
+      "Spawn eggs and misc items made by nohoeslolol",
+      "<a href=nbt/kits/nbt/HumanWithdrawal.nbt download>NBT</a>"
+    ],
+    [
+      "Imperium Soldier Kit",
+      "Unknown Author",
+      "Golden/Leather armor, potions, crossbow, arrows and fireworks for Imperium Soldiers",
+      "<a href=nbt/kits/nbt/ImperiumSoldierKit.nbt download>NBT</a>"
+    ],
+    [
+      "Imperium Soldier Kit",
+      "Unknown Author",
+      "Golden/Leather armor, potions, crossbow, arrows and fireworks for Imperium Soldiers",
+      "<a href=nbt/kits/nbt/ImperiumSoldierKit#2.nbt download>NBT</a>"
+    ],
+    [
+      "Imperium Battle Gear [Phase I Prototype]",
+      "Unknown Author",
+      "Phase I Prototype of Imperium Battle Gear",
+      "<a href=nbt/kits/nbt/ImperiumBattleGear[PhaseIPrototype].nbt download>NBT</a>"
+    ],
+    [
+      "Imperium Kits",
+      "Unknown Author",
+      "Collection of all of the Imperium Kits and Items",
+      "<a href=nbt/kits/nbt/ImperiumKits.nbt download>NBT</a>"
+    ],
+    [
+      "Infinity Box v3.1",
+      "WrierThrower875",
+      "Diamond tools, Turtle/Golden/Leather armor, misc. tools",
+      "<a href=nbt/kits/nbt/InfinityBoxv3.1.nbt download>NBT</a>"
+    ],
+    [
+      "Infinity Box",
+      "WrierThrower875",
+      "Diamond tools, Turtle/Golden/Leather armor, misc. tools",
+      "<a href=nbt/kits/nbt/InfinityBox.nbt download>NBT</a>"
+    ],
+    [
+      "Infinity Box v3",
+      "WrierThrower875",
+      "Diamond tools, Turtle/Golden/Leather armor, misc. tools",
+      "<a href=nbt/kits/nbt/InfinityBoxv3.nbt download>NBT</a>"
+    ],
+    [
+      "Infinity Kit",
+      "Zetaflex",
+      "Glazed terracotta, potion and head based off Thanos' infinity stones",
+      "<a href=nbt/kits/nbt/InfinityKit-Zetaflex.nbt download>NBT</a>"
+    ],
+    [
+      "Infinity Box v2",
+      "WrierThrower875",
+      "Diamond tools, Turtle/Golden/Leather armor, misc. tools",
+      "<a href=nbt/kits/nbt/InfinityBoxv2.nbt download>NBT</a>"
+    ],
+    [
+      "Infinity Box v3.1",
+      "WrierThrower875",
+      "Diamond tools, Turtle/Golden/Leather armor, misc. tools",
+      "<a href=nbt/kits/nbt/InfinityBoxv3.1.nbt download>NBT</a>"
+    ],
+    [
+      "Infinity Spirit",
+      "Unknown Author",
+      "Golden/Leather armor, misc items and potions",
+      "<a href=nbt/kits/nbt/InfinitySpirit.nbt download>NBT</a>"
+    ],
+    [
+      "Krypandenej's Box of Sin",
+      "Krypandenej",
+      "23 books, all quite interesting",
+      "<a href=nbt/kits/nbt/KrypandenejsBoxOfSin.nbt download>NBT</a>"
+    ],
+    [
+      "knot my shopz",
+      "Unknown Author",
+      "Misc. spawn eggs, and a chest containing a variety of acronymed PvP kits",
+      "<a href=nbt/kits/nbt/knotmyshopz.nbt download>NBT</a>"
+    ],
+    [
+      "King Of The Gods Gear II 2.0",
+      "Z_cu",
+      "Leather armor, potions, spawn egg and command block",
+      "<a href=nbt/kits/nbt/KingOfTheGodsGearII2.0.nbt download>NBT</a>"
+    ],
+    [
+      "Infliction Blade + Setup",
+      "Unknown Author",
+      "Infliction Blade and command blocks required to use it",
+      "<a href=nbt/kits/nbt/InflictionBlade+Setup.nbt download>NBT</a>"
+    ],
+    [
+      "Kismet Shulk V2",
+      "Yurni, Team Kismet",
+      "Variety of weapons and potions. Appears to be missing two items unfortunately.",
+      "<a href=nbt/kits/nbt/KismetShulkV2.nbt download>NBT</a>"
+    ],
+    [
+      "ItzSergioCobra's Legacy Kit",
+      "ItzSergioCobra",
+      "Totems, netherite armor and tools",
+      "<a href=nbt/kits/nbt/ItzSergioCobraLegacyKit.nbt download>NBT</a>"
+    ],
+    [
+      "Labs Inc Signs",
+      "quack95",
+      "19 signs from Labs Inc",
+      "<a href=nbt/kits/nbt/LabsIncSigns.nbt download>NBT</a>"
+    ],
+    [
+      "lex's anti 32k's",
+      "xanderdk",
+      "Enchanted diamond swords illegally stacked and with 0 durability",
+      "<a href=nbt/kits/nbt/lexsanti32ks.nbt download>NBT</a>"
+    ],
+    [
+      "Locked Shulkers",
+      "Unknown Author",
+      "One of each color shulker pre-locked",
+      "<a href=nbt/kits/nbt/LockedShulkers.nbt download>NBT</a>"
+    ],
+    [
+      "Luke Skywalker Kit",
+      "Unknown Author",
+      "Luke Skywalker head, leather armor, and a green \"lightsaber\" candle",
+      "<a href=nbt/kits/nbt/LukeSkywalkerKit.nbt download>NBT</a>"
+    ],
+    [
+      "Krytek Disinfection Kit",
+      "Krysis",
+      "Glass hat, leather armor, 2 potions and 2 items",
+      "<a href=nbt/kits/nbt/KrytekDisinfectionKit.nbt download>NBT</a>"
+    ],
+    [
+      "Labfect Official Kit",
+      "quack95",
+      "Glass hat, leather armor, 2 potions and 2 items",
+      "<a href=nbt/kits/nbt/LabfectOfficialKit.nbt download>NBT</a>"
+    ],
+    [
+      "Laboratory Kit",
+      "r00t",
+      "Various weapons and potions for Labs Inc.",
+      "<a href=nbt/kits/nbt/LaboratoryKit.nbt download>NBT</a>"
+    ],
+    [
+      "Labs Essentials",
+      "quack95",
+      "Keather armor, diamond weapons, fireworks and egaps",
+      "<a href=nbt/kits/nbt/LabsEssentials.nbt download>NBT</a>"
+    ],
+    [
+      "Labs Inc. Kit",
+      "quack95",
+      "Weapons, tools and items for Labs Inc.",
+      "<a href=nbt/kits/nbt/LabsIncKit.nbt download>NBT</a>"
+    ],
+    [
+      "Beast",
+      "GioVarquez",
+      "Leather armor, crossbow, arrows, totems, potions and a golden hoe",
+      "<a href=nbt/kits/nbt/Beast.nbt download>NBT</a>"
+    ],
+    [
+      "Bee kit",
+      "vajpka",
+      "Bee spawn eggs #1-#7",
+      "<a href=nbt/kits/nbt/Beekit.nbt download>NBT</a>"
+    ],
+    [
+      "Big Barrel o' boat",
+      "woodchuck321",
+      "Contains boat's kit v0.1, v0.2 and v0.3",
+      "<a href=nbt/kits/nbt/BigBarrelOBoat.nbt download>NBT</a>"
+    ],
+    [
+      "Black Hole Box",
+      "Moogic",
+      "Tipped arrows and potions. Appears to be missing 4 items unfortunately",
+      "<a href=nbt/kits/nbt/BlackHoleBox.nbt download>NBT</a>"
+    ],
+    [
+      "EqualizerKit",
+      "Unknown Author",
+      "Leather armor, iron sword, and enchanting bottles",
+      "<a href=nbt/kits/nbt/EqualizerKit.nbt download>NBT</a>"
+    ],
+    [
+      "2020 Christmas Jingle Bell Kit",
+      "Unknown Author",
+      "Leather armor, bell and potion",
+      "<a href=nbt/kits/nbt/2020ChristmasJingleBellKit.nbt download>NBT</a>"
+    ],
+    [
+      "Alco's Funny Sound Spawn Egg Kit",
+      "Alco_Rs11",
+      "27 spawn eggs with funny and scary sounds",
+      "<a href=nbt/kits/nbt/AlcosFunnySoundSpawnEggKit.nbt download>NBT</a>"
+    ],
+    [
+      "Angel Secret Kit",
+      "GioVarquez",
+      "Leather armor, bow and arrows",
+      "<a href=nbt/kits/nbt/AngelSecretKit.nbt download>NBT</a>"
+    ],
+    [
+      "Aquatic Kit V1",
+      "Unknown Author",
+      "Aquatic themed kit with turtle/chain/diamond armor, tridents, potions and fish",
+      "<a href=nbt/kits/nbt/AquaticKitV1.nbt download>NBT</a>"
+    ],
+    [
+      "Literature",
+      "Unknown Author",
+      "4 books and a lectern",
+      "<a href=nbt/kits/nbt/Literature.nbt download>NBT</a>"
+    ],
+    [
+      "Mandalorian Kit",
+      "Unknown Author",
+      "Mandalorian head, leather armor, black \"darksaber\" candle, bow and arrows",
+      "<a href=nbt/kits/nbt/MandalorianKit.nbt download>NBT</a>"
+    ],
+    [
+      "MarioKartWii's Car Head Kit",
+      "MarioKartWii",
+      "HD car heads",
+      "<a href=nbt/kits/nbt/MarioKartWiisCarHeadKit.nbt download>NBT</a>"
+    ],
+    [
+      "MDCustom Crate",
+      "emphacks",
+      "Various items by emphacks",
+      "<a href=nbt/kits/nbt/MDCustomCrate.nbt download>NBT</a>"
+    ],
+    [
+      "Mercury X",
+      "Yurni, Cynacx",
+      "Bow, crossbow, arrows, potions and items",
+      "<a href=nbt/kits/nbt/MercuryX.nbt download>NBT</a>"
+    ],
+    [
+      "Exitiumundos's Showoff Kit V1.1",
+      "exitiumundos",
+      "Leather armor, weapons arrows and potions with lore suspiciously similar to that of the Far Kits",
+      "<a href=nbt/kits/nbt/ExitiumundosShowoffKitV1.1.nbt download>NBT</a>"
+    ],
+    [
+      "food cooler",
+      "Unknown Author",
+      "Various bits of food",
+      "<a href=nbt/kits/nbt/foodcooler.nbt download>NBT</a>"
+    ],
+    [
+      "Illuminati",
+      "Unknown Author",
+      "Leather armor, raw rabbit, potion and blaze rod. May be missing 1 item",
+      "<a href=nbt/kits/nbt/Illuminati.nbt download>NBT</a>"
+    ],
+    [
+      "Interesting Items",
+      "bigboypadilla",
+      "8 items with interesting NBT states",
+      "<a href=nbt/kits/nbt/InterestingItems.nbt download>NBT</a>"
+    ],
+    [
+      "Mini Boss Package V1.0",
+      "Lord_Tortoise64",
+      "7 custom bosses to spawn and fight for fun",
+      "<a href=nbt/kits/nbt/MiniBossPackageV1.0.nbt download>NBT</a>"
+    ],
+    [
+      "Mini Boss Package V3",
+      "Lord_Tortoise64",
+      "19 custom bosses to spawn and fight for fun",
+      "<a href=nbt/kits/nbt/MiniBossPackageV3.nbt download>NBT</a>"
+    ],
+    [
+      "Missing Potions &#11088;",
+      "keyshujin",
+      "Potions that give non-potion effects, in Potion, Splash, Lingering and Tipped form",
+      "<a href=nbt/kits/nbt/MissingPotions.nbt download>NBT</a>"
+    ],
+    [
+      "Model D-6 Box",
+      "DashTheDevilDog",
+      "Heads, leather armor, elytra, crossbow and arrows",
+      "<a href=nbt/kits/nbt/ModelD-6Box.nbt download>NBT</a>"
+    ],
+    [
+      "Meteor Kit",
+      "_ShyGuy_",
+      "Netherite armor and sword",
+      "<a href=nbt/kits/nbt/MeteorKit.nbt download>NBT</a>"
+    ],
+    [
+      "micahjiggs notes",
+      "micahjiggs",
+      "Books, items and a number of forms of matter",
+      "<a href=nbt/kits/nbt/micahjiggsnotes.nbt download>NBT</a>"
+    ],
+    [
+      "Midnight's epic spawn eggs",
+      "Unknown Author",
+      "27 spawn eggs",
+      "<a href=nbt/kits/nbt/MidnightsEpicSpawnEggs.nbt download>NBT</a>"
+    ],
+    [
+      "Minehut Cosmetics Collection",
+      "Thorioum_",
+      "Barrels of items that show as different cosmetics when using the correct texturepack",
+      "<a href=nbt/kits/nbt/MinehutCosmeticsCollection.nbt download>NBT</a>"
+    ],
+    [
+      "Misc. Enders Items",
+      "Unknown Author",
+      "15 different Enders items",
+      "<a href=nbt/kits/nbt/MiscEndersItems.nbt download>NBT</a>"
+    ],
+    [
+      "Moon's Unobtainables",
+      "Unknown Author",
+      "Items not obtainable in vanilla survival",
+      "<a href=nbt/kits/nbt/MoonsUnobtainables.nbt download>NBT</a>"
+    ],
+    [
+      "MrT1's Potion Kit",
+      "Unknown IGN",
+      "Potions, tipped arrows, bow and crossbow",
+      "<a href=nbt/kits/nbt/MrT1sPotionKit.nbt download>NBT</a>"
+    ],
+    [
+      "Nacho4785's GLITCHED Kit Shulker",
+      "Nacho4785",
+      "Diamond armor and sword with a lingering potion",
+      "<a href=nbt/kits/nbt/Nacho4785sGLITCHEDKitShulker.nbt download>NBT</a>"
+    ],
+    [
+      "Nazi Kit",
+      "Unknown Author",
+      "Netherite armor, weapons, shields and TNT with a Nazi Germany theme",
+      "<a href=nbt/kits/nbt/NaziKit.nbt download>NBT</a>"
+    ],
+    [
+      "nein4k's Legacy Crasher",
+      "nein4k",
+      "Command blocks, eggs, and spawners for crashing servers",
+      "<a href=nbt/kits/nbt/nein4ksLegacyCrasher.nbt download>NBT</a>"
+    ],
+    [
+      "nein4k's PVP Kit",
+      "nein4k",
+      "Netherite weapons, golden/leather armor with elytra, shield, potion, crossbow with arrows, fireworks and totems",
+      "<a href=nbt/kits/nbt/nein4ksPVPKit.nbt download>NBT</a>"
+    ],
+    [
+      "Mono-Blue Faeries (1/3)",
+      "Unknown Author",
+      "Items for some form of turn-based board game",
+      "<a href=nbt/kits/nbt/Mono-BlueFaeries1.nbt download>NBT</a>"
+    ],
+    [
+      "Mono-Blue Faeries (2/3)",
+      "Unknown Author",
+      "Items for some form of turn-based board game",
+      "<a href=nbt/kits/nbt/Mono-BlueFaeries3.nbt download>NBT</a>"
+    ],
+    [
+      "Mono-Blue Faeries Manabase (3/3)",
+      "Unknown Author",
+      "Items for some form of turn-based board game",
+      "<a href=nbt/kits/nbt/Mono-BlueFaeries3.nbt download>NBT</a>"
+    ],
+    [
+      "OverWatch",
+      "Unknown Author",
+      "Diamond sword and armor, shield, arrows, bow, wooden hoe",
+      "<a href=nbt/kits/nbt/OverWatch.nbt download>NBT</a>"
+    ],
+    [
+      "Parkour Kit",
+      "Yurni",
+      "Golden armor and sword, bow, arrows, potion and armor stand",
+      "<a href=nbt/kits/nbt/ParkourKit.nbt download>NBT</a>"
+    ],
+    [
+      "Particle Spawn Eggs (wip)",
+      "enderples",
+      "7 WIP spawn eggs",
+      "<a href=nbt/kits/nbt/ParticleSpawnEggs(wip).nbt download>NBT</a>"
+    ],
+    [
+      "nein4k's Stacked Totems",
+      "nein4k",
+      "27 stacks of 64 totems amounting to 1,664 totems total, all enchanted with Curse of Vanishing IX",
+      "<a href=nbt/kits/nbt/nein4ksStackedTotems.nbt download>NBT</a>"
+    ],
+    [
+      "Ninja's Broken Kit",
+      "Unknown Author",
+      "Netherite armor, wooden sword, potions",
+      "<a href=nbt/kits/nbt/NinjasBrokenKit.nbt download>NBT</a>"
+    ],
+    [
+      "Nordic God Weapons",
+      "Unknown Author",
+      "Weapons and armor themed after Nordic Gods",
+      "<a href=nbt/kits/nbt/NordicGodWeapons.nbt download>NBT</a>"
+    ],
+    [
+      "OP KIT",
+      "Traxoz",
+      "Stacked diamond armor and weapons, totems, shield, egaps, bow, crossbow, arrows",
+      "<a href=nbt/kits/nbt/OPKIT-Traxoz.nbt download>NBT</a>"
+    ],
+    [
+      "OrangeArmy40's Ultimate Kit Compilation",
+      "OrangeArmy40",
+      "27 shulkers each illegally stacked to 127, mostly containing vanilla items, but some have interesting NBT as well.",
+      "<a href=nbt/kits/nbt/OrangeArmy40sUltimateKitCollection.nbt download>NBT</a>"
+    ],
+    [
+      "Perfect Day Drinks",
+      "Unknown Author",
+      "7 different potions",
+      "<a href=nbt/kits/nbt/PerfectDayDrinks.nbt download>NBT</a>"
+    ],
+    [
+      "Phantom Iz Za Ubermensch",
+      "Unknown Author",
+      "Golden armor, elytra, weapons, egaps, fireworks, and explosion spawn eggs",
+      "<a href=nbt/kits/nbt/PhantomIzZaUbermensch.nbt download>NBT</a>"
+    ],
+    [
+      "Playah Box",
+      "IllTakeTheKids",
+      "Various useful building utilities",
+      "<a href=nbt/kits/nbt/PlayahBox.nbt download>NBT</a>"
+    ],
+    [
+      "Poly Umbrella",
+      "Unknown Author",
+      "Pan Poly Omni and Bi sexual heads",
+      "<a href=nbt/kits/nbt/PolyUmbrella.nbt download>NBT</a>"
+    ],
+    [
+      "Po*nH*b &#11088;",
+      "Unknown Author",
+      "End rod \"dildos\" with lore art depicting various sex positions",
+      "<a href=nbt/kits/nbt/PornHub.nbt download>NBT</a>"
+    ],
+    [
+      "Potions",
+      "Unknown Author",
+      "17 potions, normal and splash",
+      "<a href=nbt/kits/nbt/Potions.nbt download>NBT</a>"
+    ],
+    [
+      "Particle Spawn Eggs 1",
+      "enderples",
+      "27 spawn eggs for particles",
+      "<a href=nbt/kits/nbt/ParticleSpawnEggs1.nbt download>NBT</a>"
+    ],
+    [
+      "Peace",
+      "Unknown Author",
+      "Diamond armor and sword, shield, bow, arrows, egaps and wither spawn egg",
+      "<a href=nbt/kits/nbt/.nbt download>NBT</a>"
+    ],
+    [
+      "PeePeePooPoo Kit",
+      "Unknown Author",
+      "Leather armor, wooden sword, 4 stacks of tendies, and equal parts pee and poo",
+      "<a href=nbt/kits/nbt/PeePeePooPooKit.nbt download>NBT</a>"
+    ],
+    [
+      "Sanskari's Essentials",
+      "SanskariSVK",
+      "5 boxes of SanskariSVK items",
+      "<a href=nbt/kits/nbt/SanskarisEssentials.nbt download>NBT</a>"
+    ],
+    [
+      "SanskariSVK's Blatant Kits",
+      "SanskariSVK",
+      "4 boxes of SanskariSVK items",
+      "<a href=nbt/kits/nbt/SanskariSVKsBlatantKits.nbt download>NBT</a>"
+    ],
+    [
+      "Sapphic Crate",
+      "Unknown Author",
+      "Lesbian, Bisexual and Pansexual heads",
+      "<a href=nbt/kits/nbt/SapphicCrate.nbt download>NBT</a>"
+    ],
+    [
+      "Practical Items 1.1",
+      "Chargefruit",
+      "Various items useful for building and item making",
+      "<a href=nbt/kits/nbt/PracticalItems1.1byChargefruit.nbt download>NBT</a>"
+    ],
+    [
+      "Pyrexics Cum Kits V.01",
+      "Pyrexic",
+      "A mixture of NBT/OP items, and normal items, divided into 10 shulkers",
+      "<a href=nbt/kits/nbt/PyrexicsCumKitsV1.nbt download>NBT</a>"
+    ],
+    [
+      "Raidiance V1",
+      "Xan",
+      "Netherite armor and sword, 2 splash potions, totems, crossbow, arrows and fireworks",
+      "<a href=nbt/kits/nbt/RaidianceV1.nbt download>NBT</a>"
+    ],
+    [
+      "RetroKit",
+      "Retroix",
+      "A blatant ripoff of Abuse Kit v4 BETA",
+      "<a href=nbt/kits/nbt/RetroKit.nbt download>NBT</a>"
+    ],
+    [
+      "Ryz's nbt kit 1/3",
+      "ryzGG",
+      "19 shulkers with various items",
+      "<a href=nbt/kits/nbt/RyzsnbtKit1of3.nbt download>NBT</a>"
+    ],
+    [
+      "Sally's Sex Bundle",
+      "Unknown IGN",
+      "Condom, cum, dildo, bondage chains, and cumshot glasses",
+      "<a href=nbt/kits/nbt/SallysSexBundle.nbt download>NBT</a>"
+    ],
+    [
+      "Spinning Particle Effect",
+      "Unknown Author",
+      "Command blocks to create a spinning particle effect",
+      "<a href=nbt/kits/nbt/SpinningParticleEffect.nbt download>NBT</a>"
+    ],
+    [
+      "Spring Bonnie Set",
+      "Unknown Author",
+      "Spring Bonnie head, golder armor, and potions",
+      "<a href=nbt/kits/nbt/SpringBonnieSet.nbt download>NBT</a>"
+    ],
+    [
+      "Star Wars Become The Mandalorian",
+      "Unknown Author",
+      "All the items you need to become The Mandalorian, including Baby Yoda!",
+      "<a href=nbt/kits/nbt/StarWarsBecomeTheMandalorian.nbt download>NBT</a>"
+    ],
+    [
+      "Statues",
+      "Unknown Author",
+      "27 armor stands",
+      "<a href=nbt/kits/nbt/Statues.nbt download>NBT</a>"
+    ],
+    [
+      "S A Y G O O D B Y E",
+      "emphacks",
+      "Leather armor, wooden axe, bow, arrows and 2 potions",
+      "<a href=nbt/kits/nbt/SayGoodbye.nbt download>NBT</a>"
+    ],
+    [
+      "sex fetish disease guy's kit",
+      "Unknown Author",
+      "2 dispensers, 3 potions",
+      "<a href=nbt/kits/nbt/sexfetishdiseaseguyskit.nbt download>NBT</a>"
+    ],
+    [
+      "Space Kit",
+      "Unknown Author",
+      "Leather armor and iron tools with a (very light) Space theme",
+      "<a href=nbt/kits/nbt/SpaceKit.nbt download>NBT</a>"
+    ],
+    [
+      "Spidey Kit",
+      "xFruitless",
+      "Spiderman head, leather armor, 2 grappling hooks, and 2 potions",
+      "<a href=nbt/kits/nbt/SpideyKit.nbt download>NBT</a>"
+    ],
+    [
+      "Tehelon's Midnight Kit v0.1",
+      "Tehelon",
+      "Netherite armor and tools, totems, gaps, stew and chorus fruit",
+      "<a href=nbt/kits/nbt/TehelonsMidnightKitv0.1.nbt download>NBT</a>"
+    ],
+    [
+      "TehKit",
+      "TehIvan",
+      "Diamond armor and sword",
+      "<a href=nbt/kits/nbt/TehKit.nbt download>NBT</a>"
+    ],
+    [
+      "Tesla's Combat Kits v1.0",
+      "txsla",
+      "6 of Teslas combat kits bundled together",
+      "<a href=nbt/kits/nbt/TeslasCombatKitsv1.0.nbt download>NBT</a>"
+    ],
+    [
+      "Sus Barrel",
+      "vajpka",
+      "Barrel containing 3 very sus items",
+      "<a href=nbt/kits/nbt/SusBarrel.nbt download>NBT</a>"
+    ],
+    [
+      "Sword Pack sword pack",
+      "Unknown Author",
+      "3 swords with 8 levels each",
+      "<a href=nbt/kits/nbt/SwordPackswordpack.nbt download>NBT</a>"
+    ],
+    [
+      "Swords",
+      "Misc. Authors",
+      "28 swords and 1 stick",
+      "<a href=nbt/kits/nbt/Swords.nbt download>NBT</a>"
+    ],
+    [
+      "Synsao's Build box [1]",
+      "Synsao",
+      "Debug stick, barrier, and 3 barrels containing useful NBT blocks, Path Palletes, and Potion Colors",
+      "<a href=nbt/kits/nbt/SynsaosBuildBox1.nbt download>NBT</a>"
+    ],
+    [
+      "TACO KIT",
+      "LEEFFS",
+      "LEather armor, stick, 2 potions, crossbow and enchanted book",
+      "<a href=nbt/kits/nbt/TACOKIT.nbt download>NBT</a>"
+    ],
+    [
+      "Team Kismet's Armory",
+      "Yurni, Team Kismet",
+      "127 stacked netherite armor, hoe, crossbow, tipped arrows, and potion",
+      "<a href=nbt/kits/nbt/TeamKismetsArmory.nbt download>NBT</a>"
+    ],
+    [
+      "The Fox Kit",
+      "Grishus",
+      "Netherite armor, weapons, crossbow, arrows, potions, totems and spawneggs with a Fox theme",
+      "<a href=nbt/kits/nbt/TheFoxKit.nbt download>NBT</a>"
+    ],
+    [
+      "The Kit Of RabzoiGaming",
+      "RabzoiGaming",
+      "Misc. items by RabzoiGaming",
+      "<a href=nbt/kits/nbt/TheKitOfRabzoiGaming.nbt download>NBT</a>"
+    ],
+    [
+      "The Kit Of RabzoiGaming v1.2",
+      "RabzoiGaming",
+      "Misc. items by RabzoiGaming",
+      "<a href=nbt/kits/nbt/TheKitOfRabzoiGamingv1.2.nbt download>NBT</a>"
+    ],
+    [
+      "The Abyssnite",
+      "nohoeslolol",
+      "Weapons, armor and items forged from Dark Matter, made to absorb all types of damage",
+      "<a href=nbt/kits/nbt/TheAbyssnite.nbt download>NBT</a>"
+    ],
+    [
+      "The Almighty Demon Kit",
+      "Grishus",
+      "Netherite armor, weapons, crossbow, arrows, potions, totems and spawneggs",
+      "<a href=nbt/kits/nbt/TheAlmightyDemonKit.nbt download>NBT</a>"
+    ],
+    [
+      "The Big Boy Kit",
+      "Unknown Author",
+      "Netherite tools, potions, egaps, enderpearls, and 2 sets of Hypixel armor",
+      "<a href=nbt/kits/nbt/TheBigBoyKit.nbt download>NBT</a>"
+    ],
+    [
+      "the Cutters kit",
+      "Unknown Author",
+      "Netherite armor, iron swords, crossbow, arrows, spawn eggs, splash potions",
+      "<a href=nbt/kits/nbt/theCuttersKit.nbt download>NBT</a>"
+    ],
+    [
+      "The Dragon Kit",
+      "Unknown Author",
+      "Diamond armor and tools, egaps, obsidian and crystals",
+      "<a href=nbt/kits/nbt/TheDragonKit.nbt download>NBT</a>"
+    ],
+    [
+      "The Forgotten Box",
+      "Unknown Author",
+      "A single LifeSteal Golden Apple",
+      "<a href=nbt/kits/nbt/TheForgottenBox.nbt download>NBT</a>"
+    ],
+    [
+      "Ultra Trolling Crate v2",
+      "Skylardial_0323",
+      "All manner of items for trolling and crashing",
+      "<a href=nbt/kits/nbt/UltraTrollingCratev2.nbt download>NBT</a>"
+    ],
+    [
+      "UnderTails Battle Toy Box",
+      "OperatorTheDope",
+      "A christmas present of 5 armor stands made for UnderTails",
+      "<a href=nbt/kits/nbt/UnderTailsBattleToyBox.nbt download>NBT</a>"
+    ],
+    [
+      "Unopenable Shulkers",
+      "enderples",
+      "17 spawn eggs for unopenable shulkers",
+      "<a href=nbt/kits/nbt/UnopenableShulkers.nbt download>NBT</a>"
+    ],
+    [
+      "Vertical Slabs &#11088;",
+      "keyshujin",
+      "42 variants of vertical slabs that work in vanilla",
+      "<a href=nbt/kits/nbt/VerticalSlabs.nbt download>NBT</a>"
+    ],
+    [
+      "The Lost Sword Of King Arthur",
+      "Yurni",
+      "Golden sword named Excalibur",
+      "<a href=nbt/kits/nbt/TheLostSwordOfKingArthur.nbt download>NBT</a>"
+    ],
+    [
+      "TheOmega Kit",
+      "Unknown Author",
+      "Golden armor, diamond sword and pickaxe, 3 potions, stacked totems, crossbow and arrows",
+      "<a href=nbt/kits/nbt/TheOmegaKit.nbt download>NBT</a>"
+    ],
+    [
+      "THEOPSKYBLOCK",
+      "Unknown Author",
+      "4 sets of Hypixel armor",
+      "<a href=nbt/kits/nbt/THEOPSKYBLOCK.nbt download>NBT</a>"
+    ],
+    [
+      "The STRONGEST Dispenser",
+      "Unknown Author",
+      "Dispenses Po Armor",
+      "<a href=nbt/kits/nbt/TheSTRONGESTDispenser.nbt download>NBT</a>"
+    ],
+    [
+      "Weapons of Sin",
+      "Giratina",
+      "Weapons, tools and a command book by Giratina",
+      "<a href=nbt/kits/nbt/WeaponsOfSin.nbt download>NBT</a>"
+    ],
+    [
+      "we have wormhole at home",
+      "Unknown Author",
+      "9 command books, 8 lag boots, 3 chests, 2 furnaces, 2 spawn eggs, and 1 potion",
+      "<a href=nbt/kits/nbt/WeHaveWormholeAtHome.nbt download>NBT</a>"
+    ],
+    [
+      "Weird Pink Kit",
+      "Yurni",
+      "A tiny house for Yurni, made of a composter and trapdoor",
+      "<a href=nbt/kits/nbt/WeirdPinkKit.nbt download>NBT</a>"
+    ],
+    [
+      "Voidspawns",
+      "Unknown Author",
+      "5 spawn eggs and a jigsaw block",
+      "<a href=nbt/kits/nbt/Voidspawns.nbt download>NBT</a>"
+    ],
+    [
+      "VOIDSTAR KIT V1",
+      "XanX15, BingoIsaac",
+      "Netherite armor tools & weapons, totems and potions",
+      "<a href=nbt/kits/nbt/VOIDSTARKITV1.nbt download>NBT</a>"
+    ],
+    [
+      "VOIDSTAR V2.5",
+      "XanX15, BingoIsaac",
+      "Netherite armor tools & weapons, stacked totems, gaps, and spawners",
+      "<a href=nbt/kits/nbt/VOIDSTARV2.5.nbt download>NBT</a>"
+    ],
+    [
+      "Vor7ex Box",
+      "Vor7ex",
+      "Diamond armor and sword, bow, potions, and Vor7ex heads",
+      "<a href=nbt/kits/nbt/Vor7exBox.nbt download>NBT</a>"
+    ],
+    [
+      "Walmarts PvP Kit",
+      "TheWalmartCartel",
+      "Leather armor, crossbow, arrows, potions, and 10 spawn eggs",
+      "<a href=nbt/kits/nbt/WalmartsPvPKit.nbt download>NBT</a>"
+    ],
+    [
+      "waluigi taco kit",
+      "Unknown Author",
+      "waluigi head and leather armor, with watermelon slices",
+      "<a href=nbt/kits/nbt/WaluigiTacoKit.nbt download>NBT</a>"
+    ],
+    [
+      "Wrath of Infinity",
+      "quack95, justin0526",
+      "Leather armor, crossbow, netherite hoe, shield, and 2 potions",
+      "<a href=nbt/kits/nbt/WrathOfInfinity.nbt download>NBT</a>"
+    ],
+    [
+      "Young dragon shulker",
+      "WishNoMore",
+      "Dragon head and leather armor",
+      "<a href=nbt/kits/nbt/YoungDragonShulker.nbt download>NBT</a>"
+    ],
+    [
+      "Zarcana's Kit",
+      "EnderMomandNate",
+      "Leather armor, diamond sword, potions, arrows, and enderpearls",
+      "<a href=nbt/kits/nbt/ZarcanasKit.nbt download>NBT</a>"
+    ],
+    [
+      "Zarcana Shulker",
+      "EnderMomandNate",
+      "Leather armor, netherite sword, arrows, potions",
+      "<a href=nbt/kits/nbt/ZarcanaShulker.nbt download>NBT</a>"
+    ],
+    [
+      "ZailersShit",
+      "Zailer43",
+      "A collection of items used to test lore-art",
+      "<a href=nbt/kits/nbt/ZailersShit.nbt download>NBT</a>"
+    ],
+    [
+      "z32k's Grief Collection v1.1",
+      "z32k",
+      "Books, eggs, commandblocks and signs used for ForceOP, Griefing and Crashing",
+      "<a href=nbt/kits/nbt/z32ksGriefCollectionv1.1.nbt download>NBT</a>"
+    ],
+    [
+      "Wizard Kit",
+      "GamerBoy194927",
+      "Wizard themed leather armor and blaze rod",
+      "<a href=nbt/kits/nbt/WizardKit.nbt download>NBT</a>"
     ]
   ]
 }
