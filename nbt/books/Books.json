@@ -185,6 +185,96 @@
       "TheIronBot",
       "Story about 3 filthily named players",
       "<a href=../nbt/books/nbt/The3Buddies.nbt download>NBT</a>"
+    ],
+    [
+      "Gamerules",
+      "keyshujin",
+      "Options to toggle all the gamerules",
+      "<a href=../nbt/books/nbt/Gamerules.nbt download>NBT</a>"
+    ],
+    [
+      "Lex's Secret",
+      "Lex",
+      "Series of useful commands",
+      "<a href=../nbt/books/nbt/LexsSecret.nbt download>NBT</a>"
+    ],
+    [
+      "Mead Wide-Ruled",
+      "Unknown Author",
+      "Tale of the end of the world",
+      "<a href=../nbt/books/nbt/MeadWideRuled.nbt download>NBT</a>"
+    ],
+    [
+      "Minecraft: Paper Edition",
+      "keyshujin",
+      "Play minecraft inside of a book!",
+      "<a href=../nbt/books/nbt/MinecraftPaperEdition.nbt download>NBT</a>"
+    ],
+    [
+      "Alchemy",
+      "keyshujin",
+      "Brews potions inside of a book",
+      "<a href=../nbt/books/nbt/Alchemy.nbt download>NBT</a>"
+    ],
+    [
+      "Checkpoints",
+      "keyshujin",
+      "Sets checkpoints",
+      "<a href=../nbt/books/nbt/Checkpoints.nbt download>NBT</a>"
+    ],
+    [
+      "Compact Enchant",
+      "keyshujin",
+      "Enchant items from inside this book",
+      "<a href=../nbt/books/nbt/CompactEnchant.nbt download>NBT</a>"
+    ],
+    [
+      "Daytime & Weather",
+      "keyshujin",
+      "Set the weather and time of day",
+      "<a href=../nbt/books/nbt/Daytime&Weather.nbt download>NBT</a>"
+    ],
+    [
+      "Fake Block Template",
+      "keyshujin",
+      "Template for giving yourself a fake block spawn egg",
+      "<a href=../nbt/books/nbt/FakeBlockTemplate.nbt download>NBT</a>"
+    ],
+    [
+      "Unicode Symbols",
+      "keyshujin",
+      "Useful unicode symbols",
+      "<a href=nbt/kits/nbt/UnicodeSymbols.nbt download>NBT</a>"
+    ],
+    [
+      "Vindicator Book",
+      "VindicatorPriest",
+      "Tale of the Vindicator",
+      "<a href=nbt/kits/nbt/VindicatorBook.nbt download>NBT</a>"
+    ],
+    [
+      "catcube's spell book",
+      "catcube_",
+      "Command book for interesting things",
+      "<a href=../nbt/books/nbt/catcubesSpellBook.nbt download>NBT</a>"
+    ],
+    [
+      "Villager Tool",
+      "Finney",
+      "Summons and edits villagers for you",
+      "<a href=../nbt/books/nbt/VillagerTool.nbt download>NBT</a>"
+    ],
+    [
+      "Ultimate trolling Book",
+      "Unknown Author",
+      "Basic trolling commands",
+      "<a href=../nbt/books/nbt/UltimateTrollingBook.nbt download>NBT</a>"
+    ],
+    [
+      "Utility Creative Book V1",
+      "Jackson",
+      "Book used to social engineer OP from gullible Admins",
+      "<a href=../nbt/books/nbt/.nbt download>NBT</a>"
     ]
   ]
 }

@@ -6709,10 +6709,34 @@
       "<a href=nbt/kits/nbt/WizardKit.nbt download>NBT</a>"
     ],
     [
-      "Agenda Kit &#11088;",
+      "Agenda Kit",
       "CoolestGuy94",
       "Memes on crazy takes found in a telegram channel, like Bill Gates having a mosquito farm in Columbia",
       "<a href=nbt/kits/nbt/AgendaKit.nbt download>NBT</a>"
+    ],
+    [
+      "Extended Building Blocks &#11088;",
+      "keyshujin",
+      "Various alternative versions of building blocks",
+      "<a href=nbt/kits/nbt/ExtendedBuildingBlocks.nbt download>NBT</a>"
+    ],
+    [
+      "Jellyfish Head Pack &#11088;",
+      "keyshujin",
+      "Useful custom heads depicting blocks and solid colors",
+      "<a href=nbt/kits/nbt/JellyfishHeadPack.nbt download>NBT</a>"
+    ],
+    [
+      "keyshujin's Utility Pack &#11088;",
+      "keyshujin",
+      "Spawn Eggs for fake blocks, a utility book, and various useful blockstates",
+      "<a href=nbt/kits/nbt/keyshujinsUtilityPack.nbt download>NBT</a>"
+    ],
+    [
+      "Missing Spawn Eggs &#11088;",
+      "keyshujin",
+      "Spawn eggs for all the mobs that don't have them",
+      "<a href=nbt/kits/nbt/MissingSpawnEggs.nbt download>NBT</a>"
     ]
   ]
 }

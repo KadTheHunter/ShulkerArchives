@@ -1055,6 +1055,918 @@
       "Yurni",
       "Armorstand with stacked totems",
       "<a href=../nbt/items/nbt/YurnisTotems.nbt download>NBT</a>"
+    ],
+    [
+      "Ancient Debris Hit",
+      "keyshujin",
+      "Plays the sound of an ancient debris hit",
+      "<a href=../nbt/items/nbt/AncientDebrisHit.nbt download>NBT</a>"
+    ],
+    [
+      "A normal stick",
+      "quack95",
+      "A totally normal stick",
+      "<a href=../nbt/items/nbt/ANormalStick.nbt download>NBT</a>"
+    ],
+    [
+      "Anti's Collar",
+      "Yurni",
+      "Collar for antigamesm12",
+      "<a href=../nbt/items/nbt/AntisCollar.nbt download>NBT</a>"
+    ],
+    [
+      "1.19.3 All Recipies Book",
+      "Thorioum_",
+      "Contains every 1.19.3 recipe",
+      "<a href=../nbt/items/nbt/1.19.3RecipesBook.nbt download>NBT</a>"
+    ],
+    [
+      "99.9% Insta Kill Potion",
+      "GingaNinja_23",
+      "This potion is just piss",
+      "<a href=../nbt/items/nbt/99.9%InstaKillPotion.nbt download>NBT</a>"
+    ],
+    [
+      "ADMIN SWORD",
+      "GingaNinja_23",
+      "Enchanted diamond sword",
+      "<a href=../nbt/items/nbt/ADMINSWORD.nbt download>NBT</a>"
+    ],
+    [
+      "Amethyst Chime",
+      "keyshujin",
+      "Plays the sound of an amethyst chime",
+      "<a href=../nbt/items/nbt/AmethystChime.nbt download>NBT</a>"
+    ],
+    [
+      "Amethyst Dagger",
+      "keyshujin",
+      "Sharp, quick and shiny amethyst shard",
+      "<a href=../nbt/items/nbt/AmethystDagger.nbt download>NBT</a>"
+    ],
+    [
+      "Amethyst Step",
+      "keyshujin",
+      "Plays the sound of an amethyst step",
+      "<a href=../nbt/items/nbt/AmethystStep.nbt download>NBT</a>"
+    ],
+    [
+      "Asteroid",
+      "Steeved",
+      "Heavy-hitting lingering potion",
+      "<a href=../nbt/items/nbt/Asteroid.nbt download>NBT</a>"
+    ],
+    [
+      "Aureus",
+      "Unknown Author",
+      "Gold ingot currency of The Imperium",
+      "<a href=../nbt/items/nbt/.nbt download>NBT</a>"
+    ],
+    [
+      "Auto Maid 1.17 Edition",
+      "Folfy_BLue, Yurni",
+      "Auto Maid dispenser for 1.17",
+      "<a href=../nbt/items/nbt/AutoMaid1.17Edition.nbt download>NBT</a>"
+    ],
+    [
+      "BanHammer",
+      "GingaNinja_23",
+      "Iron axe with custom enchantments",
+      "<a href=../nbt/items/nbt/BanHammer.nbt download>NBT</a>"
+    ],
+    [
+      "Anti-Thanos Weapon",
+      "Ghosty",
+      "Purple glazed terracotta designed by Phil Swift to kill Thanos",
+      "<a href=../nbt/items/nbt/Anti-Thanos Weapon.nbt download>NBT</a>"
+    ],
+    [
+      "Anvil Use",
+      "keyshujin",
+      "Plays the sound of an anvil use",
+      "<a href=../nbt/items/nbt/AnvilUse.nbt download>NBT</a>"
+    ],
+    [
+      "Apex Scythe Remastered Edition",
+      "Ghosty, Shyrix",
+      "Diamond hoe with an admiring note to Shyrix in the lore",
+      "<a href=../nbt/items/nbt/ApexScythe-GhostyKlein.nbt download>NBT</a>"
+    ],
+    [
+      "Apollo's Pocket Watch",
+      "Helium",
+      "Clock won in a bet in the heavens from Apollo",
+      "<a href=../nbt/items/nbt/ApollosPocketWatch.nbt download>NBT</a>"
+    ],
+    [
+      "Aspect of the End",
+      "Hypixel",
+      "Diamond sword from Hypixel",
+      "<a href=../nbt/items/nbt/AspectOfTheEnd.nbt download>NBT</a>"
+    ],
+    [
+      "Certificate of SRO",
+      "quack95",
+      "Blank template for SRO Certificates",
+      "<a href=../nbt/items/nbt/BlankCertificateOfSRO.nbt download>NBT</a>"
+    ],
+    [
+      "SRO ID Card",
+      "quack95",
+      "Blank template for SRO ID Cards",
+      "<a href=../nbt/items/nbt/BlankSROIDCard.nbt download>NBT</a>"
+    ],
+    [
+      "Bred Slayer",
+      "Hypixel",
+      "Golden sword from Hypixel",
+      "<a href=../nbt/items/nbt/BredSlayer.nbt download>NBT</a>"
+    ],
+    [
+      "Bubble Unit PrototypeK",
+      "quack95",
+      "Turns bubbles into electricity",
+      "<a href=../nbt/items/nbt/BubbleUnitPrototypeK.nbt download>NBT</a>"
+    ],
+    [
+      "Ban ImproperIssues Head",
+      "ImproperIssues",
+      "ImproperIssues' head with code in the lore to ban himself",
+      "<a href=../nbt/items/nbt/BanImproperIssuesHead.nbt download>NBT</a>"
+    ],
+    [
+      "Basalt Deltas Mood",
+      "keyshujin",
+      "Plays basalt deltas ambience",
+      "<a href=../nbt/items/nbt/BasaltDeltasMood.nbt download>NBT</a>"
+    ],
+    [
+      "BEAUTY",
+      "Unknown Author",
+      "Painting with loreart of a fully nude woman",
+      "<a href=../nbt/items/nbt/BEAUTY.nbt download>NBT</a>"
+    ],
+    [
+      "Bing Chilling Pokemon Card",
+      "Unknown Author",
+      "Loreart of the Bing Chilling pokemon card",
+      "<a href=../nbt/items/nbt/BingChillingPokemonCard.nbt download>NBT</a>"
+    ],
+    [
+      "Bitch Fuck",
+      "Ghosty",
+      "Obsidian with the Сука Блядь meme",
+      "<a href=../nbt/items/nbt/BitchFuck.nbt download>NBT</a>"
+    ],
+    [
+      "Large Slime",
+      "Captainclimber",
+      "Spawns a slime that lags clients",
+      "<a href=../nbt/items/nbt/CLIENTLAGLargeSlime.nbt download>NBT</a>"
+    ],
+    [
+      "Compact Aquarium &#11088;",
+      "keyshujin",
+      "Spawns a compact aquarium",
+      "<a href=../nbt/items/nbt/CompactAquarium.nbt download>NBT</a>"
+    ],
+    [
+      "Copper Scuba Helmet",
+      "keyshujin",
+      "Allows to breathe underwater, move faster and break blocks quicker, but barely grants any protection",
+      "<a href=../nbt/items/nbt/CopperScubaHelmet.nbt download>NBT</a>"
+    ],
+    [
+      "Bundle Bundle",
+      "enderples",
+      "127 bundles with 470,408 bundles inside",
+      "<a href=../nbt/items/nbt/BundleBundle.nbt download>NBT</a>"
+    ],
+    [
+      "Cave Ambient",
+      "keyshujin",
+      "Plays cave ambience",
+      "<a href=../nbt/items/nbt/CaveAmbient.nbt download>NBT</a>"
+    ],
+    [
+      "Chess Board Ultimate &#11088;",
+      "Lizard16",
+      "Command blocks that spawns a complete playable chessboard",
+      "<a href=../nbt/items/nbt/ChessBoardUltimate.nbt download>NBT</a>"
+    ],
+    [
+      "City Generator",
+      "Unknown Author",
+      "Watch it unfold",
+      "<a href=../nbt/items/nbt/.nbt download>NBT</a>"
+    ],
+    [
+      "Clear Potion Technology",
+      "Ghosty",
+      "Powerful potion",
+      "<a href=../nbt/items/nbt/ClearPotionTechnology.nbt download>NBT</a>"
+    ],
+    [
+      "Crimson Forest Mood",
+      "keyshujin",
+      "Plays the crimson forest ambience",
+      "<a href=../nbt/items/nbt/CrimsonForestMood.nbt download>NBT</a>"
+    ],
+    [
+      "CURSED OSIRIS BLADE",
+      "Unknown Author",
+      "Netherite sword with real and fake enchants",
+      "<a href=../nbt/items/nbt/CURSEDOSIRISBLADE.nbt download>NBT</a>"
+    ],
+    [
+      "Cute Portals",
+      "keyshujin",
+      "Spawns smol versions of Nether and End portals",
+      "<a href=../nbt/items/nbt/CutePortals.nbt download>NBT</a>"
+    ],
+    [
+      "Darkening of Sword",
+      "Ghosty",
+      "Diamond sword with enchants",
+      "<a href=../nbt/items/nbt/DarkeningOfSword.nbt download>NBT</a>"
+    ],
+    [
+      "Der Herr Der Welt",
+      "Shdwo",
+      "Renders drinker immortal",
+      "<a href=../nbt/items/nbt/DerHerrDerWelt.nbt download>NBT</a>"
+    ],
+    [
+      "DESIRE",
+      "Unknown Author",
+      "Loreart of a womans nude rear",
+      "<a href=../nbt/items/nbt/DESIRE.nbt download>NBT</a>"
+    ],
+    [
+      "Crash Dispenser",
+      "Unknown Author",
+      "Stand ontop and activate to crash the server",
+      "<a href=../nbt/items/nbt/CrashDispenser.nbt download>NBT</a>"
+    ],
+    [
+      "Crash Painting",
+      "Unknown Author",
+      "Another chunkoob exploit",
+      "<a href=../nbt/items/nbt/CrashPainting.nbt download>NBT</a>"
+    ],
+    [
+      "ERROR Bone",
+      "Kinq",
+      "Enchanted bone",
+      "<a href=../nbt/items/nbt/ERRORBone.nbt download>NBT</a>"
+    ],
+    [
+      "Fair Zombie Soldier Cutlass",
+      "Hypixel",
+      "Iron sword from Hypixel",
+      "<a href=../nbt/items/nbt/FairZombieSoldierCutlass.nbt download>NBT</a>"
+    ],
+    [
+      "Firework Show",
+      "keyshujin",
+      "Creates a beautiful firework show when used",
+      "<a href=../nbt/items/nbt/FireworkShow(SERVERCRASHER).nbt download>NBT</a>"
+    ],
+    [
+      "Devil Potion",
+      "Ghosty",
+      "Lingering potion to kill poision-wither immune players",
+      "<a href=../nbt/items/nbt/DevilPotion.nbt download>NBT</a>"
+    ],
+    [
+      "DOOR STUCK",
+      "Ghosty",
+      "A curious wooden door",
+      "<a href=../nbt/items/nbt/DOORSTUCK.nbt download>NBT</a>"
+    ],
+    [
+      "Drumset",
+      "keyshujin",
+      "Spawns a drumset",
+      "<a href=../nbt/items/nbt/Drumset.nbt download>NBT</a>"
+    ],
+    [
+      "Eco Umbrella",
+      "keyshujin",
+      "Spawns an eco umbrella",
+      "<a href=../nbt/items/nbt/EoUmbrella.nbt download>NBT</a>"
+    ],
+    [
+      "Emperor Lotion",
+      "Unknown Author",
+      "Lotion meant for the The Imperium's Emperor",
+      "<a href=../nbt/items/nbt/EmperorLotion.nbt download>NBT</a>"
+    ],
+    [
+      "Epic Painting",
+      "Unknown Author",
+      "Hentai loreart",
+      "<a href=../nbt/items/nbt/EpicPainting.nbt download>NBT</a>"
+    ],
+    [
+      "Hoes before bros",
+      "keyshujin",
+      "Powerful golden hoe",
+      "<a href=../nbt/items/nbt/Hoesbeforebros.nbt download>NBT</a>"
+    ],
+    [
+      "Hologram",
+      "Unknown Author",
+      "Hologram armorstand",
+      "<a href=../nbt/items/nbt/Hologram.nbt download>NBT</a>"
+    ],
+    [
+      "Immortal Scythe",
+      "Elemental_ADHD",
+      "Enchanted with Everything ∞",
+      "<a href=../nbt/items/nbt/ImmortalScythe.nbt download>NBT</a>"
+    ],
+    [
+      "Frenzy",
+      "keyshujin",
+      "Speedy glowstone dust",
+      "<a href=../nbt/items/nbt/Frenzy.nbt download>NBT</a>"
+    ],
+    [
+      "German Death Gas",
+      "Unknown Author",
+      "Lingering potion that deals +100 damage against Jews",
+      "<a href=../nbt/items/nbt/GermanDeathGas.nbt download>NBT</a>"
+    ],
+    [
+      "God Book",
+      "keyshujin",
+      "Maxes out the chosen tool/weapon/armor",
+      "<a href=../nbt/items/nbt/GodBook.nbt download>NBT</a>"
+    ],
+    [
+      "H34DSh0T",
+      "Kinq",
+      "Enchanted bow",
+      "<a href=../nbt/items/nbt/H34DSh0T.nbt download>NBT</a>"
+    ],
+    [
+      "Hasty Terminator",
+      "Hypixel",
+      "Bow from Hypixel",
+      "<a href=../nbt/items/nbt/HastyTerminator.nbt download>NBT</a>"
+    ],
+    [
+      "Hidden Water",
+      "Unknown Author",
+      "Waterlogged double smooth stone slab",
+      "<a href=../nbt/items/nbt/HiddenWater.nbt download>NBT</a>"
+    ],
+    [
+      "Inferno",
+      "Deltaxe",
+      "Netherite sword with infinite attack damage, speed and resistance",
+      "<a href=../nbt/items/nbt/Inferno.nbt download>NBT</a>"
+    ],
+    [
+      "Black Hole Bomb",
+      "IllagerCaptain",
+      "Firework that creates a black hole, very laggy when spammed",
+      "<a href=../nbt/items/nbt/BlackHoleBomb.nbt download>NBT</a>"
+    ],
+    [
+      "Black Hole Gun",
+      "IllagerCaptain",
+      "Crossbow that shoots Black Hole Bombs",
+      "<a href=../nbt/items/nbt/BlackHoleGun.nbt download>NBT</a>"
+    ],
+    [
+      "Imperium Crown",
+      "Unknown Author",
+      "Crown for the ruler of Imperium. HD Head, so does not work post-1.16",
+      "<a href=../nbt/items/nbt/ImperiumCrown.nbt download>NBT</a>"
+    ],
+    [
+      "Imperium Non-Member Land Permit",
+      "Unknown Author",
+      "A non-member land permit for Zarxana to build a residence on Imperium lands",
+      "<a href=../nbt/items/nbt/ImperiumNon-MemberLandPermit.nbt download>NBT</a>"
+    ],
+    [
+      "Imperium Shop Permit",
+      "Unknown Author",
+      "Gives holder permissions to operate a shop and distribute goods in Imperium",
+      "<a href=../nbt/items/nbt/ImperiumShopPermit.nbt download>NBT</a>"
+    ],
+    [
+      "Incmatter Core",
+      "quack95",
+      "Core component of a LabsInc Computer",
+      "<a href=../nbt/items/nbt/IncmatterCore.nbt download>NBT</a>"
+    ],
+    [
+      "Kismet Syringe",
+      "Yurni, Team Kismet",
+      "Bow used to apply arrows",
+      "<a href=../nbt/items/nbt/KismetSyringe.nbt download>NBT</a>"
+    ],
+    [
+      "Labmatter Battery",
+      "quack95",
+      "Labmatter Battery model S026",
+      "<a href=../nbt/items/nbt/LabmatterBattery.nbt download>NBT</a>"
+    ],
+    [
+      "Labs Analysis Device",
+      "quack95",
+      "Device used to analyze chosen locations",
+      "<a href=../nbt/items/nbt/LabsAnalysisDevice.nbt download>NBT</a>"
+    ],
+    [
+      "Ion Battery",
+      "quack95",
+      "Ion Battery model S015",
+      "<a href=../nbt/items/nbt/IonBattery.nbt download>NBT</a>"
+    ],
+    [
+      "ITEM DUMP",
+      "Captainclimber",
+      "Bundle with ~96,000 eggs",
+      "<a href=../nbt/items/nbt/ITEMDUMPServerLag+ClientLag.nbt download>NBT</a>"
+    ],
+    [
+      "Jack Hammer",
+      "Kinq",
+      "Enchanted diamond axe",
+      "<a href=../nbt/items/nbt/JackHammer.nbt download>NBT</a>"
+    ],
+    [
+      "JUMPSC4R3",
+      "Kinq",
+      "Enchanted blaze rods",
+      "<a href=../nbt/items/nbt/JUMPSC4R3.nbt download>NBT</a>"
+    ],
+    [
+      "Justin's Collar",
+      "Yurni",
+      "Armorstand containing Justins collar",
+      "<a href=../nbt/items/nbt/JustinsCollar.nbt download>NBT</a>"
+    ],
+    [
+      "Legit Super OP Sword",
+      "Unknown Author",
+      "Golden sword with 32k enchants",
+      "<a href=../nbt/items/nbt/LegitSuperOPSword.nbt download>NBT</a>"
+    ],
+    [
+      "Liquid Dark Matter",
+      "Unknown Author",
+      "Liquefied dark matter",
+      "<a href=../nbt/items/nbt/LiquidDarkMatter.nbt download>NBT</a>"
+    ],
+    [
+      "Liquid Meth",
+      "GingaNinja_23",
+      "Highly addictive potion",
+      "<a href=../nbt/items/nbt/LiquidMeth.nbt download>NBT</a>"
+    ],
+    [
+      "Labs Inc. Analysis Visor BETA",
+      "quack95",
+      "Displays information of viewed blocks and items on HUD",
+      "<a href=../nbt/items/nbt/LabsIncAnalysisVisor_BETA.nbt download>NBT</a>"
+    ],
+    [
+      "Labs Inc. Analysis Visor COMMUNITY",
+      "quack95",
+      "Displays information of viewed blocks and items on HUD",
+      "<a href=../nbt/items/nbt/LabsIncAnalysisVisor_COMMUNITY.nbt download>NBT</a>"
+    ],
+    [
+      "Labs Inc. Scanner",
+      "quack95",
+      "Scans for problems",
+      "<a href=../nbt/items/nbt/LabsIncScanner.nbt download>NBT</a>"
+    ],
+    [
+      "Laggy Firework",
+      "keyshujin",
+      "Very laggy firework when spammed",
+      "<a href=../nbt/items/nbt/LaggyFirework.nbt download>NBT</a>"
+    ],
+    [
+      "Laxatives",
+      "Unknown Author",
+      "One dose clears all potion effects",
+      "<a href=../nbt/items/nbt/Laxatives.nbt download>NBT</a>"
+    ],
+    [
+      "Legendary Aspect of the Dragons",
+      "Hypixel",
+      "Golden sword from Hypixel",
+      "<a href=../nbt/items/nbt/LegendaryAspectOfTheDragons.nbt download>NBT</a>"
+    ],
+    [
+      "Milk Bundle",
+      "Unknown Author",
+      "Bundle containing 1,519,936 buckets of milk",
+      "<a href=../nbt/items/nbt/MilkBundle.nbt download>NBT</a>"
+    ],
+    [
+      "Natalie Ries (Axe)",
+      "FileExtension",
+      "Powerful diamond axe",
+      "<a href=../nbt/items/nbt/NatalieRies(Axe).nbt download>NBT</a>"
+    ],
+    [
+      "Natalie Ries (Splash Potion)",
+      "FileExtension",
+      "Powerful splash potion",
+      "<a href=../nbt/items/nbt/NatalieRies(Splash).nbt download>NBT</a>"
+    ],
+    [
+      "Miniature Birch Tree &#11088;",
+      "keyshujin",
+      "Generates a miniature birch tree",
+      "<a href=../nbt/items/nbt/MiniatureBirchTree.nbt download>NBT</a>"
+    ],
+    [
+      "Miniature Oak Tree &#11088;",
+      "keyshujin",
+      "Generates a miniature oak tree",
+      "<a href=../nbt/items/nbt/MiniatureOakTree.nbt download>NBT</a>"
+    ],
+    [
+      "Mlg Pro",
+      "Ghosty",
+      "Bow for MLG Pros",
+      "<a href=../nbt/items/nbt/MlgPro.nbt download>NBT</a>"
+    ],
+    [
+      "Mlg Pro 2.0",
+      "Ghosty",
+      "Crossbow for MLG Pros",
+      "<a href=../nbt/items/nbt/MlgPro2.0.nbt download>NBT</a>"
+    ],
+    [
+      "Modern Fridge &#11088;",
+      "keyshujin",
+      "Generates a modern refrigerator",
+      "<a href=../nbt/items/nbt/ModernFridge.nbt download>NBT</a>"
+    ],
+    [
+      "Modern Lamp &#11088;",
+      "keyshujin",
+      "Generates a modern lamp",
+      "<a href=../nbt/items/nbt/ModernLamp.nbt download>NBT</a>"
+    ],
+    [
+      "Mystic Gaming Laptop",
+      "AlNuaimi50",
+      "Gaming laptop with incredibly good specs",
+      "<a href=../nbt/items/nbt/MysticGamingLaptop.nbt download>NBT</a>"
+    ],
+    [
+      "Putrid Powder",
+      "GingaNinja_23",
+      "Very smelly gunpowder",
+      "<a href=../nbt/items/nbt/PutridPowder.nbt download>NBT</a>"
+    ],
+    [
+      "quack95",
+      "quack95",
+      "Head of quack95. Duck is duck",
+      "<a href=../nbt/items/nbt/quack95Head.nbt download>NBT</a>"
+    ],
+    [
+      "error: quick.fire.catch(e)",
+      "Shdwo",
+      "Crossbow that shoots really really fast",
+      "<a href=../nbt/items/nbt/quick.fire.catch(e).nbt download>NBT</a>"
+    ],
+    [
+      "Rainbow Firework",
+      "Unknown Author",
+      "Rainbow colored firework",
+      "<a href=../nbt/items/nbt/RainbowFirework.nbt download>NBT</a>"
+    ],
+    [
+      "Neon",
+      "Kiraptor",
+      "Neon colored firework",
+      "<a href=../nbt/items/nbt/Neon.nbt download>NBT</a>"
+    ],
+    [
+      "Nether Wastes Mood",
+      "keyshujin",
+      "Plays the nether wastes ambience",
+      "<a href=../nbt/items/nbt/NetherWastesMood.nbt download>NBT</a>"
+    ],
+    [
+      "N-WordPass",
+      "MorganAnkan",
+      "Gives the holder the right to use the N word",
+      "<a href=../nbt/items/nbt/N-WordPass.nbt download>NBT</a>"
+    ],
+    [
+      "Pika Helmet",
+      "Drewmeister01",
+      "Leather helmet with Pikachu loreart",
+      "<a href=../nbt/items/nbt/PikaHelmet.nbt download>NBT</a>"
+    ],
+    [
+      "Scythe of Angels",
+      "Yurni",
+      "Powerful diamond hoe",
+      "<a href=../nbt/items/nbt/ScytheOfAngels.nbt download>NBT</a>"
+    ],
+    [
+      "SHIBAZON",
+      "Unknown Author",
+      "Loreart advertisement for the Shibazon OP Item shop on TotalFreedom",
+      "<a href=../nbt/items/nbt/SHIBAZON.nbt download>NBT</a>"
+    ],
+    [
+      "Renowned Superior Dragon Helmet",
+      "Hypixel",
+      "Part of Hypixels Renowned Superior Dragon armor",
+      "<a href=../nbt/items/nbt/RenownedSuperiorDragonHelmet.nbt download>NBT</a>"
+    ],
+    [
+      "Renowned Superior Dragon Chestplate",
+      "Hypixel",
+      "Part of Hypixels Renowned Superior Dragon armor",
+      "<a href=../nbt/items/nbt/RenownedSuperiorDragonChestplate.nbt download>NBT</a>"
+    ],
+    [
+      "Renowned Superior Dragon Leggings",
+      "Hypixel",
+      "Part of Hypixels Renowned Superior Dragon armor",
+      "<a href=../nbt/items/nbt/RenownedSuperiorDragonLeggings.nbt download>NBT</a>"
+    ],
+    [
+      "Renowned Superior Dragon Boots",
+      "Hypixel",
+      "Part of Hypixels Renowned Superior Dragon armor",
+      "<a href=../nbt/items/nbt/RenownedSuperiorDragonBoots.nbt download>NBT</a>"
+    ],
+    [
+      "Rigormortis",
+      "keyshujin",
+      "Cool bow, dedicated to somecooluseridk",
+      "<a href=../nbt/items/nbt/Rigormortis.nbt download>NBT</a>"
+    ],
+    [
+      "Rubygorre Sword",
+      "keyshujin",
+      "Enchanted iron sword with flickering attack damage",
+      "<a href=../nbt/items/nbt/RubygorreSword.nbt download>NBT</a>"
+    ],
+    [
+      "Saundermeade Crown",
+      "Unknown Author",
+      "HD Head crown for the Duke of Saundermeade",
+      "<a href=../nbt/items/nbt/SaundermeadeCrown.nbt download>NBT</a>"
+    ],
+    [
+      "Starter House Builder (wip)",
+      "enderples",
+      "Spawns a small wooden house with some stuff in a chest!",
+      "<a href=../nbt/items/nbt/StarterHouseBuilder.nbt download>NBT</a>"
+    ],
+    [
+      "Super Weed",
+      "Unknown Author",
+      "Very very concentrated weed",
+      "<a href=../nbt/items/nbt/SuperWeed.nbt download>NBT</a>"
+    ],
+    [
+      "Shio Ramen",
+      "Unknown Author",
+      "Ramen bowl with lore in japanglish",
+      "<a href=../nbt/items/nbt/ShioRamen.nbt download>NBT</a>"
+    ],
+    [
+      "Simple PC &#11088;",
+      "keyshujin",
+      "Generates a simple PC",
+      "<a href=../nbt/items/nbt/SimplePC.nbt download>NBT</a>"
+    ],
+    [
+      "Skill Issue Detected™",
+      "Unknown Author",
+      "Enchanted diamond axe with exquisite lore",
+      "<a href=../nbt/items/nbt/SkillIssuesDetected.nbt download>NBT</a>"
+    ],
+    [
+      "Slapping Fish",
+      "Ghosty",
+      "Fish with insane knockback for slapping your friends with",
+      "<a href=../nbt/items/nbt/SlappingFish.nbt download>NBT</a>"
+    ],
+    [
+      "Soul Sand Valley Mood",
+      "keyshujin",
+      "Plays the sould sand valley ambience",
+      "<a href=../nbt/items/nbt/SoulSandValleyMood.nbt download>NBT</a>"
+    ],
+    [
+      "Space Suit",
+      "keyshujin",
+      "Astronaut head with cool lore",
+      "<a href=../nbt/items/nbt/SpaceSuit.nbt download>NBT</a>"
+    ],
+    [
+      "Splash Potion of Freezing &#11088;",
+      "keyshujin",
+      "Makes target unable to move, mine or deal damage",
+      "<a href=../nbt/items/nbt/SplashPotionOfFreezing.nbt download>NBT</a>"
+    ],
+    [
+      "Tesla's Cargo Plane",
+      "txsla",
+      "Chestboat. Boatchest?",
+      "<a href=../nbt/items/nbt/TeslasCargoPlane.nbt download>NBT</a>"
+    ],
+    [
+      "The Bedrock Breaker",
+      "Unknown Author",
+      "Enchanted netherite sword to split every atom",
+      "<a href=../nbt/items/nbt/TheBedrockBreaker.nbt download>NBT</a>"
+    ],
+    [
+      "The Holy Hand Grenade of Antioch v2",
+      "Team Kismet",
+      "Powerful lingering potion with an excellent poem in the lore",
+      "<a href=../nbt/items/nbt/TheHolyHandGrandeOfAntiochv2.nbt download>NBT</a>"
+    ],
+    [
+      "The Little Helper",
+      "Unknown Author",
+      "Hear of the sea for your offhand",
+      "<a href=../nbt/items/nbt/TheLittleHelper.nbt download>NBT</a>"
+    ],
+    [
+      "Theodore Roosevelt",
+      "jsco",
+      "Initiates the process of comprehensive demolition and eradication of the operational platform, commonly referred to as the server.",
+      "<a href=../nbt/items/nbt/TheodoreRoosevelt.nbt download>NBT</a>"
+    ],
+    [
+      "sussyhecker's Blade o' Doomw",
+      "Unknown IGN",
+      "Enchanted diamond sword",
+      "<a href=../nbt/items/nbt/sussyheckersBladeODoom.nbt download>NBT</a>"
+    ],
+    [
+      "Sweeping Hoe",
+      "CoolestGuy94",
+      "Enchanted netherite hoe",
+      "<a href=../nbt/items/nbt/SweepingHoe.nbt download>NBT</a>"
+    ],
+    [
+      "Sword of the Multiverse",
+      "Unknown Author",
+      "Enchanted golden sword",
+      "<a href=../nbt/items/nbt/SwordOfTheMultiverse.nbt download>NBT</a>"
+    ],
+    [
+      "Teddy Bear &#11088;",
+      "keyshujin",
+      "Generates a teddy bear",
+      "<a href=../nbt/items/nbt/TeddyBear.nbt download>NBT</a>"
+    ],
+    [
+      "Thundershard",
+      "keyshujin",
+      "Golden sword given as a small gift from Zeus",
+      "<a href=../nbt/items/nbt/Thundershard.nbt download>NBT</a>"
+    ],
+    [
+      "Titanium Fiber Elytra",
+      "GingaNinja_23",
+      "Elytra constructed from titanium and diamond fibers",
+      "<a href=../nbt/items/nbt/TitaniumFiberElytra.nbt download>NBT</a>"
+    ],
+    [
+      "TRACKING MISSILE",
+      "_NinjaSloth_",
+      "Command blocks that spawns a tracking missile",
+      "<a href=../nbt/items/nbt/TRACKINGMISSILE.nbt download>NBT</a>"
+    ],
+    [
+      "Ultimate Boss Slayer Of Doom MK3 &#11088;",
+      "Unknown Author",
+      "Absolutely amazing netherite sword, the best of the best",
+      "<a href=../nbt/items/nbt/UltimateBossSlayerOfDoomMK3.nbt download>NBT</a>"
+    ],
+    [
+      "Ultra Weed",
+      "Unknown Author",
+      "Very strong weed",
+      "<a href=../nbt/items/nbt/UltraWeed.nbt download>NBT</a>"
+    ],
+    [
+      "Underwater Enter",
+      "keyshujin",
+      "Plays the sound of entering water",
+      "<a href=../nbt/items/nbt/UnderwaterEnter.nbt download>NBT</a>"
+    ],
+    [
+      "The Penis Joke Is Real (real)",
+      "Unknown Author",
+      "Wooden sword extolling the reality of The Penis Joke",
+      "<a href=../nbt/items/nbt/ThePenisJokeIsReal.nbt download>NBT</a>"
+    ],
+    [
+      "???",
+      "Ghosty",
+      "This splash potion doesn't do anything.",
+      "<a href=../nbt/items/nbt/ThisSplashPotionDoesntDoAnythin.nbt download>NBT</a>"
+    ],
+    [
+      "Vintage Chair &#11088;",
+      "keyshujin",
+      "Generates a vintage chair",
+      "<a href=../nbt/items/nbt/VintageChair.nbt download>NBT</a>"
+    ],
+    [
+      "Warped Forest Mood",
+      "keyshujin",
+      "Plays the warped forest ambience",
+      "<a href=../nbt/items/nbt/WarpedForestMood.nbt download>NBT</a>"
+    ],
+    [
+      "When the imposter is sus",
+      "Unknown Author",
+      "Loreart of when the imposter is sus",
+      "<a href=../nbt/items/nbt/WhenTheImposterIsSus.nbt download>NBT</a>"
+    ],
+    [
+      "Withered Hyperion",
+      "Hypixel",
+      "Iron sword from Hypixel",
+      "<a href=../nbt/items/nbt/WitheredHyperion.nbt download>NBT</a>"
+    ],
+    [
+      "Underwater Exit",
+      "keyshujin",
+      "Plays the sound of exiting water",
+      "<a href=../nbt/items/nbt/UnderwaterExit.nbt download>NBT</a>"
+    ],
+    [
+      "Underwater Loop Additions",
+      "keyshujin",
+      "I don't know what it plays, but it's ultra rare",
+      "<a href=../nbt/items/nbt/UnderwaterLoopAdditions(UltraRare).nbt download>NBT</a>"
+    ],
+    [
+      "Veteran Gaming Laptop",
+      "AlNuaimi50",
+      "Gaming laptop with insane specs",
+      "<a href=../nbt/items/nbt/VeteranGamingLaptop.nbt download>NBT</a>"
+    ],
+    [
+      "You're Already Dead",
+      "Ghosty",
+      "You're dead before this blaze rod is swung",
+      "<a href=../nbt/items/nbt/YoureAlreadyDead.nbt download>NBT</a>"
+    ],
+    [
+      "Your Resistance",
+      "Yurni, Team Kismet",
+      "Powerful tipped arrow",
+      "<a href=../nbt/items/nbt/YourResistance.nbt download>NBT</a>"
+    ],
+    [
+      "Yurni's Death",
+      "FleshlyIsTaken, CoolestGuy94",
+      "The ultimate totem killer",
+      "<a href=../nbt/items/nbt/YurnisDeath.nbt download>NBT</a>"
+    ],
+    [
+      "Zarxana's Bone <3",
+      "Khol, Zarxana",
+      "Bone for Zarxana",
+      "<a href=../nbt/items/nbt/ZarxanasBone.nbt download>NBT</a>"
+    ],
+    [
+      "Withered Thunderbolt",
+      "Hypixel",
+      "Iron axe from Hypixel",
+      "<a href=../nbt/items/nbt/WitheredThunderbolt.nbt download>NBT</a>"
+    ],
+    [
+      "Wyvern",
+      "Unknown Author",
+      "Powerful lingering potion",
+      "<a href=../nbt/items/nbt/Wyvern-Lingering.nbt download>NBT</a>"
+    ],
+    [
+      "Wyvern",
+      "Unknown Author",
+      "Powerful splash potion",
+      "<a href=../nbt/items/nbt/Wyvern-Splash.nbt download>NBT</a>"
     ]
   ]
 }
