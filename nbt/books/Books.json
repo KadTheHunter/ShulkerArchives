@@ -275,6 +275,18 @@
       "Jackson",
       "Book used to social engineer OP from gullible Admins",
       "<a href=../nbt/books/nbt/.nbt download>NBT</a>"
+    ],
+    [
+      "Lifehacks",
+      "SeriousGamer_212",
+      "Ways to hack your life",
+      "<a href=../nbt/books/nbt/Lifehacks.nbt download>NBT</a>"
+    ],
+    [
+      "The Borg",
+      "aj2x4",
+      "Tale of a space pirate",
+      "<a href=../nbt/books/nbt/TheBorg.nbt download>NBT</a>"
     ]
   ]
 }
