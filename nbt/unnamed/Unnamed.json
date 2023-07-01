@@ -413,6 +413,12 @@
       "macetrap",
       "Netherite armor with truly blank name and lore",
       "<a href=../nbt/unnamed/nbt/BlankMacetrapArmor_[AAN].nbt download>NBT</a>"
+    ],
+    [
+      "Marxx Characters Vol 6",
+      "Katsuo",
+      "Copies of Marxx Characters Vol 6, alongside empty Katsuo bags",
+      "<a href=../nbt/unnamed/nbt/MarxxCharactersVol6_[AAN].nbt download>NBT</a>"
     ]
   ]
 }

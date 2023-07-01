@@ -2225,6 +2225,48 @@
       "Yurni",
       "Pink leather horse armor",
       "<a href=../nbt/items/nbt/YurnisHorseArmor.nbt download>NBT</a>"
+    ],
+    [
+      "Media Compression Tool!",
+      "EnderEyeGames",
+      "Piston advertising <a href=\"https://autocompressor.net\" target=\"_blank\" rel=\"noopener noreferrer\">autocompressor.net</a> by EnderEyeGames",
+      "<a href=../nbt/items/nbt/MediaCompressionTool.nbt download>NBT</a>"
+    ],
+    [
+      "Sticky Note",
+      "Kadalyst",
+      "Warped sign to write notes on :D",
+      "<a href=../nbt/items/nbt/StickyNote.nbt download>NBT</a>"
+    ],
+    [
+      "Suspicious Hyperion",
+      "Hypixel",
+      "Iron sword from Hypixel",
+      "<a href=../nbt/items/nbt/SuspiciousHyperion.nbt download>NBT</a>"
+    ],
+    [
+      "bad admin no cookie &#11088;",
+      "flamingSkies (?)",
+      "Cookie with really long lore, describing how and why most admins are gay",
+      "<a href=../nbt/items/nbt/BadAdminNoCookie.nbt download>NBT</a>"
+    ],
+    [
+      "CLONE VIRUS SERIES &#11088;",
+      "Captainclimber",
+      "Two spawn eggs inside of a bundle, that when used will progressively consume a world due to their self-replicating nature",
+      "<a href=../nbt/items/nbt/CLONEVIRUSSERIES.nbt download>NBT</a>"
+    ],
+    [
+      "HOTWOMAN.jpg",
+      "Unknown Author",
+      "Loreart of a woman baring her lingerie clad ass towards the camera",
+      "<a href=../nbt/items/nbt/HOTWOMAN.jpg.nbt download>NBT</a>"
+    ],
+    [
+      "Lag Barrier",
+      "Unknown Author",
+      "Barrier with an incredibly laggy name",
+      "<a href=../nbt/items/nbt/LagBarrier.nbt download>NBT</a>"
     ]
   ]
 }

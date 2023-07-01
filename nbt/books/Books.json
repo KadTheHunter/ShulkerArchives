@@ -311,6 +311,36 @@
       "Yurni",
       "Lectern holding a WIP copy of the UwU utility/command book",
       "<a href=../nbt/books/nbt/YurnisUtilities.nbt download>NBT</a>"
+    ],
+    [
+      "Sollee's Diaree",
+      "SolleeRockee",
+      "A diary with a single entry, dated Nov 11th 2020",
+      "<a href=../nbt/books/nbt/SolleesDiary.nbt download>NBT</a>"
+    ],
+    [
+      "The Spawn Meta",
+      "Unknown Author",
+      "Paper on the reason recent spawns for TotalFreedom have sucked",
+      "<a href=../nbt/books/nbt/TheSpawnMeta.nbt download>NBT</a>"
+    ],
+    [
+      "Congrats You Got Admin!",
+      "Unknown Author",
+      "Contains a link to Free Admin!",
+      "<a href=../nbt/books/nbt/CongratsYouGotAdmin!.nbt download>NBT</a>"
+    ],
+    [
+      "Infinity History Book",
+      "quack95",
+      "Details the history of Infinity",
+      "<a href=../nbt/books/nbt/InfinityHistoryBook.nbt download>NBT</a>"
+    ],
+    [
+      "Logstick Guide",
+      "Unknown Author",
+      "Guidebook for using the Logstick, and other Moderator features of TotalFreedom",
+      "<a href=../nbt/books/nbt/LogstickGuide.nbt download>NBT</a>"
     ]
   ]
 }

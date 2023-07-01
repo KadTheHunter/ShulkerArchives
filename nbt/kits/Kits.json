@@ -20,7 +20,7 @@
     ],
     [
       "Weasley's Wildfire Whiz-Bangs | Deflagration Deluxe Edition &#11088;",
-      "KaddicusAlmighty",
+      "Kadalyst",
       "A collection of the best custom fireworks",
       "<a href=nbt/kits/nbt/WeasleysWildfireWhizbangsDeflagDeluxe.nbt download>NBT</a>"
     ],
@@ -44,7 +44,7 @@
     ],
     [
       "MPD Kit | KaddicusAlmighty Edition &#11088;",
-      "KaddicusAlmighty",
+      "Kadalyst",
       "Contains the heads from different skins worn by KaddicusAlmighty, each with special effects",
       "<a href=nbt/kits/nbt/MPDKitKaddicusEdition.nbt download>NBT</a>"
     ],
@@ -434,7 +434,7 @@
     ],
     [
       "Shulker Archives Advert. Kit &#11088;",
-      "KaddicusAlmighty",
+      "Kadalyst",
       "Contains all essential items for advertising The Shulker Archives",
       "<a href=nbt/kits/nbt/ShulkerArchivesAdvertKit.nbt download>NBT</a>"
     ],
@@ -854,19 +854,19 @@
     ],
     [
       "KaddicusAlmighty's Music Kit &#11088;",
-      "KaddicusAlmighty",
+      "Kadalyst",
       "A kit with music discs relabeled as other songs, with lyrics in the lore.",
       "<a href=nbt/kits/nbt/KaddicusAlmightysMusicKit.nbt download>NBT</a>"
     ],
     [
       "Project Gemstone &#11088;",
-      "KaddicusAlmighty",
+      "Kadalyst",
       "A kit detailing part of Kaddicus' lore.",
       "<a href=nbt/kits/nbt/ProjectGemstone.nbt download>NBT</a>"
     ],
     [
       "The CIT Pack Advertisement Kit &#11088;",
-      "KaddicusAlmighty",
+      "Kadalyst",
       "Kit with the essentials needed to advertise CIT Texture Packs",
       "<a href=nbt/kits/nbt/TheCITPackAdvertisementKit.nbt download>NBT</a>"
     ],
@@ -1910,7 +1910,7 @@
     ],
     [
       "Infinity Kit",
-      "christophermav",
+      "4ngeloid",
       "Infinity Kit",
       "<a href=nbt/kits/nbt/InfinityKit.nbt download>NBT</a>"
     ],
@@ -3350,13 +3350,13 @@
     ],
     [
       "Armada Forceop V10",
-      "Unknown Author",
+      "4ngeloid",
       "Armada Forceop V10",
       "<a href=nbt/kits/nbt/ArmadaForceOPV10.nbt download>NBT</a>"
     ],
     [
       "Armada Kit",
-      "Unknown Author",
+      "4ngeloid",
       "Armada Kit",
       "<a href=nbt/kits/nbt/ArmadaKit.nbt download>NBT</a>"
     ],
@@ -5203,7 +5203,7 @@
       "<a href=nbt/kits/nbt/SpawnEggs+1.0byChargefruit.nbt download>NBT</a>"
     ],
     [
-      "Anarchists Kit 1.0 &#11088;",
+      "Anarchist's Kit 1.0 &#11088;",
       "Chargefruit",
       "ForceOP, Griefing and Crash items made by Chargefruit",
       "<a href=nbt/kits/nbt/AnarchistsKit1.0byChargefruit.nbt download>NBT</a>"
@@ -5497,7 +5497,7 @@
       "<a href=nbt/kits/nbt/AlcosFunnies.nbt download>NBT</a>"
     ],
     [
-      "Anarchist's Kit 1.1",
+      "Anarchist's Kit 1.1 &#11088;",
       "Chargefruit",
       "Minor lore changes from v1.0",
       "<a href=nbt/kits/nbt/AnarchistsKit1.1byChargefruit.nbt download>NBT</a>"
@@ -6857,6 +6857,258 @@
       "Unknown IGN",
       "Barrel containing illegally shulkers with illegally stacked items, many blatantly copied from txsla",
       "<a href=nbt/kits/nbt/MoltzWormhole.nbt download>NBT</a>"
+    ],
+    [
+      "Backroom Shulker",
+      "Kaninchenfurz24",
+      "8 Spawn eggs, crossbow, bundle of arrows, Lightning in a bottle, Hazmat suit and Almond Water",
+      "<a href=nbt/kits/nbt/BackroomShulker.nbt download>NBT</a>"
+    ],
+    [
+      "Backroom Shulker +",
+      "Kaninchenfurz24",
+      "13 Spawn eggs, knife, crossbow, bundle of arrows, liquid pain, Lightning in a bottle, Hazmat suit and Almond Water",
+      "<a href=nbt/kits/nbt/BackroomShulker+.nbt download>NBT</a>"
+    ],
+    [
+      "KaddicusAlmighty's Beskar'gam & Weapons",
+      "Kadalyst",
+      "Crossbow, helmet, elytra, boots and arrow, the first kit ever made by Kadalyst",
+      "<a href=nbt/kits/nbt/Beskargam&Weapons.nbt download>NBT</a>"
+    ],
+    [
+      "Brims Main Kit",
+      "BrimGrace",
+      "PvP and personal items by BrimGrace",
+      "<a href=nbt/kits/nbt/BrimsMainKit.nbt download>NBT</a>"
+    ],
+    [
+      "97 birthday gift",
+      "Unknown Author",
+      "A birthday gift for _97_",
+      "<a href=nbt/kits/nbt/97birthdaygift.nbt download>NBT</a>"
+    ],
+    [
+      "Admin Toenail Kit",
+      "Unknown Author",
+      "A box glorifying the toenail of _97_",
+      "<a href=nbt/kits/nbt/AdminToenailKit.nbt download>NBT</a>"
+    ],
+    [
+      "Adventure Mode Items",
+      "GoatHorn",
+      "Blocks and items that can be used in Adventure Mode",
+      "<a href=nbt/kits/nbt/AdventureModeItems.nbt download>NBT</a>"
+    ],
+    [
+      "AFK Kit",
+      "Unknown Author",
+      "Golden and AFK themed everything, including armor, tools, totems, carrots and potions",
+      "<a href=nbt/kits/nbt/AFKKit.nbt download>NBT</a>"
+    ],
+    [
+      "Anarchist's Kit 2.0 &#11088;",
+      "Chargefruit",
+      "ForceOP, Griefing and Crash items made by Chargefruit",
+      "<a href=nbt/kits/nbt/AnarchistsKit2.0byChargefruit.nbt download>NBT</a>"
+    ],
+    [
+      "golden weapons of spinjitzu",
+      "Unknown Author",
+      "The golden weapons of spinjitzu from the LEGO TV Series \"Ninjago\"",
+      "<a href=nbt/kits/nbt/goldenweaponsofspinjitzu.nbt download>NBT</a>"
+    ],
+    [
+      "Heroin",
+      "Unknown Author",
+      "Barrel full of bottles of heroin",
+      "<a href=nbt/kits/nbt/Heroin.nbt download>NBT</a>"
+    ],
+    [
+      "Item 3D",
+      "Fire_Melone",
+      "Items that have custom textures when using the Minehut Cosmetics pack",
+      "<a href=nbt/kits/nbt/Item3D.nbt download>NBT</a>"
+    ],
+    [
+      "Cakes with Candles",
+      "Unknown Author",
+      "Spawn eggs for cakes with candles, both lit and unlit",
+      "<a href=nbt/kits/nbt/CakesWithCandles.nbt download>NBT</a>"
+    ],
+    [
+      "Cornos Kit",
+      "Cornos",
+      "6 spawn eggs, 2 splash potions, 2 armorstands and a leather helmet, all used for Abuse",
+      "<a href=nbt/kits/nbt/CornosKit.nbt download>NBT</a>"
+    ],
+    [
+      "DMA Pack",
+      "quack95",
+      "21 different drugs produced and provided by the Drug Making Association",
+      "<a href=nbt/kits/nbt/DMAPack.nbt download>NBT</a>"
+    ],
+    [
+      "Dragon PVP Kit",
+      "Unknown Author",
+      "Potions and items for OP/NBT PvP",
+      "<a href=nbt/kits/nbt/DragonPvPKit.nbt download>NBT</a>"
+    ],
+    [
+      "Endermatter Barrel",
+      "Unknown Author",
+      "Barrel containing 8 types of Endermatter",
+      "<a href=nbt/kits/nbt/EndermatterBarrel.nbt download>NBT</a>"
+    ],
+    [
+      "Energy Kit",
+      "Unknown Author",
+      "the Apples, Carrots and Talisman from AFK Kit, with Energy themed leather armor slapped on top",
+      "<a href=nbt/kits/nbt/EnergyKit.nbt download>NBT</a>"
+    ],
+    [
+      "RankKit",
+      "Unknown Author",
+      "Fun and cool items, many for Abuse",
+      "<a href=nbt/kits/nbt/RankKit.nbt download>NBT</a>"
+    ],
+    [
+      "RowletKit",
+      "Tanukimario",
+      "Netherite tools, weapons, bow and poison dart tipped arrows",
+      "<a href=nbt/kits/nbt/RowletKit.nbt download>NBT</a>"
+    ],
+    [
+      "Saturn's Hacked Blocks V3",
+      "saturn5vfive",
+      "Blocks that aren't normally available",
+      "<a href=nbt/kits/nbt/SaturnsHackedBlocksV3.nbt download>NBT</a>"
+    ],
+    [
+      "Saturn's Hacked Items V3",
+      "saturn5vfive",
+      "Various items with interesting NBT",
+      "<a href=nbt/kits/nbt/SaturnsHackedItemsV3.nbt download>NBT</a>"
+    ],
+    [
+      "Jimmy's Toolkit",
+      "miniozoid",
+      "Armorstand, potion, command book, and 3 eggs, all for Abuse",
+      "<a href=nbt/kits/nbt/JimmysToolkit.nbt download>NBT</a>"
+    ],
+    [
+      "Kit Angeloid",
+      "4ngeloid",
+      "Basic items, with basic enchants, and a shitty rename",
+      "<a href=nbt/kits/nbt/KitAngeloid.nbt download>NBT</a>"
+    ],
+    [
+      "marketable anti plushie kit",
+      "Windowsgamesm12",
+      "Assembleable plushie doll of Windowsgamesm12",
+      "<a href=nbt/kits/nbt/marketableantiplushiekit.nbt download>NBT</a>"
+    ],
+    [
+      "OVERLOAD KIT++",
+      "Creeperparty190",
+      "Totems, egaps, bonemeal, obsidian, end crystals, leather armor, warden spawn eggs, Infinity Stone bundle, potato crown, and a bundle with 74,112 diamond blocks",
+      "<a href=nbt/kits/nbt/OVRLOADKIT++.nbt download>NBT</a>"
+    ],
+    [
+      "RANDOM ASCII ART &#11088;",
+      "Unknown Author",
+      "52 ASCII lorearts, divided evenly into 4 categories: Aheago, Cat, Meme, and Social Media",
+      "<a href=nbt/kits/nbt/RANDOMASCIIART.nbt download>NBT</a>"
+    ],
+    [
+      "Test Barrel",
+      "WolfySam",
+      "Contains 7 barrels (Chaos Kit, Nukes Bombs and TNT, God Set, Fun Items, Enchanted Golden Apples, Stacked Totems, Resources), 18 Invisibility potions, and a Withered Hyperion hypixel sword",
+      "<a href=nbt/kits/nbt/TestBarrel.nbt download>NBT</a>"
+    ],
+    [
+      "The-Compound",
+      "sprakeilous",
+      "Contains 2 chests, one with Netherite PvP gear, the other with unobtainable items",
+      "<a href=nbt/kits/nbt/The-Compound.nbt download>NBT</a>"
+    ],
+    [
+      "The Red Box",
+      "Kadalyst",
+      "5 items based off of the Red Room from the first book in the Lockwood & Co. series, \"The Screaming Staircase\"",
+      "<a href=nbt/kits/nbt/TheRedBox.nbt download>NBT</a>"
+    ],
+    [
+      "Saturn's Hacked Potions V3",
+      "saturn5vfive",
+      "14 different splash potions, with various unique effects",
+      "<a href=nbt/kits/nbt/SaturnsHackedPotionsV3.nbt download>NBT</a>"
+    ],
+    [
+      "Saturn's Spawn Eggs V2",
+      "saturn5vfive",
+      "15 different spawn eggs",
+      "<a href=nbt/kits/nbt/SaturnsSpawnEggsV2.nbt download>NBT</a>"
+    ],
+    [
+      "Shadow Utility V0.0.2",
+      "jsco",
+      "Unfinished copy of Shadow Utility, containing items for Combat, Lag, Crash and Exploit",
+      "<a href=nbt/kits/nbt/ShadowUtilityV0.0.2.nbt download>NBT</a>"
+    ],
+    [
+      "Skeet Kit BETA",
+      "Unknown Author",
+      "Armorstand, potions, crossbow and tipped arrows",
+      "<a href=nbt/kits/nbt/SkeetKitBETA.nbt download>NBT</a>"
+    ],
+    [
+      "SPARK Items",
+      "Unknown Author",
+      "Netherite armor and tools",
+      "<a href=nbt/kits/nbt/SPARKItems.nbt download>NBT</a>"
+    ],
+    [
+      "Tesla's Wormhole Draft",
+      "txsla",
+      "Draft of Teslas Wormhole barrel",
+      "<a href=nbt/kits/nbt/TeslasWormholeDraft.nbt download>NBT</a>"
+    ],
+    [
+      "Wool Cube",
+      "vajpka",
+      "A spawn egg lored with some strange numbers, that spawns a wool cube when used",
+      "<a href=nbt/kits/nbt/WoolCube.nbt download>NBT</a>"
+    ],
+    [
+      "Zombob Shulker",
+      "Unknown Author",
+      "127 stacked ZomBob spawn eggs, and ZomBob splash potions",
+      "<a href=nbt/kits/nbt/ZombobShulker.nbt download>NBT</a>"
+    ],
+    [
+      "Thorned Kit",
+      "Gl1tch1x",
+      "Thorny bushes, turtle helmets, netherite armor, 127 stacked totems, blood tulips, and obfuscated shields",
+      "<a href=nbt/kits/nbt/ThornedKit.nbt download>NBT</a>"
+    ],
+    [
+      "TopG's Custom Eggs V1",
+      "TopG",
+      "11 custom spawn eggs",
+      "<a href=nbt/kits/nbt/TopGsCustomSpawnEggsV1.nbt download>NBT</a>"
+    ],
+    [
+      "Vesperian war kit",
+      "macetrap",
+      "A truly horrible PvP kit that is heavily reliant on the Crackshot plugin for guns",
+      "<a href=nbt/kits/nbt/VesperianWarKit.nbt download>NBT</a>"
+    ],
+    [
+      "VOIDSTAR V2.1",
+      "XanX15, BingoIsaac",
+      "Netherite armor tools & weapons, stacked totems, gaps, and spawners",
+      "<a href=nbt/kits/nbt/VOIDSTARV2.1.nbt download>NBT</a>"
     ]
   ]
 }
