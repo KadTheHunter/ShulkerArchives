@@ -287,6 +287,30 @@
       "aj2x4",
       "Tale of a space pirate",
       "<a href=../nbt/books/nbt/TheBorg.nbt download>NBT</a>"
+    ],
+    [
+      "Nyaaa",
+      "Yurni",
+      "Nyaaa with a lot more 'a's",
+      "<a href=../nbt/books/nbt/Nyaaa.nbt download>NBT</a>"
+    ],
+    [
+      "Prayer To The Goddess Of War",
+      "Yurni",
+      "A prayer to the goddess of war, to bypass protections placed by false idols",
+      "<a href=../nbt/books/nbt/PrayerToTheGoddessOfWar.nbt download>NBT</a>"
+    ],
+    [
+      "UwU",
+      "Yurni",
+      "UwU Utility/Command Book",
+      "<a href=../nbt/books/nbt/UwU.nbt download>NBT</a>"
+    ],
+    [
+      "Yurni's Utilities",
+      "Yurni",
+      "Lectern holding a WIP copy of the UwU utility/command book",
+      "<a href=../nbt/books/nbt/YurnisUtilities.nbt download>NBT</a>"
     ]
   ]
 }
