@@ -1221,7 +1221,7 @@
     [
       "Compact Aquarium &#11088;",
       "keyshujin",
-      "Spawns a compact aquarium",
+      "Spawns a compact aquarium. <i>pre-1.20!</i>",
       "<a href=../nbt/items/nbt/CompactAquarium.nbt download>NBT</a>"
     ],
     [
@@ -1275,7 +1275,7 @@
     [
       "Cute Portals",
       "keyshujin",
-      "Spawns smol versions of Nether and End portals",
+      "Spawns smol versions of Nether and End portals. <i>pre-1.20!</i>",
       "<a href=../nbt/items/nbt/CutePortals.nbt download>NBT</a>"
     ],
     [
@@ -1323,7 +1323,7 @@
     [
       "Firework Show",
       "keyshujin",
-      "Creates a beautiful firework show when used",
+      "Creates a beautiful firework show when used. <i>pre-1.20!</i>",
       "<a href=../nbt/items/nbt/FireworkShow(SERVERCRASHER).nbt download>NBT</a>"
     ],
     [
@@ -1341,12 +1341,12 @@
     [
       "Drumset",
       "keyshujin",
-      "Spawns a drumset",
+      "Spawns a drumset. <i>pre-1.20!</i>",
       "<a href=../nbt/items/nbt/Drumset.nbt download>NBT</a>"
     ],
     [
       "Eco Umbrella",
-      "keyshujin",
+      "keyshujin. <i>pre-1.20!</i>",
       "Spawns an eco umbrella",
       "<a href=../nbt/items/nbt/EoUmbrella.nbt download>NBT</a>"
     ],
@@ -1581,13 +1581,13 @@
     [
       "Miniature Birch Tree &#11088;",
       "keyshujin",
-      "Generates a miniature birch tree",
+      "Generates a miniature birch tree. <i>pre-1.20!</i>",
       "<a href=../nbt/items/nbt/MiniatureBirchTree.nbt download>NBT</a>"
     ],
     [
       "Miniature Oak Tree &#11088;",
       "keyshujin",
-      "Generates a miniature oak tree",
+      "Generates a miniature oak tree. <i>pre-1.20!</i>",
       "<a href=../nbt/items/nbt/MiniatureOakTree.nbt download>NBT</a>"
     ],
     [
@@ -1605,13 +1605,13 @@
     [
       "Modern Fridge &#11088;",
       "keyshujin",
-      "Generates a modern refrigerator",
+      "Generates a modern refrigerator. <i>pre-1.20!</i>",
       "<a href=../nbt/items/nbt/ModernFridge.nbt download>NBT</a>"
     ],
     [
       "Modern Lamp &#11088;",
       "keyshujin",
-      "Generates a modern lamp",
+      "Generates a modern lamp. <i>pre-1.20!</i>",
       "<a href=../nbt/items/nbt/ModernLamp.nbt download>NBT</a>"
     ],
     [
@@ -1743,7 +1743,7 @@
     [
       "Simple PC &#11088;",
       "keyshujin",
-      "Generates a simple PC",
+      "Generates a simple PC. <i>pre-1.20!</i>",
       "<a href=../nbt/items/nbt/SimplePC.nbt download>NBT</a>"
     ],
     [
@@ -1827,7 +1827,7 @@
     [
       "Teddy Bear &#11088;",
       "keyshujin",
-      "Generates a teddy bear",
+      "Generates a teddy bear. <i>pre-1.20!</i>",
       "<a href=../nbt/items/nbt/TeddyBear.nbt download>NBT</a>"
     ],
     [
@@ -1881,7 +1881,7 @@
     [
       "Vintage Chair &#11088;",
       "keyshujin",
-      "Generates a vintage chair",
+      "Generates a vintage chair. <i>pre-1.20!</i>",
       "<a href=../nbt/items/nbt/VintageChair.nbt download>NBT</a>"
     ],
     [
@@ -2145,7 +2145,7 @@
     [
       "Yurni Arrival Sign",
       "Yurni",
-      "A sign saying \"Yurni Was Here\"",
+      "A sign saying \"Yurni Was Here\". <i>pre-1.20!</i>",
       "<a href=../nbt/items/nbt/YurniArrivalSign.nbt download>NBT</a>"
     ],
     [
@@ -2199,7 +2199,7 @@
     [
       "Yurni Was Here",
       "Yurni",
-      "A sign saying \"Yurni Was Here\"",
+      "A sign saying \"Yurni Was Here\". <i>pre-1.20!</i>",
       "<a href=../nbt/items/nbt/YurniWasHere.nbt download>NBT</a>"
     ],
     [
