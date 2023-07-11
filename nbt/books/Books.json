@@ -341,6 +341,18 @@
       "Unknown Author",
       "Guidebook for using the Logstick, and other Moderator features of TotalFreedom",
       "<a href=../nbt/books/nbt/LogstickGuide.nbt download>NBT</a>"
+    ],
+    [
+      "nerd.nu Rule Book",
+      "nerd.nu",
+      "Rules for a server called Nerd.nu",
+      "<a href=../nbt/books/nbt/Nerd.NuRuleBook.nbt download>NBT</a>"
+    ],
+    [
+      "The Art Of War - I-IV",
+      "Sun Tzu",
+      "The Art of War, Vol. I - IV",
+      "<a href=../nbt/books/nbt/TheArtOfWarI-IV.nbt download>NBT</a>"
     ]
   ]
 }

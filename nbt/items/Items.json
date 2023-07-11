@@ -2267,6 +2267,84 @@
       "Unknown Author",
       "Barrier with an incredibly laggy name",
       "<a href=../nbt/items/nbt/LagBarrier.nbt download>NBT</a>"
+    ],
+    [
+      "1.20.1 All Recipies Book",
+      "Thorioum_",
+      "Contains every 1.20.1 recipe",
+      "<a href=../nbt/items/nbt/1.20.1AllRecipesBook.nbt download>NBT</a>"
+    ],
+    [
+      "Paracesis &#11088;",
+      "Feueristic",
+      "Golden sword with <i>perfectly</i> aligned lore",
+      "<a href=../nbt/items/nbt/Paracesis.nbt download>NBT</a>"
+    ],
+    [
+      "Potions",
+      "Unknown Author",
+      "Armor stand wearing 127 stacked armorstands, that hold 'Yeet' and 'Feed' potions, plus 'Toe' totems",
+      "<a href=../nbt/items/nbt/PotionsArmorstand.nbt download>NBT</a>"
+    ],
+    [
+      "Shroomp + Rick Roll",
+      "Yurni",
+      "Armorstand designed to repel a player named Kanst",
+      "<a href=../nbt/items/nbt/Shroomp+RickRoll.nbt download>NBT</a>"
+    ],
+    [
+      "Smoke Grenade Launchers",
+      "xPkz_",
+      "Single-use crossbow that launches smoke grenade fireworks",
+      "<a href=../nbt/items/nbt/SmokeGrenadeLaunchers.nbt download>NBT</a>"
+    ],
+    [
+      "Water Mark",
+      "OperatorTheDope",
+      "Your very own Mr. Water!",
+      "<a href=../nbt/items/nbt/WaterMark.nbt download>NBT</a>"
+    ],
+    [
+      "Axe of Shch",
+      "antigamesm12",
+      "Diamond axe bound to the russian letter Shch",
+      "<a href=../nbt/items/nbt/AxeOfShch.nbt download>NBT</a>"
+    ],
+    [
+      "Carlian Mithril Infusion",
+      "quack95 (?)",
+      "Netherite axe with a lot of lore",
+      "<a href=../nbt/items/nbt/CarlianMithrilInfusion.nbt download>NBT</a>"
+    ],
+    [
+      "Lover's Wings",
+      "Yurni",
+      "Elytra with the permanent effect of your soul being owned by Aeluraydak when worn",
+      "<a href=../nbt/items/nbt/LoversWings.nbt download>NBT</a>"
+    ],
+    [
+      "Navy Seal Copypasta in Chinese",
+      "Unknown Author",
+      "The entire Navy Seal copypasta, but in Chinese",
+      "<a href=../nbt/items/nbt/NavySealCopypastaInChinese.nbt download>NBT</a>"
+    ],
+    [
+      "Rock, Paper, Beacon? &#11088;",
+      "Yurni",
+      "Beacon that will crash Paper servers",
+      "<a href=../nbt/items/nbt/RockPaperBeacon.nbt download>NBT</a>"
+    ],
+    [
+      "Fluoroantimonic Acid (HF + SbF5) &#11088;",
+      "Unknown Author",
+      "Potion with very very cool lore",
+      "<a href=../nbt/items/nbt/FluoroantimonicAcid.nbt download>NBT</a>"
+    ],
+    [
+      "Sinaka",
+      "Unknown Author",
+      "Sinaka (\"Blood Flower\" in old Unsgrakon) is an ancient item that drained the souls of its owners",
+      "<a href=../nbt/items/nbt/Sinaka.nbt download>NBT</a>"
     ]
   ]
 }

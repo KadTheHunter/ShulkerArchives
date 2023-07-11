@@ -247,12 +247,6 @@
       "<a href=../nbt/unnamed/nbt/LGBTFlags_[AAN].nbt download>NBT</a>"
     ],
     [
-      "Relic Box",
-      "Scyto",
-      "A collection of relic items",
-      "<a href=../nbt/unnamed/nbt/RelicBox_[AAN].nbt download>NBT</a>"
-    ],
-    [
       "SaldoniaMyAss's 32k",
       "SaldoniaMyAss",
       "Diamond armor and tools, plus fireworks",
@@ -419,6 +413,24 @@
       "Katsuo",
       "Copies of Marxx Characters Vol 6, alongside empty Katsuo bags",
       "<a href=../nbt/unnamed/nbt/MarxxCharactersVol6_[AAN].nbt download>NBT</a>"
+    ],
+    [
+      "Command Item Exploit",
+      "Unknown Author",
+      "Chest with 3 shulkers, one each for Commands, Items and Exploits",
+      "<a href=../nbt/unnamed/nbt/CommandItemExploit_[AAN].nbt download>NBT</a>"
+    ],
+    [
+      "1clouds Box of Mental Scarring",
+      "1cloud_",
+      "A collection of items and potions with horrible lore",
+      "<a href=../nbt/unnamed/nbt/1cloudsBoxOfMentalScarring_[AAN].nbt download>NBT</a>"
+    ],
+    [
+      "Chungus Sword 1.8",
+      "Unknown Author",
+      "Contains an iron Chungus Sword (v1.8), 7 \"medkit\" health potions, 1 speed potion, and 6 stacks of ChungusCoin",
+      "<a href=../nbt/unnamed/nbt/ChungusSword1.8_[AAN].nbt download>NBT</a>"
     ]
   ]
 }
