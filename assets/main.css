@@ -189,6 +189,42 @@ select {
     color: var(--alttext);
 }
 
+
+/*
+BEGIN HELLSPAWN
+*DOOM music starts playing*
+
+Seriously, it should not be this complicated to style a fucking dropdown box. I hate select2, I hate modern devs, and above all else, I hate modern web development.
+Fuck all of you.
+*/
+textarea {
+    color: var(--alttext) !important;
+}
+
+.select2-container .select2-search--inline .select2-search__field {
+    height: 25px !important;
+}
+
+.select2-selection--multiple, .select2-dropdown, .select2-selection__choice {
+    color: var(--alttext) !important;
+    background-color: var(--background) !important;
+    overflow: auto !important;
+}
+
+.select2-results__option--highlighted.select2-results__option--selectable, .select2-results__option--selected {
+    color: var(--alttext) !important;
+    background-color: var(--altbackground) !important;
+}
+
+.select2-container--default .select2-selection--multiple .select2-selection__choice__display {
+    margin: 10px !important;
+}
+/*
+END HELLSPAWN
+*DOOM music stops playing*
+*/
+
+
 tfoot tr.cus-footer th{
     background: var(--background);
 }
@@ -355,7 +391,7 @@ section.Resources article.altresource {
 
 /* NBT Lint */
 
-textarea {
+textarea.snbtl {
     display: block;
     background: rgba(0, 0, 0, 0.07);
     color: rgb(0, 133, 93);
@@ -364,7 +400,7 @@ textarea {
     outline: none;
 }
 
-textarea:focus {
+textarea.snbtl:focus {
     background: rgba(70, 70, 70, 0.07);
 }
 

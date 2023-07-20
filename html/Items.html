@@ -17,6 +17,7 @@ The default template for Item entries is provided below, because JSON doesn't al
   "",
   "",
   "",
+  "Tag",
   "<a href=nbt/items/nbt/.nbt download>NBT</a>"
 ]
 
@@ -33,6 +34,8 @@ When using WebStorm, I have this template saved as i+TAB in JSON files.
     <meta name="viewport" content="width=device-width, initial-scale=1"/>
     <link rel="stylesheet" href="../assets/main.min.css"/>
     <link rel="stylesheet" type="text/css" href="../assets/DataTables/datatables.min.css"/>
+    <link rel="stylesheet" type="text/css" href="../assets/DataTables/YADCF-0.9.4-beta/jquery.dataTables.yadcf.min.css"/>
+    <link rel="stylesheet" type="text/css" href="../assets/DataTables/YADCF-0.9.4-beta/select2/css/select2.min.css">
 </head>
 
 <header>
@@ -91,6 +94,7 @@ When using WebStorm, I have this template saved as i+TAB in JSON files.
                 <th>Item Name</th>
                 <th>Author</th>
                 <th>Description</th>
+                <th>Tags</th>
                 <th>NBT</th>
             </tr>
             </thead>
@@ -111,6 +115,10 @@ When using WebStorm, I have this template saved as i+TAB in JSON files.
 <script src="../assets/js/jquery-3.6.3.min.js"></script>
 
 <script type="text/javascript" charset="utf8" src="../assets/DataTables/datatables.min.js"></script>
+
+<script type="text/javascript" charset="UTF-8" src="../assets/DataTables/YADCF-0.9.4-beta/jquery.dataTables.yadcf.min.js"></script>
+
+<script type="text/javascript" charset="UTF-8" src="../assets/DataTables/YADCF-0.9.4-beta/select2/js/select2.full.min.js"></script>
 
 <!--
 order.neutral().min.js is a DataTables plugin that allows resetting a page order to no order, and is the simplest way of doing so.
@@ -134,7 +142,11 @@ We use it in combination with the script imported below it, jquery.hotkeys.min.j
                 },
                 {
                     sortable: false,
-                    targets: -1 // Leave as -1, because the NBT column will always be last
+                    // Leave as 3, -1 because the Tag/NBT columns will always be last
+                    targets: [
+                        3,
+                        -1
+                    ]
                 }
             ],
             language: [
@@ -161,6 +173,22 @@ We use it in combination with the script imported below it, jquery.hotkeys.min.j
                 }
             });
         });
+
+        var oTable;
+        oTable = $('#items').DataTable();
+
+        yadcf.init(oTable,
+            [
+                {
+                    column_number: 3,
+                    filter_type: "multi_select",
+                    select_type: 'select2',
+                    html_data_type: "text",
+                    filter_default_label: "Tags...",
+                    text_data_delimiter: ", "
+                }
+            ]
+        );
     });
 </script>
 
