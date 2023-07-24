@@ -180,6 +180,7 @@ We use it in combination with the script imported below it, jquery.hotkeys.min.j
         yadcf.init(oTable,
             [
                 {
+                    // column_number must be set to the Tags column, which is currently 3. Similar to table.columns this shouldn't need to be changed, but noted here just in case.
                     column_number: 3,
                     filter_type: "multi_select",
                     select_type: 'select2',
