@@ -185,6 +185,7 @@ We use it in combination with the script imported below it, jquery.hotkeys.min.j
                     select_type: 'select2',
                     html_data_type: "text",
                     filter_default_label: "Tags...",
+                    // The space in ", " MUST be there, or else tag select generation will read "PvP, Themed" and "Themed, PvP" as four different tags rather than two
                     text_data_delimiter: ", "
                 }
             ]
