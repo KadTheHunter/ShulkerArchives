@@ -412,6 +412,20 @@
       "The Art of War, Vol. I - IV",
       "Misc, Meme",
       "<a href=../nbt/books/nbt/TheArtOfWarI-IV.nbt download>NBT</a>"
+    ],
+    [
+      "Just Relatable",
+      "Dropletsi",
+      "30 pages of very relatable things",
+      "Misc, Meme",
+      "<a href=../nbt/books/nbt/JustRelatable.nbt download>NBT</a>"
+    ],
+    [
+      "Note Block Book",
+      "Unknown Author",
+      "Note Block Book designed to make unsuspecting Admins give OP to @a",
+      "Utility - Command, Griefing, Trolling",
+      "<a href=../nbt/books/nbt/NoteBlockBook.nbt download>NBT</a>"
     ]
   ]
 }

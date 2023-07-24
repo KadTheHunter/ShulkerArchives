@@ -2733,6 +2733,111 @@
       "Sinaka (\"Blood Flower\" in old Unsgrakon) is an ancient item that drained the souls of its owners",
       "Tag",
       "<a href=../nbt/items/nbt/Sinaka.nbt download>NBT</a>"
+    ],
+    [
+      "Ancient Aetherblade",
+      "Hypixel",
+      "Golden sword from Hypixel",
+      "Hypixel, Weapon",
+      "<a href=../nbt/items/nbt/AncientAetherblade.nbt download>NBT</a>"
+    ],
+    [
+      "BetterCrystalBoots Wormhole Addon",
+      "_txsla",
+      "Command Block addon for _txsla's Wormhole",
+      "Command Block",
+      "<a href=../nbt/items/nbt/BetterCrystalBootsWormholeAddon.nbt download>NBT</a>"
+    ],
+    [
+      "DisableForceop Wormhole Addon",
+      "_txsla",
+      "Command Block addon for _txsla's Wormhole",
+      "Command Block",
+      "<a href=../nbt/items/nbt/DisableForceopWormholeAddon.nbt download>NBT</a>"
+    ],
+    [
+      "Praetor Helm",
+      "Unknown Author",
+      "Praetor Helmet from DOOM",
+      "Themed, Armor, Lore",
+      "<a href=../nbt/items/nbt/DOOMSet-PraetorHelm.nbt download>NBT</a>"
+    ],
+    [
+      "Praetor Cuirass",
+      "Unknown Author",
+      "Praetor Chestplate from DOOM",
+      "Themed, Armor, Lore",
+      "<a href=../nbt/items/nbt/DOOMSet-PraetorCuirass.nbt download>NBT</a>"
+    ],
+    [
+      "Praetor Chausses",
+      "Unknown Author",
+      "Prateor Leg Armor from DOOM",
+      "Themed, Armor, Lore",
+      "<a href=../nbt/items/nbt/DOOMSet-PraetorChausses.nbt download>NBT</a>"
+    ],
+    [
+      "Praetor Sollerets",
+      "Unknown Author",
+      "Praetor Boots from DOOM",
+      "Themed, Armor, Lore",
+      "<a href=../nbt/items/nbt/DOOMSet-PraetorSollerets.nbt download>NBT</a>"
+    ],
+    [
+      "The Crucible",
+      "Unknown Author",
+      "Crucible Blade from DOOM",
+      "Themed, Lore",
+      "<a href=../nbt/items/nbt/DOOMSet-TheCrucible.nbt download>NBT</a>"
+    ],
+    [
+      "Vortex Rifle",
+      "Unknown Author",
+      "Vortex Rifle from DOOM",
+      "Themed, Weapon, Lore",
+      "<a href=../nbt/items/nbt/.nbt download>NBT</a>"
+    ],
+    [
+      "Fire Orb",
+      "Unknown Author",
+      "Runic player head of Fire",
+      "Themed, Head",
+      "<a href=../nbt/items/nbt/FireOrbHead.nbt download>NBT</a>"
+    ],
+    [
+      "les",
+      "Unknown Author",
+      "Loreart of lesbian eating",
+      "NSFW, Loreart",
+      "<a href=../nbt/items/nbt/les(bianEating).nbt download>NBT</a>"
+    ],
+    [
+      "Missing Rune",
+      "Unknown Author",
+      "Runic player head of [Missing Rune]",
+      "Themed, Head",
+      "<a href=../nbt/items/nbt/MissingRuneHead.nbt download>NBT</a>"
+    ],
+    [
+      "Music Rune",
+      "Unknown Author",
+      "Runic player head of Music",
+      "Themed, Head",
+      "<a href=../nbt/items/nbt/MusicRuneHead.nbt download>NBT</a>"
+    ],
+    [
+      "Sieg Heil",
+      "Unknown Author",
+      "Runic player head of Sieg Heil",
+      "Themed, Head",
+      "<a href=../nbt/items/nbt/SiegHeilRuneHead.nbt download>NBT</a>"
+    ],
+    [
+      "WormholeArmor Wormhole Addon",
+      "_txsla",
+      "Command Block addon for _txsla's Wormhole",
+      "Command Block",
+      "<a href=../nbt/items/nbt/WormholeArmorWormholeAddon.nbt download>NBT</a>"
     ]
   ]
 }
