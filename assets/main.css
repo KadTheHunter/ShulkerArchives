@@ -208,7 +208,11 @@ textarea {
 .select2-selection--multiple, .select2-dropdown, .select2-selection__choice {
     color: var(--alttext) !important;
     background-color: var(--background) !important;
+}
+
+.select2-selection--multiple, .select2-dropdown {
     overflow: auto !important;
+
 }
 
 .select2-results__option--highlighted.select2-results__option--selectable, .select2-results__option--selected {
