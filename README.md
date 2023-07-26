@@ -14,3 +14,5 @@ If you're looking to submit a kit/item/book, please contact Kaddicus by one of t
 
 - In Discord DMs `@kaddicus`
 - On Discord @ [discord.gg/pVYcyseBMD](discord.gg/pVYcyseBMD)
+
+If you want to add an entry yourself, have a look at the [Contributing Guidelines](https://github.com/KadTheHunter/ShulkerArchives/blob/master/CONTRIBUTING.md)
