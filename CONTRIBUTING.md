@@ -1,12 +1,11 @@
-# Contributing Guidelines
-
-## Prerequisites
+# Prerequisites
 Before contributing, please ensure you have the following:
 - JetBrains WebStorm 2023 **OR** Visual Studio Code 
 - The entry templates at the top of [index.html](https://github.com/KadTheHunter/ShulkerArchives/blob/master/index.html#L15) for Kits, [Items.html](https://github.com/KadTheHunter/ShulkerArchives/blob/master/html/Items.html#L15) for Items, [Books.html](https://github.com/KadTheHunter/ShulkerArchives/blob/master/html/Books.html#L15) for Books and [Unnamed.html](https://github.com/KadTheHunter/ShulkerArchives/blob/master/html/Unnamed.html#L15) for Unnamed Kits saved in some way, preferably as Code Snippets/Live Templates
 - Minecraft with the [NBT Editor](https://modrinth.com/mod/nbt-editor/versions) mod installed
 - File Explorer
 
+# Adding Kits
 ## File Names
 File names should follow the actual name seen in-game as closely as possible, minus spaces, apostrophes, and illegal chars. A shulker box labeled "Kad's Box Of Flags" should be exported as "KadsBoxOfFlags", etc.
 
@@ -66,3 +65,13 @@ You may create new unique tags as needed, but *please* make sure no other existi
 .nbt links point directly to the .nbt file to download. Using the templates linked above, all you will need to do is fill in the file name itself. 
 
 Please double-check and ensure that the filename is correct; They are case sensitive, so a swapped capital/lowercase letter could break things!
+
+# Code Contributions
+Code contributions rather ironically follow a less strict set of guidelines than Kit Entries; Below is a short list of expectations for contributed code:
+- Tab Size/Indentation must be 2 spaces
+- 'Script code must be commented/documented
+- CSS styles must be placed in the appropriate part of the file; See the [comment dividers](https://github.com/KadTheHunter/ShulkerArchives/blob/master/assets/main.css#L27) for reference.
+  - If there is not an existing category for your style, please insert a new one where you think appropriate.
+- Links **must** use `target="_blank" rel="noopener noreferrer"` when linking to external pages.
+
+Everything else expected falls under the header of 'Common Sense'; Use best practices, don't format your braces and brackets like a retard, check your spelling and grammar, test your changes before submitting them, etc.
