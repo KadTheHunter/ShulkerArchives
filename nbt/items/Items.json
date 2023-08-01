@@ -3,2735 +3,2738 @@
     [
       "The Paranoid",
       "Odsseys",
-      "An arrow with some effects","Tag",
+      "An arrow with some effects",
+      "Arrow",
       "<a href=../nbt/items/nbt/TheParanoid.nbt download>NBT</a>"
     ],
     [
       "Xelion Monix Scythe",
       "quack95",
-      "An armor stand with a scythe","Tag",
+      "An armor stand with a scythe",
+      "Armorstand",
       "<a href=../nbt/items/nbt/XelionMonixScythe.nbt download>NBT</a>"
     ],
     [
       "Bundle O' Fun",
       "Mob0",
-      "A bundle full of fun and joy (just don't ever open it)","Tag",
+      "A bundle full of fun and joy (just don't ever open it)",
+      "Bundle",
       "<a href=../nbt/items/nbt/BundleOFun.nbt download>NBT</a>"
     ],
     [
       "Bottle of Sand",
       "iceyou",
       "A bottle full of Sand. It's coarse, and rough... and it gets everywhere.",
-      "Tag",
+      "Potion",
       "<a href=../nbt/items/nbt/BottleOfSand.nbt download>NBT</a>"
     ],
     [
       "Insta-Netherite Kit",
       "CaliSakuraium",
       "Instant Netherite",
-      "Tag",
+      "Bundle",
       "<a href=../nbt/items/nbt/InstaNetheriteKit.nbt download>NBT</a>"
     ],
     [
       "APEX PRO KEYBOARD",
       "Unknown Author",
       "A shield that looks like an Apex Pro keyboard",
-      "Tag",
+      "Shield/Banner",
       "<a href=../nbt/items/nbt/APEXPROKEYBOARD.nbt download>NBT</a>"
     ],
     [
       "Arcade Dunkage",
       "AUCreator",
       "Pac-Man on a shield",
-      "Tag",
+      "Shield/Banner",
       "<a href=../nbt/items/nbt/ArcadeDunkage.nbt download>NBT</a>"
     ],
     [
       "Ainz Ooal Gown's Buffed cloak",
       "Hamis65",
       "Leather chestplate with lots of custom enchantments",
-      "Tag",
+      "Armor",
       "<a href=../nbt/items/nbt/.nbt download>NBT</a>"
     ],
     [
       "ALL CHILDREN WILL BE OBLITERATED &#11088;",
       "Feueristic",
       "Extension/companion item to \"ALL PREE-TEENS WILL BE OBLITERATED\"",
-      "Tag",
+      "Lore, Meme",
       "<a href=../nbt/items/nbt/ALLCHILDRENWILLBEOBLITERATED.nbt download>NBT</a>"
     ],
     [
       "ALL PRE-TEENS WILL BE OBLITERATED &#11088;",
       "Unknown Author",
       "Absolutely hilarious lore, memeing on a Discord server enforcing discords \"13+\" ToS",
-      "Tag",
+      "Lore, Meme",
       "<a href=../nbt/items/nbt/ALLPRE-TEENSWILLBEOBLITERATED.nbt download>NBT</a>"
     ],
     [
       "AMERICA",
       "Unknown Author",
       "Shield bearing the american flag. AMERICA! FUCK YEAH!",
-      "Tag",
+      "Shield/Banner",
       "<a href=../nbt/items/nbt/AMERICA.nbt download>NBT</a>"
     ],
     [
       "Amogus Barrier",
       "Unknown Author",
       "Amogus loreart on a barrier",
-      "Tag",
+      "Loreart, Meme",
       "<a href=../nbt/items/nbt/AmogusBarrier.nbt download>NBT</a>"
     ],
     [
       "Amogus Manifesto",
       "Unknown Author",
       "GET OUT OF MY HEAD GET OUT OF MY HEAD GET OUT OF MY HEAD",
-      "Tag",
+      "Meme, Misc",
       "<a href=../nbt/items/nbt/AmogusManifesto.nbt download>NBT</a>"
     ],
     [
       "Blossom Blade",
       "Unknown Author",
       "Diamond sword with pretty stuff and Golden Cherrys",
-      "Tag",
+      "Weapon",
       "<a href=../nbt/items/nbt/.nbt download>NBT</a>"
     ],
     [
       "Boar's Aegis",
       "Unknown Author",
       "Golden Armor, part of Boar's set",
-      "Tag",
+      "Armor",
       "<a href=../nbt/items/nbt/BoarsAegis.nbt download>NBT</a>"
     ],
     [
       "Boar's Boots",
       "Unknown Author",
       "Golden Armor, part of Boar's set",
-      "Tag",
+      "Armor",
       "<a href=../nbt/items/nbt/BoarsBoots.nbt download>NBT</a>"
     ],
     [
       "A Sharp Bow",
       "Yurni",
       "A very sharp Bow",
-      "Tag",
+      "Weapon",
       "<a href=../nbt/items/nbt/ASharpBow.nbt download>NBT</a>"
     ],
     [
       "Atom Freezer",
       "FleshlyIsTaken",
       "Lingering potion designed to freeze anything it touches",
-      "Tag",
+      "Potion",
       "<a href=../nbt/items/nbt/AtomFreezer.nbt download>NBT</a>"
     ],
     [
       "Auto Maid",
       "Yurni",
       "Dispenser to equip a maid outfit automatically",
-      "Tag",
+      "Meme, Misc",
       "<a href=../nbt/items/nbt/AutoMaid.nbt download>NBT</a>"
     ],
     [
       "Blade Of a Thousand Sins",
       "xWorstNightmarex",
       "Golden sword infused with the ultimate power of xNightmarex",
-      "Tag",
+      "Weapon",
       "<a href=../nbt/items/nbt/BladeOfAThousandSins.nbt download>NBT</a>"
     ],
     [
       "Better OP Pot",
       "PacMax1121",
       "Very powerful potion",
-      "Tag",
+      "Potion",
       "<a href=../nbt/items/nbt/BetterOPPot.nbt download>NBT</a>"
     ],
     [
       "Callums Item",
       "luckycallum33",
       "Callums rainbow leather",
-      "Tag",
+      "Misc, Lore",
       "<a href=../nbt/items/nbt/CallumsItem.nbt download>NBT</a>"
     ],
     [
       "CF Goggles",
       "Unknown Author",
       "Clout goggles from CF Shop",
-      "Tag",
+      "Player Head",
       "<a href=../nbt/items/nbt/CFGoggles.nbt download>NBT</a>"
     ],
     [
       "Boar's Legs",
       "Unknown Author",
       "Leather Armor, part of Boar's set",
-      "Tag",
+      "Armor",
       "<a href=../nbt/items/nbt/BoarsLegs.nbt download>NBT</a>"
     ],
     [
       "Boar's Mask",
       "Unknown Author",
       "Boar Head, part of Boar's set",
-      "Tag",
+      "Armor",
       "<a href=../nbt/items/nbt/BoarsMask.nbt download>NBT</a>"
     ],
     [
       "BOSS MATCH BOSS",
       "PontifexPvP",
       "Diamond sword with lots of russian lore",
-      "Tag",
+      "Weapon, Lore",
       "<a href=../nbt/items/nbt/BOSSMATCHBOSS.nbt download>NBT</a>"
     ],
     [
       "Breadward &#11088;",
       "LeoTheRavioli",
       "Bread containing loreart of Breadward",
-      "Tag",
+      "Loreart, Meme",
       "<a href=../nbt/items/nbt/Breadward.nbt download>NBT</a>"
     ],
     [
       "butter_axe",
       "Unknown Author",
       "Golden axe with about as much power as butter",
-      "Tag",
+      "Weapon",
       "<a href=../nbt/items/nbt/butter_axe.nbt download>NBT</a>"
     ],
     [
       "Caliburn",
       "Unknown Author",
       "The Iron Sword in the bones",
-      "Tag",
+      "Weapon",
       "<a href=../nbt/items/nbt/Caliburn.nbt download>NBT</a>"
     ],
     [
       "Bunkium Potion",
       "Unknown Author",
       "A strange potion with mild but long lasting effects",
-      "Tag",
+      "Potion",
       "<a href=../nbt/items/nbt/BunkiumPotion.nbt download>NBT</a>"
     ],
     [
       "Crewmate Satchel",
       "Unknown Author",
       "Bundle containing Cremate glassart",
-      "Tag",
+      "Bundle",
       "<a href=../nbt/items/nbt/CrewmateSatchel.nbt download>NBT</a>"
     ],
     [
       "Crossbow of the Dead",
       "OperatorTheDope",
       "Crossbow that brings death to anyone who stands in its way",
-      "Tag",
+      "Weapon",
       "<a href=../nbt/items/nbt/CrossbowOfTheDead.nbt download>NBT</a>"
     ],
     [
       "Cuach Rune",
       "Unknown Author",
       "The Rune of Ice",
-      "Tag",
+      "Misc, Lore",
       "<a href=../nbt/items/nbt/CuachRune.nbt download>NBT</a>"
     ],
     [
       "C H E E S E",
       "Unknown Author",
       "Made from the finest grains of Mozzarella, Parmesan, and Cheddar",
-      "Tag",
+      "Misc, Meme, Lore",
       "<a href=../nbt/items/nbt/CHEESE.nbt download>NBT</a>"
     ],
     [
       "Chikn Nuggy",
       "30MrKnowItAll",
       "Golden chicken nugget",
-      "Tag",
+      "Misc, Meme",
       "<a href=../nbt/items/nbt/ChiknNuggy.nbt download>NBT</a>"
     ],
     [
       "Collector's Elytra",
       "Unknown Author",
       "Rare set of indestructible wings",
-      "Tag",
+      "Elytra",
       "<a href=../nbt/items/nbt/CollectorsElytra.nbt download>NBT</a>"
     ],
     [
       "CompactKit",
       "Enchilada12",
       "An entire kit compacted into a single armorstand",
-      "Tag",
+      "Armorstand",
       "<a href=../nbt/items/nbt/CompactKit.nbt download>NBT</a>"
     ],
     [
       "Cosmic Powered God Axe",
       "Unknown Author",
       "Diamond axe with lots of lore",
-      "Tag",
+      "Weapon, Lore",
       "<a href=../nbt/items/nbt/CosmicPoweredGodAxe.nbt download>NBT</a>"
     ],
     [
       "Coup d'etat",
       "Unknown Author",
       "Crossbow for overthrowing leaders",
-      "Tag",
+      "Weapon",
       "<a href=../nbt/items/nbt/CoupDetat.nbt download>NBT</a>"
     ],
     [
       "Egyptian Charm of Luck &#11088;",
       "inlovewithaghost",
       "The Egyptian Charm for Luck",
-      "Tag",
+      "Misc",
       "<a href=../nbt/items/nbt/EgyptianCharmOfLuck.nbt download>NBT</a>"
     ],
     [
       "Emerald Ore Weapon",
       "_ElevatorMan500",
       "Powerful emerald ore",
-      "Tag",
+      "Weapon, Misc",
       "<a href=../nbt/items/nbt/EmeraldOreWeapon.nbt download>NBT</a>"
     ],
     [
       "End Portal Glitch Diagram &#11088;",
       "Unknown Author",
       "Show how to make glitched end portals",
-      "Tag",
+      "Utility, Misc",
       "<a href=../nbt/items/nbt/EndPortalGlitchDiagram.nbt download>NBT</a>"
     ],
     [
       "Custom Spawn Eggs 1",
       "bigboypadilla, FileExtension, Kadalyst",
       "This was (and is) actually a shulker kit, but FileExtension black magicked a copy into this through ViaFabric. Interesting curiosity.",
-      "Tag",
+      "Eggs",
       "<a href=../nbt/items/nbt/CustomSpawnEggs1.nbt download>NBT</a>"
     ],
     [
       "DashTheDevilDog's Speeeeeeeed!",
       "DashTheDevilDog",
       "A potion with many questionable ingredients",
-      "Tag",
+      "Potion",
       "<a href=../nbt/items/nbt/DashTheDevilDogsSpeed!.nbt download>NBT</a>"
     ],
     [
       "DEATH GAS",
       "Unknown Author",
       "Originally the no totem pot",
-      "Tag",
+      "Potion",
       "<a href=../nbt/items/nbt/DEATHGAS.nbt download>NBT</a>"
     ],
     [
       "Detem Potion",
       "Ghosty",
       "Has Devil and No Totem effects all in one!",
-      "Tag",
+      "Potion",
       "<a href=../nbt/items/nbt/DetemPotion.nbt download>NBT</a>"
     ],
     [
       "Doom",
       "Unknown Author",
       "Powerful killpot",
-      "Tag",
+      "Potion",
       "<a href=../nbt/items/nbt/Doom.nbt download>NBT</a>"
     ],
     [
       "Egg!",
       "MarioKartWii",
       "Very yummy, very speedy egg",
-      "Tag",
+      "Lore, Misc, MKW",
       "<a href=../nbt/items/nbt/Egg!.nbt download>NBT</a>"
     ],
     [
       "Fish Head &#11088;",
       "Unknown Author",
       "The head of a fish. Place alongside the tail for a whole fish :D",
-      "Tag",
+      "Player Head",
       "<a href=../nbt/items/nbt/FishHead.nbt download>NBT</a>"
     ],
     [
       "Fish Tail &#11088;",
       "Unknown Author",
       "The tail of a fish. Place alongside the head for a whole fish :D",
-      "Tag",
+      "Player Head",
       "<a href=../nbt/items/nbt/FishTail.nbt download>NBT</a>"
     ],
     [
       "Entity 303's Sword",
       "Unknown Author",
       "The iron sword of Entity 303",
-      "Tag",
+      "Weapon",
       "<a href=../nbt/items/nbt/Entity303sSword.nbt download>NBT</a>"
     ],
     [
       "Flamex Sword",
       "Stinky7896",
       "A flaming diamond sword",
-      "Tag",
+      "Weapon",
       "<a href=../nbt/items/nbt/FlamexSword.nbt download>NBT</a>"
     ],
     [
       "Finale",
       "iiSnowyYT",
       "Golden axe that's a grand finale",
-      "Tag",
+      "Weapon",
       "<a href=../nbt/items/nbt/Finale.nbt download>NBT</a>"
     ],
     [
       "Fate's Wings",
       "Unknown Author",
       "The author was too lazy to write lore, so they just put a bible verse",
-      "Tag",
+      "Elytra",
       "<a href=../nbt/items/nbt/FatesWings.nbt download>NBT</a>"
     ],
     [
       "FAR's Bed of Death",
       "MarioKartWii",
       "Black bed containing the special powers of UwU",
-      "Tag",
+      "Lore, Misc, MKW",
       "<a href=../nbt/items/nbt/FARsBedOfDeath.nbt download>NBT</a>"
     ],
     [
       "FEET!",
       "Yurni",
       "Chainmail boots celebrating Feet",
-      "Tag",
+      "Armor, Lore",
       "<a href=../nbt/items/nbt/FEET!.nbt download>NBT</a>"
     ],
     [
       "Fleshly's Singularity Grenade",
       "FleshlyIsTaken",
       "When in doubt, use the power of a black hole",
-      "Tag",
+      "Potion",
       "<a href=../nbt/items/nbt/FleshlysSingularityGrenade.nbt download>NBT</a>"
     ],
     [
       "Head Hunters Hoe",
       "Unknown Author",
       "The hoe of a head hunter",
-      "Tag",
+      "Tool",
       "<a href=../nbt/items/nbt/HeadHuntersHoe.nbt download>NBT</a>"
     ],
     [
       "Heart Sword",
       "Unknown Author",
       "Diamond sword that makes you feel like you're on crack",
-      "Tag",
+      "Weapon",
       "<a href=../nbt/items/nbt/HeartSword.nbt download>NBT</a>"
     ],
     [
       "Herme's Winged Sandals",
       "Unknown Author",
       "Leather sandals with wings",
-      "Tag",
+      "Armor",
       "<a href=../nbt/items/nbt/HermesWingedSandals.nbt download>NBT</a>"
     ],
     [
       "Galaxy Sword",
       "Unknown Author",
       "Golden sword",
-      "Tag",
+      "Weapon",
       "<a href=../nbt/items/nbt/GalaxySword.nbt download>NBT</a>"
     ],
     [
       "Gale Blade",
       "Unknown Author",
       "Diamond sword containing deadly winds",
-      "Tag",
+      "Weapon",
       "<a href=../nbt/items/nbt/GaleBlade.nbt download>NBT</a>"
     ],
     [
       "GearStageOne",
       "Muxch",
       "Diamond sword with 10,039 confirmed kills",
-      "Tag",
+      "Weapon",
       "<a href=../nbt/items/nbt/GearStageOne.nbt download>NBT</a>"
     ],
     [
       "God Powered Axe",
       "Psjpoj",
       "Diamond axe with fake enchantments",
-      "Tag",
+      "Weapon",
       "<a href=../nbt/items/nbt/GodPoweredAxe.nbt download>NBT</a>"
     ],
     [
       "Graviga",
       "SuperChildDK",
       "Diamond sword",
-      "Tag",
+      "Weapon",
       "<a href=../nbt/items/nbt/Graviga.nbt download>NBT</a>"
     ],
     [
       "Gray Kit",
       "Unknown Author",
       "Suspicious armor stand with sharpness 0",
-      "Tag",
+      "Armorstand",
       "<a href=../nbt/items/nbt/GrayKit.nbt download>NBT</a>"
     ],
     [
       "Inferno Zealot Helm &#11088;",
       "Unknown Author",
       "Helmet from the Inferno Zealot set",
-      "Tag",
+      "Armor",
       "<a href=../nbt/items/nbt/InfernoZealotHelm.nbt download>NBT</a>"
     ],
     [
       "Inferno Zealot Cuirass &#11088;",
       "Unknown Author",
       "Chestplate from the Inferno Zealot set",
-      "Tag",
+      "Armor",
       "<a href=../nbt/items/nbt/InfernoZealotCuirass.nbt download>NBT</a>"
     ],
     [
       "Inferno Zealot Greaves &#11088;",
       "Unknown Author",
       "Leggings from the Inferno Zealot set",
-      "Tag",
+      "Armor",
       "<a href=../nbt/items/nbt/InfernoZealotGreaves.nbt download>NBT</a>"
     ],
     [
       "Inferno Zealot Boots &#11088;",
       "Unknown Author",
       "Boots from the Inferno Zealot set",
-      "Tag",
+      "Armor",
       "<a href=../nbt/items/nbt/InfernoZealotBoots.nbt download>NBT</a>"
     ],
     [
       "Ilesish Rune",
       "Unknown Author",
       "The Rune of Flowers",
-      "Tag",
+      "Misc, Lore",
       "<a href=../nbt/items/nbt/IlesishRune.nbt download>NBT</a>"
     ],
     [
       "IMMORTAL BOW [BETA]",
       "Misc Authors",
       "Bow used to apply Immortal Arrows",
-      "Tag",
+      "Weapon",
       "<a href=../nbt/items/nbt/IMMORTALBOW[BETA].nbt download>NBT</a>"
     ],
     [
       "Imperium Knight",
       "Unknown Author",
       "Armorstand that spawns an Imperium Knight",
-      "Tag",
+      "Armorstand",
       "<a href=../nbt/items/nbt/ImperiumKnight.nbt download>NBT</a>"
     ],
     [
       "Homing attack",
       "Unknown Author",
       "Use this compass to teleport",
-      "Tag",
+      "Misc",
       "<a href=../nbt/items/nbt/HomingAttack.nbt download>NBT</a>"
     ],
     [
       "Heroic Hyperion",
       "Hypixel",
       "An iron sword from Hypixel",
-      "Tag",
+      "Hypixel",
       "<a href=../nbt/items/nbt/HeroicHyperion.nbt download>NBT</a>"
     ],
     [
       "Labtek Spysight",
       "quack95",
       "Telescope with enhanced spying features",
-      "Tag",
+      "Lore, Misc",
       "<a href=../nbt/items/nbt/LabtekSpysight.nbt download>NBT</a>"
     ],
     [
-      "Lag Berries",
+      "Lag Berries &#11088;",
       "MarioKartWii",
       "Moving while holding these is incredibly dangerous",
-      "Tag",
+      "Misc, MKW",
       "<a href=../nbt/items/nbt/LagBerries.nbt download>NBT</a>"
     ],
     [
       "Isotonic",
       "DesignatedSly",
       "Iron sword with a fancy name",
-      "Tag",
+      "Weapon",
       "<a href=../nbt/items/nbt/Isotonic.nbt download>NBT</a>"
     ],
     [
       "Itemizium",
       "OperatorTheDope",
       "A mystical substance from another world",
-      "Tag",
+      "Misc, Lore",
       "<a href=../nbt/items/nbt/Itemizium.nbt download>NBT</a>"
     ],
     [
       "Kad's cetare",
       "Kadalyst",
       "Leather boots designed to be Mandalorian cetare",
-      "Tag",
+      "Armor",
       "<a href=../nbt/items/nbt/KadsCetare.nbt download>NBT</a>"
     ],
     [
       "Kad's Jetpack",
       "Kadalyst",
       "A Mandalorian jetpack",
-      "Tag",
+      "Elytra",
       "<a href=../nbt/items/nbt/KadsJetpack.nbt download>NBT</a>"
     ],
     [
       "Katana of ALPHA",
       "Unknown Author",
       "Fancy Iron sword",
-      "Tag",
+      "Weapon",
       "<a href=../nbt/items/nbt/.nbt download>NBT</a>"
     ],
     [
       "King's Crown",
       "Mister",
       "Author didn't feel like doing the lore for it, but \"it's good and has thorns and stuff\"",
-      "Tag",
+      "Armor",
       "<a href=../nbt/items/nbt/KingsCrown.nbt download>NBT</a>"
     ],
     [
       "Krytek Spy",
       "quack95",
       "Telescope with enhanced spying",
-      "Tag",
+      "Lore, Misc",
       "<a href=../nbt/items/nbt/KrytekSpy.nbt download>NBT</a>"
     ],
     [
       "Love Letter Potion",
       "Yurni",
       "Love Letter Potion spawn Egg",
-      "Tag",
+      "Potion",
       "<a href=../nbt/items/nbt/LoveLetterPotion.nbt download>NBT</a>"
     ],
     [
       "LyicxCorp Semiautomatic Rifle",
       "Krypandenej",
       "Semiautomatic Rifle (Crossbow) for LyicxCorp",
-      "Tag",
+      "Weapon",
       "<a href=../nbt/items/nbt/LyicxCorpSemiautomaticRifle.nbt download>NBT</a>"
     ],
     [
       "Mao Zedong",
       "Unknown Author",
       "Copper containing lore art of Mao Zedong",
-      "Tag",
+      "Loreart, Meme",
       "<a href=../nbt/items/nbt/MaoZedong.nbt download>NBT</a>"
     ],
     [
       "Masamune",
       "Unknown Author",
       "Iron sword once wielded by Cyrus now wielded by Glenn",
-      "Tag",
+      "Weapon",
       "<a href=../nbt/items/nbt/Masamune.nbt download>NBT</a>"
     ],
     [
       "Last Knight's Bone",
       "Unknown Author",
       "Bone with lots of damage and movement",
-      "Tag",
+      "Misc, Weapon",
       "<a href=../nbt/items/nbt/LastKnightsBone.nbt download>NBT</a>"
     ],
     [
       "Lead of Hope",
       "FilluS",
       "Lead to inspire Hope and Greatness",
-      "Tag",
+      "Misc, Lore",
       "<a href=../nbt/items/nbt/LeadOfHope.nbt download>NBT</a>"
     ],
     [
       "Light Catalyst",
       "Unknown Author",
       "Very powerful glowstone",
-      "Tag",
+      "Misc, Lore",
       "<a href=../nbt/items/nbt/LightCatalyst.nbt download>NBT</a>"
     ],
     [
       "Lingering Potion of Immortality",
       "OperatorTheDope",
       "Itempedia Basics Lingering Potion of Immortality",
-      "Tag",
+      "Potion",
       "<a href=../nbt/items/nbt/.nbt download>NBT</a>"
     ],
     [
       "Lingering Potion of Totemkilling",
       "iIFrozenFireIi, OperatorTheDope",
       "Itempedia Basics Lingering Potion of Totemkilling",
-      "Tag",
+      "Potion",
       "<a href=../nbt/items/nbt/.nbt download>NBT</a>"
     ],
     [
       "NULL STAND CRASH &#11088;",
       "Captainclimber",
       "Spawns an invincible armor stand holding a bundle containing a null item that crashes the server",
-      "Tag",
+      "Armorstand, Exploit",
       "<a href=../nbt/items/nbt/NULLSTANDCRASH.nbt download>NBT</a>"
     ],
     [
       "Meat Grinder",
       "Unknown Author",
       "Meat Grinder tripwire hook",
-      "Tag",
+      "Misc",
       "<a href=../nbt/items/nbt/MeatGrinder.nbt download>NBT</a>"
     ],
     [
       "No Anime",
       "Unknown Author",
-      "Diamond sword tha prevents 99% of Anime",
-      "Tag",
+      "Diamond sword that prevents 99% of Anime",
+      "Weapon",
       "<a href=../nbt/items/nbt/NoAnime.nbt download>NBT</a>"
     ],
     [
       "Mythical Tier V Purple Helmet",
       "Unknown Author",
       "Fancy Purple helmet",
-      "Tag",
+      "Armor",
       "<a href=../nbt/items/nbt/MythicalTierVPurpleHelmet.nbt download>NBT</a>"
     ],
     [
       "Novanitite Headgear",
       "Unknown Author",
       "Iron helmet made from the finest threads of stardust",
-      "Tag",
+      "Armor",
       "<a href=../nbt/items/nbt/NovanititeHeadgear.nbt download>NBT</a>"
     ],
     [
       "Milk Potion",
       "OperatorTheDope",
       "Like Milk but... worse?",
-      "Tag",
+      "Potion",
       "<a href=../nbt/items/nbt/MilkPotion.nbt download>NBT</a>"
     ],
     [
       "Needle",
       "Unknown Author",
       "Blaze Rod used as a Needle by the Evil Scientist",
-      "Tag",
+      "Misc, Lore",
       "<a href=../nbt/items/nbt/Needle.nbt download>NBT</a>"
     ],
     [
       "Place The Armo(u)r Stand",
       "47",
       "Place the Armo(u)r Stand for a really powerful item",
-      "Tag",
+      "Armorstand",
       "<a href=../nbt/items/nbt/PlaceTheArmo(u)rStand.nbt download>NBT</a>"
     ],
     [
       "Potion of Death",
       "TFTWPhoenix",
       "Potion that deals a ton of damage",
-      "Tag",
+      "Potion",
       "<a href=../nbt/items/nbt/PotionOfDeath.nbt download>NBT</a>"
     ],
     [
       "NULL STAND CRASH SPAWNER",
       "Captainclimber, 47",
       "Spawner that repeatedly spawns the NULL STAND CRASH armorstand",
-      "Tag",
+      "Spawner, Exploit, Armorstand",
       "<a href=../nbt/items/nbt/NULLSTANDCRASHSPAWNER.nbt download>NBT</a>"
     ],
     [
       "oathkeeper",
       "x_Divine_Hero_x",
       "Golden sword with some cool lore",
-      "Tag",
+      "Weapon, Lore",
       "<a href=../nbt/items/nbt/oathkeeper.nbt download>NBT</a>"
     ],
     [
       "Oceanic Fork",
       "Unknown Author",
       "Trident called Oceanic Fork",
-      "Tag",
+      "Weapon",
       "<a href=../nbt/items/nbt/OceanicFork.nbt download>NBT</a>"
     ],
     [
       "Onamae Wa Mo Shinderu",
       "Moogic",
       "Splash potion that makes you look dead",
-      "Tag",
+      "Potion",
       "<a href=../nbt/items/nbt/OnamaeWaMoShinderu.nbt download>NBT</a>"
     ],
     [
       "One-hit sword",
       "Unknown Author",
       "Will kill enemies in one hit, but you only have once chance at that hit",
-      "Tag",
+      "Weapon",
       "<a href=../nbt/items/nbt/OneHitSword.nbt download>NBT</a>"
     ],
     [
       "Operator's Blade of DOOOOOOM!!!",
       "OperatorTheDope",
       "Diamond sword that can kill Hypermechs",
-      "Tag",
+      "Weapon",
       "<a href=../nbt/items/nbt/OperatorsBladeOfDOOM!.nbt download>NBT</a>"
     ],
     [
       "Pepsi",
       "OperatorTheDope",
       "Clearly the best soda",
-      "Tag",
+      "Potion",
       "<a href=../nbt/items/nbt/Pepsi.nbt download>NBT</a>"
     ],
     [
       "Red Winter is Coming",
       "Katsuo__",
       "Diamond Axe that will bring Red Winter",
-      "Tag",
+      "Weapon",
       "<a href=../nbt/items/nbt/RedWinterIsComing.nbt download>NBT</a>"
     ],
     [
       "Relic Fragment",
       "Unknown Author",
       "Special enderpearl from Cutie's Aphmau Shoppe",
-      "Tag",
+      "Misc",
       "<a href=../nbt/items/nbt/RelicFragment.nbt download>NBT</a>"
     ],
     [
       "retribution",
       "Unknown Author",
       "Trident with a cool name",
-      "Tag",
+      "Weapon",
       "<a href=../nbt/items/nbt/retribution-(trident).nbt download>NBT</a>"
     ],
     [
       "Riot Shield",
       "Unknown Author",
       "Shieldbanner that looks like a Riot Shield",
-      "Tag",
+      "Shield/Banner",
       "<a href=../nbt/items/nbt/RiotShield.nbt download>NBT</a>"
     ],
     [
       "Potion of Immortality",
       "OperatorTheDope",
       "Itempedia Basics Potion of Immortality",
-      "Tag",
+      "Potion",
       "<a href=../nbt/items/nbt/PotionOfImmortality.nbt download>NBT</a>"
     ],
     [
       "POTION OF MEMORIES",
       "Misc Authors",
       "Created for an itemmaking challeng",
-      "Tag",
+      "Potion, Lore",
       "<a href=../nbt/items/nbt/POTIONOFMEMORIES.nbt download>NBT</a>"
     ],
     [
       "Pro Server Lagger",
       "Yurni",
       "Flowers used to lag servers",
-      "Tag",
+      "Misc",
       "<a href=../nbt/items/nbt/ProServerLagger.nbt download>NBT</a>"
     ],
     [
       "Pyroaxe",
       "Unknown Author",
       "A fiery diamond axe",
-      "Tag",
+      "Weapon",
       "<a href=../nbt/items/nbt/Pyroaxe.nbt download>NBT</a>"
     ],
     [
       "Rare Mirror Shield",
       "Unknown Author",
       "Shieldbanner that looks like a mirror",
-      "Tag",
+      "Shield/Banner",
       "<a href=../nbt/items/nbt/RareMirrorShield.nbt download>NBT</a>"
     ],
     [
       "Sky-Powered Brain Replacement",
       "Romoney",
       "Button to replace your brain",
-      "Tag",
+      "Misc, Meme",
       "<a href=../nbt/items/nbt/Sky-PoweredBrainReplacement.nbt download>NBT</a>"
     ],
     [
       "Slimy Chestplate",
       "Unknown Author",
       "Slime powered chestplate made by Tech Inc.",
-      "Tag",
+      "Armor",
       "<a href=../nbt/items/nbt/SlimyChestplate.nbt download>NBT</a>"
     ],
     [
       "Spicy Midas' Sword",
       "Hypixel",
       "Fancy golden sword",
-      "Tag",
+      "Hypixel",
       "<a href=../nbt/items/nbt/SpicyMidasSword.nbt download>NBT</a>"
     ],
     [
       "Saidohwi Rune",
       "Unknown Author",
       "The Rune of the Ocean",
-      "Tag",
+      "Misc, Lore",
       "<a href=../nbt/items/nbt/SaidohwiRune.nbt download>NBT</a>"
     ],
     [
       "Sans",
       "Unknown Author",
       "Porkchop containing loreart of Sans",
-      "Tag",
+      "Loreart, Meme",
       "<a href=../nbt/items/nbt/Sans.nbt download>NBT</a>"
     ],
     [
       "Savior Sword",
       "Unknown Author",
       "Golden sword that gives health and deals damage, but has a very slow attack speed",
-      "Tag",
+      "Weapon",
       "<a href=../nbt/items/nbt/SaviorSword.nbt download>NBT</a>"
     ],
     [
       "ShibaKit",
       "enchy",
       "Official Shibazon Kit in an armorstand",
-      "Tag",
+      "Armorstand",
       "<a href=../nbt/items/nbt/ShibaKit.nbt download>NBT</a>"
     ],
     [
       "Skofnung Sword v3",
       "Unknown Author",
       "Diamond sword with some cool lore",
-      "Tag",
+      "Weapon, Lore",
       "<a href=../nbt/items/nbt/SkofnungSwordv3.nbt download>NBT</a>"
     ],
     [
       "Divorce Papers",
       "Unknown Author",
       "Papers for a divorce",
-      "Tag",
+      "Misc, Meme",
       "<a href=../nbt/items/nbt/DivorcePapers.nbt download>NBT</a>"
     ],
     [
       "Emo Iron Ingot",
       "Unknown Author",
       "An emo iron ingot",
-      "Tag",
+      "Misc",
       "<a href=../nbt/items/nbt/EmoIronIngot.nbt download>NBT</a>"
     ],
     [
       "Fishy Fwiend",
       "Unknown Author",
       "A very fishy fish",
-      "Tag",
+      "Misc, Meme, Lore",
       "<a href=../nbt/items/nbt/FishyFwiend.nbt download>NBT</a>"
     ],
     [
       "Formula A",
       "Unknown Author",
       "Heals all wounds, but may not cure viruses",
-      "Tag",
+      "Potion",
       "<a href=../nbt/items/nbt/FormulaA.nbt download>NBT</a>"
     ],
     [
       "Highlighter",
       "Kadalyst",
       "A glowing, shimmering, highlighter",
-      "Tag",
+      "Misc, Utility, Lore",
       "<a href=../nbt/items/nbt/Highlighter.nbt download>NBT</a>"
     ],
     [
       "Admin's Potion",
       "Unknown Author",
       "Potion with some evil effects",
-      "Tag",
+      "Potion",
       "<a href=../nbt/items/nbt/AdminsPotion.nbt download>NBT</a>"
     ],
     [
       "Chalk",
       "Kadalyst",
       "Blue, screechy, chalk",
-      "Tag",
+      "Misc, Utility, Lore",
       "<a href=../nbt/items/nbt/Chalk.nbt download>NBT</a>"
     ],
     [
       "Compooter Screen",
       "Kadalyst",
       "It's a compooter screen!",
-      "Tag",
+      "Misc, Lore",
       "<a href=../nbt/items/nbt/CompooterScreen.nbt download>NBT</a>"
     ],
     [
       "Creeper, Aww Man",
       "Ghosty",
       "Diamond axe with the lyrics to Creeper Aww Man",
-      "Tag",
+      "Weapon",
       "<a href=../nbt/items/nbt/CreeperAwwMan.nbt download>NBT</a>"
     ],
     [
       "Pencil",
       "Kadalyst",
       "It's a bird! It's a plane! Nope, it's just a normal pencil",
-      "Tag",
+      "Misc, Lore",
       "<a href=../nbt/items/nbt/Pencil.nbt download>NBT</a>"
     ],
     [
       "Splash Potion of Totemkilling",
       "iIFrozenFireIi, OperatorTheDope",
       "Itempedia Basics Splash Potion of Totemkilling",
-      "Tag",
+      "Potion",
       "<a href=../nbt/items/nbt/SplashPotionOfTotemKilling.nbt download>NBT</a>"
     ],
     [
       "Splash Potion of Immortality",
       "OperatorTheDope",
       "Itempedia Basics Splash Potion of Immortality",
-      "Tag",
+      "Potion",
       "<a href=../nbt/items/nbt/SplashPotionOfImmortality.nbt download>NBT</a>"
     ],
     [
       "Roses Are Red",
       "Unknown Author",
       "A red rose",
-      "Tag",
+      "Misc",
       "<a href=../nbt/items/nbt/RosesAreRed.nbt download>NBT</a>"
     ],
     [
       "Naughty Naughty Hentai",
       "Unknown Author",
       "Book enchanted with Not For Kids V",
-      "Tag",
+      "Misc, Meme",
       "<a href=../nbt/items/nbt/NaughtyNaughtyHentai.nbt download>NBT</a>"
     ],
     [
       "Skull Sickle",
       "Unknown Author",
       "Mildly enchanted diamond hoe",
-      "Tag",
+      "Weapon",
       "<a href=../nbt/items/nbt/SkullSickle.nbt download>NBT</a>"
     ],
     [
       "HolyPotion",
       "Psjpoj",
       "Powerful potion",
-      "Tag",
+      "Potion",
       "<a href=../nbt/items/nbt/HolyPotion.nbt download>NBT</a>"
     ],
     [
       "King's Deity",
       "Unknown Author",
       "Trashy Diamond Sword",
-      "Tag",
+      "Weapon",
       "<a href=../nbt/items/nbt/KingsDeity.nbt download>NBT</a>"
     ],
     [
       "PAX-01 Purified Drinking Water",
       "Unknown Author",
       "Purified Drinking Water from the PAX collection",
-      "Tag",
+      "Potion",
       "<a href=../nbt/items/nbt/PAX-01PurifiedDrinkingWater.nbt download>NBT</a>"
     ],
     [
       "techHead",
       "techiemaster2005",
       "Error 404: Item Description Not Found. Please ask techiemaster2005",
-      "Tag",
+      "Player Head, Lore",
       "<a href=../nbt/items/nbt/techHead.nbt download>NBT</a>"
     ],
     [
       "techSword",
       "techiemaster2005",
       "Iron sword with excellent lore, and some interesting custom enchants",
-      "Tag",
+      "Weapon, Lore",
       "<a href=../nbt/items/nbt/techSword.nbt download>NBT</a>"
     ],
     [
       "Tenebris",
       "OperatorTheDope",
       "Potion to help you move like a shadow, fight like a warrior. AD ASTRA PER ASPERA",
-      "Tag",
+      "Potion",
       "<a href=../nbt/items/nbt/Tenebris.nbt download>NBT</a>"
     ],
     [
       "Sponge",
       "Unknown Author",
       "S p o n g e",
-      "Tag",
+      "Misc, Meme, Lore",
       "<a href=../nbt/items/nbt/Sponge.nbt download>NBT</a>"
     ],
     [
       "SpongeBob's Stick",
       "FileExtensions",
       "Contains the meaning of FUN",
-      "Tag",
+      "Misc, Meme, Lore",
       "<a href=../nbt/items/nbt/SpongeBobsStick.nbt download>NBT</a>"
     ],
     [
       "STAFF OF THE KING",
       "Unknown Author",
       "Staff made by the blaze people for the withered king",
-      "Tag",
+      "Misc, Weapon",
       "<a href=../nbt/items/nbt/STAFFOFTHEKING.nbt download>NBT</a>"
     ],
     [
       "Star Dust Bow",
       "Unknown Author",
       "Bow forged of pure star-dust",
-      "Tag",
+      "Weapon",
       "<a href=../nbt/items/nbt/StarDustBow.nbt download>NBT</a>"
     ],
     [
-      "sudo kill -9 $TARGET",
+      "sudo kill -9 $TARGET &#11088;",
       "iIFrozenFireIi, OperatorTheDope",
       "Legendary kill pot",
-      "Tag",
+      "Potion",
       "<a href=../nbt/items/nbt/sudokill-9$target.nbt download>NBT</a>"
     ],
     [
       "SWORD_FROM_THE_HEAVENS",
       "TYLER_5505",
       "Diamond sword \"from the heavens\" with mild enchants",
-      "Tag",
+      "Weapon",
       "<a href=../nbt/items/nbt/SWORD_FROM_THE_HEAVENS.nbt download>NBT</a>"
     ],
     [
       "TickleMyPickle",
       "Pr7nc3",
       "Funny sea pickle",
-      "Tag",
+      "Misc, Lore",
       "<a href=../nbt/items/nbt/TickleMyPickle.nbt download>NBT</a>"
     ],
     [
       "ToxxSCARF",
       "Celebrationss",
       "Protective scarf, worn with /hat",
-      "Tag",
+      "Misc, Lore",
       "<a href=../nbt/items/nbt/ToxxSCARF.nbt download>NBT</a>"
     ],
     [
       "Tutankhamun's Death Mask &#11088;",
       "inlovewithaghost",
       "The famous death mask of King Tutankhamun",
-      "Tag",
+      "Player Head, Lore",
       "<a href=../nbt/items/nbt/TutankhamunsDeathMask.nbt download>NBT</a>"
     ],
     [
       "Unicorn",
       "Unknown Author",
       "Unicorn horn (end rod) to make you majestic like a unicorn",
-      "Tag",
+      "Misc, Meme",
       "<a href=../nbt/items/nbt/Unicorn.nbt download>NBT</a>"
     ],
     [
       "The Almighty Spork",
       "Unknown Author",
       "Iron shovel posing as a spork",
-      "Tag",
+      "Meme, Weapon",
       "<a href=../nbt/items/nbt/TheAlmightySpork.nbt download>NBT</a>"
     ],
     [
       "The Ban Hammer",
       "tcrnado",
       "Diamond axe ban hammer",
-      "Tag",
+      "Weapon",
       "<a href=../nbt/items/nbt/TheBanHammer.nbt download>NBT</a>"
     ],
     [
       "The fourth tick",
       "Yurni",
       "Powerful stick",
-      "Tag",
+      "Misc",
       "<a href=../nbt/items/nbt/Thefourthtick.nbt download>NBT</a>"
     ],
     [
       "The Ultimate Bamboo",
       "PandaBearE29",
       "Strong, Durable, Effective and Protective Bamboo, only for Pandas",
-      "Tag",
+      "Misc, Lore",
       "<a href=../nbt/items/nbt/TheUltimateBamboo.nbt download>NBT</a>"
     ],
     [
       "The Universal Axe",
       "quack95",
       "Netherite axe with visually appealing, if somewhat overdone lore",
-      "Tag",
+      "Weapon",
       "<a href=../nbt/items/nbt/TheUniversalAxe.nbt download>NBT</a>"
     ],
     [
       "Weaaboo Warrior's Blade",
       "Unknown Author",
       "Diamond sword enchanted with Weeaboo qualities",
-      "Tag",
+      "Weapon, Lore",
       "<a href=../nbt/items/nbt/WeeabooWarriorsBlade.nbt download>NBT</a>"
     ],
     [
       "Winter's Ice Blade",
       "xXWinterBladeXx",
       "Powerful diamond sword, forged within the depths of the North Pole",
-      "Tag",
+      "Weapon, Lore, Exploit",
       "<a href=../nbt/items/nbt/WintersIceBlade.nbt download>NBT</a>"
     ],
     [
       "Wyvren Bomb",
       "ItziSpyder",
       "Very dangerous mob spawner",
-      "Tag",
+      "Spawner, Exploit",
       "<a href=../nbt/items/nbt/WyvrenBomb.nbt download>NBT</a>"
     ],
     [
       "XELION Devils Wish",
       "quack95",
       "Netherite hoe reviving the Xelion legacy",
-      "Tag",
+      "Weapon, Lore",
       "<a href=../nbt/items/nbt/XelionDevilsWish.nbt download>NBT</a>"
     ],
     [
       "Unstable Dark Axe",
       "Unknown Author",
       "Netherite axe with very unstable enchantments",
-      "Tag",
+      "Weapon, Lore",
       "<a href=../nbt/items/nbt/UnstableDarkAxe.nbt download>NBT</a>"
     ],
     [
       "Upside Down Cross",
       "Wecklerie",
       "An upside down cross. Fucking 666 man...",
-      "Tag",
+      "Weapon",
       "<a href=../nbt/items/nbt/UpsideDownCross.nbt download>NBT</a>"
     ],
     [
       "Walking Stick (2.0)",
       "Unknown Author",
       "You are never too old...",
-      "Tag",
+      "Misc, ",
       "<a href=../nbt/items/nbt/WalkingStick(2.0).nbt download>NBT</a>"
     ],
     [
       "Warlock Blade",
       "Ganondorf629",
       "Diamond sword with custom enchants and french lore",
-      "Tag",
+      "Weapon",
       "<a href=../nbt/items/nbt/WarlockBlade.nbt download>NBT</a>"
     ],
     [
       "Waxed Weathered Cut Copper Stairs",
       "Feueristic",
       "Why don't you make the name longer, asshole?",
-      "Tag",
+      "Misc, Meme",
       "<a href=../nbt/items/nbt/WaxedWeatheredCutCopperStairs.nbt download>NBT</a>"
     ],
     [
       "Yurni Wanted A Pink Weapon",
       "Yurni",
       "Armorstand containing an int limit weapon",
-      "Tag",
+      "Armorstand, Weapon",
       "<a href=../nbt/items/nbt/YurniWantedAPinkWeapon.nbt download>NBT</a>"
     ],
     [
       "XELION MONIX Vesice",
       "quack95",
       "Golden hoe with interesting lore",
-      "Tag",
+      "Weapon, Lore",
       "<a href=../nbt/items/nbt/XelionMonixVesice.nbt download>NBT</a>"
     ],
     [
       "Yeet",
       "Yurni",
       "#NotATrollPot",
-      "Tag",
+      "Potion",
       "<a href=../nbt/items/nbt/Yeet.nbt download>NBT</a>"
     ],
     [
       "Yurni's Totems",
       "Yurni",
       "Armorstand with stacked totems",
-      "Tag",
+      "Armorstand",
       "<a href=../nbt/items/nbt/YurnisTotems.nbt download>NBT</a>"
     ],
     [
       "Ancient Debris Hit",
       "keyshujin",
       "Plays the sound of an ancient debris hit",
-      "Tag",
+      "Eggs",
       "<a href=../nbt/items/nbt/AncientDebrisHit.nbt download>NBT</a>"
     ],
     [
       "A normal stick",
       "quack95",
       "A totally normal stick",
-      "Tag",
+      "Misc, Weapon",
       "<a href=../nbt/items/nbt/ANormalStick.nbt download>NBT</a>"
     ],
     [
       "Anti's Collar",
       "Yurni",
       "Collar for antigamesm12",
-      "Tag",
+      "Meme, Misc",
       "<a href=../nbt/items/nbt/AntisCollar.nbt download>NBT</a>"
     ],
     [
       "1.19.3 All Recipies Book",
       "Thorioum_",
       "Contains every 1.19.3 recipe",
-      "Tag",
+      "Utility, Misc",
       "<a href=../nbt/items/nbt/1.19.3RecipesBook.nbt download>NBT</a>"
     ],
     [
       "99.9% Insta Kill Potion",
       "GingaNinja_23",
       "This potion is just piss",
-      "Tag",
+      "Potion",
       "<a href=../nbt/items/nbt/99.9%InstaKillPotion.nbt download>NBT</a>"
     ],
     [
       "ADMIN SWORD",
       "GingaNinja_23",
       "Enchanted diamond sword",
-      "Tag",
+      "Weapon",
       "<a href=../nbt/items/nbt/ADMINSWORD.nbt download>NBT</a>"
     ],
     [
       "Amethyst Chime",
       "keyshujin",
       "Plays the sound of an amethyst chime",
-      "Tag",
+      "Eggs",
       "<a href=../nbt/items/nbt/AmethystChime.nbt download>NBT</a>"
     ],
     [
       "Amethyst Dagger",
       "keyshujin",
       "Sharp, quick and shiny amethyst shard",
-      "Tag",
+      "Weapon, Misc",
       "<a href=../nbt/items/nbt/AmethystDagger.nbt download>NBT</a>"
     ],
     [
       "Amethyst Step",
       "keyshujin",
       "Plays the sound of an amethyst step",
-      "Tag",
+      "Eggs",
       "<a href=../nbt/items/nbt/AmethystStep.nbt download>NBT</a>"
     ],
     [
       "Asteroid",
       "Steeved",
       "Heavy-hitting lingering potion",
-      "Tag",
+      "Potion",
       "<a href=../nbt/items/nbt/Asteroid.nbt download>NBT</a>"
     ],
     [
       "Aureus",
       "Unknown Author",
       "Gold ingot currency of The Imperium",
-      "Tag",
+      "Misc",
       "<a href=../nbt/items/nbt/.nbt download>NBT</a>"
     ],
     [
       "Auto Maid 1.17 Edition",
       "Folfy_BLue, Yurni",
       "Auto Maid dispenser for 1.17",
-      "Tag",
+      "Meme, Misc",
       "<a href=../nbt/items/nbt/AutoMaid1.17Edition.nbt download>NBT</a>"
     ],
     [
       "BanHammer",
       "GingaNinja_23",
       "Iron axe with custom enchantments",
-      "Tag",
+      "Weapon",
       "<a href=../nbt/items/nbt/BanHammer.nbt download>NBT</a>"
     ],
     [
       "Anti-Thanos Weapon",
       "Ghosty",
       "Purple glazed terracotta designed by Phil Swift to kill Thanos",
-      "Tag",
+      "Meme, Misc",
       "<a href=../nbt/items/nbt/Anti-Thanos Weapon.nbt download>NBT</a>"
     ],
     [
       "Anvil Use",
       "keyshujin",
       "Plays the sound of an anvil use",
-      "Tag",
+      "Eggs",
       "<a href=../nbt/items/nbt/AnvilUse.nbt download>NBT</a>"
     ],
     [
       "Apex Scythe Remastered Edition",
       "Ghosty, Shyrix",
       "Diamond hoe with an admiring note to Shyrix in the lore",
-      "Tag",
+      "Weapon",
       "<a href=../nbt/items/nbt/ApexScythe-GhostyKlein.nbt download>NBT</a>"
     ],
     [
       "Apollo's Pocket Watch",
       "Helium",
       "Clock won in a bet in the heavens from Apollo",
-      "Tag",
+      "Misc, Lore",
       "<a href=../nbt/items/nbt/ApollosPocketWatch.nbt download>NBT</a>"
     ],
     [
       "Aspect of the End",
       "Hypixel",
       "Diamond sword from Hypixel",
-      "Tag",
+      "Hypixel",
       "<a href=../nbt/items/nbt/AspectOfTheEnd.nbt download>NBT</a>"
     ],
     [
       "Certificate of SRO",
       "quack95",
       "Blank template for SRO Certificates",
-      "Tag",
+      "Misc, Lore",
       "<a href=../nbt/items/nbt/BlankCertificateOfSRO.nbt download>NBT</a>"
     ],
     [
       "SRO ID Card",
       "quack95",
       "Blank template for SRO ID Cards",
-      "Tag",
+      "Misc, Lore",
       "<a href=../nbt/items/nbt/BlankSROIDCard.nbt download>NBT</a>"
     ],
     [
       "Bred Slayer",
       "Hypixel",
       "Golden sword from Hypixel",
-      "Tag",
+      "Hypixel",
       "<a href=../nbt/items/nbt/BredSlayer.nbt download>NBT</a>"
     ],
     [
       "Bubble Unit PrototypeK",
       "quack95",
       "Turns bubbles into electricity",
-      "Tag",
+      "Misc, Lore",
       "<a href=../nbt/items/nbt/BubbleUnitPrototypeK.nbt download>NBT</a>"
     ],
     [
       "Ban ImproperIssues Head",
       "ImproperIssues",
       "ImproperIssues' head with code in the lore to ban himself",
-      "Tag",
+      "Player Head, Lore",
       "<a href=../nbt/items/nbt/BanImproperIssuesHead.nbt download>NBT</a>"
     ],
     [
       "Basalt Deltas Mood",
       "keyshujin",
       "Plays basalt deltas ambience",
-      "Tag",
+      "Eggs",
       "<a href=../nbt/items/nbt/BasaltDeltasMood.nbt download>NBT</a>"
     ],
     [
       "BEAUTY",
       "Unknown Author",
       "Painting with loreart of a fully nude woman",
-      "Tag",
+      "Loreart, NSFW",
       "<a href=../nbt/items/nbt/BEAUTY.nbt download>NBT</a>"
     ],
     [
       "Bing Chilling Pokemon Card",
       "Unknown Author",
       "Loreart of the Bing Chilling pokemon card",
-      "Tag",
+      "Loreart, Meme",
       "<a href=../nbt/items/nbt/BingChillingPokemonCard.nbt download>NBT</a>"
     ],
     [
       "Bitch Fuck",
       "Ghosty",
       "Obsidian with the Сука Блядь meme",
-      "Tag",
+      "Misc, Meme, Lore",
       "<a href=../nbt/items/nbt/BitchFuck.nbt download>NBT</a>"
     ],
     [
       "Large Slime",
       "Captainclimber",
       "Spawns a slime that lags clients",
-      "Tag",
+      "Eggs, Exploit",
       "<a href=../nbt/items/nbt/CLIENTLAGLargeSlime.nbt download>NBT</a>"
     ],
     [
       "Compact Aquarium &#11088;",
       "keyshujin",
       "Spawns a compact aquarium. <i>pre-1.20!</i>",
-      "Tag",
+      "Sign",
       "<a href=../nbt/items/nbt/CompactAquarium.nbt download>NBT</a>"
     ],
     [
       "Copper Scuba Helmet",
       "keyshujin",
       "Allows to breathe underwater, move faster and break blocks quicker, but barely grants any protection",
-      "Tag",
+      "Armor",
       "<a href=../nbt/items/nbt/CopperScubaHelmet.nbt download>NBT</a>"
     ],
     [
       "Bundle Bundle",
       "enderples",
       "127 bundles with 470,408 bundles inside",
-      "Tag",
+      "Bundle",
       "<a href=../nbt/items/nbt/BundleBundle.nbt download>NBT</a>"
     ],
     [
       "Cave Ambient",
       "keyshujin",
       "Plays cave ambience",
-      "Tag",
+      "Eggs",
       "<a href=../nbt/items/nbt/CaveAmbient.nbt download>NBT</a>"
     ],
     [
       "Chess Board Ultimate &#11088;",
       "Lizard16",
       "Command blocks that spawns a complete playable chessboard",
-      "Tag",
+      "Command Block",
       "<a href=../nbt/items/nbt/ChessBoardUltimate.nbt download>NBT</a>"
     ],
     [
       "City Generator",
       "Unknown Author",
       "Watch it unfold",
-      "Tag",
+      "Spawner, Command Block",
       "<a href=../nbt/items/nbt/.nbt download>NBT</a>"
     ],
     [
       "Clear Potion Technology",
       "Ghosty",
       "Powerful potion",
-      "Tag",
+      "Potion",
       "<a href=../nbt/items/nbt/ClearPotionTechnology.nbt download>NBT</a>"
     ],
     [
       "Crimson Forest Mood",
       "keyshujin",
       "Plays the crimson forest ambience",
-      "Tag",
+      "Eggs",
       "<a href=../nbt/items/nbt/CrimsonForestMood.nbt download>NBT</a>"
     ],
     [
       "CURSED OSIRIS BLADE",
       "Unknown Author",
       "Netherite sword with real and fake enchants",
-      "Tag",
+      "Weapon, Lore",
       "<a href=../nbt/items/nbt/CURSEDOSIRISBLADE.nbt download>NBT</a>"
     ],
     [
       "Cute Portals",
       "keyshujin",
       "Spawns smol versions of Nether and End portals. <i>pre-1.20!</i>",
-      "Tag",
+      "Sign",
       "<a href=../nbt/items/nbt/CutePortals.nbt download>NBT</a>"
     ],
     [
       "Darkening of Sword",
       "Ghosty",
       "Diamond sword with enchants",
-      "Tag",
+      "Weapon",
       "<a href=../nbt/items/nbt/DarkeningOfSword.nbt download>NBT</a>"
     ],
     [
       "Der Herr Der Welt",
       "Shdwo",
       "Renders drinker immortal",
-      "Tag",
+      "Potion",
       "<a href=../nbt/items/nbt/DerHerrDerWelt.nbt download>NBT</a>"
     ],
     [
       "DESIRE",
       "Unknown Author",
       "Loreart of a womans nude rear",
-      "Tag",
+      "Loreart, NSFW",
       "<a href=../nbt/items/nbt/DESIRE.nbt download>NBT</a>"
     ],
     [
       "Crash Dispenser",
       "Unknown Author",
       "Stand ontop and activate to crash the server",
-      "Tag",
+      "Exploit",
       "<a href=../nbt/items/nbt/CrashDispenser.nbt download>NBT</a>"
     ],
     [
       "Crash Painting",
       "Unknown Author",
       "Another chunkoob exploit",
-      "Tag",
+      "Exploit",
       "<a href=../nbt/items/nbt/CrashPainting.nbt download>NBT</a>"
     ],
     [
       "ERROR Bone",
       "Kinq",
       "Enchanted bone",
-      "Tag",
+      "Misc, Lore",
       "<a href=../nbt/items/nbt/ERRORBone.nbt download>NBT</a>"
     ],
     [
       "Fair Zombie Soldier Cutlass",
       "Hypixel",
       "Iron sword from Hypixel",
-      "Tag",
+      "Hypixel",
       "<a href=../nbt/items/nbt/FairZombieSoldierCutlass.nbt download>NBT</a>"
     ],
     [
       "Firework Show",
       "keyshujin",
       "Creates a beautiful firework show when used. <i>pre-1.20!</i>",
-      "Tag",
+      "Sign, Exploit",
       "<a href=../nbt/items/nbt/FireworkShow(SERVERCRASHER).nbt download>NBT</a>"
     ],
     [
       "Devil Potion",
       "Ghosty",
       "Lingering potion to kill poision-wither immune players",
-      "Tag",
+      "Potion",
       "<a href=../nbt/items/nbt/DevilPotion.nbt download>NBT</a>"
     ],
     [
       "DOOR STUCK",
       "Ghosty",
       "A curious wooden door",
-      "Tag",
+      "Misc",
       "<a href=../nbt/items/nbt/DOORSTUCK.nbt download>NBT</a>"
     ],
     [
       "Drumset",
       "keyshujin",
       "Spawns a drumset. <i>pre-1.20!</i>",
-      "Tag",
+      "Sign",
       "<a href=../nbt/items/nbt/Drumset.nbt download>NBT</a>"
     ],
     [
       "Eco Umbrella",
       "keyshujin. <i>pre-1.20!</i>",
       "Spawns an eco umbrella",
-      "Tag",
+      "Sign",
       "<a href=../nbt/items/nbt/EoUmbrella.nbt download>NBT</a>"
     ],
     [
       "Emperor Lotion",
       "Unknown Author",
       "Lotion meant for the The Imperium's Emperor",
-      "Tag",
+      "Potion, Lore",
       "<a href=../nbt/items/nbt/EmperorLotion.nbt download>NBT</a>"
     ],
     [
       "Epic Painting",
       "Unknown Author",
       "Hentai loreart",
-      "Tag",
+      "Loreart, NSFW",
       "<a href=../nbt/items/nbt/EpicPainting.nbt download>NBT</a>"
     ],
     [
       "Hoes before bros",
       "keyshujin",
       "Powerful golden hoe",
-      "Tag",
+      "Weapon",
       "<a href=../nbt/items/nbt/Hoesbeforebros.nbt download>NBT</a>"
     ],
     [
       "Hologram",
       "Unknown Author",
       "Hologram armorstand",
-      "Tag",
+      "Armorstand",
       "<a href=../nbt/items/nbt/Hologram.nbt download>NBT</a>"
     ],
     [
       "Immortal Scythe",
       "Elemental_ADHD",
       "Enchanted with Everything ∞",
-      "Tag",
+      "Weapon",
       "<a href=../nbt/items/nbt/ImmortalScythe.nbt download>NBT</a>"
     ],
     [
       "Frenzy",
       "keyshujin",
       "Speedy glowstone dust",
-      "Tag",
+      "Misc",
       "<a href=../nbt/items/nbt/Frenzy.nbt download>NBT</a>"
     ],
     [
       "German Death Gas",
       "Unknown Author",
       "Lingering potion that deals +100 damage against Jews",
-      "Tag",
+      "Potion",
       "<a href=../nbt/items/nbt/GermanDeathGas.nbt download>NBT</a>"
     ],
     [
       "God Book",
       "keyshujin",
       "Maxes out the chosen tool/weapon/armor",
-      "Tag",
+      "Utility",
       "<a href=../nbt/items/nbt/GodBook.nbt download>NBT</a>"
     ],
     [
       "H34DSh0T",
       "Kinq",
       "Enchanted bow",
-      "Tag",
+      "Weapon",
       "<a href=../nbt/items/nbt/H34DSh0T.nbt download>NBT</a>"
     ],
     [
       "Hasty Terminator",
       "Hypixel",
       "Bow from Hypixel",
-      "Tag",
+      "Hypixel",
       "<a href=../nbt/items/nbt/HastyTerminator.nbt download>NBT</a>"
     ],
     [
       "Hidden Water",
       "Unknown Author",
       "Waterlogged double smooth stone slab",
-      "Tag",
+      "Misc, Utility",
       "<a href=../nbt/items/nbt/HiddenWater.nbt download>NBT</a>"
     ],
     [
       "Inferno",
       "Deltaxe",
       "Netherite sword with infinite attack damage, speed and resistance",
-      "Tag",
+      "Weapon",
       "<a href=../nbt/items/nbt/Inferno.nbt download>NBT</a>"
     ],
     [
       "Black Hole Bomb",
       "IllagerCaptain",
       "Firework that creates a black hole, very laggy when spammed",
-      "Tag",
+      "Firework",
       "<a href=../nbt/items/nbt/BlackHoleBomb.nbt download>NBT</a>"
     ],
     [
       "Black Hole Gun",
       "IllagerCaptain",
       "Crossbow that shoots Black Hole Bombs",
-      "Tag",
+      "Weapon, Firework",
       "<a href=../nbt/items/nbt/BlackHoleGun.nbt download>NBT</a>"
     ],
     [
       "Imperium Crown",
       "Unknown Author",
       "Crown for the ruler of Imperium. HD Head, so does not work post-1.16",
-      "Tag",
+      "HD Head, Player Head, Lore",
       "<a href=../nbt/items/nbt/ImperiumCrown.nbt download>NBT</a>"
     ],
     [
       "Imperium Non-Member Land Permit",
       "Unknown Author",
       "A non-member land permit for Zarxana to build a residence on Imperium lands",
-      "Tag",
+      "Misc, Lore",
       "<a href=../nbt/items/nbt/ImperiumNon-MemberLandPermit.nbt download>NBT</a>"
     ],
     [
       "Imperium Shop Permit",
       "Unknown Author",
       "Gives holder permissions to operate a shop and distribute goods in Imperium",
-      "Tag",
+      "Misc, Lore",
       "<a href=../nbt/items/nbt/ImperiumShopPermit.nbt download>NBT</a>"
     ],
     [
       "Incmatter Core",
       "quack95",
       "Core component of a LabsInc Computer",
-      "Tag",
+      "Misc, Lore",
       "<a href=../nbt/items/nbt/IncmatterCore.nbt download>NBT</a>"
     ],
     [
       "Kismet Syringe",
       "Yurni, Team Kismet",
       "Bow used to apply arrows",
-      "Tag",
+      "Weapon",
       "<a href=../nbt/items/nbt/KismetSyringe.nbt download>NBT</a>"
     ],
     [
       "Labmatter Battery",
       "quack95",
       "Labmatter Battery model S026",
-      "Tag",
+      "Misc, Lore",
       "<a href=../nbt/items/nbt/LabmatterBattery.nbt download>NBT</a>"
     ],
     [
       "Labs Analysis Device",
       "quack95",
       "Device used to analyze chosen locations",
-      "Tag",
+      "Misc, Lore",
       "<a href=../nbt/items/nbt/LabsAnalysisDevice.nbt download>NBT</a>"
     ],
     [
       "Ion Battery",
       "quack95",
       "Ion Battery model S015",
-      "Tag",
+      "Misc, Lore",
       "<a href=../nbt/items/nbt/IonBattery.nbt download>NBT</a>"
     ],
     [
       "ITEM DUMP",
       "Captainclimber",
       "Bundle with ~96,000 eggs",
-      "Tag",
+      "Bundle, Exploit",
       "<a href=../nbt/items/nbt/ITEMDUMPServerLag+ClientLag.nbt download>NBT</a>"
     ],
     [
       "Jack Hammer",
       "Kinq",
       "Enchanted diamond axe",
-      "Tag",
+      "Weapon, Lore",
       "<a href=../nbt/items/nbt/JackHammer.nbt download>NBT</a>"
     ],
     [
       "JUMPSC4R3",
       "Kinq",
       "Enchanted blaze rods",
-      "Tag",
+      "Misc, Lore",
       "<a href=../nbt/items/nbt/JUMPSC4R3.nbt download>NBT</a>"
     ],
     [
       "Justin's Collar",
       "Yurni",
       "Armorstand containing Justins collar",
-      "Tag",
+      "Meme, Misc",
       "<a href=../nbt/items/nbt/JustinsCollar.nbt download>NBT</a>"
     ],
     [
       "Legit Super OP Sword",
       "Unknown Author",
       "Golden sword with 32k enchants",
-      "Tag",
+      "Weapon",
       "<a href=../nbt/items/nbt/LegitSuperOPSword.nbt download>NBT</a>"
     ],
     [
       "Liquid Dark Matter",
       "Unknown Author",
       "Liquefied dark matter",
-      "Tag",
+      "Potion",
       "<a href=../nbt/items/nbt/LiquidDarkMatter.nbt download>NBT</a>"
     ],
     [
       "Liquid Meth",
       "GingaNinja_23",
       "Highly addictive potion",
-      "Tag",
+      "Potion",
       "<a href=../nbt/items/nbt/LiquidMeth.nbt download>NBT</a>"
     ],
     [
       "Labs Inc. Analysis Visor BETA",
       "quack95",
       "Displays information of viewed blocks and items on HUD",
-      "Tag",
+      "Misc, Lore",
       "<a href=../nbt/items/nbt/LabsIncAnalysisVisor_BETA.nbt download>NBT</a>"
     ],
     [
       "Labs Inc. Analysis Visor COMMUNITY",
       "quack95",
       "Displays information of viewed blocks and items on HUD",
-      "Tag",
+      "Misc, Lore",
       "<a href=../nbt/items/nbt/LabsIncAnalysisVisor_COMMUNITY.nbt download>NBT</a>"
     ],
     [
       "Labs Inc. Scanner",
       "quack95",
       "Scans for problems",
-      "Tag",
+      "Misc, Lore",
       "<a href=../nbt/items/nbt/LabsIncScanner.nbt download>NBT</a>"
     ],
     [
       "Laggy Firework",
       "keyshujin",
       "Very laggy firework when spammed",
-      "Tag",
+      "Firework",
       "<a href=../nbt/items/nbt/LaggyFirework.nbt download>NBT</a>"
     ],
     [
       "Laxatives",
       "Unknown Author",
       "One dose clears all potion effects",
-      "Tag",
+      "Potion",
       "<a href=../nbt/items/nbt/Laxatives.nbt download>NBT</a>"
     ],
     [
       "Legendary Aspect of the Dragons",
       "Hypixel",
       "Golden sword from Hypixel",
-      "Tag",
+      "Hypixel",
       "<a href=../nbt/items/nbt/LegendaryAspectOfTheDragons.nbt download>NBT</a>"
     ],
     [
       "Milk Bundle",
       "Unknown Author",
       "Bundle containing 1,519,936 buckets of milk",
-      "Tag",
+      "Bundle",
       "<a href=../nbt/items/nbt/MilkBundle.nbt download>NBT</a>"
     ],
     [
       "Natalie Ries (Axe)",
       "FileExtension",
       "Powerful diamond axe",
-      "Tag",
+      "Weapon",
       "<a href=../nbt/items/nbt/NatalieRies(Axe).nbt download>NBT</a>"
     ],
     [
       "Natalie Ries (Splash Potion)",
       "FileExtension",
       "Powerful splash potion",
-      "Tag",
+      "Potion",
       "<a href=../nbt/items/nbt/NatalieRies(Splash).nbt download>NBT</a>"
     ],
     [
       "Miniature Birch Tree &#11088;",
       "keyshujin",
       "Generates a miniature birch tree. <i>pre-1.20!</i>",
-      "Tag",
+      "Sign",
       "<a href=../nbt/items/nbt/MiniatureBirchTree.nbt download>NBT</a>"
     ],
     [
       "Miniature Oak Tree &#11088;",
       "keyshujin",
       "Generates a miniature oak tree. <i>pre-1.20!</i>",
-      "Tag",
+      "Sign",
       "<a href=../nbt/items/nbt/MiniatureOakTree.nbt download>NBT</a>"
     ],
     [
       "Mlg Pro",
       "Ghosty",
       "Bow for MLG Pros",
-      "Tag",
+      "Weapon",
       "<a href=../nbt/items/nbt/MlgPro.nbt download>NBT</a>"
     ],
     [
       "Mlg Pro 2.0",
       "Ghosty",
       "Crossbow for MLG Pros",
-      "Tag",
+      "Weapon",
       "<a href=../nbt/items/nbt/MlgPro2.0.nbt download>NBT</a>"
     ],
     [
       "Modern Fridge &#11088;",
       "keyshujin",
       "Generates a modern refrigerator. <i>pre-1.20!</i>",
-      "Tag",
+      "Sign",
       "<a href=../nbt/items/nbt/ModernFridge.nbt download>NBT</a>"
     ],
     [
       "Modern Lamp &#11088;",
       "keyshujin",
       "Generates a modern lamp. <i>pre-1.20!</i>",
-      "Tag",
+      "Sign",
       "<a href=../nbt/items/nbt/ModernLamp.nbt download>NBT</a>"
     ],
     [
       "Mystic Gaming Laptop",
       "AlNuaimi50",
       "Gaming laptop with incredibly good specs",
-      "Tag",
+      "Misc, Lore",
       "<a href=../nbt/items/nbt/MysticGamingLaptop.nbt download>NBT</a>"
     ],
     [
       "Putrid Powder",
       "GingaNinja_23",
       "Very smelly gunpowder",
-      "Tag",
+      "Misc, Lore",
       "<a href=../nbt/items/nbt/PutridPowder.nbt download>NBT</a>"
     ],
     [
       "quack95",
       "quack95",
       "Head of quack95. Duck is duck",
-      "Tag",
+      "Player Head",
       "<a href=../nbt/items/nbt/quack95Head.nbt download>NBT</a>"
     ],
     [
       "error: quick.fire.catch(e)",
       "Shdwo",
       "Crossbow that shoots really really fast",
-      "Tag",
+      "Weapon",
       "<a href=../nbt/items/nbt/quick.fire.catch(e).nbt download>NBT</a>"
     ],
     [
       "Rainbow Firework",
       "Unknown Author",
       "Rainbow colored firework",
-      "Tag",
+      "Firework",
       "<a href=../nbt/items/nbt/RainbowFirework.nbt download>NBT</a>"
     ],
     [
       "Neon",
       "Kiraptor",
       "Neon colored firework",
-      "Tag",
+      "Firework",
       "<a href=../nbt/items/nbt/Neon.nbt download>NBT</a>"
     ],
     [
       "Nether Wastes Mood",
       "keyshujin",
       "Plays the nether wastes ambience",
-      "Tag",
+      "Eggs",
       "<a href=../nbt/items/nbt/NetherWastesMood.nbt download>NBT</a>"
     ],
     [
       "N-WordPass",
       "MorganAnkan",
       "Gives the holder the right to use the N word",
-      "Tag",
+      "Loreart, Meme, Misc",
       "<a href=../nbt/items/nbt/N-WordPass.nbt download>NBT</a>"
     ],
     [
       "Pika Helmet",
       "Drewmeister01",
       "Leather helmet with Pikachu loreart",
-      "Tag",
+      "Loreart, Armor",
       "<a href=../nbt/items/nbt/PikaHelmet.nbt download>NBT</a>"
     ],
     [
       "Scythe of Angels",
       "Yurni",
       "Powerful diamond hoe",
-      "Tag",
+      "Weapon",
       "<a href=../nbt/items/nbt/ScytheOfAngels.nbt download>NBT</a>"
     ],
     [
       "SHIBAZON",
       "Unknown Author",
       "Loreart advertisement for the Shibazon OP Item shop on TotalFreedom",
-      "Tag",
+      "Loreart, Misc",
       "<a href=../nbt/items/nbt/SHIBAZON.nbt download>NBT</a>"
     ],
     [
       "Renowned Superior Dragon Helmet",
       "Hypixel",
       "Part of Hypixels Renowned Superior Dragon armor",
-      "Tag",
+      "Hypixel",
       "<a href=../nbt/items/nbt/RenownedSuperiorDragonHelmet.nbt download>NBT</a>"
     ],
     [
       "Renowned Superior Dragon Chestplate",
       "Hypixel",
       "Part of Hypixels Renowned Superior Dragon armor",
-      "Tag",
+      "Hypixel",
       "<a href=../nbt/items/nbt/RenownedSuperiorDragonChestplate.nbt download>NBT</a>"
     ],
     [
       "Renowned Superior Dragon Leggings",
       "Hypixel",
       "Part of Hypixels Renowned Superior Dragon armor",
-      "Tag",
+      "Hypixel",
       "<a href=../nbt/items/nbt/RenownedSuperiorDragonLeggings.nbt download>NBT</a>"
     ],
     [
       "Renowned Superior Dragon Boots",
       "Hypixel",
       "Part of Hypixels Renowned Superior Dragon armor",
-      "Tag",
+      "Hypixel",
       "<a href=../nbt/items/nbt/RenownedSuperiorDragonBoots.nbt download>NBT</a>"
     ],
     [
       "Rigormortis",
       "keyshujin",
       "Cool bow, dedicated to somecooluseridk",
-      "Tag",
+      "Weapon",
       "<a href=../nbt/items/nbt/Rigormortis.nbt download>NBT</a>"
     ],
     [
       "Rubygorre Sword",
       "keyshujin",
       "Enchanted iron sword with flickering attack damage",
-      "Tag",
+      "Weapon, Lore",
       "<a href=../nbt/items/nbt/RubygorreSword.nbt download>NBT</a>"
     ],
     [
       "Saundermeade Crown",
       "Unknown Author",
       "HD Head crown for the Duke of Saundermeade",
-      "Tag",
+      "HD Head, Player Head, Lore",
       "<a href=../nbt/items/nbt/SaundermeadeCrown.nbt download>NBT</a>"
     ],
     [
       "Starter House Builder (wip)",
       "enderples",
       "Spawns a small wooden house with some stuff in a chest!",
-      "Tag",
+      "Spawner, Command Block",
       "<a href=../nbt/items/nbt/StarterHouseBuilder.nbt download>NBT</a>"
     ],
     [
       "Super Weed",
       "Unknown Author",
       "Very very concentrated weed",
-      "Tag",
+      "Meme, Lore, Misc",
       "<a href=../nbt/items/nbt/SuperWeed.nbt download>NBT</a>"
     ],
     [
       "Shio Ramen",
       "Unknown Author",
       "Ramen bowl with lore in japanglish",
-      "Tag",
+      "Misc, Lore",
       "<a href=../nbt/items/nbt/ShioRamen.nbt download>NBT</a>"
     ],
     [
       "Simple PC &#11088;",
       "keyshujin",
       "Generates a simple PC. <i>pre-1.20!</i>",
-      "Tag",
+      "Sign",
       "<a href=../nbt/items/nbt/SimplePC.nbt download>NBT</a>"
     ],
     [
-      "Skill Issue Detected™",
+      "Skill Issue Detected™ &#11088;",
       "Unknown Author",
       "Enchanted diamond axe with exquisite lore",
-      "Tag",
+      "Weapon, Lore",
       "<a href=../nbt/items/nbt/SkillIssuesDetected.nbt download>NBT</a>"
     ],
     [
       "Slapping Fish",
       "Ghosty",
       "Fish with insane knockback for slapping your friends with",
-      "Tag",
+      "Meme, Misc",
       "<a href=../nbt/items/nbt/SlappingFish.nbt download>NBT</a>"
     ],
     [
       "Soul Sand Valley Mood",
       "keyshujin",
       "Plays the sould sand valley ambience",
-      "Tag",
+      "Eggs",
       "<a href=../nbt/items/nbt/SoulSandValleyMood.nbt download>NBT</a>"
     ],
     [
-      "Space Suit",
+      "Space Suit &#11088;",
       "keyshujin",
       "Astronaut head with cool lore",
-      "Tag",
+      "Player Head, Lore",
       "<a href=../nbt/items/nbt/SpaceSuit.nbt download>NBT</a>"
     ],
     [
       "Splash Potion of Freezing &#11088;",
       "keyshujin",
       "Makes target unable to move, mine or deal damage",
-      "Tag",
+      "Potion",
       "<a href=../nbt/items/nbt/SplashPotionOfFreezing.nbt download>NBT</a>"
     ],
     [
       "Tesla's Cargo Plane",
       "txsla",
       "Chestboat. Boatchest?",
-      "Tag",
+      "Misc",
       "<a href=../nbt/items/nbt/TeslasCargoPlane.nbt download>NBT</a>"
     ],
     [
       "The Bedrock Breaker",
       "Unknown Author",
       "Enchanted netherite sword to split every atom",
-      "Tag",
+      "Weapon",
       "<a href=../nbt/items/nbt/TheBedrockBreaker.nbt download>NBT</a>"
     ],
     [
       "The Holy Hand Grenade of Antioch v2",
       "Team Kismet",
-      "Powerful lingering potion with an excellent poem in the lore",
-      "Tag",
+      "Powerful lingering potion with a poem in the lore",
+      "Potion, Lore",
       "<a href=../nbt/items/nbt/TheHolyHandGrandeOfAntiochv2.nbt download>NBT</a>"
     ],
     [
       "The Little Helper",
       "Unknown Author",
-      "Hear of the sea for your offhand",
-      "Tag",
+      "Heart of the sea for your offhand",
+      "Misc, Lore",
       "<a href=../nbt/items/nbt/TheLittleHelper.nbt download>NBT</a>"
     ],
     [
       "Theodore Roosevelt",
       "jsco",
       "Initiates the process of comprehensive demolition and eradication of the operational platform, commonly referred to as the server.",
-      "Tag",
+      "Command Block",
       "<a href=../nbt/items/nbt/TheodoreRoosevelt.nbt download>NBT</a>"
     ],
     [
       "sussyhecker's Blade o' Doomw",
       "Unknown IGN",
       "Enchanted diamond sword",
-      "Tag",
+      "Weapon",
       "<a href=../nbt/items/nbt/sussyheckersBladeODoom.nbt download>NBT</a>"
     ],
     [
       "Sweeping Hoe",
       "CoolestGuy94",
       "Enchanted netherite hoe",
-      "Tag",
+      "Weapon",
       "<a href=../nbt/items/nbt/SweepingHoe.nbt download>NBT</a>"
     ],
     [
       "Sword of the Multiverse",
       "Unknown Author",
       "Enchanted golden sword",
-      "Tag",
+      "Weapon",
       "<a href=../nbt/items/nbt/SwordOfTheMultiverse.nbt download>NBT</a>"
     ],
     [
       "Teddy Bear &#11088;",
       "keyshujin",
       "Generates a teddy bear. <i>pre-1.20!</i>",
-      "Tag",
+      "Sign",
       "<a href=../nbt/items/nbt/TeddyBear.nbt download>NBT</a>"
     ],
     [
-      "Thundershard",
+      "Thundershard &#11088;",
       "keyshujin",
       "Golden sword given as a small gift from Zeus",
-      "Tag",
+      "Weapon, Lore",
       "<a href=../nbt/items/nbt/Thundershard.nbt download>NBT</a>"
     ],
     [
       "Titanium Fiber Elytra",
       "GingaNinja_23",
       "Elytra constructed from titanium and diamond fibers",
-      "Tag",
+      "Elytra",
       "<a href=../nbt/items/nbt/TitaniumFiberElytra.nbt download>NBT</a>"
     ],
     [
       "TRACKING MISSILE",
       "_NinjaSloth_",
-      "Command blocks that spawns a tracking missile",
-      "Tag",
+      "Command block that spawns a tracking missile",
+      "Command Block",
       "<a href=../nbt/items/nbt/TRACKINGMISSILE.nbt download>NBT</a>"
     ],
     [
       "Ultimate Boss Slayer Of Doom MK3 &#11088;",
       "Unknown Author",
       "Absolutely amazing netherite sword, the best of the best",
-      "Tag",
+      "Loreart, Weapon",
       "<a href=../nbt/items/nbt/UltimateBossSlayerOfDoomMK3.nbt download>NBT</a>"
     ],
     [
       "Ultra Weed",
       "Unknown Author",
       "Very strong weed",
-      "Tag",
+      "Meme, Lore, Misc",
       "<a href=../nbt/items/nbt/UltraWeed.nbt download>NBT</a>"
     ],
     [
       "Underwater Enter",
       "keyshujin",
       "Plays the sound of entering water",
-      "Tag",
+      "Eggs",
       "<a href=../nbt/items/nbt/UnderwaterEnter.nbt download>NBT</a>"
     ],
     [
       "The Penis Joke Is Real (real)",
       "Unknown Author",
       "Wooden sword extolling the reality of The Penis Joke",
-      "Tag",
+      "Lore, Weapon",
       "<a href=../nbt/items/nbt/ThePenisJokeIsReal.nbt download>NBT</a>"
     ],
     [
-      "???",
+      "This Splash Potion Doesn't Do Anything",
       "Ghosty",
       "This splash potion doesn't do anything.",
-      "Tag",
-      "<a href=../nbt/items/nbt/ThisSplashPotionDoesntDoAnythin.nbt download>NBT</a>"
+      "Potion",
+      "<a href=../nbt/items/nbt/ThisSplashPotionDoesntDoAnything.nbt download>NBT</a>"
     ],
     [
       "Vintage Chair &#11088;",
       "keyshujin",
       "Generates a vintage chair. <i>pre-1.20!</i>",
-      "Tag",
+      "Sign",
       "<a href=../nbt/items/nbt/VintageChair.nbt download>NBT</a>"
     ],
     [
       "Warped Forest Mood",
       "keyshujin",
       "Plays the warped forest ambience",
-      "Tag",
+      "Eggs",
       "<a href=../nbt/items/nbt/WarpedForestMood.nbt download>NBT</a>"
     ],
     [
       "When the imposter is sus",
       "Unknown Author",
       "Loreart of when the imposter is sus",
-      "Tag",
+      "Loreart",
       "<a href=../nbt/items/nbt/WhenTheImposterIsSus.nbt download>NBT</a>"
     ],
     [
       "Withered Hyperion",
       "Hypixel",
       "Iron sword from Hypixel",
-      "Tag",
+      "Hypixel",
       "<a href=../nbt/items/nbt/WitheredHyperion.nbt download>NBT</a>"
     ],
     [
       "Underwater Exit",
       "keyshujin",
       "Plays the sound of exiting water",
-      "Tag",
+      "Eggs",
       "<a href=../nbt/items/nbt/UnderwaterExit.nbt download>NBT</a>"
     ],
     [
       "Underwater Loop Additions",
       "keyshujin",
       "I don't know what it plays, but it's ultra rare",
-      "Tag",
+      "Eggs",
       "<a href=../nbt/items/nbt/UnderwaterLoopAdditions(UltraRare).nbt download>NBT</a>"
     ],
     [
       "Veteran Gaming Laptop",
       "AlNuaimi50",
       "Gaming laptop with insane specs",
-      "Tag",
+      "Misc, Lore",
       "<a href=../nbt/items/nbt/VeteranGamingLaptop.nbt download>NBT</a>"
     ],
     [
       "You're Already Dead",
       "Ghosty",
       "You're dead before this blaze rod is swung",
-      "Tag",
+      "Misc, Lore",
       "<a href=../nbt/items/nbt/YoureAlreadyDead.nbt download>NBT</a>"
     ],
     [
       "Your Resistance",
       "Yurni, Team Kismet",
       "Powerful tipped arrow",
-      "Tag",
+      "Arrow",
       "<a href=../nbt/items/nbt/YourResistance.nbt download>NBT</a>"
     ],
     [
       "Yurni's Death",
       "FleshlyIsTaken, CoolestGuy94",
       "The ultimate totem killer",
-      "Tag",
+      "Potion",
       "<a href=../nbt/items/nbt/YurnisDeath.nbt download>NBT</a>"
     ],
     [
       "Zarxana's Bone <3",
       "Khol, Zarxana",
       "Bone for Zarxana",
-      "Tag",
+      "Misc, Lore",
       "<a href=../nbt/items/nbt/ZarxanasBone.nbt download>NBT</a>"
     ],
     [
       "Withered Thunderbolt",
       "Hypixel",
       "Iron axe from Hypixel",
-      "Tag",
+      "Hypixel",
       "<a href=../nbt/items/nbt/WitheredThunderbolt.nbt download>NBT</a>"
     ],
     [
       "Wyvern",
       "Unknown Author",
       "Powerful lingering potion",
-      "Tag",
+      "Potion",
       "<a href=../nbt/items/nbt/Wyvern-Lingering.nbt download>NBT</a>"
     ],
     [
       "Wyvern",
       "Unknown Author",
       "Powerful splash potion",
-      "Tag",
+      "Potion",
       "<a href=../nbt/items/nbt/Wyvern-Splash.nbt download>NBT</a>"
     ],
     [
       "Micro Abuse Kit v5",
       "EnderEyeGames",
       "Abuse Kit v5 repackaged into a Bundle",
-      "Tag",
+      "Bundle, Exploit",
       "<a href=../nbt/items/nbt/MicroAbuseKitv5.nbt download>NBT</a>"
     ],
     [
       "THE BATTLE AXE OF A TRUE VAMPIRE",
       "D3v4tm05ph3r3",
       "Netherite axe",
-      "Tag",
+      "Weapon",
       "<a href=../nbt/items/nbt/THEBATTLEAXEOFATRUEVAMPIRE.nbt download>NBT</a>"
     ],
     [
       "UwU",
       "Unknown Author",
       "Lewd loreart",
-      "Tag",
+      "Loreart, NSFW",
       "<a href=../nbt/items/nbt/UwU.nbt download>NBT</a>"
     ],
     [
       "Uzi's Sick as Hell RAILGUN!!",
       "Unknown Author",
       "Enchanted crossbow",
-      "Tag",
+      "Weapon",
       "<a href=../nbt/items/nbt/UzisSickAsHellRailgun.nbt download>NBT</a>"
     ],
     [
       "Chess Board &#11088;",
       "Lizard16",
       "Command block that spawns a working chessboard",
-      "Tag",
+      "Command Block",
       "<a href=../nbt/items/nbt/ChessBoard.nbt download>NBT</a>"
     ],
     [
       "D3v4tm05ph3r3's Banhammer",
       "D3v4tm05ph3r3",
       "Netherite axe",
-      "Tag",
+      "Weapon",
       "<a href=../nbt/items/nbt/D3v4tm05ph3r3sBanhammer.nbt download>NBT</a>"
     ],
     [
       "Illicit Substances",
       "Phokieu",
       "A bundle of 12 illicit substances",
-      "Tag",
+      "Bundle, Meme",
       "<a href=../nbt/items/nbt/IllicitSubstances.nbt download>NBT</a>"
     ],
     [
       "Blade Of Demons",
       "Yurni",
       "Netherite sword with 128,008 attack damage. Will get wiped on most servers",
-      "Tag",
+      "Weapon",
       "<a href=../nbt/items/nbt/BladeOfDemons.nbt download>NBT</a>"
     ],
     [
       "Death's Scythe",
       "Yurni",
       "Netherite hoe with infinite attributes and 32k enchants",
-      "Tag",
+      "Weapon",
       "<a href=../nbt/items/nbt/DeathsScythe.nbt download>NBT</a>"
     ],
     [
       "Declan's Wings",
       "Yurni",
       "Wings made for Declan, with a message in the lore",
-      "Tag",
+      "Elytra, Lore",
       "<a href=../nbt/items/nbt/DeclansWings.nbt download>NBT</a>"
     ],
     [
       "Declan's Wings V2",
       "Yurni",
       "Wings made for Declan, with a message in the lore",
-      "Tag",
+      "Elytra, Lore",
       "<a href=../nbt/items/nbt/DeclansWingsV2.nbt download>NBT</a>"
     ],
     [
       "3 Tick Prep",
       "Yurni",
       "Provides Resistance V for 13:53:20",
-      "Tag",
+      "Potion",
       "<a href=../nbt/items/nbt/3TickPrep.nbt download>NBT</a>"
     ],
     [
       "Bellona's Potion Of Removal",
       "Yurni",
       "Lingering potion that makes use of Instant Damage scaling, among other effects",
-      "Tag",
+      "Potion",
       "<a href=../nbt/items/nbt/BellonasPotionOfRemoval.nbt download>NBT</a>"
     ],
     [
       "Bi Pride",
       "Yurni",
       "Banner for Bi Pride",
-      "Tag",
+      "Shield/Banner",
       "<a href=../nbt/items/nbt/BiPride.nbt download>NBT</a>"
     ],
     [
       "Kismet Sharpened Bow",
       "Yurni, Team Kismet",
       "A rather sharp bow",
-      "Tag",
+      "Weapon",
       "<a href=../nbt/items/nbt/KismetSharpenedBow.nbt download>NBT</a>"
     ],
     [
       "Love Letter Splash",
       "Yurni",
       "A very deadly potion",
-      "Tag",
+      "Potion",
       "<a href=../nbt/items/nbt/LoveLetterSplash(Potion).nbt download>NBT</a>"
     ],
     [
       "Love Letter Splash",
       "Yurni",
       "A very deadly arrow",
-      "Tag",
+      "Arrow",
       "<a href=../nbt/items/nbt/LoveLetterSplash(Arrow).nbt download>NBT</a>"
     ],
     [
       "Love Potion",
       "Yurni",
       "If nothing else, it unlocks an achievement...",
-      "Tag",
+      "Potion",
       "<a href=../nbt/items/nbt/LovePotion.nbt download>NBT</a>"
     ],
     [
       "Decy's Collar",
       "Yurni",
       "Crimson trapdoor \"collar\" for Declan",
-      "Tag",
+      "Meme, Misc",
       "<a href=../nbt/items/nbt/DecysCollar.nbt download>NBT</a>"
     ],
     [
       "Devil's Wings",
       "Yurni",
       "Elytra made for DevilAria",
-      "Tag",
+      "Elytra",
       "<a href=../nbt/items/nbt/DevilsWings.nbt download>NBT</a>"
     ],
     [
       "Excalibur",
       "Yurni",
       "King Arthurs legendary sword Excalibur",
-      "Tag",
+      "Weapon, Lore, Exploit",
       "<a href=../nbt/items/nbt/Excalibur.nbt download>NBT</a>"
     ],
     [
       "Guardian's Feather &#11088;",
       "Yurni",
       "Netherite sword with Sharpness 255 applied 977 times. Very powerful, most servers will wipe it",
-      "Tag",
+      "Weapon",
       "<a href=../nbt/items/nbt/GuardiansFeather.nbt download>NBT</a>"
     ],
     [
       "Katsuo's Collar",
       "Yurni",
       "An armorstand holding Katsuo's collar",
-      "Tag",
+      "Armorstand, Meme, Misc",
       "<a href=../nbt/items/nbt/KatsuosCollar.nbt download>NBT</a>"
     ],
     [
       "Svnc's Collar",
       "Svnc",
       "Self-destructing armorstand holding Svnc's collar",
-      "Tag",
+      "Armorstand, Meme, Misc",
       "<a href=../nbt/items/nbt/SvncsCollar.nbt download>NBT</a>"
     ],
     [
       "Takyon",
       "Yurni",
       "Lingering potion that makes use of Instant Damage scaling",
-      "Tag",
+      "Potion",
       "<a href=../nbt/items/nbt/Takyon_Linger.nbt download>NBT</a>"
     ],
     [
       "Takyon",
       "Yurni",
       "Splash potion that makes use of Instant Damage scaling",
-      "Tag",
+      "Potion",
       "<a href=../nbt/items/nbt/Takyon_Splash.nbt download>NBT</a>"
     ],
     [
       "MagmaCo Banner",
       "Yurni",
       "Banner for MagmaCo, designed by Akefu",
-      "Tag",
+      "Shield/Banner",
       "<a href=../nbt/items/nbt/MagmaCoBanner.nbt download>NBT</a>"
     ],
     [
       "Scythe Of The Angels",
       "Yurni",
       "Golden hoe, with some carefully designed enchants and attributes",
-      "Tag",
+      "Weapon",
       "<a href=../nbt/items/nbt/ScytheOfTheAngels.nbt download>NBT</a>"
     ],
     [
       "Sexy Wings",
       "Yurni",
       "Elytra with select enchants and attributes",
-      "Tag",
+      "Elytra",
       "<a href=../nbt/items/nbt/SexyWings.nbt download>NBT</a>"
     ],
     [
       "Yurni's Button Brain",
       "Yurni",
       "A crimson button representing the brain of Yurni",
-      "Tag",
+      "Meme, Misc",
       "<a href=../nbt/items/nbt/YurnisButtonBrain.nbt download>NBT</a>"
     ],
     [
       "Yurni Arrival Sign",
       "Yurni",
       "A sign saying \"Yurni Was Here\". <i>pre-1.20!</i>",
-      "Tag",
+      "Sign",
       "<a href=../nbt/items/nbt/YurniArrivalSign.nbt download>NBT</a>"
     ],
     [
       "Yurni's Armor",
       "Yurni",
       "Armorstand holding Yurni's armor",
-      "Tag",
+      "Armorstand, Armor",
       "<a href=../nbt/items/nbt/YurnisArmor.nbt download>NBT</a>"
     ],
     [
       "The All In One",
       "Yurni",
       "Potion with Instant Damage added 127 times, among other effects",
-      "Tag",
+      "Potion",
       "<a href=../nbt/items/nbt/TheAllInOne_Drink.nbt download>NBT</a>"
     ],
     [
       "The All In One",
       "Yurni",
       "Splash Potion with Instant Damage added 127 times, among other effects",
-      "Tag",
+      "Potion",
       "<a href=../nbt/items/nbt/TheAllInOne_Splash.nbt download>NBT</a>"
     ],
     [
       "The Chain <3",
       "Yurni",
       "Iron chain signifying the relationship of Vivian, Declan and Amber",
-      "Tag",
+      "Misc, Lore",
       "<a href=../nbt/items/nbt/TheChain.nbt download>NBT</a>"
     ],
     [
       "The Ultimate Annoyance",
       "Yurni",
       "An extremely annoying firework",
-      "Tag",
+      "Firework",
       "<a href=../nbt/items/nbt/TheUltimateAnnoyance.nbt download>NBT</a>"
     ],
     [
       "Trans Firework",
       "Yurni",
       "Firework with trans flag colors",
-      "Tag",
+      "Firework",
       "<a href=../nbt/items/nbt/TransFirework.nbt download>NBT</a>"
     ],
     [
       "Ugly Wings",
       "Svnc",
       "A pair of ugly wings hidden on an armorstand",
-      "Tag",
+      "Armorstand, Elytra",
       "<a href=../nbt/items/nbt/UglyWings.nbt download>NBT</a>"
     ],
     [
       "Yurni's Vibrator",
       "Yurni",
       "End rod with custom enchantments \"Vibration\" and \"Pleasure\"",
-      "Tag",
+      "Misc, Lore",
       "<a href=../nbt/items/nbt/YurnisVibrator.nbt download>NBT</a>"
     ],
     [
       "Yurni Was Here",
       "Yurni",
       "A sign saying \"Yurni Was Here\". <i>pre-1.20!</i>",
-      "Tag",
+      "Sign",
       "<a href=../nbt/items/nbt/YurniWasHere.nbt download>NBT</a>"
     ],
     [
       "Yurni's Catnip",
       "Yurni",
       "Bowl of catnip",
-      "Tag",
+      "Misc",
       "<a href=../nbt/items/nbt/YurnisCatnip.nbt download>NBT</a>"
     ],
     [
       "Yurni's Collar",
       "Yurni",
       "Crimson trapdoor \"collar\" for Yurni",
-      "Tag",
+      "Meme, Misc",
       "<a href=../nbt/items/nbt/YurnisCollar.nbt download>NBT</a>"
     ],
     [
       "Yurni's Comically Large Fork",
       "Yurni",
       "A comically large fork (trident)",
-      "Tag",
+      "Weapon, Meme",
       "<a href=../nbt/items/nbt/YurnisComicallyLargeFork.nbt download>NBT</a>"
     ],
     [
       "Yurni's Horse Armor",
       "Yurni",
       "Pink leather horse armor",
-      "Tag",
+      "Armor",
       "<a href=../nbt/items/nbt/YurnisHorseArmor.nbt download>NBT</a>"
     ],
     [
       "Media Compression Tool!",
       "EnderEyeGames",
       "Piston advertising <a href=\"https://autocompressor.net\" target=\"_blank\" rel=\"noopener noreferrer\">autocompressor.net</a> by EnderEyeGames",
-      "Tag",
+      "Utility, Loreart, Lore",
       "<a href=../nbt/items/nbt/MediaCompressionTool.nbt download>NBT</a>"
     ],
     [
       "Sticky Note",
       "Kadalyst",
       "Warped sign to write notes on :D",
-      "Tag",
+      "Misc, Lore",
       "<a href=../nbt/items/nbt/StickyNote.nbt download>NBT</a>"
     ],
     [
       "Suspicious Hyperion",
       "Hypixel",
       "Iron sword from Hypixel",
-      "Tag",
+      "Hypixel",
       "<a href=../nbt/items/nbt/SuspiciousHyperion.nbt download>NBT</a>"
     ],
     [
       "bad admin no cookie &#11088;",
       "flamingSkies (?)",
       "Cookie with really long lore, describing how and why most admins are gay",
-      "Tag",
+      "Lore, Meme",
       "<a href=../nbt/items/nbt/BadAdminNoCookie.nbt download>NBT</a>"
     ],
     [
       "CLONE VIRUS SERIES &#11088;",
       "Captainclimber",
       "Two spawn eggs inside of a bundle, that when used will progressively consume a world due to their self-replicating nature",
-      "Tag",
+      "Bundle, Eggs, Exploit",
       "<a href=../nbt/items/nbt/CLONEVIRUSSERIES.nbt download>NBT</a>"
     ],
     [
       "HOTWOMAN.jpg",
       "Unknown Author",
       "Loreart of a woman baring her lingerie clad ass towards the camera",
-      "Tag",
+      "Loreart, NSFW",
       "<a href=../nbt/items/nbt/HOTWOMAN.jpg.nbt download>NBT</a>"
     ],
     [
       "Lag Barrier",
       "Unknown Author",
       "Barrier with an incredibly laggy name",
-      "Tag",
+      "Exploit, Utility",
       "<a href=../nbt/items/nbt/LagBarrier.nbt download>NBT</a>"
     ],
     [
       "1.20.1 All Recipies Book",
       "Thorioum_",
       "Contains every 1.20.1 recipe",
-      "Tag",
+      "Utility, Misc",
       "<a href=../nbt/items/nbt/1.20.1AllRecipesBook.nbt download>NBT</a>"
     ],
     [
       "Paracesis &#11088;",
       "Feueristic",
       "Golden sword with <i>perfectly</i> aligned lore",
-      "Tag",
+      "Weapon, Lore",
       "<a href=../nbt/items/nbt/Paracesis.nbt download>NBT</a>"
     ],
     [
       "Potions",
       "Unknown Author",
       "Armor stand wearing 127 stacked armorstands, that hold 'Yeet' and 'Feed' potions, plus 'Toe' totems",
-      "Tag",
+      "Armorstand, Potion",
       "<a href=../nbt/items/nbt/PotionsArmorstand.nbt download>NBT</a>"
     ],
     [
       "Shroomp + Rick Roll",
       "Yurni",
       "Armorstand designed to repel a player named Kanst",
-      "Tag",
+      "Armorstand, Meme",
       "<a href=../nbt/items/nbt/Shroomp+RickRoll.nbt download>NBT</a>"
     ],
     [
       "Smoke Grenade Launchers",
       "xPkz_",
       "Single-use crossbow that launches smoke grenade fireworks",
-      "Tag",
+      "Weapon, Firework",
       "<a href=../nbt/items/nbt/SmokeGrenadeLaunchers.nbt download>NBT</a>"
     ],
     [
       "Water Mark",
       "OperatorTheDope",
       "Your very own Mr. Water!",
-      "Tag",
+      "Potion, Lore, Meme",
       "<a href=../nbt/items/nbt/WaterMark.nbt download>NBT</a>"
     ],
     [
       "Axe of Shch",
       "antigamesm12",
       "Diamond axe bound to the russian letter Shch",
-      "Tag",
+      "Weapon",
       "<a href=../nbt/items/nbt/AxeOfShch.nbt download>NBT</a>"
     ],
     [
       "Carlian Mithril Infusion",
       "quack95",
       "Netherite axe with a lot of lore",
-      "Tag",
+      "Weapon, Lore",
       "<a href=../nbt/items/nbt/CarlianMithrilInfusion.nbt download>NBT</a>"
     ],
     [
       "Lover's Wings",
       "Yurni",
       "Elytra with the permanent effect of your soul being owned by Aeluraydak when worn",
-      "Tag",
+      "Elytra",
       "<a href=../nbt/items/nbt/LoversWings.nbt download>NBT</a>"
     ],
     [
       "Navy Seal Copypasta in Chinese",
       "Unknown Author",
       "The entire Navy Seal copypasta, but in Chinese",
-      "Tag",
+      "Lore, Meme",
       "<a href=../nbt/items/nbt/NavySealCopypastaInChinese.nbt download>NBT</a>"
     ],
     [
       "Rock, Paper, Beacon? &#11088;",
       "Yurni",
       "Beacon that will crash Paper servers",
-      "Tag",
+      "Exploit",
       "<a href=../nbt/items/nbt/RockPaperBeacon.nbt download>NBT</a>"
     ],
     [
       "Fluoroantimonic Acid (HF + SbF5) &#11088;",
       "Unknown Author",
       "Potion with very very cool lore",
-      "Tag",
+      "Potion, Lore",
       "<a href=../nbt/items/nbt/FluoroantimonicAcid.nbt download>NBT</a>"
     ],
     [
       "Sinaka",
       "Unknown Author",
       "Sinaka (\"Blood Flower\" in old Unsgrakon) is an ancient item that drained the souls of its owners",
-      "Tag",
+      "Lore, Misc",
       "<a href=../nbt/items/nbt/Sinaka.nbt download>NBT</a>"
     ],
     [
