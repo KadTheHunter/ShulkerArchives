@@ -1571,7 +1571,7 @@
     [
       "Draconic Containment Unit",
       "Unknown Author",
-      "Draonic Containment Unit",
+      "Draconic Containment Unit",
       "Tag",
       "<a href=nbt/kits/nbt/DraconicContainmentUnit.nbt download>NBT</a>"
     ],
@@ -1594,7 +1594,7 @@
       "Unknown Author",
       "Element Box",
       "Tag",
-      "<a href=nbt/kits/nbt/ElememtBox.nbt download>NBT</a>"
+      "<a href=nbt/kits/nbt/ElementBox.nbt download>NBT</a>"
     ],
     [
       "Ember Kit",
@@ -8249,7 +8249,7 @@
     [
       "Tesla's Wormhole Draft",
       "txsla",
-      "Draft of Teslas Wormhole barrel",
+      "Draft of Tesla's Wormhole barrel",
       "Tag",
       "<a href=nbt/kits/nbt/TeslasWormholeDraft.nbt download>NBT</a>"
     ],
@@ -8515,7 +8515,7 @@
     [
       "Kill Aura Box",
       "Kaninchenfurz24",
-      "Command Blocks for Killaura Item and Killaura itself",
+      "Command Blocks for Kill-aura Item and Kill-aura itself",
       "Command Block, PvP",
       "<a href=nbt/kits/nbt/KilLAuraBox.nbt download>NBT</a>"
     ],
@@ -8529,7 +8529,7 @@
     [
       "Map Maker Kit",
       "CkreaM (?)",
-      "Useful tools for mapmaking",
+      "Useful tools for map-making",
       "Utility",
       "<a href=nbt/kits/nbt/MapMakerKit.nbt download>NBT</a>"
     ],
@@ -8634,7 +8634,7 @@
     [
       "Tesla's Wormhole",
       "_txsla",
-      "Teslas take on the Wormhole trend, containing shulkers of Armor, Weapons, Items, Other, Spells v3.5wh, Spawners, Utilities, and two command blocks to power special features",
+      "Tesla's take on the Wormhole trend, containing shulkers of Armor, Weapons, Items, Other, Spells v3.5wh, Spawners, Utilities, and two command blocks to power special features",
       "Collection, Utility, Command Block",
       "<a href=nbt/kits/nbt/TeslasWormhole.nbt download>NBT</a>"
     ],
