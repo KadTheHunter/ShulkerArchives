@@ -493,3 +493,7 @@ input {
     font-family: 'Lucida Console', sans-serif;
     font-size: 14px;
 }
+
+.footer a {
+    color: var(--alttext);
+}
