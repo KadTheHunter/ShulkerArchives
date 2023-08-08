@@ -102,14 +102,14 @@
       "Boar's Aegis",
       "Unknown Author",
       "Golden Armor, part of Boar's set",
-      "Armor",
+      "Armor, Set",
       "<a href=../nbt/items/nbt/BoarsAegis.nbt download>NBT</a>"
     ],
     [
       "Boar's Boots",
       "Unknown Author",
       "Golden Armor, part of Boar's set",
-      "Armor",
+      "Armor, Set",
       "<a href=../nbt/items/nbt/BoarsBoots.nbt download>NBT</a>"
     ],
     [
@@ -165,14 +165,14 @@
       "Boar's Legs",
       "Unknown Author",
       "Leather Armor, part of Boar's set",
-      "Armor",
+      "Armor, Set",
       "<a href=../nbt/items/nbt/BoarsLegs.nbt download>NBT</a>"
     ],
     [
       "Boar's Mask",
       "Unknown Author",
       "Boar Head, part of Boar's set",
-      "Armor",
+      "Armor, Set",
       "<a href=../nbt/items/nbt/BoarsMask.nbt download>NBT</a>"
     ],
     [
@@ -340,14 +340,14 @@
       "Fish Head &#11088;",
       "Unknown Author",
       "The head of a fish. Place alongside the tail for a whole fish :D",
-      "Player Head",
+      "Player Head, Set",
       "<a href=../nbt/items/nbt/FishHead.nbt download>NBT</a>"
     ],
     [
       "Fish Tail &#11088;",
       "Unknown Author",
       "The tail of a fish. Place alongside the head for a whole fish :D",
-      "Player Head",
+      "Player Head, Set",
       "<a href=../nbt/items/nbt/FishTail.nbt download>NBT</a>"
     ],
     [
@@ -466,28 +466,28 @@
       "Inferno Zealot Helm &#11088;",
       "Unknown Author",
       "Helmet from the Inferno Zealot set",
-      "Armor",
+      "Armor, Set",
       "<a href=../nbt/items/nbt/InfernoZealotHelm.nbt download>NBT</a>"
     ],
     [
       "Inferno Zealot Cuirass &#11088;",
       "Unknown Author",
       "Chestplate from the Inferno Zealot set",
-      "Armor",
+      "Armor, Set",
       "<a href=../nbt/items/nbt/InfernoZealotCuirass.nbt download>NBT</a>"
     ],
     [
       "Inferno Zealot Greaves &#11088;",
       "Unknown Author",
       "Leggings from the Inferno Zealot set",
-      "Armor",
+      "Armor, Set",
       "<a href=../nbt/items/nbt/InfernoZealotGreaves.nbt download>NBT</a>"
     ],
     [
       "Inferno Zealot Boots &#11088;",
       "Unknown Author",
       "Boots from the Inferno Zealot set",
-      "Armor",
+      "Armor, Set",
       "<a href=../nbt/items/nbt/InfernoZealotBoots.nbt download>NBT</a>"
     ],
     [
@@ -1012,14 +1012,14 @@
       "techHead",
       "techiemaster2005",
       "Error 404: Item Description Not Found. Please ask techiemaster2005",
-      "Player Head, Lore",
+      "Player Head, Lore, Set",
       "<a href=../nbt/items/nbt/techHead.nbt download>NBT</a>"
     ],
     [
       "techSword",
       "techiemaster2005",
       "Iron sword with excellent lore, and some interesting custom enchants",
-      "Weapon, Lore",
+      "Weapon, Lore, Set",
       "<a href=../nbt/items/nbt/techSword.nbt download>NBT</a>"
     ],
     [
@@ -2762,42 +2762,42 @@
       "Praetor Helm",
       "Unknown Author",
       "Praetor Helmet from DOOM",
-      "Themed, Armor, Lore",
+      "Armor, Themed, Set",
       "<a href=../nbt/items/nbt/DOOMSet-PraetorHelm.nbt download>NBT</a>"
     ],
     [
       "Praetor Cuirass",
       "Unknown Author",
       "Praetor Chestplate from DOOM",
-      "Themed, Armor, Lore",
+      "Armor, Themed, Set",
       "<a href=../nbt/items/nbt/DOOMSet-PraetorCuirass.nbt download>NBT</a>"
     ],
     [
       "Praetor Chausses",
       "Unknown Author",
       "Prateor Leg Armor from DOOM",
-      "Themed, Armor, Lore",
+      "Armor, Themed, Set",
       "<a href=../nbt/items/nbt/DOOMSet-PraetorChausses.nbt download>NBT</a>"
     ],
     [
       "Praetor Sollerets",
       "Unknown Author",
       "Praetor Boots from DOOM",
-      "Themed, Armor, Lore",
+      "Armor, Themed, Set",
       "<a href=../nbt/items/nbt/DOOMSet-PraetorSollerets.nbt download>NBT</a>"
     ],
     [
       "The Crucible",
       "Unknown Author",
       "Crucible Blade from DOOM",
-      "Themed, Lore",
+      "Themed, Set",
       "<a href=../nbt/items/nbt/DOOMSet-TheCrucible.nbt download>NBT</a>"
     ],
     [
       "Vortex Rifle",
       "Unknown Author",
       "Vortex Rifle from DOOM",
-      "Themed, Weapon, Lore",
+      "Themed, Weapon, Set",
       "<a href=../nbt/items/nbt/.nbt download>NBT</a>"
     ],
     [
