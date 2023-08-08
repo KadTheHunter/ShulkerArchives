@@ -2841,6 +2841,62 @@
       "Command Block addon for _txsla's Wormhole",
       "Command Block",
       "<a href=../nbt/items/nbt/WormholeArmorWormholeAddon.nbt download>NBT</a>"
+    ],
+    [
+      "Invisi-Soup",
+      "AfkUser",
+      "Suspicious stew that gives you infinite invisibility",
+      "Misc, Potion",
+      "<a href=../nbt/items/nbt/Invisi-Soup.nbt download>NBT</a>"
+    ],
+    [
+      "Luneiter's Head",
+      "Luneiter",
+      "Head of Luneiter with lots of custom enchants and nice lore",
+      "Player Head, Lore, Set",
+      "<a href=../nbt/items/nbt/LuneitersHead.nbt download>NBT</a>"
+    ],
+    [
+      "Luneiter's Wings",
+      "Luneiter",
+      "Elytra with lots of custom enchants and nice lore",
+      "Elytra, Lore, Set",
+      "<a href=../nbt/items/nbt/LuneitersWing.nbt download>NBT</a>"
+    ],
+    [
+      "Luneiter's Stealth",
+      "Luneiter",
+      "Gold leggings with lots of custom enchants and nice lore",
+      "Armor, Lore, Set",
+      "<a href=../nbt/items/nbt/LuneitersStealth.nbt download>NBT</a>"
+    ],
+    [
+      "Luneiter's Speed",
+      "Luneiter",
+      "Netherite boots with lots of custom enchants and nice lore",
+      "Armor, Lore, Set",
+      "<a href=../nbt/items/nbt/LuneitersSpeed.nbt download>NBT</a>"
+    ],
+    [
+      "Luneiter's Power",
+      "Luneiter",
+      "Bundle containing an armorstand wearing Luneiters armor and holding a box of weapons",
+      "Bundle, Lore, Set",
+      "<a href=../nbt/items/nbt/LuneitersPower.nbt download>NBT</a>"
+    ],
+    [
+      "Merciless Furry Murderer",
+      "Unknown Author",
+      "Iron sword used to murder furrys",
+      "Weapon, Lore",
+      "<a href=../nbt/items/nbt/MercilessFurryMurderer.nbt download>NBT</a>"
+    ],
+    [
+      "Nutrition Deprivation Potion",
+      "AfkUser",
+      "Splash potion that rapidly depletes your hunger",
+      "Potion",
+      "<a href=../nbt/items/nbt/NutritionDeprivationPotion.nbt download>NBT</a>"
     ]
   ]
 }

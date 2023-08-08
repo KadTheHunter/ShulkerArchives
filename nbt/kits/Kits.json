@@ -8679,6 +8679,153 @@
       "Misc. armor, weapons and items",
       "Collection, Misc",
       "<a href=nbt/kits/nbt/ShadowLightGalaxyKit.nbt download>NBT</a>"
+    ],
+    [
+      "MrT1's PvP Box",
+      "MrT1_",
+      "Netherite armor & tools, potions, arrows and totems",
+      "PvP",
+      "<a href=nbt/kits/nbt/MrT1sPvPBox.nbt download>NBT</a>"
+    ],
+    [
+      "MrT1's PvP Box (Legacy)",
+      "MrT1_",
+      "Netherite armor & tools, potions, arrows and totems. Identical to \"MrT1's PvP Box\" except for the name",
+      "PvP",
+      "<a href=nbt/kits/nbt/MrT1sPvPBox(Legacy).nbt download>NBT</a>"
+    ],
+    [
+      "MrT1's Minimal PvP Kit",
+      "MrT1_",
+      "The minimal amount of items needed for NBT PvP",
+      "PvP",
+      "<a href=nbt/kits/nbt/MrT1sMinimalPvPKit.nbt download>NBT</a>"
+    ],
+    [
+      "OPERATOR KIT",
+      "Unknown Author",
+      "Netherite armor & tools, gapples, fireworks, bedrock",
+      "PvP",
+      "<a href=nbt/kits/nbt/OPERATORKIT.nbt download>NBT</a>"
+    ],
+    [
+      "i71s' Skyblock Weapons",
+      "i71s",
+      "Collection of 22 weapons from Hypixel Skyblock",
+      "Hypixel",
+      "<a href=nbt/kits/nbt/i71sSkyblockWeapons.nbt download>NBT</a>"
+    ],
+    [
+      "The Crazy Kit V1",
+      "Fuzzalrdin_",
+      "Various pieces of armor and items with enchants and custom names",
+      "Misc, Collection",
+      "<a href=nbt/kits/nbt/TheCrazyKitV1.nbt download>NBT</a>"
+    ],
+    [
+      "Monkey Gear",
+      "Unknown Author",
+      "Leather armor and elytra with a Monkey theme",
+      "Themed, Lore, PvP",
+      "<a href=nbt/kits/nbt/MonkeyGear.nbt download>NBT</a>"
+    ],
+    [
+      "Practical Items 2.0 &#11088;",
+      "Chargefruit",
+      "Various items useful for building and item making",
+      "Utility, Collection",
+      "<a href=nbt/kits/nbt/PracticalItems2.0byChargefruit.nbt download>NBT</a>"
+    ],
+    [
+      "Anarchist's Kit 3.0 &#11088;",
+      "Chargefruit",
+      "ForceOP, Griefing, Trolling, Command and Crash items made by Chargefruit",
+      "Griefing, ForceOP, Collection",
+      "<a href=nbt/kits/nbt/AnarchistsKit3.0byChargefruit.nbt download>NBT</a>"
+    ],
+    [
+      "Far Kit VI &#11088;",
+      "MarioKartWii",
+      "Sixth entry in the Far Kit line, containing not just the usual amazing lore, but a brand new Spigot/Bukkit exploit",
+      "Lore, Utility, MKW",
+      "<a href=nbt/kits/nbt/FarKitVI.nbt download>NBT</a>"
+    ],
+    [
+      "Baseline Kit v1",
+      "MrT1_",
+      "Netherite armor and tools, potions, and various PvP items all with baseline enchants, intended for Kit-Making",
+      "Utility, PvP",
+      "<a href=nbt/kits/nbt/BaselineKitv1.nbt download>NBT</a>"
+    ],
+    [
+      "Sonic Boom Sword",
+      "Unknown Author",
+      "Command blocks and an iron sword",
+      "Command Block, PvP",
+      "<a href=nbt/kits/nbt/SonicBoomSword.nbt download>NBT</a>"
+    ],
+    [
+      "Puschyys 2 Kit",
+      "Leather armor, netherite sword, totems, pearls, gapples and a pickaxe",
+      "ProfPuschy",
+      "PvP",
+      "<a href=nbt/kits/nbt/Puschyys2Kit.nbt download>NBT</a>"
+    ],
+    [
+      "Puschyys Shulker",
+      "ProfPuschy",
+      "Various items created by Puschy",
+      "Misc, Collection",
+      "<a href=nbt/kits/nbt/PuschyysShulker.nbt download>NBT</a>"
+    ],
+    [
+      "Nebula Shulker",
+      "Unknown Author",
+      "Trimmed Netherite armor, plus netherite sword, banner and shieldbanner for a faction called Nebula",
+      "PvP, Themed, Lore",
+      "<a href=nbt/kits/nbt/NebulaShulker.nbt download>NBT</a>"
+    ],
+    [
+      "The Ultimate Technoblade",
+      "Luneiter",
+      "Spawn egg and command blocks to summon Technoblade",
+      "Eggs, Command Block",
+      "<a href=nbt/kits/nbt/TheUltimateTechnoblade.nbt download>NBT</a>"
+    ],
+    [
+      "Ghostghxx KIT V2",
+      "Ghostghxx",
+      "Netherite armor, diamond sword, bows, totems, obisidan, crystals, and some misc items",
+      "PvP, Misc",
+      "<a href=nbt/kits/nbt/GhostghxxKitV2.nbt download>NBT</a>"
+    ],
+    [
+      "Ghostghxx kit",
+      "Ghostghxx",
+      "Netherite weapons, bows, egapples, obsidian, crystals, and some books",
+      "PvP, Misc",
+      "<a href=nbt/kits/nbt/GhostghxxKit.nbt download>NBT</a>"
+    ],
+    [
+      "Negrus Kit",
+      "Unknown Author",
+      "Leather armor, netherite sword, pearls, totems, egapples, pickaxe and Knockback Stick",
+      "PvP",
+      "<a href=nbt/kits/nbt/NegrusKit.nbt download>NBT</a>"
+    ],
+    [
+      "Dream Kit",
+      "Unknown Author",
+      "Leather armor, diamond sword & pickaxe, various items all renamed to \"Dream {NAME}\"",
+      "Misc",
+      "<a href=nbt/kits/nbt/DreamKit.nbt download>NBT</a>"
+    ],
+    [
+      "Holy Kit",
+      "ZueserTerminator",
+      "Netherite armor, iron sword, gold pickaxe, bows, totems, potions",
+      "PvP, Themed",
+      "<a href=nbt/kits/nbt/HolyKit.nbt download>NBT</a>"
     ]
   ]
 }
