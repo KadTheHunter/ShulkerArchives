@@ -19,8 +19,7 @@ There are extensions and exceptions to this rule:
 - Kits whose names are suffixed with the name of the author may be exported without that suffix, *provided* that the kits name is unique. Examples are as follows:
   - "King of The Gods V2 by Z_cu" can be exported as "KingOfTheGodsV2", because the name is unique enough that it likely will not conflict with other entries.
   - "Spawn Eggs by Chargefruit" must be exported as "SpawnEggsbyChargefruit", because the name is not unique enough, and has a high likelihood of conflicting if there is no additional identifier such as the author (in this case, "by Chargefruit").
-- Items that are exported individually but combined form a set may be prefixed or suffixed with an identifier to mark them as such.
-  - This identifier should be clear and concise; For a set of armor and two weapons that form a Doomslayer's Praetor Suit and Weapons, simply add "DOOMSet-{Name}" or "{Name}-DOOMSet". It is best to use a suffix rather than prefix, in order to make file audits easier.
+
 ## Entry Names
 Entry names should match the in-game name *and* file name as closely as possible, including any characters found on a standard english keyboard, excluding any characters *not* found on a standard english keyboard. 
 - All extensions and exceptions for File Names apply to Entry Names as well.
@@ -60,11 +59,11 @@ You may create new unique tags as needed, but *please* make sure no other existi
 - All tags must be separated by a comma and space (`, `)
 - No more than three tags should be applied to any given entry; In some special cases four will be allowed, but please avoid adding a fourth in general
 - Tags should be listed in order of relevancy. A kit of leather armor and diamond weapons, with aquatic themed lore and name but little enchantment or attribute modification should be tagged first with 'Themed', and second with 'PvP'; No other tags directly apply, so no more are added.
-
+- Items that are exported individually but combined form a set should be tagged with 'Set'.
 ## .nbt links
 .nbt links point directly to the .nbt file to download. Using the templates linked above, all you will need to do is fill in the file name itself. 
 
-Please double-check and ensure that the filename is correct; They are case sensitive, so a swapped capital/lowercase letter could break things!
+Please double-check and ensure that the filename is correct; They are case sensitive, so a swapped capital/lowercase letter will break things!
 
 # Code Contributions
 Code contributions rather ironically follow a less strict set of guidelines than Kit Entries; Below is a short list of expectations for contributed code:
