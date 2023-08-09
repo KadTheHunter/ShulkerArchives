@@ -11,7 +11,7 @@
       "Achromos &#11088;",
       "Feueristic",
       "A chest with a very cool sword named Αχρωμος.",
-      "Tag",
+      "Lore, Misc",
       "<a href=nbt/kits/nbt/Achromos.nbt download>NBT</a>"
     ],
     [
@@ -25,14 +25,14 @@
       "Weasley's Wildfire Whiz-Bangs | Deflagration Deluxe Edition &#11088;",
       "Kadalyst",
       "A collection of the best custom fireworks",
-      "Utility",
+      "Utility, Fireworks",
       "<a href=nbt/kits/nbt/WeasleysWildfireWhizbangsDeflagDeluxe.nbt download>NBT</a>"
     ],
     [
       "Xelion Tripex Axe",
       "quack95",
       "An armor stand holding a cool axe",
-      "Tag",
+      "Lore, Misc",
       "<a href=nbt/kits/nbt/XelionTripexAxe.nbt download>NBT</a>"
     ],
     [
@@ -46,567 +46,560 @@
       "Kit From The Orange Sands",
       "twoeighths",
       "A full kit with an orange theme.",
-      "Tag",
+      "Themed, PvP",
       "<a href=nbt/kits/nbt/KitFromTheOrangeSands.nbt download>NBT</a>"
     ],
     [
       "MPD Kit | KaddicusAlmighty Edition &#11088;",
       "Kadalyst",
       "Contains the heads from different skins worn by KaddicusAlmighty, each with special effects",
-      "Tag",
+      "Misc, Lore",
       "<a href=nbt/kits/nbt/MPDKitKaddicusEdition.nbt download>NBT</a>"
     ],
     [
       "P.A.X. Potion Crate",
       "Fleshly",
       "A collection of 27 potions with unique and fairly deadly effects",
-      "Tag",
+      "Potions",
       "<a href=nbt/kits/nbt/P.A.X.PotionCrate.nbt download>NBT</a>"
     ],
     [
       "videogamesm12 Kit",
       "renzothehottie",
       "A kit based off the legendary TotalFreedom Admin, Developer and Owner 'videogamesm12'",
-      "Tag",
+      "Misc, Meme",
       "<a href=nbt/kits/nbt/videogamesm12Kit.nbt download>NBT</a>"
     ],
     [
       "Sudo Kit",
       "OperatorTheDope",
       "A PvP/Troll kit based off the <code>sudo</code> command",
-      "Tag",
+      "PvP, Themed",
       "<a href=nbt/kits/nbt/SudoKit.nbt download>NBT</a>"
     ],
     [
       "Sudo Kit v2",
       "OperatorTheDope",
       "A PvP/Troll kit based off the <code>sudo</code> command",
-      "Tag",
+      "PvP, Themed",
       "<a href=nbt/kits/nbt/SudoKitv2.nbt download>NBT</a>"
     ],
     [
       "Sudo Kit v3",
       "OperatorTheDope",
       "A PvP/Troll kit based off the <code>sudo</code> command",
-      "Tag",
+      "PvP, Themed",
       "<a href=nbt/kits/nbt/SudoKitv3.nbt download>NBT</a>"
     ],
     [
       "Sudo Kit v4",
       "TheRickPower978, OperatorTheDope",
       "A PvP/Troll kit based off the <code>sudo</code> command",
-      "Tag",
+      "PvP, Themed",
       "<a href=nbt/kits/nbt/SudoKitv4.nbt download>NBT</a>"
     ],
     [
       "Fake Operating System (假操作系统)",
       "OperatorTheDope",
-      "Fake Operating System",
-      "Tag",
-      "<a href=nbt/kits/nbt/假操作系统.nbt download>NBT</a>"
+      "Anvil, Sword and 2 potions designed to be like a Fake Operating System",
+      "Meme, PvP",
+      "<a href=nbt/kits/nbt/FakeOperatingSystem.nbt download>NBT</a>"
     ],
     [
       "RyanUwU",
       "RyanUwU",
-      "RyanUwU Kit",
-      "Tag",
+      "Building utilities, items and eggs",
+      "Misc, Utility",
       "<a href=nbt/kits/nbt/RyanUwU.nbt download>NBT</a>"
     ],
     [
       "RyanUwU 2",
       "RyanUwU",
-      "RyanUwU Kit 2",
-      "Tag",
+      "Building utilities, items and eggs",
+      "Misc, Utility",
       "<a href=nbt/kits/nbt/RyanUwU2.nbt download>NBT</a>"
     ],
     [
       "RyanUwU 3 (Bee Box 1.15)",
       "RyanUwU",
-      "RyanUwU Kit 3 (Bee Box 1.15)",
-      "Tag",
+      "Bee utilities",
+      "Misc, Utility",
       "<a href=nbt/kits/nbt/RyanUwU3.nbt download>NBT</a>"
     ],
     [
-      "RyanUwU 4 (HD Heads)",
+      "RyanUwU 4",
       "RyanUwU",
-      "RyanUwU Kit 4 (HD Heads)",
-      "Tag",
+      "HD Heads and Spawn Eggs",
+      "HD Heads, Eggs",
       "<a href=nbt/kits/nbt/RyanUwU4.nbt download>NBT</a>"
     ],
     [
-      "RyanUwU 5 (Nether Box)",
+      "RyanUwU 5 (Nether Box 1.16)",
       "RyanUwU",
-      "RyanUwU Kit 5 (Nether Box)",
-      "Tag",
+      "Building utilities, items and eggs",
+      "Misc, Utility",
       "<a href=nbt/kits/nbt/RyanUwU5.nbt download>NBT</a>"
     ],
     [
       "RyanUwU 6 (HD Heads 2)",
       "RyanUwU",
-      "RyanUwU Kit 6 (HD Heads 2)",
-      "Tag",
+      "HD Heads and a handful of political banners",
+      "HD Heads",
       "<a href=nbt/kits/nbt/RyanUwU6.nbt download>NBT</a>"
     ],
     [
       "Rainbow Horse Armor",
       "RyanUwU",
-      "Contains custom colored horse armor in rainbow colors",
-      "Tag",
+      "Custom colored horse armor in rainbow colors",
+      "Misc",
       "<a href=nbt/kits/nbt/RainbowHorseArmor.nbt download>NBT</a>"
     ],
     [
       "Rainbow Potions",
       "RyanUwU",
-      "Contains custom colored Potions in rainbow colors",
-      "Tag",
+      "Custom colored Potions in rainbow colors",
+      "Potions, Misc",
       "<a href=nbt/kits/nbt/RainbowPotions.nbt download>NBT</a>"
     ],
     [
       "Rainbow Lingering Potions",
       "RyanUwU",
-      "Contains custom colored Lingering Potions in rainbow colors",
-      "Tag",
+      "Custom colored Lingering Potions in rainbow colors",
+      "Potions, Misc",
       "<a href=nbt/kits/nbt/RainbowLingeringPotions.nbt download>NBT</a>"
     ],
     [
       "Rainbow Maps & Arrows",
       "RyanUwU",
-      "Contains custom colored Maps & Arrows in rainbow colors",
-      "Tag",
+      "Custom colored Maps & Arrows in rainbow colors",
+      "Misc, Utility",
       "<a href=nbt/kits/nbt/RainbowMaps&Arrows.nbt download>NBT</a>"
     ],
     [
       "Rainbow Helmets & Chestplates",
       "RyanUwU",
-      "Contains custom colored Helmets & Chestplates in rainbow colors",
-      "Tag",
+      "Custom colored Helmets & Chestplates in rainbow colors",
+      "Misc",
       "<a href=nbt/kits/nbt/RainbowHelmets&Chestplates.nbt download>NBT</a>"
     ],
     [
       "Rainbow Leggings & Boots",
       "RyanUwU",
-      "Contains custom colored Leggings & Boots in rainbow colors",
-      "Tag",
+      "Custom colored Leggings & Boots in rainbow colors",
+      "Misc",
       "<a href=nbt/kits/nbt/RainbowLeggings&Boots.nbt download>NBT</a>"
     ],
     [
       "Your Dinner!",
       "Unknown Author",
       "A healthy dinner, complete with tableware & cutlery",
-      "Tag",
+      "Lore, Meme",
       "<a href=nbt/kits/nbt/YourDinner!.nbt download>NBT</a>"
     ],
     [
       "Ultimate Elements",
       "Unknown Author",
       "Contains the Ultimate Elements",
-      "Tag",
+      "Meme",
       "<a href=nbt/kits/nbt/UltimateElements.nbt download>NBT</a>"
     ],
     [
       "Pride Flag/Shields",
       "Unknown Author",
       "Contains various LGBT flags attached to shields",
-      "Tag",
+      "Misc",
       "<a href=nbt/kits/nbt/PrideFlagShields.nbt download>NBT</a>"
     ],
     [
       "KELICORP ENVIRO™ Suit Package",
       "keli5",
       "ENVIRO™ Suit Package made for KELICORP Personnel",
-      "Tag",
+      "RolePlay, Lore",
       "<a href=nbt/kits/nbt/KELICORPENVIROSuitPackage.nbt download>NBT</a>"
     ],
     [
       "keli5's Music Kit",
       "keli5",
       "A kit with music discs relabeled as other songs, with lyrics in the lore.",
-      "Tag",
+      "Lore, Misc",
       "<a href=nbt/kits/nbt/keli5sMusicKit.nbt download>NBT</a>"
     ],
     [
       "20w14inf",
       "antigamesm12",
       "Has a set of mysterious books, and a sword called Stabby McStabface",
-      "Tag",
+      "Misc",
       "<a href=nbt/kits/nbt/20w14inf.nbt download>NBT</a>"
     ],
     [
       "Farmers Kit",
       "Unknown Author",
       "Everything a farmer needs",
-      "Tag",
+      "Lore, Meme",
       "<a href=nbt/kits/nbt/FarmersKit.nbt download>NBT</a>"
     ],
     [
       "3gg Utility Create",
       "Unknown Author",
       "Misc. Utilities",
-      "Tag",
+      "Griefing, ForceOP",
       "<a href=nbt/kits/nbt/3ggUtilityCrate.nbt download>NBT</a>"
     ],
     [
       "Emerald Armor",
       "Unknown Author",
       "Contains Emerald colored armor, and an HD emerald head",
-      "Tag",
+      "Misc, HD Heads",
       "<a href=nbt/kits/nbt/EmeraldArmor.nbt download>NBT</a>"
     ],
     [
       "Wet Kit",
       "SuperRyn",
       "A wet/ocean themed kit",
-      "Tag",
+      "Themed, PvP",
       "<a href=nbt/kits/nbt/WetKit.nbt download>NBT</a>"
     ],
     [
       "Purge Kit",
       "Unknown Author",
       "Digital Piracy themed Kit",
-      "Tag",
+      "Meme, Misc",
       "<a href=nbt/kits/nbt/PurgeKit.nbt download>NBT</a>"
     ],
     [
       "My Custom Items",
       "Unknown Author",
       "A collection of custom items and heads",
-      "Tag",
+      "Meme, Collection, Junk",
       "<a href=nbt/kits/nbt/MyCustomItems.nbt download>NBT</a>"
     ],
     [
       "MessyJessy05's box of girly stuff",
       "MessyJessy05",
       "A box of cute and girly items",
-      "Tag",
+      "Misc, Collection, Junk",
       "<a href=nbt/kits/nbt/MessyJessy05sBoxOfGirlyStuff.nbt download>NBT</a>"
     ],
     [
       "Pickaxe Box",
       "Unknown Author",
       "Contains various custom pickaxes",
-      "Tag",
+      "Misc, Junk",
       "<a href=nbt/kits/nbt/PickaxeBox.nbt download>NBT</a>"
     ],
     [
       "Creeper - AWW man",
       "Unknown Author",
       "Creeper - AWW man",
-      "Tag",
+      "Meme, Misc",
       "<a href=nbt/kits/nbt/CreeperAwwMan.nbt download>NBT</a>"
     ],
     [
       "Gmod Weapons",
       "Caketaco",
       "Three Gmod Weapons",
-      "Tag",
+      "Misc",
       "<a href=nbt/kits/nbt/GmodWeapons.nbt download>NBT</a>"
     ],
     [
       "MYC Minifigures I",
       "OperatorTheDope",
       "Contains 9 Shibe armorstands",
-      "Tag",
+      "Misc",
       "<a href=nbt/kits/nbt/MYCMinifiguresI.nbt download>NBT</a>"
     ],
     [
       "Fish Finger Holder",
       "Unknown Author",
       "Exactly 1,728 roasted fish fingers",
-      "Tag",
+      "Meme, Misc",
       "<a href=nbt/kits/nbt/FishFingerHolder.nbt download>NBT</a>"
     ],
     [
       "Shiram's Honeyed Kit",
       "Unknown Author",
       "A Honey themed Kit",
-      "Tag",
+      "Themed, PvP",
       "<a href=nbt/kits/nbt/ShiramsHoneyedKit.nbt download>NBT</a>"
     ],
     [
       "Dat_Cats Items",
       "Dat_Internet_Cat",
       "Misc Items made by Dat_Internet_Cat",
-      "Tag",
+      "Misc, Collection, Junk",
       "<a href=nbt/kits/nbt/Dat_CatsItems.nbt download>NBT</a>"
     ],
     [
       "elementary Breeze v2 &#11088;",
       "iceyou",
       "A relatively advanced personal kit",
-      "Tag",
+      "PvP, Utility",
       "<a href=nbt/kits/nbt/elementaryBreezev2.nbt download>NBT</a>"
     ],
     [
       "[ C0D0 Kit ]",
       "Unknown Author",
       "C0D0 Sword & Armor",
-      "Tag",
+      "PvP",
       "<a href=nbt/kits/nbt/C0D0Kit.nbt download>NBT</a>"
     ],
     [
       "THESENSE | RECRUIT",
       "Unknown Author",
       "A recruit kit for TheSense. Join TheSense",
-      "Tag",
+      "PvP",
       "<a href=nbt/kits/nbt/THESENSERECRUIT.nbt download>NBT</a>"
     ],
     [
       "Blue's Kit of Madness",
       "Unknown Author",
       "A kit that contains armor with insane attributes and over-powered swords.",
-      "Tag",
+      "PvP, Junk",
       "<a href=nbt/kits/nbt/BluesKitOfMadness.nbt download>NBT</a>"
     ],
     [
       "Cosmic HER0 Pack",
       "Suitch",
       "The legendary, truly over-powered, Cosmic HER0 Pack.",
-      "Tag",
+      "PvP",
       "<a href=nbt/kits/nbt/CosmicHER0Pack.nbt download>NBT</a>"
     ],
     [
       "DashTheDevilDog Brand Tranquilizer Equipment",
       "DashTheDevilDog",
       "A kit containing a crossbow and 4 stacks of arrows that weakens your enemy.",
-      "Tag",
+      "PvP, Misc",
       "<a href=nbt/kits/nbt/DashTheDevilDogBrandTranqEquipment.nbt download>NBT</a>"
     ],
     [
       "EMP Kit",
       "Unknown Author",
       "A basic PvP kit, contains crossbow, fireworks, OP armor, a stick and a shield.",
-      "Tag",
+      "PvP",
       "<a href=nbt/kits/nbt/EMPKit.nbt download>NBT</a>"
     ],
     [
       "NASA Kit",
       "Unknown Author",
       "NASA-inspired kit. Contains some armor and items.",
-      "Tag",
+      "RolePlay, Themed, PvP",
       "<a href=nbt/kits/nbt/NASAKit.nbt download>NBT</a>"
     ],
     [
-      "DIY Kit",
+      "DIY Kit &#11088;",
       "Unknown Author",
       "A kit that contains armor made out of cardboard and some tools.",
-      "Tag",
+      "Themed, Lore, RolePlay",
       "<a href=nbt/kits/nbt/DIYKit.nbt download>NBT</a>"
     ],
     [
       "lol 2.0",
       "MorganAnkan",
       "Lots and lots of pixel art lore",
-      "Tag",
+      "Loreart",
       "<a href=nbt/kits/nbt/lol2.0.nbt download>NBT</a>"
     ],
     [
       "RainbowPots",
       "Unknown Author",
       "Rainbow Colored Lingering Potions",
-      "Tag",
+      "Potions, Misc",
       "<a href=nbt/kits/nbt/RainbowPots.nbt download>NBT</a>"
     ],
     [
       "Multicolored Potions",
       "Unknown Author",
       "Multicolored Potions",
-      "Tag",
+      "Potions, Misc",
       "<a href=nbt/kits/nbt/MulticoloredPotions.nbt download>NBT</a>"
     ],
     [
       "Jack's Hacked Items",
       "Unknown Author",
       "Contains 4 potions and binoculars.",
-      "Tag",
+      "Misc, Collection",
       "<a href=nbt/kits/nbt/JacksHackedItems.nbt download>NBT</a>"
     ],
     [
       "Gem Box",
       "Unknown Author",
       "Contains Dragon Armor (epic) and some non-existant ores.",
-      "Tag",
+      "Themed, Misc",
       "<a href=nbt/kits/nbt/GemBox.nbt download>NBT</a>"
     ],
     [
       "Lore items from TF",
       "Unknown Author",
       "Lore art items from the TotalFreedom Minecraft server.",
-      "Tag",
+      "Loreart",
       "<a href=nbt/kits/nbt/LoreitemsfromTF.nbt download>NBT</a>"
     ],
     [
       "COOLER MASTER pc case",
       "Unknown Author",
       "A \"PC Case\" which contains items with cool names.",
-      "Tag",
+      "Themed, Meme",
       "<a href=nbt/kits/nbt/COOLERMASTERpccase.nbt download>NBT</a>"
     ],
     [
       "Penis At Spawn Kit",
       "Folfy_Blue",
       "Totally contains nothing interesting.",
-      "Tag",
+      "Meme, Utility",
       "<a href=nbt/kits/nbt/PenisAtSpawnKit.nbt download>NBT</a>"
     ],
     [
       "Oclyc's Awesome Shulker Box!",
       "Oclyc",
       "Spawn eggs, lore art and other stuff.",
-      "Tag",
+      "Eggs, Collection",
       "<a href=nbt/kits/nbt/OclycsAwesomeShulkerBox.nbt download>NBT</a>"
     ],
     [
       "Light Box",
       "Unknown Author",
       "Let there be Light!",
-      "Tag",
+      "Utility",
       "<a href=nbt/kits/nbt/LightBox.nbt download>NBT</a>"
     ],
     [
       "AMOGUS KIT",
       "Unknown Author",
       "STOP POSTING ABOUT AMONG US, IM TIRED OF SEEING IT!",
-      "Tag",
+      "Meme, Themed, PvP",
       "<a href=nbt/kits/nbt/AMOGUSKIT.nbt download>NBT</a>"
     ],
     [
       "ClayCoconut Kit",
       "renzothehottie",
-      "ClayCoconut Kit",
-      "Tag",
+      "A kit based off of player ClayCoconut",
+      "Misc, Meme",
       "<a href=nbt/kits/nbt/ClayCoconutKit.nbt download>NBT</a>"
     ],
     [
       "Lyicx Kit",
       "renzothehottie",
-      "Lyicx Kit",
-      "Tag",
+      "Kit based off the funny purple bri'ish man Lyicx",
+      "Misc, Meme",
       "<a href=nbt/kits/nbt/LyicxKit.nbt download>NBT</a>"
-    ],
-    [
-      "hackworks box",
-      "Unknown Author",
-      "Some \"illegal stuff\".",
-      "Tag",
-      "<a href=nbt/kits/nbt/hackworksbox.nbt download>NBT</a>"
     ],
     [
       "Sculk Artifacts",
       "UltimEVB",
       "Contains artifacts from the deep dark",
-      "Tag",
+      "Themed, Misc",
       "<a href=nbt/kits/nbt/SculkArtifacts.nbt download>NBT</a>"
     ],
     [
       "shkler bxo &#11088;",
       "Feueristic",
       "The worst item making practices ever, all in one box! AND for the low price of FREE!",
-      "Tag",
+      "Meme, Lore",
       "<a href=nbt/kits/nbt/shklerbxo.nbt download>NBT</a>"
     ],
     [
       "Shulker Archives Advert. Kit &#11088;",
       "Kadalyst",
       "Contains all essential items for advertising The Shulker Archives",
-      "Tag",
+      "Utility",
       "<a href=nbt/kits/nbt/ShulkerArchivesAdvertKit.nbt download>NBT</a>"
     ],
     [
       "Special Research",
       "xfilez",
       "Research related to Negative Infinity Values and General Potion Theory",
-      "Tag",
+      "Utility, Misc",
       "<a href=nbt/kits/nbt/SpecialResearch.nbt download>NBT</a>"
     ],
     [
       "SPECIAL GOD APPLE BOX",
       "Unknown Author",
       "SPECIAL GOD APPLE BOX",
-      "Tag",
+      "Junk",
       "<a href=nbt/kits/nbt/SPECIALGODAPPLEBOX.nbt download>NBT</a>"
     ],
     [
       "IKEA Chest",
       "IKEA_Freezer",
       "Shulker to advertise the IKEA Club",
-      "Tag",
+      "Themed, Misc",
       "<a href=nbt/kits/nbt/IKEAChest.nbt download>NBT</a>"
     ],
     [
       "Anaconda Kit",
       "AeroAnaconda",
-      "Anaconda Kit",
-      "Tag",
+      "A variety of snake themed items and potions",
+      "Potions, Junk",
       "<a href=nbt/kits/nbt/AnacondaKit.nbt download>NBT</a>"
     ],
     [
       "Christmas Shulker",
       "Zarxana",
       "Everything needed for a Merry Christmas",
-      "Tag",
+      "Themed, Seasonal",
       "<a href=nbt/kits/nbt/ChristmasShulker.nbt download>NBT</a>"
     ],
     [
       "Christmas Ornament Kit",
       "TFTWPhoenix",
       "Everything needed to decorate your Christmas Tree",
-      "Tag",
+      "Themed, Seasonal",
       "<a href=nbt/kits/nbt/ChristmasOrnamentKit.nbt download>NBT</a>"
     ],
     [
       "Halloween",
       "Unknown Author",
       "Happy Halloween!",
-      "Tag",
+      "Themed, Seasonal",
       "<a href=nbt/kits/nbt/Halloween.nbt download>NBT</a>"
     ],
     [
       "a FUCKING kit",
       "Unknown Author",
       "a FUCKING kit with some FUCKING items in it for you to FUCKING use.",
-      "Tag",
+      "Meme, PvP",
       "<a href=nbt/kits/nbt/AFuckingKit.nbt download>NBT</a>"
     ],
     [
       "Bomb Kit",
       "Unknown Author",
       "Contains 9 NBT Bombs in the form of Mob Spawners",
-      "Tag",
+      "Griefing",
       "<a href=nbt/kits/nbt/BombKit.nbt download>NBT</a>"
     ],
     [
       "Back From the Grave v2.0",
       "GraveAwoken",
       "Contains four pieces from BFtG, plus a new Mystical Staff",
-      "Tag",
+      "Lore, Misc",
       "<a href=nbt/kits/nbt/BackFromTheGravev2.0.nbt download>NBT</a>"
     ],
     [
       "DimensionalCores",
       "LeoTheRavioli",
-      "Sussy.",
-      "Tag",
+      "Sussy Sword, Shield and Nuggets",
+      "Meme, Loreart",
       "<a href=nbt/kits/nbt/DimensionalCores(leo).nbt download>NBT</a>"
     ],
     [
       "ENFORCED",
       "Unknown Author",
       "Reinforced PvP",
-      "Tag",
+      "PvP",
       "<a href=nbt/kits/nbt/ENFORCED.nbt download>NBT</a>"
     ],
     [
       "Ferrari Kit",
       "Unknown Author",
       "Ferrari Kit",
-      "Tag",
+      "Misc, Junk",
       "<a href=nbt/kits/nbt/FerrariKit.nbt download>NBT</a>"
     ],
     [
       "FrozenFire DE Kit",
       "Unknown Author",
-      "FrozenFire DE Kit",
-      "Tag",
+      "Leather armor, Elytra and Splash Potions",
+      "PvP",
       "<a href=nbt/kits/nbt/FrozenFireDEKit.nbt download>NBT</a>"
     ],
     [
@@ -7031,7 +7024,7 @@
     [
       "Labs Essentials",
       "quack95",
-      "Keather armor, diamond weapons, fireworks and egaps",
+      "Leather armor, diamond weapons, fireworks and egaps",
       "Tag",
       "<a href=nbt/kits/nbt/LabsEssentials.nbt download>NBT</a>"
     ],
