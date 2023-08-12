@@ -18,6 +18,7 @@
     <meta charset="utf-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1"/>
     <link rel="stylesheet" href="../assets/main.min.css"/>
+    <link crossorigin="anonymous" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css" integrity="sha512-YWzhKL2whUzgiheMoBFwW8CKV4qpHQAEuvilg9FAn5VJUDwKZZxkJNuGM4XkWuk94WCrrwslk8yWNGmY1EduTA== " referrerpolicy="no-referrer" rel="stylesheet"/>
 </head>
 
 <header>
@@ -126,6 +127,139 @@
 </div>
 <script src="../assets/js/nbt-lint.min.js"></script>
 <script src="../assets/js/page.min.js"></script>
+
+<script type="text/javascript" charset="UTF-8" src="../assets/js/jquery.hotkeys.min.js"></script>
+
+<!--
+Thank fuck for Rookie in July 2012 for posting about this https://datatables.net/forums/discussion/10892/keystroke-pagination or I'd have just given up. Other posts suggesting fuckin KeyTables...
+-->
+<script>
+    $(document).ready(function() {
+        $(document).bind('keydown', 'right', function() {
+            $(".next").click();
+        });
+
+        $(document).bind('keydown', 'left', function() {
+            $(".previous").click();
+        });
+
+        $(document).bind('keydown','i', function() {
+            window.location = "../html/Items.html";
+        });
+
+        $(document).bind('keydown', 'b', function() {
+            window.location = "../html/Books.html";
+        });
+
+        $(document).bind('keydown', 'u', function() {
+            window.location = "../html/Unnamed.html";
+        });
+
+        $(document).bind('keydown', 'k', function() {
+            window.location = "../index.html";
+        });
+
+        $(document).bind('keydown', 'z', function() {
+            on();
+        })
+
+        $(document).bind('keydown', 'd', function() {
+            var table = $('#books').DataTable();
+            table.order.neutral().draw(); // Sets the table to display in the order it's written in the JSON file via order.neutral().min.js
+            table.page('last').draw('page');
+        });
+
+        $(document).bind('keydown', 'shift+d', function() {
+            var table = $('#books').DataTable();
+            table.order([0, 'asc']).draw(); // Resets the table to default sort order by ordering the Name column A-Z
+            table.page('first').draw('page');
+        });
+    });
+</script>
+
+<div id="infolay" onclick="off()">
+    <h1>Important Information</h1>
+    <p><i>(Click anywhere to close this overlay)</i></p>
+    <hr>
+    <br>
+    <h2>Info:</h2>
+    <p>&#11088;'s indicate kits recommended by Archivists.</p>
+    <p>Kits in the 'Unnamed Kits' page have no official name. As such, we have given them Archivist Assigned Names (AANs). Similarly, the files are suffixed with <code>_[AAN]</code> to help distinguish them from Named Kits. Should we ever find a named copy of a kit there (or the Author of the kit properly name it) we will move it to the main Kits page.</p>
+    <p>In the Item category, if an entry has "<i>pre-X.Y.Z!</i>" in its description, it is an item that only works in Minecraft versions prior to that. Some items have entries for pre- and post-versions, depending on how popular the item is/how complicated upgrading it is.</p>
+    <br>
+    <hr>
+    <br>
+    <h2>Notices:</h2>
+    <p style="color: orange"><i>Minecraft 1.20.0 broke Signs, and 1.20.2 will break Potions. If a Sign/Potion from a Kit does not work, please check the NBT as it likely uses the old format. We will <b>NOT</b> be upgrading kits to fix these issues, nor will we be marking kits that contain them. Thank you for your understanding.</i></p>
+    <br>
+    <hr>
+    <br>
+    <h2>Disclaimers:</h2>
+    <p style="color:red">Kadalyst is in no way responsible for how any entries were obtained, who downloads them, and how they are used. YOU are responsible for protecting the privacy of your items and the security of your server. Any and all complaints made pertaining to the privacy or use-case of an entry will be ignored. Basically: fuck you, you disingenuous dense <a href="https://www.youtube.com/watch?v=YN7nGl-ARVE" rel="noopener noreferrer" target="_blank">shoe-fucker</a> :D</p>
+    <br>
+    <hr>
+    <br>
+    <h2>Hotkeys:</h2>
+    <p>There are a number of hotkeys set up to make navigating the site easier.</p>
+    <table class="center">
+        <tbody>
+        <tr>
+            <td>K</td>
+            <td>Jumps to the 'Kits' table</td>
+        </tr>
+        <tr>
+            <td>I</td>
+            <td>Jumps to the 'Items' table</td>
+        </tr>
+        <tr>
+            <td>B</td>
+            <td>Jumps to the 'Books' table</td>
+        </tr>
+        <tr>
+            <td>U</td>
+            <td>Jumps to the 'Unnamed Kits' table</td>
+        </tr>
+        <tr>
+            <td><b>&#8592;</b></td>
+            <td>Moves one page back in the table</td>
+        </tr>
+        <tr>
+            <td><b>&#8594;</b></td>
+            <td>Moves one page forward in the table</td>
+        </tr>
+        <tr>
+            <td>D</td>
+            <td>Jumps to the newest entries in a table</td>
+        </tr>
+        <tr>
+            <td>SHIFT + D</td>
+            <td>Resets table to default sorting/arrangement (does not reset Tags)</td>
+        </tr>
+        <tr>
+            <td>Z</td>
+            <td>Opens this overlay</td>
+        </tr>
+        </tbody>
+    </table>
+    <br>
+    <br>
+</div>
+<div class="fab-container">
+    <div class="button iconbutton">
+        <i class="fa-solid fa-circle-info fa-flip fa-2xl" onclick="on()"></i>
+    </div>
+</div>
+
+<script>
+    function on() {
+        document.getElementById("infolay").style.display = "block";
+    }
+
+    function off() {
+        document.getElementById("infolay").style.display = "none";
+    }
+</script>
+
 </body>
 
 </html>
