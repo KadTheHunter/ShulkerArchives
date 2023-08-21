@@ -4748,8 +4748,8 @@
     ],
     [
       "Bryguy's Kit",
-      "ka_rma",
-      "Armor and weapons by ka_rma",
+      "scider",
+      "Armor and weapons by scider",
       "Tag",
       "<a href=nbt/kits/nbt/BryguysKit.nbt download>NBT</a>"
     ],
@@ -4846,7 +4846,7 @@
     ],
     [
       "Dungeon Kit",
-      "ka_rma",
+      "scider",
       "Helmet, chestplate and sword with a dungeon theme",
       "Tag",
       "<a href=nbt/kits/nbt/DungeonKit.nbt download>NBT</a>"
