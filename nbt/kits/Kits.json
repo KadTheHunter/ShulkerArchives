@@ -8819,6 +8819,20 @@
       "Netherite armor, iron sword, gold pickaxe, bows, totems, potions",
       "PvP, Themed",
       "<a href=nbt/kits/nbt/HolyKit.nbt download>NBT</a>"
+    ],
+    [
+      "Poseidons Wrath",
+      "Scider",
+      "Trident with Poseidon themed lore",
+      "Lore, Themed",
+      "<a href=nbt/kits/nbt/PoseidonsWrath.nbt download>NBT</a>"
+    ],
+    [
+      "Chaotixu's Ultimate Kit v0.1",
+      "Chaotixu",
+      "A collection of items from other kits",
+      "Collection, Misc, ForceOP",
+      "<a href=nbt/kits/nbt/ChaotixusUltimateKitv0.1.nbt download>NBT</a>"
     ]
   ]
 }

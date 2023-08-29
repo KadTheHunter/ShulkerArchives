@@ -2897,6 +2897,34 @@
       "Splash potion that rapidly depletes your hunger",
       "Potion",
       "<a href=../nbt/items/nbt/NutritionDeprivationPotion.nbt download>NBT</a>"
+    ],
+    [
+      "Snippers &#11088;",
+      "Scider",
+      "Shears with some interesting lore",
+      "Lore, Misc",
+      "<a href=../nbt/items/nbt/Snippers.nbt download>NBT</a>"
+    ],
+    [
+      "Video's Elytra",
+      "Windows9",
+      "Elytra for videogamesm12",
+      "Misc",
+      "<a href=../nbt/items/nbt/VideosElytra.nbt download>NBT</a>"
+    ],
+    [
+      "Aero's Birthday Treats",
+      "Windows9",
+      "Birthday treats for a player known as Aero",
+      "Misc, Bundle",
+      "<a href=../nbt/items/nbt/AerosBirthdayTreats.nbt download>NBT</a>"
+    ],
+    [
+      "Executioner",
+      "Parsa__",
+      "Splash potion making use of Instant Damage scaling",
+      "Potion",
+      "<a href=../nbt/items/nbt/Executioner.nbt download>NBT</a>"
     ]
   ]
 }
