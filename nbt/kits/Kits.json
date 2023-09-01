@@ -8833,6 +8833,20 @@
       "A collection of items from other kits",
       "Collection, Misc, ForceOP",
       "<a href=nbt/kits/nbt/ChaotixusUltimateKitv0.1.nbt download>NBT</a>"
+    ],
+    [
+      "Sculk Set",
+      "Unknown Author",
+      "Netherite Armor with Sculk Trimmings, plus sculk themed potion, crossbow and arrows",
+      "Themed, PvP",
+      "<a href=nbt/kits/nbt/SculkSet.nbt download>NBT</a>"
+    ],
+    [
+      "The Disruptor",
+      "scider",
+      "Contains a golden hoe with fairly well trodden lore about god and satan, though still leagues better than most",
+      "Themed, Lore, Misc",
+      "<a href=nbt/kits/nbt/TheDisruptor.nbt download>NBT</a>"
     ]
   ]
 }
