@@ -19,6 +19,7 @@ There are extensions and exceptions to this rule:
 - Kits whose names are suffixed with the name of the author may be exported without that suffix, *provided* that the kits name is unique. Examples are as follows:
   - "King of The Gods V2 by Z_cu" can be exported as "KingOfTheGodsV2", because the name is unique enough that it likely will not conflict with other entries.
   - "Spawn Eggs by Chargefruit" must be exported as "SpawnEggsbyChargefruit", because the name is not unique enough, and has a high likelihood of conflicting if there is no additional identifier such as the author (in this case, "by Chargefruit").
+  - When a box has no name/unique name, but contains only a single item that *does* have a unique name, that items name may be used instead.
 
 ## Entry Names
 Entry names should match the in-game name *and* file name as closely as possible, including any characters found on a standard english keyboard, excluding any characters *not* found on a standard english keyboard. 
