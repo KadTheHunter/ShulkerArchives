@@ -8847,6 +8847,13 @@
       "Contains a golden hoe with fairly well trodden lore about god and satan, though still leagues better than most",
       "Themed, Lore, Misc",
       "<a href=nbt/kits/nbt/TheDisruptor.nbt download>NBT</a>"
+    ],
+    [
+      "Up From Above P1.0",
+      "gingowori",
+      "Potion, Hoe and Boots containing a flickering emblem in the lore",
+      "Lore, Misc",
+      "<a href=nbt/kits/nbt/UpFromAboveP1.0.nbt download>NBT</a>"
     ]
   ]
 }

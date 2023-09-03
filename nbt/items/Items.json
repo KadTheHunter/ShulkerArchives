@@ -2925,6 +2925,13 @@
       "Splash potion making use of Instant Damage scaling",
       "Potion",
       "<a href=../nbt/items/nbt/Executioner.nbt download>NBT</a>"
+    ],
+    [
+      "Rune From The Stars",
+      "gingowori",
+      "Fence gate that acts as a key to \"Up From Above P1.0\"",
+      "Key, Misc",
+      "<a href=../nbt/items/nbt/RuneFromTheStars.nbt download>NBT</a>"
     ]
   ]
 }
