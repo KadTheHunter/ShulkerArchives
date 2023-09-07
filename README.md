@@ -10,9 +10,6 @@ Website to archive Shulker Kit NBT Data
 
 Unless you have an interest in opening a PR or reporting a bug, there's really not much here for you tbh.
 
-If you're looking to submit a kit/item/book, please contact Kaddicus by one of the below methods:
-
-- In Discord DMs `@kaddicus`
-- On Discord @ [discord.gg/pVYcyseBMD](discord.gg/pVYcyseBMD)
+If you're looking to submit a kit/item/book, please contact Kad in Discord DMs `@kaddicus`
 
 If you want to add an entry yourself, have a look at the [Contributing Guidelines](https://github.com/KadTheHunter/ShulkerArchives/blob/master/CONTRIBUTING.md)
