@@ -80,6 +80,10 @@
                 <li><a href="#SavingBuilds--WorldEditSchematics">WorldEdit/Schematics</a></li>
                 <li><a href="#SavingBuilds--ChunkRipper">Chunk Ripper</a></li>
             </ul>
+            <li><a href="#Misc">Misc</a></li>
+            <ul>
+                <li><a href="#Misc--CustomSkinLoader">Custom Skin Loader</a></li>
+            </ul>
         </ol>
     </nav>
     <div class="Guides">
@@ -219,9 +223,45 @@
             <p>Congrats, you've now ripped chunks from one world to another!</p>
         </section>
         <hr>
+        <section id="Misc" class="Guides">
+            <h2>Misc</h2>
+            <h4>Guides that don't fit elsewhere, but are still useful</h4>
+        </section>
+        <section id="Misc--CustomSkinLoader" class="Guides">
+            <h3>Custom Skin Loader</h3>
+            <p>Custom Skin Loader is a great way to view old HD Heads which don't work post-1.16; However, by default it is infuriatingly slow at loading any textures at all.</p>
+            <p>My personal theory as to why, is that it cycles through a long list of sources one source at a time, until it gets the texture. I also suspect it does this inefficiently, further bloating the load time. If anyone cares to prove/disprove this, have a look at <a href="https://github.com/xfl03/MCCustomSkinLoader" target="_blank" rel="noopener noreferrer">CSL's source code</a> and open an issue on the <a href="https://github.com/KadTheHunter/ShulkerArchives/issues" target="_blank" rel="noopener noreferrer">Archives GitHub repo</a> with your findings.</p>
+            <p>Now for the guide on speeding it up :D</p>
+            <p>This is a relatively simple process; All you'll need is File Explorer, and Notepad.</p>
+            <li>Open <code>.minecraft/CustomSkinLoader/CustomSkinLoader.json</code> in Notepad</li>
+            <li>Modify the "loadlist" entry, so that it looks like the following:</li>
+            <li>
+                <pre>
+                    <code>
+  "loadlist": [
+    {
+      "name": "Mojang",
+      "type": "MojangAPI",
+      "apiRoot": "https://api.mojang.com/",
+      "sessionRoot": "https://sessionserver.mojang.com/"
+    },
+    {
+      "name": "LocalSkin",
+      "type": "Legacy",
+      "checkPNG": false,
+      "skin": "LocalSkin/skins/{USERNAME}.png",
+      "model": "auto",
+      "cape": "LocalSkin/capes/{USERNAME}.png",
+      "elytra": "LocalSkin/elytras/{USERNAME}.png"
+    }
+  ],</code>
+                </pre>
+            </li>
+            <p>Do note that doing this removes the functionality of loading skins from the sites CSL advertises, instead reducing it to simply the full (unblocked) Mojang API, and local storage.</p>
+        </section>
+        <hr>
         <p>We're all out of guides :(</p>
         <p>If you have a suggestion of a guide we should include here (or maybe you've even written a whole guide yourself?), feel free to open an Issue on our <a href="https://github.com/KadTheHunter/ShulkerArchives/issues" target="_blank" rel="noopener noreferrer">GitHub</a>, and we'll see about adding it! </p>
-        <p>(Do note, that Guides obviously must pertain to NBT in some way, be it the files made from ripping Maparts and Builds, or the intricacies of NBT tags on items.)</p>
     </div>
 </main>
 <div class="footer">
