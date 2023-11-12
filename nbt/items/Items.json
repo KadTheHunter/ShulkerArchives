@@ -2932,6 +2932,41 @@
       "Fence gate that acts as a key to \"Up From Above P1.0\"",
       "Key, Misc",
       "<a href=../nbt/items/nbt/RuneFromTheStars.nbt download>NBT</a>"
+    ],
+    [
+      "Israel Talisman",
+      "R3fael",
+      "Player head with Israel flag",
+      "Player Head",
+      "<a href=../nbt/items/nbt/IsraelTalisman.nbt download>NBT</a>"
+    ],
+    [
+      "Scaffolding",
+      "antigamesm12",
+      "Piece of scaffolding for use as a hat, chair, ladder, or anything you want",
+      "Lore, Misc",
+      "<a href=../nbt/items/nbt/Scaffolding.nbt download>NBT</a>"
+    ],
+    [
+      "A Great View",
+      "Unknown Author",
+      "NSFW Anime Loreart",
+      "NSFW, Loreart",
+      "<a href=../nbt/items/nbt/AGreatView.nbt download>NBT</a>"
+    ],
+    [
+      "All Seeing Eye",
+      "scider",
+      "Loreart on an enderpearl",
+      "Loreart",
+      "<a href=../nbt/items/nbt/AllSeeingEye.nbt download>NBT</a>"
+    ],
+    [
+      "Griffin Wings",
+      "scider",
+      "Elytra with custom lore",
+      "Elytra, Lore",
+      "<a href=../nbt/items/nbt/GriffinWings.nbt download>NBT</a>"
     ]
   ]
 }
