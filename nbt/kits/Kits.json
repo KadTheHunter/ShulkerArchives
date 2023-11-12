@@ -4687,7 +4687,7 @@
       "Advanced Potions Ʊ 0.1 &#11088;",
       "Chargefruit",
       "A collection of useful potions created by Chargefruit, in all their forms",
-      "Tag",
+      "Potions, Utility, Collection",
       "<a href=nbt/kits/nbt/AdvancedPotions0.1byChargefruit.nbt download>NBT</a>"
     ],
     [
@@ -5037,7 +5037,7 @@
       "Operator Utilities + 0.1 &#11088;",
       "Chargefruit",
       "Useful items that typically aren't obtainable in Vanilla Minecraft",
-      "Tag",
+      "Misc, Utility, Collection",
       "<a href=nbt/kits/nbt/OperatorUtilities+0.1byChargefruit.nbt download>NBT</a>"
     ],
     [
@@ -5128,14 +5128,14 @@
       "Spawn Eggs + 0.1 &#11088;",
       "Chargefruit",
       "A collection of useful Spawn Eggs made by Chargefruit",
-      "Tag",
+      "Eggs, Utility, Collection",
       "<a href=nbt/kits/nbt/SpawnEggs+0.1byChargefruit.nbt download>NBT</a>"
     ],
     [
       "Spawn Eggs + 0.2 &#11088;",
       "Chargefruit",
       "A collection of useful Spawn Eggs divided into Hostile Mobs, Passive Mobs and Technical Entities",
-      "Tag",
+      "Eggs, Utility, Collection",
       "<a href=nbt/kits/nbt/SpawnEggs+0.2byChargefruit.nbt download>NBT</a>"
     ],
     [
@@ -6045,35 +6045,35 @@
       "Advanced Potions Ʊ 1.0 &#11088;",
       "Chargefruit",
       "A collection of useful potions created by Chargefruit, in all their forms",
-      "Tag",
+      "Potions, Utility, Collection",
       "<a href=nbt/kits/nbt/AdvancedPotionsOmega1.0byChargefruit.nbt download>NBT</a>"
     ],
     [
       "Operator Utilities + 1.0 &#11088;",
       "Chargefruit",
       "Useful items that typically aren't obtainable in Vanilla Minecraft",
-      "Tag",
+      "Misc, Utility, Collection",
       "<a href=nbt/kits/nbt/OperatorUtilities+1.0byChargefruit.nbt download>NBT</a>"
     ],
     [
       "Spawn Eggs + 1.0 &#11088;",
       "Chargefruit",
       "A collection of useful Spawn Eggs made by Chargefruit, divided into Hostile, Passive and Technical boxes",
-      "Tag",
+      "Eggs, Utility, Collection",
       "<a href=nbt/kits/nbt/SpawnEggs+1.0byChargefruit.nbt download>NBT</a>"
     ],
     [
       "Anarchist's Kit 1.0 &#11088;",
       "Chargefruit",
       "ForceOP, Griefing and Crash items made by Chargefruit",
-      "Tag",
+      "Griefing, ForceOP, Collection",
       "<a href=nbt/kits/nbt/AnarchistsKit1.0byChargefruit.nbt download>NBT</a>"
     ],
     [
       "Practical Items 1.0 &#11088;",
       "Chargefruit",
       "Various items useful for building and item making",
-      "Tag",
+      "Utility, Collection",
       "<a href=nbt/kits/nbt/PracticalItems1.0byChargefruit.nbt download>NBT</a>"
     ],
     [
@@ -6409,7 +6409,7 @@
       "Anarchist's Kit 1.1 &#11088;",
       "Chargefruit",
       "Minor lore changes from v1.0",
-      "Tag",
+      "Griefing, ForceOP, Collection",
       "<a href=nbt/kits/nbt/AnarchistsKit1.1byChargefruit.nbt download>NBT</a>"
     ],
     [
@@ -7431,7 +7431,7 @@
       "Practical Items 1.1 &#11088;",
       "Chargefruit",
       "Various items useful for building and item making",
-      "Tag",
+      "Utility, Collection",
       "<a href=nbt/kits/nbt/PracticalItems1.1byChargefruit.nbt download>NBT</a>"
     ],
     [
@@ -8054,7 +8054,7 @@
       "Anarchist's Kit 2.0 &#11088;",
       "Chargefruit",
       "ForceOP, Griefing and Crash items made by Chargefruit",
-      "Tag",
+      "Griefing, ForceOP, Collection",
       "<a href=nbt/kits/nbt/AnarchistsKit2.0byChargefruit.nbt download>NBT</a>"
     ],
     [
