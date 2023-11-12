@@ -8854,6 +8854,111 @@
       "Potion, Hoe and Boots containing a flickering emblem in the lore",
       "Lore, Misc",
       "<a href=nbt/kits/nbt/UpFromAboveP1.0.nbt download>NBT</a>"
+    ],
+    [
+      "Practical Items 2.1 &#11088;",
+      "Chargefruit",
+      "Various items useful for building and item making",
+      "Utility, Collection",
+      "<a href=nbt/kits/nbt/PracticalItems2.1byChargefruit.nbt download>NBT</a>"
+    ],
+    [
+      "Anarchists Kit 4.0 &#11088;",
+      "Chargefruit",
+      "ForceOP, Griefing, Trolling, Command and Crash items made by Chargefruit",
+      "Griefing, ForceOP, Collection",
+      "<a href=nbt/kits/nbt/AnarchistsKit4.0byChargefruit.nbt download>NBT</a>"
+    ],
+    [
+      "Chaotixu's Ultimate Kit v0.2",
+      "Chaotixu",
+      "A collection of items from other kits",
+      "Collection, Misc, ForceOP",
+      "<a href=nbt/kits/nbt/ChaotixusUltimateKitv0.2.nbt download>NBT</a>"
+    ],
+    [
+      "Necron's Drops",
+      "Unknown Author",
+      "Necron Drops from Hypixel",
+      "Hypixel",
+      "<a href=nbt/kits/nbt/NecronsDrops.nbt download>NBT</a>"
+    ],
+    [
+      "The Best Images",
+      "Unknown Author",
+      "3 low-res lorearts",
+      "Loreart",
+      "<a href=nbt/kits/nbt/TheBestImages.nbt download>NBT</a>"
+    ],
+    [
+      "decent skibid toilet box",
+      "Unknown Author",
+      "Armor and Player Heads for TVman, Speakerman and Camerman",
+      "Meme, Misc, PlayerHead",
+      "<a href=nbt/kits/nbt/DecentSkibidToiletBox.nbt download>NBT</a>"
+    ],
+    [
+      "Spawn Eggs+ 1.1 &#11088;",
+      "Chargefruit",
+      "A collection of useful Spawn Eggs made by Chargefruit, divided into Hostile, Passive and Technical boxes",
+      "Eggs, Utility, Collection",
+      "<a href=nbt/kits/nbt/SpawnEggs+1.1byChargefruit.nbt download>NBT</a>"
+    ],
+    [
+      "Operator Utilities + 1.1 &#11088;",
+      "Chargefruit",
+      "Useful items that typically aren't obtainable in Vanilla Minecraft",
+      "Misc, Utility, Collection",
+      "<a href=nbt/kits/nbt/OperatorUtilities+1.1.nbt download>NBT</a>"
+    ],
+    [
+      "Advanced Potions Ʊ 1.1 &#11088;",
+      "Chargefruit",
+      "A collection of useful potions created by Chargefruit, in all their forms",
+      "Potions, Utility, Collection",
+      "<a href=nbt/kits/nbt/AdvancedPotions1.1byChargefruit.nbt download>NBT</a>"
+    ],
+    [
+      "2b2t players Box of Wonder's p4",
+      "Blacks_Shadows",
+      "Misc. Eggs, Blocks and Items",
+      "ForceOP, Griefing, Collection",
+      "<a href=nbt/kits/nbt/2B2TPlayersBoxOfWonders.nbt download>NBT</a>"
+    ],
+    [
+      "SOCIAL MEDIA",
+      "Unknown Author",
+      "Barrel containing loreart of various social media logos",
+      "Loreart",
+      "<a href=nbt/kits/nbt/SOCIALMEDIA.nbt download>NBT</a>"
+    ],
+    [
+      "Night Shulker &#11088;",
+      "ozo",
+      "Collection of NBT, Block Palletes, and Loreart",
+      "Utility, Collection",
+      "<a href=nbt/kits/nbt/.nbt download>NBT</a>"
+    ],
+    [
+      "Toxic and Agent's Funny Box",
+      "AgentGamerPro, CqllMeToxic",
+      "Collection of Griefing Spawners and Misc Items",
+      "Griefing, Spawners, Collection",
+      "<a href=nbt/kits/nbt/ToxicAndAgentsFunnyBox.nbt download>NBT</a>"
+    ],
+    [
+      "Airobotics_ Everything Kit",
+      "Airobotics_",
+      "Misc items created by Airobotics_, including Armor, Weapons, and Griefing Tools",
+      "PvP, Griefing, Collection",
+      "<a href=nbt/kits/nbt/Airobotics_EverythingKit.nbt download>NBT</a>"
+    ],
+    [
+      "ArmorStand Box &#11088;",
+      "omate06, Zozo, Kevin, Promester10, MaxtheMax",
+      "Collection of 8 custom armor stands",
+      "Armorstands, Collection",
+      "<a href=nbt/kits/nbt/ArmorStandBox.nbt download>NBT</a>"
     ]
   ]
 }
