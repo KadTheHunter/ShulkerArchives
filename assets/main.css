@@ -228,6 +228,13 @@ END HELLSPAWN
 *DOOM music stops playing*
 */
 
+.yadcf-filter-reset-button {
+    color: var(--alttext);
+    background-color: var(--altbackground);
+    border: 0;
+    scale: 1.5;
+    margin-left: 5px;
+}
 
 tfoot tr.cus-footer th{
     background: var(--background);
