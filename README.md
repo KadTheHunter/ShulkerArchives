@@ -1,5 +1,8 @@
 # Shulker Archives
 
+# <p style="color: red; font-style: italic;">This project is no longer maintained. Please <a href="https://github.com/KadTheHunter/ShulkerArchives/blob/master/NoLongerMaintained.md" rel="noopener noreferrer" target="_blank">read here</a> for more information.</h3>
+
+
 ![Cute Mascot :3](assets/Shulker_shooting.gif)
 
 ![Alt](https://repobeats.axiom.co/api/embed/969590d0e93138cbc0d66c5fc51b68f4b498a331.svg "Repobeats analytics image")
