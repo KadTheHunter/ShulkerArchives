@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+
+<!--
+    Site made by Kad, aliases KadTheHunter, KaddicusAlmighty, Kadalyst.
+    Descriptions for some kits written by CoolestGuy94, alias 05.
+    All kits created by their respective Authors.
+
+    SNBT Linter (nbt-lint.js, page.js) was created by AjaxGb under the MIT License.
+    Source: https://github.com/AjaxGb/NBTLint
+-->
+
+<html lang="en">
+<meta name="description" content="A collection of NBT data for Shulker Kits and Items."/>
+
+<head>
+    <title>Archives FAQ</title>
+    <link rel="icon" type="image/png" href="../assets/favicon.ico"/>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <link rel="stylesheet" href="../assets/main.min.css"/>
+    <link crossorigin="anonymous" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css" integrity="sha512-YWzhKL2whUzgiheMoBFwW8CKV4qpHQAEuvilg9FAn5VJUDwKZZxkJNuGM4XkWuk94WCrrwslk8yWNGmY1EduTA== " referrerpolicy="no-referrer" rel="stylesheet"/>
+</head>
+
+<header>
+    <span class="ShulkerLogoText"><a href="../index.html">Shulker Archives</a></span>
+    <p class="ShulkerLogo">
+        <a href="../index.html">
+            <video autoplay loop muted playsinline height="100px" width="100px">
+                <source src="../assets/Shulker_shooting.webm" type="video/webm"/>
+            </video>
+        </a>
+    </p>
+    <h2>FAQ</h2>
+    <hr>
+    <div style="padding-bottom: 4px">
+        <a href="../html/UsingNBT.html">
+            <button class="button" type="button">Using NBT</button>
+        </a>
+        <a href="../html/snbtlinter.html">
+            <button class="button" type="button">SNBT Linter</button>
+        </a>
+        <a href="../html/Resources.html">
+            <button class="button" type="button">Resources</button>
+        </a>
+    </div>
+    <div style="padding-top: 3px">
+        <a href="../html/FAQ.html">
+            <button class="button" type="button">FAQ</button>
+        </a>
+        <a href="../html/Guides.html">
+            <button class="button" type="button">Guides</button>
+        </a>
+    </div>
+    <hr>
+</header>
+
+<body class="Information">
+<main class="Information">
+    <h1>Frequently Asked Questions</h1>
+    <div class="FAQ">
+        <card>
+            <h4>Is there a Discord?</h4>
+            <p>There was, but it's since been deleted; A new discord is unlikely to be created.</p>
+        </card>
+        <card>
+            <h4>How do I use .nbt files?</h4>
+            <p>Check out the <a href="UsingNBT.html">Using NBT</a> page for instructions on using .nbt files, and other related information.</p>
+        </card>
+        <card>
+            <h4>Can I submit a Kit or Item?</h4>
+            <p>Yes! The best way is to contact us is by DMing <code>@kaddicus</code> on Discord.</p>
+        </card>
+        <card>
+            <h4>Who are the Archivists?</h4>
+            <p>Kadalyst (aka Kad) is the only one working on the site currently.</p>
+        </card>
+        <card>
+            <h4>Can I help the Archives?</h4>
+            <p>Absolutely! We don't currently have a uniform list of things we need help with, check out our <a href="https://github.com/KadTheHunter/ShulkerArchives/blob/master/CONTRIBUTING.md" target="_blank" rel="noopener noreferrer">Contributing Guidelines</a>, and <a href="https://github.com/KadTheHunter/ShulkerArchives/issues/109" target="_blank" rel="noopener noreferrer">To-Do List</a> for an idea of what's expected and what's needed.</p>
+        </card>
+        <card>
+            <h4>I'm interested in NBT, where should I start?</h4>
+            <p>A good place to start is our <a href="Resources.html">Resources</a> and <a href="Guides.html">Guides</a> pages, where there is a lot of information for all things NBT Related.</p>
+        </card>
+        <card>
+            <h4>What are Archivist Picks?</h4>
+            <p>Archivist Picks (APs) are Kits and Items that are high quality, and/or have unique and interesting features. APs can be identified by a golden star (&#11088;) next to their name.</p>
+        </card>
+        <card>
+            <h4>What are Archivist Assigned Names?</h4>
+            <p>Archivist Assigned Names (AANs) are names Archivists have picked for Unnamed Kits. This allows the kits themselves to remain unaltered while providing a way to display and organize them.</p>
+        </card>
+        <card>
+            <h4>Is there a bulk collection I can download?</h4>
+            <p>There sure is! Our <a href="https://github.com/KadTheHunter/ShulkerArchives/releases" target="_blank" rel="noopener noreferrer">GitHub Releases</a> has copies of this site, both as a whole and just the .nbt files. <br> <i>Do note, that the releases almost always have less than the site, and are only made as milestones.</i></p>
+        </card>
+    </div>
+</main>
+<div class="footer">
+    <p><a href="https://github.com/KadTheHunter/ShulkerArchives/" rel="noopener noreferrer" target="_blank">Created by Kadalyst</a></p>
+</div>
+
+<script type="text/javascript" charset="UTF-8" src="../assets/js/jquery.hotkeys.min.js"></script>
+
+<!--
+Thank fuck for Rookie in July 2012 for posting about this https://datatables.net/forums/discussion/10892/keystroke-pagination or I'd have just given up. Other posts suggesting fuckin KeyTables...
+-->
+<script>
+    $(document).ready(function() {
+        $(document).bind('keydown', 'right', function() {
+            $(".next").click();
+        });
+
+        $(document).bind('keydown', 'left', function() {
+            $(".previous").click();
+        });
+
+        $(document).bind('keydown','i', function() {
+            window.location = "../html/Items.html";
+        });
+
+        $(document).bind('keydown', 'b', function() {
+            window.location = "../html/Books.html";
+        });
+
+        $(document).bind('keydown', 'u', function() {
+            window.location = "../html/Unnamed.html";
+        });
+
+        $(document).bind('keydown', 'k', function() {
+            window.location = "../index.html";
+        });
+
+        $(document).bind('keydown', 'z', function() {
+            on();
+        })
+
+        $(document).bind('keydown', 'd', function() {
+            var table = $('#books').DataTable();
+            table.order.neutral().draw(); // Sets the table to display in the order it's written in the JSON file via order.neutral().min.js
+            table.page('last').draw('page');
+        });
+
+        $(document).bind('keydown', 'shift+d', function() {
+            var table = $('#books').DataTable();
+            table.order([0, 'asc']).draw(); // Resets the table to default sort order by ordering the Name column A-Z
+            table.page('first').draw('page');
+        });
+    });
+</script>
+
+<div id="infolay" onclick="off()">
+    <h1>Important Information</h1>
+    <p><i>(Click anywhere to close this overlay)</i></p>
+    <hr>
+    <br>
+    <h2>Info:</h2>
+    <p>&#11088;'s indicate kits recommended by Archivists.</p>
+    <p>Kits in the 'Unnamed Kits' page have no official name. As such, we have given them Archivist Assigned Names (AANs). Similarly, the files are suffixed with <code>_[AAN]</code> to help distinguish them from Named Kits. Should we ever find a named copy of a kit there (or the Author of the kit properly name it) we will move it to the main Kits page.</p>
+    <p>In the Item category, if an entry has "<i>pre-X.Y.Z!</i>" in its description, it is an item that only works in Minecraft versions prior to that. Some items have entries for pre- and post-versions, depending on how popular the item is/how complicated upgrading it is.</p>
+    <br>
+    <hr>
+    <br>
+    <h2>Notices:</h2>
+    <p style="color: orange"><i>Minecraft 1.20.0 broke Signs, and 1.20.2 will break Potions. If a Sign/Potion from a Kit does not work, please check the NBT as it likely uses the old format. We will <b>NOT</b> be upgrading kits to fix these issues, nor will we be marking kits that contain them. Thank you for your understanding.</i></p>
+    <br>
+    <hr>
+    <br>
+    <h2>Disclaimers:</h2>
+    <p style="color:red">Kadalyst is in no way responsible for how any entries were obtained, who downloads them, and how they are used. YOU are responsible for protecting the privacy of your items and the security of your server. Any and all complaints made pertaining to the privacy or use-case of an entry will be ignored. Basically: fuck you, you disingenuous dense <a href="https://www.youtube.com/watch?v=YN7nGl-ARVE" rel="noopener noreferrer" target="_blank">shoe-fucker</a> :D</p>
+    <br>
+    <hr>
+    <br>
+    <h2>Credits:</h2>
+    <p class="credits">
+        <li style="color: deepskyblue">Kadalyst - Archives Creator, Main Dev, Owner</li>
+        <li style="color: deepskyblue">Parsa__ - Encouraged Archives Creation, hunted new kits</li>
+        <li style="color: deepskyblue">_Win9x_ - Provided >50% of all entries, hunted down more</li>
+        <li style="color: deepskyblue">AbdulFmMicrosoft - Designed early iterations of Archives Map</li>
+        <li style="color: deepskyblue">iceyou - Alerted Archives to issues with SNBT, major help with Archives Map</li>
+    </p>
+    <br>
+    <hr>
+    <br>
+    <h2>Hotkeys:</h2>
+    <p>There are a number of hotkeys set up to make navigating the site easier.</p>
+    <table class="center">
+        <tbody>
+        <tr>
+            <td>K</td>
+            <td>Jumps to the 'Kits' table</td>
+        </tr>
+        <tr>
+            <td>I</td>
+            <td>Jumps to the 'Items' table</td>
+        </tr>
+        <tr>
+            <td>B</td>
+            <td>Jumps to the 'Books' table</td>
+        </tr>
+        <tr>
+            <td>U</td>
+            <td>Jumps to the 'Unnamed Kits' table</td>
+        </tr>
+        <tr>
+            <td><b>&#8592;</b></td>
+            <td>Moves one page back in the table</td>
+        </tr>
+        <tr>
+            <td><b>&#8594;</b></td>
+            <td>Moves one page forward in the table</td>
+        </tr>
+        <tr>
+            <td>D</td>
+            <td>Jumps to the newest entries in a table</td>
+        </tr>
+        <tr>
+            <td>SHIFT + D</td>
+            <td>Resets table to default sorting/arrangement (does not reset Tags)</td>
+        </tr>
+        <tr>
+            <td>Z</td>
+            <td>Opens this overlay</td>
+        </tr>
+        </tbody>
+    </table>
+    <br>
+    <hr>
+    <br>
+    <a href="../html/NotSoSecretPage.html">
+        <button class="button" type="button">Not So Secret Page</button>
+    </a>
+    <br>
+    <br>
+</div>
+<div class="fab-container">
+    <div class="button iconbutton">
+        <i class="fa-solid fa-circle-info fa-flip fa-2xl" onclick="on()"></i>
+    </div>
+</div>
+
+<script>
+    function on() {
+        document.getElementById("infolay").style.display = "block";
+    }
+
+    function off() {
+        document.getElementById("infolay").style.display = "none";
+    }
+</script>
+
+</body>
+
+</html>

@@ -1,0 +1,15 @@
+How to use packet canceller to steal items with no trace.
+
+Everything else should be on except these.
+
+Packet canceller packets to not cancel in S2C section :
+InventoryS2CPacket
+ChatSuggestionsS2CPacket
+ChatMessageS2CPacket
+OpenScreenS2CPacket
+
+Packet canceller packets to not cancel in C2S section :
+CommandExecutionC2SPacket
+ClientCommandC2SPacket
+
+Its a ghost item till you leave and rejoin. If you open the inv it synchronizes your inventory with the server, making the item into a real item again.

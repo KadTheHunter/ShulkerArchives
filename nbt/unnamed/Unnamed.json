@@ -1,0 +1,522 @@
+{
+  "data": [
+    [
+      "Vitrox's Ancient Kit",
+      "Vitrox#4698",
+      "Netherite armor and ancient artifacts",
+      "PvP",
+      "<a href=../nbt/unnamed/nbt/VitroxsAncientKit_[AAN].nbt download>NBT</a>"
+    ],
+    [
+      "VITROX'S HAZMAT KIT",
+      "Vitrox#4698",
+      "Hazmat Suit and radiation weapons",
+      "Themed, PvP",
+      "<a href=../nbt/unnamed/nbt/VITROXSHAZMATSUIT_[AAN].nbt download>NBT</a>"
+    ],
+    [
+      "2koy's Ultimate Items",
+      "2koy",
+      "A collection of armor and weapons by 2koy",
+      "Collection, PvP",
+      "<a href=../nbt/unnamed/nbt/2koysUltimateItems_[AAN].nbt download>NBT</a>"
+    ],
+    [
+      "Despairingly's Revenge",
+      "Despairingly",
+      "Diamond armor and some enchanted items",
+      "PvP",
+      "<a href=../nbt/unnamed/nbt/DespairinglysRevenge_[AAN].nbt download>NBT</a>"
+    ],
+    [
+      "Nacho4785's God Armor",
+      "Nacho4785",
+      "Diamond armor, potions and a command block",
+      "PvP",
+      "<a href=../nbt/unnamed/nbt/Nacho4785sGodArmor_[AAN].nbt download>NBT</a>"
+    ],
+    [
+      "The Galaxy Set",
+      "quack95",
+      "Leather armor and an axe",
+      "Themed, PvP",
+      "<a href=../nbt/unnamed/nbt/TheGalaxySet_[AAN].nbt download>NBT</a>"
+    ],
+    [
+      "Bio-Labs",
+      "quack95",
+      "Armor, weapons, potions and fireworks made by Bio-Labs",
+      "PvP, Themed",
+      "<a href=../nbt/unnamed/nbt/Bio-Labs_[AAN].nbt download>NBT</a>"
+    ],
+    [
+      "Team FreakOut",
+      "TeamFreakOut",
+      "Leather Armor, God of Valor mask, and two dragon heads",
+      "Themed, PvP",
+      "<a href=../nbt/unnamed/nbt/TeamFreakOut_[AAN].nbt download>NBT</a>"
+    ],
+    [
+      "Crimson Clan Blank Box",
+      "Unknown Author",
+      "Diamond armor with a blank name, and Crimson Clan advert in lore",
+      "PvP",
+      "<a href=../nbt/unnamed/nbt/CrimsonClanBlankBox_[AAN].nbt download>NBT</a>"
+    ],
+    [
+      "Bread's Kit",
+      "Unknown Author",
+      "Bread's Armor and Weapons",
+      "Themed, PvP",
+      "<a href=../nbt/unnamed/nbt/BreadsKit_[AAN].nbt download>NBT</a>"
+    ],
+    [
+      "13th The First",
+      "Unknown Author",
+      "Netherite Armor and Sword, nether star and rose, and a stick",
+      "PvP, Themed",
+      "<a href=../nbt/unnamed/nbt/13thTheFirst_[AAN].nbt download>NBT</a>"
+    ],
+    [
+      "Adamantium / Enderite",
+      "Unknown Author",
+      "Adamantium armor and Enderite tools",
+      "Themed, PvP",
+      "<a href=../nbt/unnamed/nbt/Adamantium_Enderite_[AAN].nbt download>NBT</a>"
+    ],
+    [
+      "AdminKit",
+      "Unknown Author",
+      "127 stacked Netherite armor, weapons and totems",
+      "PvP",
+      "<a href=../nbt/unnamed/nbt/AdminKit_[AAN].nbt download>NBT</a>"
+    ],
+    [
+      "Areo Kit",
+      "Unknown Author",
+      "Diamond armor and weapons formed from Areo Gel",
+      "PvP",
+      "<a href=../nbt/unnamed/nbt/AreoKit_[AAN].nbt download>NBT</a>"
+    ],
+    [
+      "Banisher Kit",
+      "Unknown Author",
+      "Diamond armor and sword, bow and arrows of harming",
+      "PvP",
+      "<a href=../nbt/unnamed/nbt/BanisherKit_[AAN].nbt download>NBT</a>"
+    ],
+    [
+      "Bitcoin",
+      "Unknown Author",
+      "1,664 Bitcoin",
+      "Meme, Misc, Themed",
+      "<a href=../nbt/unnamed/nbt/Bitcoin_[AAN].nbt download>NBT</a>"
+    ],
+    [
+      "FreeOP Kit",
+      "MarioJr333",
+      "Rainbow diamond armor, weapons and a variety of FreeOP and illegal items",
+      "PvP, Misc, Collection",
+      "<a href=../nbt/unnamed/nbt/FreeOPKit_[AAN].nbt download>NBT</a>"
+    ],
+    [
+      "Furniture Eggs",
+      "Unknown Author",
+      "A collection of eggs that spawn furniture-esque items",
+      "Eggs",
+      "<a href=../nbt/unnamed/nbt/FurnitureEggs_[AAN].nbt download>NBT</a>"
+    ],
+    [
+      "Galactical Cannon",
+      "Unknown Author",
+      "Crossbow, arrows and fireworks",
+      "PvP",
+      "<a href=../nbt/unnamed/nbt/GalacticalCannon_[AAN].nbt download>NBT</a>"
+    ],
+    [
+      "Cavecity Tavern Uniform",
+      "xXThirn_PlayzXx",
+      "Uniform for workers at the Cavecity Tavern",
+      "Themed, Misc",
+      "<a href=../nbt/unnamed/nbt/CavecityTavernUniform_[AAN].nbt download>NBT</a>"
+    ],
+    [
+      "Chef's Uniform",
+      "Unknown Author",
+      "A chef's uniform and spatula",
+      "Themed, Misc",
+      "<a href=../nbt/unnamed/nbt/ChefsUniform_[AAN].nbt download>NBT</a>"
+    ],
+    [
+      "CocaCola",
+      "Unknown Author",
+      "A box full of CocaCola potions",
+      "Meme, Misc",
+      "<a href=../nbt/unnamed/nbt/CocaCola_[AAN].nbt download>NBT</a>"
+    ],
+    [
+      "Covid-19 Disease",
+      "Unknown Author",
+      "Potions filled with COrona VIrus Disease 2019",
+      "Meme, Misc",
+      "<a href=../nbt/unnamed/nbt/Covid19Disease_[AAN].nbt download>NBT</a>"
+    ],
+    [
+      "Element Crossbow",
+      "Unknown Author",
+      "Neutrino Crossbow, with Tau, Electron, and Muon arrows",
+      "Themed, PvP",
+      "<a href=../nbt/unnamed/nbt/ElementCrossbow_[AAN].nbt download>NBT</a>"
+    ],
+    [
+      "Imperium Set",
+      "Unknown Author",
+      "Netherite Armor, sword and shield",
+      "PvP",
+      "<a href=../nbt/unnamed/nbt/ImperiumSet_[AAN].nbt download>NBT</a>"
+    ],
+    [
+      "Infinity Armor",
+      "Unknown Author",
+      "Netherite Armor, tools and weapons",
+      "PvP",
+      "<a href=../nbt/unnamed/nbt/InfinityArmor_[AAN].nbt download>NBT</a>"
+    ],
+    [
+      "International Meal",
+      "Unknown Author",
+      "Dinner Forks, Irish Potato, American Cheeseburger, French Bread, Italian Meatball and Swiss Chocolate",
+      "Themed, Misc",
+      "<a href=../nbt/unnamed/nbt/InternationalMeal_[AAN].nbt download>NBT</a>"
+    ],
+    [
+      "Gifts & Eggs",
+      "Unknown Author",
+      "A collection of Eggs, Giftbox Heads, and a bow",
+      "Eggs, Misc",
+      "<a href=../nbt/unnamed/nbt/Gifts&Eggs_[AAN].nbt download>NBT</a>"
+    ],
+    [
+      "Goat Kit",
+      "Unknown Armor",
+      "Leather armor, Goat Helmet, Netherite Sword, and Snow Blocks",
+      "Themed, PvP",
+      "<a href=../nbt/unnamed/nbt/GoatKit_[AAN].nbt download>NBT</a>"
+    ],
+    [
+      "HalloweenWeapons",
+      "isabellepumpkin & anti95",
+      "Netherite Axe, Crossbow and Trident with a Halloween theme",
+      "Themed, PvP",
+      "<a href=../nbt/unnamed/nbt/HalloweenWeapons_[AAN].nbt download>NBT</a>"
+    ],
+    [
+      "Heaven's Fury / God's Blessing",
+      "Unknown Author",
+      "Leather armor and a Golden sword, with a Heaven/Hell theme",
+      "Themed, PvP",
+      "<a href=../nbt/unnamed/nbt/HeavensFury_GodsBlessing_[AAN].nbt download>NBT</a>"
+    ],
+    [
+      "Hobo Kit",
+      "Unknown Author",
+      "Hobo themed leather armor and weapons",
+      "Themed, PvP",
+      "<a href=../nbt/unnamed/nbt/HoboKit_[AAN].nbt download>NBT</a>"
+    ],
+    [
+      "lolop Items",
+      "lolop",
+      "2 helmets and 3 weapons by lolop",
+      "PvP",
+      "<a href=../nbt/unnamed/nbt/lolopItems_[AAN].nbt download>NBT</a>"
+    ],
+    [
+      "Lycix's Skull",
+      "Unknown Author",
+      "The misspelled skull of <i>Lyicx</i>",
+      "Misc",
+      "<a href=../nbt/unnamed/nbt/LycixsSkull_[AAN].nbt download>NBT</a>"
+    ],
+    [
+      "MIDAS ARMOR",
+      "Unknown Author",
+      "Golden armor and weapons",
+      "Themed, PvP",
+      "<a href=../nbt/unnamed/nbt/MIDASARMOR_[AAN].nbt download>NBT</a>"
+    ],
+    [
+      "Mythril Kit",
+      "Unknown Author",
+      "Netherite Swords, Bows, Arrows, and Totems",
+      "PvP",
+      "<a href=../nbt/unnamed/nbt/MythrilKit_[AAN].nbt download>NBT</a>"
+    ],
+    [
+      "Internet Posts",
+      "videogamesm12",
+      "A collection of posts, comments and threads from 4chan and Reddit",
+      "Meme, Misc",
+      "<a href=../nbt/unnamed/nbt/InternetPosts_[AAN].nbt download>NBT</a>"
+    ],
+    [
+      "Jazwinder Chong",
+      "Unknown Author",
+      "I literally could not come up with a name for this box, so I just generated a random one. It has some books, an egg and some fireworks and potions",
+      "Misc",
+      "<a href=../nbt/unnamed/nbt/JazwinderChong_[AAN].nbt download>NBT</a>"
+    ],
+    [
+      "Just a Normal Kit",
+      "JoshuaNC08",
+      "Just some normal Diamond Armor",
+      "PvP",
+      "<a href=../nbt/unnamed/nbt/JustANormalKit_[AAN].nbt download>NBT</a>"
+    ],
+    [
+      "Legendary Kit",
+      "Unknown Author",
+      "Legendary Diamond armor and tools",
+      "PvP",
+      "<a href=../nbt/unnamed/nbt/LegendaryKit_[AAN].nbt download>NBT</a>"
+    ],
+    [
+      "LGBT Flags",
+      "riawo",
+      "Flags for different LGBT+",
+      "Misc",
+      "<a href=../nbt/unnamed/nbt/LGBTFlags_[AAN].nbt download>NBT</a>"
+    ],
+    [
+      "SaldoniaMyAss's 32k",
+      "SaldoniaMyAss",
+      "Diamond armor and tools, plus fireworks",
+      "PvP",
+      "<a href=../nbt/unnamed/nbt/SaldoniaMyAss32k_[AAN].nbt download>NBT</a>"
+    ],
+    [
+      "Satans Spawn",
+      "Unknown Author",
+      "Diamond armor birthed from Satan himself",
+      "Themed, PvP",
+      "<a href=../nbt/unnamed/nbt/SatansSpawn_[AAN].nbt download>NBT</a>"
+    ],
+    [
+      "Security Kit",
+      "Unknown Author",
+      "Leather armor, weapons, taser arrows and \"flashbang\" dyes",
+      "Themed, PvP",
+      "<a href=../nbt/unnamed/nbt/SecurityKit_[AAN].nbt download>NBT</a>"
+    ],
+    [
+      "Polar Star",
+      "Unknown Author",
+      "Crossbow and 3 fireworks",
+      "PvP, Misc",
+      "<a href=../nbt/unnamed/nbt/PolarStar_[AAN].nbt download>NBT</a>"
+    ],
+    [
+      "quackquack",
+      "Unknown Author",
+      "Diamond armor and tools with a quack theme",
+      "Themed, PvP",
+      "<a href=../nbt/unnamed/nbt/quackquack_[AAN].nbt download>NBT</a>"
+    ],
+    [
+      "Reinforced Prismite Armor",
+      "Unknown Author",
+      "Diamond Armor",
+      "PvP",
+      "<a href=../nbt/unnamed/nbt/ReinforcedPrismiteArmor_[AAN].nbt download>NBT</a>"
+    ],
+    [
+      "The Ultimate Light",
+      "Unknown Author",
+      "5 strange items",
+      "Misc, Meme",
+      "<a href=../nbt/unnamed/nbt/TheUltimateLight_[AAN].nbt download>NBT</a>"
+    ],
+    [
+      "Unnamed NukeCoderX",
+      "NukeCoderX",
+      "Miscellaneous items by NukeCoderX",
+      "Misc",
+      "<a href=../nbt/unnamed/nbt/UnnamedNukeCoderX_[AAN].nbt download>NBT</a>"
+    ],
+    [
+      "Skys Armor",
+      "Skys_The_Limit",
+      "8 sets of leather armor",
+      "PvP",
+      "<a href=../nbt/unnamed/nbt/SkysArmor_[AAN].nbt download>NBT</a>"
+    ],
+    [
+      "Property of the King",
+      "slayXarmy",
+      "Netherite armor and weapons, enderpearls and totems",
+      "PvP",
+      "<a href=../nbt/unnamed/nbt/PropertyOfTheKing_[AAN].nbt download>NBT</a>"
+    ],
+    [
+      "Sudsy Tavern Uniform",
+      "xXThirn_PlayzXx",
+      "Uniform for employees of the Sudsy Tavern",
+      "Themed, Misc",
+      "<a href=../nbt/unnamed/nbt/SudsyTavernUniform_[AAN].nbt download>NBT</a>"
+    ],
+    [
+      "Technoblades Armor",
+      "Unknown Author",
+      "Diamond armor",
+      "PvP",
+      "<a href=../nbt/unnamed/nbt/TechnobladesArmor_[AAN].nbt download>NBT</a>"
+    ],
+    [
+      "The Longest Name",
+      "Unknown Author",
+      "Enchanted Crying Polished Smooth Cracked Chiseled Mossy Stripped Infested Waxed Lightly Weathered Cut Light Gray Blackstone Brick Pressure Plate Chestplate",
+      "Meme, Misc",
+      "<a href=../nbt/unnamed/nbt/TheLongestName_[AAN].nbt download>NBT</a>"
+    ],
+    [
+      "The Omega Kit",
+      "Unknown Author",
+      "Golden armor, Diamond sword, potions and totems",
+      "PvP",
+      "<a href=../nbt/unnamed/nbt/TheOmegaKit_[AAN].nbt download>NBT</a>"
+    ],
+    [
+      "xriqn's God Armor",
+      "xriqn",
+      "Diamond armor, button, and dpot",
+      "PvP",
+      "<a href=../nbt/unnamed/nbt/xriqnsGodArmor_[AAN].nbt download>NBT</a>"
+    ],
+    [
+      "Wolfie's Scarf",
+      "Unknown IGN",
+      "Elytra, scarf, shield and diamond sword",
+      "PvP",
+      "<a href=../nbt/unnamed/nbt/WolfiesScarf_[AAN].nbt download>NBT</a>"
+    ],
+    [
+      "Feueristic Telescope &#11088;",
+      "Feueristic",
+      "A telescope with exquisite lore",
+      "Lore, Themed, Misc",
+      "<a href=../nbt/unnamed/nbt/FeueristicTelescope_[AAN].nbt download>NBT</a>"
+    ],
+    [
+      "2 Billion Sharpness Axe / Levitation 127 Potion",
+      "Unknown Author",
+      "A netherite axe with 2 billion sharpness, and a splash potion with Levitation 127",
+      "PvP",
+      "<a href=../nbt/unnamed/nbt/2bAxeLev127Pot_[AAN].nbt download>NBT</a>"
+    ],
+    [
+      "Skull Banners",
+      "Unknown Author",
+      "Banners forming a skull, alongside weapons, fireworks and potions",
+      "Misc, PvP",
+      "<a href=../nbt/unnamed/nbt/SkullBanners_[AAN].nbt download>NBT</a>"
+    ],
+    [
+      "Mandalorian Items",
+      "Unknown Author",
+      "Items and gear with a Mandalorian theme",
+      "Themed, PvP",
+      "<a href=../nbt/unnamed/nbt/MandalorianItems_[AAN].nbt download>NBT</a>"
+    ],
+    [
+      "Hypixel Sculk",
+      "Hypixel",
+      "3 sculk items from Hypixel",
+      "Hypixel",
+      "<a href=../nbt/unnamed/nbt/HypixelSculk_[AAN].nbt download>NBT</a>"
+    ],
+    [
+      "Hypixel Armor & Weapons",
+      "Hypixel",
+      "2 armor sets, plus some tools",
+      "Hypixel",
+      "<a href=../nbt/unnamed/nbt/HypixelArmor&Weapons_[AAN].nbt download>NBT</a>"
+    ],
+    [
+      "Hypixel Items",
+      "Hypixel",
+      "Various items from Hypixel",
+      "Hypixel",
+      "<a href=../nbt/unnamed/nbt/HypixelItemsLightBlueBox_[AAN].nbt download>NBT</a>"
+    ],
+    [
+      "Planetary Cheese",
+      "OperatorTheDope",
+      "Cheese from various planets",
+      "Themed, Misc",
+      "<a href=../nbt/unnamed/nbt/PlanetaryCheese_[AAN].nbt download>NBT</a>"
+    ],
+    [
+      "NukeCoderX Alliance",
+      "NukeCoderX (?)",
+      "Crossbow, Spawn Egg, Firework and Potion, with a note about returning to \"any alliance member\"",
+      "Misc, PvP",
+      "<a href=../nbt/unnamed/nbt/NukeCoderXAlliance_[AAN].nbt download>NBT</a>"
+    ],
+    [
+      "Chungus Standard Set",
+      "Reperak",
+      "Diamond armor and sword, part of the Chungus Standard set, surrounded by Chungus Ltd. Packing Peanuts",
+      "PvP, Themed",
+      "<a href=../nbt/unnamed/nbt/ChungusStandardSet_[AAN].nbt download>NBT</a>"
+    ],
+    [
+      "Blank Macetrap Armor",
+      "macetrap",
+      "Netherite armor with truly blank name and lore",
+      "PvP",
+      "<a href=../nbt/unnamed/nbt/BlankMacetrapArmor_[AAN].nbt download>NBT</a>"
+    ],
+    [
+      "Marxx Characters Vol 6",
+      "Katsuo",
+      "Copies of Marxx Characters Vol 6, alongside empty Katsuo bags",
+      "Utility, Misc",
+      "<a href=../nbt/unnamed/nbt/MarxxCharactersVol6_[AAN].nbt download>NBT</a>"
+    ],
+    [
+      "Command Item Exploit",
+      "Unknown Author",
+      "Chest with 3 shulkers, one each for Commands, Items and Exploits",
+      "Collection, Misc",
+      "<a href=../nbt/unnamed/nbt/CommandItemExploit_[AAN].nbt download>NBT</a>"
+    ],
+    [
+      "1clouds Box of Mental Scarring",
+      "1cloud_",
+      "A collection of items and potions with horrible lore",
+      "Misc, Collection, Lore",
+      "<a href=../nbt/unnamed/nbt/1cloudsBoxOfMentalScarring_[AAN].nbt download>NBT</a>"
+    ],
+    [
+      "Chungus Sword 1.8",
+      "Unknown Author",
+      "Contains an iron Chungus Sword (v1.8), 7 \"medkit\" health potions, 1 speed potion, and 6 stacks of ChungusCoin",
+      "PvP, Themed",
+      "<a href=../nbt/unnamed/nbt/ChungusSword1.8_[AAN].nbt download>NBT</a>"
+    ],
+    [
+      "Hypixel Dragon Armor",
+      "Unknown Author",
+      "Four sets of Dragon armor from Hypixel",
+      "Hypixel",
+      "<a href=../nbt/unnamed/nbt/HypixelDragonArmor_[AAN].nbt download>NBT</a>"
+    ],
+    [
+      "X Trident Check Sun",
+      "Unknown Author",
+      "White and leather armor, with player heads featuring an X, a Trident, a Checkmark and a Sun",
+      "Misc, Themed, PvP",
+      "<a href=../nbt/unnamed/nbt/XTridentCheckSun_[AAN].nbt download>NBT</a>"
+    ]
+  ]
+}

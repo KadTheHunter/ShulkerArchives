@@ -1,6 +1,3 @@
-_site
-.sass-cache
-.jekyll-metadata
-Gemfile.lock
-/Default Posts/
-.idea
+
+.ignoreth/
+.idea/
