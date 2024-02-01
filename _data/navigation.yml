@@ -1,0 +1,16 @@
+main:
+  - title: "About"
+    url: /about/
+    description: "History & Background of the Archives"
+  - title: "Discord"
+    url: https://discord.gg/cfq25qURfv
+    description: "The Shulker Archives Discord Server"
+  - title: "Database"
+    url: /database/
+    description: "Database of all Archive Entries"
+  - title: "Releases"
+    url: /releases/
+    description: "Latest & Historical releases"
+  - title: "Resources"
+    url: /resources/
+    description: "Software/Mods & Guides"
