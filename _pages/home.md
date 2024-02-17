@@ -14,7 +14,7 @@ header:
 
 excerpt: >
   A collection of NBT data in the form of Shulker Kits, Items, Books and more, 1.8k entries strong.<br />
-  <small><a href="{{ site.baseurl }}/releases/v1.0.0/Changelog">Latest release Changelog</a></small>
+  <small><a href="releases/v1.0.0/Changelog">Latest release Changelog</a></small>
 
 carousels:
   - images:
