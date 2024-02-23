@@ -45,5 +45,5 @@ background-color: gray;
 ### Notes
 - Map updates are not tied to Minecraft updates; I will only release tied updates when Minecraft introduces breaking changes (e.g 1.20+ Signs, 1.20.2+ Potions, etc.). 
   - *These tied updates will consist of the last released version of the map upgraded to the newest Minecraft version with no additions or changes*
-- Only the **minimum** Minecraft version is important, because it indicates where breaking changes were introduced that require loading in a specific version or newer. All map releases should be compatible with newer versions than those listed.
+- The minimum Minecraft version is important, because it typically indicates where breaking changes were introduced to NBT. All map releases should be compatible with newer versions than those listed, but I cannot guarantee and will not provide support for loading on older versions.
 - If a map fails to download, please check the bottom of the relevant Changelog for other download links.
