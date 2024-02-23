@@ -84,3 +84,4 @@ I have also created a [Discord Server](https://discord.gg/cfq25qURfv) for The Sh
 # Download
 [v1.0.0]({{ site.baseurl }}/releases/v1.0.0/TheShulkerArchives_v1.0.0.zip){: .align-center .btn .btn--success .btn--x-large style="width: 70%;"}
 [Mirror (GitHub)](https://github.com/KadTheHunter/ShulkerArchives/releases/tag/v1.0.0){: .align-center .btn .btn--success .btn--x-large style="width: 70%;"}
+[Modpack](https://modrinth.com/modpack/the-shulker-archives/version/1.0.0){: .align-center .btn .btn--success .btn--x-large style="width: 70%;"}

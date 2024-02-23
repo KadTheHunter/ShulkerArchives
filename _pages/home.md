@@ -37,13 +37,16 @@ carousels:
 
 ***
 
-![image-left]({{ site.baseurl }}/assets/images/vanilla.png){: .align-left style="width: 40%;"} While we recommend a modded environment (such as Fabric with mods like NBT Editor), The Shulker Archives is completely usable and accessible in Vanilla Minecraft.
+![image-left]({{ site.baseurl }}/assets/images/vanilla.png){: .align-left style="width: 25vw;"} While we recommend a modded environment (such as Fabric with mods like [NBT Editor](https://modrinth.com/mod/nbt-editor)), The Shulker Archives is completely usable and accessible in Vanilla Minecraft.
 {: .text-left style="font-size: 1.5vw;"}
 
 
-![image-right]({{ site.baseurl }}/assets/images/shulker-count.png){: .align-right style="width: 30%;"} There are currently more than 1,800 entries in the archives, divided across more than 16 categories, with roughly 1,300 of those being Kits, 400 Items, 70 Unnamed Kits and 60 Books.\
-Whatever you might want, we most certainly have!
+[![image-right]({{ site.baseurl }}/assets/images/modpack.png){: .align-right style="width: 10vw;"}](https://modrinth.com/modpack/the-shulker-archives) Want a pre-made environment to explore the Archives? Why not use our [Modpack](https://modrinth.com/modpack/the-shulker-archives), designed specifically for exploring the Archives and working with NBT data!
 {: .text-right style="font-size: 1.5vw;"}
+
+
+[![image-left]({{ site.baseurl }}/assets/images/discord.png){: .align-left style="width: 10vw;"}](https://discord.gg/cfq25qURfv) Come join our [Discord](https://discord.gg/cfq25qURfv) for answers to any NBT questions you may have, as well as a place to share your latest creations and tools with the community.
+{: .text-left style="font-size: 1.5vw;"}
 
 ***
 

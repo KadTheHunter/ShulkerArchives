@@ -22,6 +22,11 @@ This is a collection of guides for various Minecraft NBT related things.
 # Recommended Mods, Websites, and Software
 This is a list of recommended Mods, Websites, and Software, some directly connected to NBT and some loosely related but still useful.
 
+## Official Archives Modpack
+The Shulker Archives has an [official Modpack](https://modrinth.com/modpack/the-shulker-archives) containing many of the mods listed below, alongside the latest release of the Map, all preconfigured and ready to use. 
+
+If you aren't into making your own instances and dealing with Mods, the Modpack is a perfect alternative.
+
 ## (Fabric) Mods
 - [Armor Stands](https://modrinth.com/mod/armor-stands/)
   - Armor Stands is an excellent way to edit every detail about an armorstand while in-game, and all using a nice, clean GUI.
