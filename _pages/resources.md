@@ -34,9 +34,8 @@ If you aren't into making your own instances and dealing with Mods, the Modpack 
   - Custom Skin Loader allows loading skins from a variety of sources, but most importantly loads from the full `minecraft.net` domain *and* allows HD + Transparency, thus supporting [HD Heads]({{ site.baseurl }}/guides/restoring-hd-heads/)
 - [FZMM](https://modrinth.com/mod/FZMM)
   - FZMM is a somewhat niche but still incredible mod, offering tons of advanced features like creating Lore Art/Hologram Art, modifying Player Head Data to add custom textures, a GUI for designing Banners, and an excellent array of tools to give text everything from simple colors to beautiful gradients.
-- ~~[Hotbars+](https://modrinth.com/mod/Hotbars+)~~
-  - ~~Hotbars+ allows you to have an infinite number of hotbars by creating new hotbar files, and swapping them out at the click of a button. It may not be the easiest for on-the-go item storage (for that, see NBT Editor) but it's perfect for making sure your items and kits are safely stored and accessible from anywhere in your Minecraft instance.~~
-  - ***Hotbars+ is currently stuck on 1.20.2 due to Minecraft 1.20.3+ breaking how Hotbar files are saved. See [Issue #33](https://github.com/VideoGameSmash12/HotbarsPlus/issues/33#issuecomment-1844678093) for more information.***
+- [Hotbars+](https://modrinth.com/mod/Hotbars+)
+  - Hotbars+ allows you to have an infinite number of hotbars by creating new hotbar files, and swapping them out at the click of a button. It may not be the easiest for on-the-go item storage (for that, see NBT Editor) but it's perfect for making sure your items and kits are safely stored and accessible from anywhere in your Minecraft instance.
 - [IBE Editor](https://modrinth.com/mod/ibe-editor)
   - IBE Editor (Item Block Entity Editor) is a Mod with similar features to NBT Editor (NBT/SNBT editing, Item Vault, etc.), though it really shines with its NBT Tag Editing page. No other mod displays NBT Tags in such a nice, easy to read tree format besides IBE Editor, and that alone makes it worthy of including in your Minecraft instance.
 - [NBT Editor](https://modrinth.com/mod/nbt-editor)
