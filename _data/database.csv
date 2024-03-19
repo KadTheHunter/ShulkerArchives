@@ -475,8 +475,6 @@ DO NOT OPEN,Unknown Author,/tp @s -24.5 49 -59.5 0 0,,PvP-Related,Kit
 Dumb Ice Fairy,Cirno_,/tp @s -25.5 49 -59.5 0 0,,PvP-Related,Kit
 Echo Set,christophermav,/tp @s -26.5 49 -59.5 0 0,,PvP-Related,Kit
 Ender Kit,Unknown Author,/tp @s -27.5 49 -59.5 0 0,,PvP-Related,Kit
-Enders Arrow Pack 1,Misc. Authors,/tp @s -28.5 49 -59.5 0 0,,PvP-Related,Kit
-Enders Arrow Pack 2,Misc. Authors,/tp @s -29.5 49 -59.5 0 0,,PvP-Related,Kit
 epic gamer kit by robinhahn,robinhahn,/tp @s -30.5 49 -59.5 0 0,,PvP-Related,Kit
 Epic Gear,Unknown Author,/tp @s -13.5 47 -59.5 0 0,,PvP-Related,Kit
 Equator Hazmat,quack95,/tp @s -14.5 47 -59.5 0 0,,PvP-Related,Kit
@@ -751,7 +749,6 @@ Custom Tools,Eczbek,/tp @s -28.5 49 -95.5 0 0,,Misc. Func.,Kit
 Cyb3x's Kit,Cyb3x,/tp @s -29.5 49 -95.5 0 0,,Misc. Func.,Kit
 Dodo Crate,_cor3y_,/tp @s -30.5 49 -95.5 0 0,,Misc. Func.,Kit
 DogeisCut's Wacky Box of Fun,DogeisCut,/tp @s -13.5 47 -95.5 0 0,,Misc. Func.,Kit
-Enders Other Item Pack 3,Unknown Author,/tp @s -14.5 47 -95.5 0 0,,Misc. Func.,Kit
 Founders Items,Jackthefounder,/tp @s -15.5 47 -95.5 0 0,,Misc. Func.,Kit
 Griefer kit v1 ORIGINAL,0l1vier,/tp @s -16.5 47 -95.5 0 0,,Misc. Func.,Kit
 GRIEFING box,PrinceWasTaken,/tp @s -17.5 47 -95.5 0 0,,Misc. Func.,Kit
@@ -879,7 +876,9 @@ keli5's Music Kit,keli5,/tp @s 14.5 47 -35.5 0 0,,Lore,Kit
 keli5's Music Kit 2,keli5,/tp @s 15.5 47 -35.5 0 0,,Lore,Kit
 lol 2.0,MorganAnkan,/tp @s 16.5 47 -35.5 0 0,,Lore,Kit
 Lore items from TF,Unknown Author,/tp @s 17.5 47 -35.5 0 0,,Lore,Kit
-Mono-Blue Faeries (1-3),Unknown Author,/tp @s 18.5 47 -35.5 0 0,Archivist Pick,Lore,Kit
+Mono-Blue Faeries (1/3),Unknown Author,/tp @s 18.5 47 -35.5 0 0,Archivist Pick,Lore,Kit
+Mono-Blue Faeries (2/3),Unknown Author,/tp @s 18.5 47 -35.5 0 0,Archivist Pick,Lore,Kit
+Mono-Blue Faeries Manabase (3-3),Unknown Author,/tp @s 18.5 47 -35.5 0 0,Archivist Pick,Lore,Kit
 Narnia Dev ƒ,Katsuo,/tp @s 19.5 47 -35.5 0 0,,Lore,Kit
 Narnian Falchion Kit Dev ƒ,Katsuo,/tp @s 20.5 47 -35.5 0 0,,Lore,Kit
 Narnia TF Version,Katsuo,/tp @s 21.5 47 -35.5 0 0,,Lore,Kit
@@ -950,8 +949,6 @@ Dopecoin Kit,OperatorTheDope,/tp @s 17.5 47 -59.5 0 0,,Misc. Non-Func.,Kit
 Drugs,Holdingbacktears,/tp @s 18.5 47 -59.5 0 0,,Misc. Non-Func.,Kit
 Dumb Items,Unknown Author,/tp @s 19.5 47 -59.5 0 0,,Misc. Non-Func.,Kit
 Emerald Armor,Unknown Author,/tp @s 20.5 47 -59.5 0 0,,Misc. Non-Func.,Kit
-Endermatter Barrel,Unknown Author,/tp @s 21.5 47 -59.5 0 0,,Misc. Non-Func.,Kit
-Endermatter Shulker,Unknown Author,/tp @s 22.5 47 -59.5 0 0,,Misc. Non-Func.,Kit
 Enders Items,Misc. Authors,/tp @s 23.5 47 -59.5 0 0,,Misc. Non-Func.,Kit
 FANTASY'S KIT FOR TODDLERS,Unknown Author,/tp @s 24.5 47 -59.5 0 0,,Misc. Non-Func.,Kit
 Farmers Kit,Unknown Author,/tp @s 25.5 47 -59.5 0 0,,Misc. Non-Func.,Kit
@@ -1340,11 +1337,17 @@ Yurni's Horse Armor,Yurni,/tp @s -80.5 43 -18.5 -180 0,,Misc. Func.,Item
 Yurni's Totems,Yurni,/tp @s -81.5 43 -18.5 -180 0,,Misc. Func.,Item
 quack95's undying,quack95,/tp @s -82.5 43 -18.5 -180 0,,Misc. Func.,Item
 Ainz Ooal Gown's Buffed cloak,Hamis65,/tp @s -52.5 45 14.5 -90 0,,Armor,Item
-Boar's Armor Set,Unknown Author,/tp @s -52.5 45 15.5 -90 0,,Armor,Item
+Boar's Mask,Unknown Author,/tp @s -52.5 45 15.5 -90 0,,Armor,Item
+Boar's Aegis,Unknown Author,/tp @s -52.5 45 15.5 -90 0,,Armor,Item
+Boar's Legs,Unknown Author,/tp @s -52.5 45 15.5 -90 0,,Armor,Item
+Boar's Boots,Unknown Author,/tp @s -52.5 45 15.5 -90 0,,Armor,Item
 Copper Scuba Helmet,keyshujin,/tp @s -52.5 45 16.5 -90 0,,Armor,Item
 FEET!,Yurni,/tp @s -52.5 45 17.5 -90 0,,Armor,Item
 Herme's Winged Sandals,Unknown Author,/tp @s -52.5 45 18.5 -90 0,,Armor,Item
-Inferno Zealot Set,Unknown Author,/tp @s -52.5 44 13.5 -90 0,Archivist Pick,Armor,Item
+Inferno Zealot Helm,Unknown Author,/tp @s -52.5 44 13.5 -90 0,Archivist Pick,Armor,Item
+Inferno Zealot Cuirass,Unknown Author,/tp @s -52.5 44 13.5 -90 0,Archivist Pick,Armor,Item
+Inferno Zealot Greaves,Unknown Author,/tp @s -52.5 44 13.5 -90 0,Archivist Pick,Armor,Item
+Inferno Zealot Boots,Unknown Author,/tp @s -52.5 44 13.5 -90 0,Archivist Pick,Armor,Item
 Kad's cetare,Kadalyst,/tp @s -52.5 44 14.5 -90 0,,Armor,Item
 King's Crown,Mister,/tp @s -52.5 44 15.5 -90 0,,Armor,Item
 Mythical Tier V Purple Helmet,Unknown Author,/tp @s -52.5 44 16.5 -90 0,,Armor,Item
@@ -1460,10 +1463,20 @@ Uzi's Sick as Hell RAILGUN!!,Unknown Author,/tp @s -88.5 42 13.5 -90 0,,Ranged W
 Your Resistance,"Yurni, TeamKismet",/tp @s -88.5 42 14.5 -90 0,,Ranged Weapons,Item
 Yurni's Comically Large Fork,Yurni,/tp @s -88.5 42 15.5 -90 0,,Ranged Weapons,Item
 CompactKit,Enchilada12,/tp @s -99.5 44 -14.5 -90 0,Archivist Pick,Item Sets,Item
-DOOM Set,Unknown Author,/tp @s -99.5 43 -15.5 -90 0,,Item Sets,Item
+Praetor Helm,Unknown Author,/tp @s -99.5 43 -15.5 -90 0,,Item Sets,Item
+Praetor Cuirass,Unknown Author,/tp @s -99.5 43 -15.5 -90 0,,Item Sets,Item
+Praetor Chausses,Unknown Author,/tp @s -99.5 43 -15.5 -90 0,,Item Sets,Item
+Praetor Sollerets,Unknown Author,/tp @s -99.5 43 -15.5 -90 0,,Item Sets,Item
+The Crucible,Unknown Author,/tp @s -99.5 43 -15.5 -90 0,,Item Sets,Item
+Vortex Rifle,Unknown Author,/tp @s -99.5 43 -15.5 -90 0,,Item Sets,Item
 Gray Kit,Unknown Author,/tp @s -99.5 43 -14.5 -90 0,,Item Sets,Item
-Luneiter's Set,Luneiter,/tp @s -99.5 43 -13.5 -90 0,,Item Sets,Item
-techPair,techiemaster2005,/tp @s -99.5 42 -15.5 -90 0,,Item Sets,Item
+Luneiter's Head,Luneiter,/tp @s -99.5 43 -13.5 -90 0,,Item Sets,Item
+Luneiter's Wings,Luneiter,/tp @s -99.5 43 -13.5 -90 0,,Item Sets,Item
+Luneiter's Stealth,Luneiter,/tp @s -99.5 43 -13.5 -90 0,,Item Sets,Item
+Luneiter's Speed,Luneiter,/tp @s -99.5 43 -13.5 -90 0,,Item Sets,Item
+Luneiter's Power,Luneiter,/tp @s -99.5 43 -13.5 -90 0,,Item Sets,Item
+techHead,techiemaster2005,/tp @s -99.5 42 -15.5 -90 0,,Item Sets,Item
+techSword,techiemaster2005,/tp @s -99.5 42 -15.5 -90 0,,Item Sets,Item
 quack95's tools,quack95,/tp @s -99.5 42 -14.5 -90 0,,Item Sets,Item
 A Great View,Unknown Author,/tp @s 53.5 45 -13.5 90 0,NSFW,Lore,Item
 ALL CHILDREN WILL BE OBLITERATED,Feueristic,/tp @s 53.5 45 -14.5 90 0,,Lore,Item
@@ -1481,7 +1494,7 @@ Egg!,MarioKartWii,/tp @s 53.5 43 -12.5 90 0,,Lore,Item
 Egyptian Charm of Luck,inlovewithaghost,/tp @s 53.5 43 -13.5 90 0,Archivist Pick,Lore,Item
 End Portal Glitch Diagram,Unknown Author,/tp @s 53.5 43 -14.5 90 0,,Lore,Item
 Epic Painting,Unknown Author,/tp @s 53.5 43 -15.5 90 0,NSFW,Lore,Item
-HOTWOMAN.jpg,Unknown Author,/tp @s 53.5 43 -16.5 90 0,NSFW,Lore,Item
+HOTWOMAN.jpg,miniozoid,/tp @s 53.5 43 -16.5 90 0,NSFW,Lore,Item
 Incmatter Core,quack95,/tp @s 53.5 43 -17.5 90 0,,Lore,Item
 Ion Battery,quack95,/tp @s 53.5 43 -18.5 90 0,,Lore,Item
 Itemizium,OperatorTheDope,/tp @s 53.5 42 -12.5 90 0,,Lore,Item
@@ -1731,7 +1744,6 @@ Omega Ducky Kit V9,nicm55,/tp @s 27.5 41 49.5 -90 0,,Collections,Kit
 Omega Ducky Kit V10,nicm55,/tp @s 27.5 41 49.5 -90 0,,Collections,Kit
 Omega Ducky Kit V11,nicm55,/tp @s 27.5 41 49.5 -90 0,,Collections,Kit
 Omega Ducky Kit v12,nicm55,/tp @s 27.5 41 49.5 -90 0,,Collections,Kit
-Panthers HD Head Packs,Unknown IGN,/tp @s 27.5 41 51.5 -90 0,Root Barrel,Collections,Kit
 Catboy Pack,Unknown IGN,/tp @s 27.5 41 51.5 -90 0,,Collections,Kit
 Deer Pack,Unknown IGN,/tp @s 27.5 41 51.5 -90 0,,Collections,Kit
 Piglet and Pooh Pack,Unknown IGN,/tp @s 27.5 41 51.5 -90 0,,Collections,Kit
@@ -1990,11 +2002,10 @@ Province Crows,Unknown Author,/tp @s 27.5 41 51.5 -90 0,,Collections,Kit
 Custom Heads Box,Unknown Author,/tp @s 27.5 41 51.5 -90 0,,Collections,Kit
 Custom Heads Box II,Unknown Author,/tp @s 27.5 41 51.5 -90 0,,Collections,Kit
 courteously,courteously,/tp @s 27.5 41 51.5 -90 0,,Collections,Kit
-Leo's Hats,LeoTheRavioli,/tp @s 27.5 41 51.5 -90 0,Root Barrel,Collections,Kit
-Leo's Hats,LeoTheRavioli,/tp @s 27.5 41 51.5 -90 0,Box 1,Collections,Kit
-Leo's Hats,LeoTheRavioli,/tp @s 27.5 41 51.5 -90 0,Box 2,Collections,Kit
-Leo's Hats,LeoTheRavioli,/tp @s 27.5 41 51.5 -90 0,Box 3,Collections,Kit
-Leo's Hats,LeoTheRavioli,/tp @s 27.5 41 51.5 -90 0,Box 4,Collections,Kit
+Leo's Hats,LeoTheRavioli,/tp @s 27.5 41 51.5 -90 0,Yellow,Collections,Kit
+Leo's Hats,LeoTheRavioli,/tp @s 27.5 41 51.5 -90 0,Cyan,Collections,Kit
+Leo's Hats,LeoTheRavioli,/tp @s 27.5 41 51.5 -90 0,Orange,Collections,Kit
+Leo's Hats,LeoTheRavioli,/tp @s 27.5 41 51.5 -90 0,Magenta,Collections,Kit
 Pumpkin Helmet,Unknown Author,/tp @s 27.5 41 51.5 -90 0,,Collections,Item
 Emerald Helmet's Head,Unknown Author,/tp @s 27.5 41 51.5 -90 0,,Collections,Item
 Prismarine Helmet's Head,Unknown Author,/tp @s 27.5 41 51.5 -90 0,,Collections,Item
@@ -2020,7 +2031,6 @@ Wegny's Remains,Unknown Author,/tp @s -26.5 49 -55.5 -180 0,,PvP,Kit
 Spaceman Kit,Chumbatooba,/tp @s -25.5 49 -55.5 -180 0,,PvP,Kit
 Yellow Spaceman Kit,"oofr, Chumbatooba",/tp @s -24.5 49 -55.5 -180 0,,PvP,Kit
 Red Spaceman's Kit,Chumbatooba,/tp @s -23.5 49 -55.5 -180 0,,PvP,Kit
-Hippos Grief Collection,TheRedHippo,/tp @s -26.5 49 -71.5 0 0,,Abuse,Kit
 Explosives/Potions,Unknown Author,/tp @s -30.5 47 -95.5 90 0,,Misc. Func.,Kit
 GriefAlarm Kit,Unknown Author,/tp @s -30.5 47 -96.5 90 0,,Misc. Func.,Kit
 Brick Commander's Staff Shulker,BrickCommander,/tp @s -30.5 47 -97.5 90 0,Archivist Pick,Misc. Func.,Kit
@@ -2035,3 +2045,335 @@ Doge Shulker Box,Unknown Author,/tp @s 30.5 47 -67.5 -180 0,,Misc. Non-Func.,Kit
 CHEST,Unknown Author,/tp @s 19.5 47 -95.5 0 0,,Random,Kit
 Random items I found in servers,Unknown Author,/tp @s 20.5 47 -95.5 0 0,,Random,Kit
 odal's stuff,Odalys,/tp @s 21.5 47 -95.5 0 0,,Random,Kit
+Debug Book,Unknown Author,/tp @s -18.5 58 66.5 90 35,,Misc. Func.,Book
+Debug Book Source Code,Unknown Author,/tp @s -18.5 58 65.5 90 35,,Misc. Func.,Book
+Aquaphone,"Aquaristic, AnomalousBread",/tp @s -18.5 58 63.5 90 35,,Misc. Func.,Book
+OP BOOK BY POULE_TREMPEE,Poule_Trempee,/tp @s -18.5 58 62.5 90 35,,Misc. Func.,Book
+Magic Book,The_Webmage,/tp @s -18.5 58 61.5 90 35,,Misc. Func.,Book
+Token,Unknown Author,/tp @s -18.5 61 55.5 90 0,,Misc. Func.,Book
+Book of Power,BrimGrace,/tp @s -18.5 61 54.5 90 0,,Misc. Func.,Book
+Book of Power,MasterGumbo,/tp @s -18.5 61 53.5 90 0,,Misc. Func.,Book
+Special Emojis by Kaninchenfurz24,Kaninchenfurz24,/tp @s -18.5 61 51.5 90 0,,Misc. Func.,Book
+Render Kick,1493028,/tp @s -18.5 61 50.5 90 0,,Misc. Func.,Book
+Tesla's Packet Pauser Instructions,_txsla,/tp @s 21.5 41 45.5 -180 0,,Collections,Book
+Tesla's Packer Pauser Books,_txsla,/tp @s 21.5 41 45.5 -180 0,,Collections,Book
+minephone 12xs,Unknown Author,/tp @s -18.5 61 49.5 90 0,,Misc. Func.,Book
+Hacked Book,Unknown Author,/tp @s 19.5 59 54.5 -90 0,,Misc. Non-Func.,Book
+Harry Potter,k1tt3n5,/tp @s 19.5 59 53.5 -90 0,,Misc. Non-Func.,Book
+The Holy Bible,k1tt3n5,/tp @s 19.5 59 52.5 -90 0,,Misc. Non-Func.,Book
+Alliance Contract,Unknown Author,/tp @s 19.5 59 51.5 -90 0,,Misc. Non-Func.,Book
+Goliath Airdestroyers and the destruction of Aura.,Unknown Author,/tp @s 19.5 59 50.5 -90 0,,Misc. Non-Func.,Book
+Geologic Time Scale,Unknown Author,/tp @s 19.5 59 49.5 -90 0,,Misc. Non-Func.,Book
+Jones Beckett's Journal,Unknown Author,/tp @s 19.5 58 55.5 -90 0,,Misc. Non-Func.,Book
+Zanum - The Lost Kingdom,Unknown Author,/tp @s 19.5 58 54.5 -90 0,,Misc. Non-Func.,Book
+CRASH BARRIER,Unknown Author,/tp @s -64.5 43 -16.5 -90 0,,Exploits,Item
+Jimmy's TPS Killer,Miniozoid,/tp @s -64.5 43 -17.5 -90 0,,Exploits,Item
+Jimmy's Server Nuker,Miniozoid,/tp @s -64.5 43 -18.5 -90 0,,Exploits,Item
+ULTRA BOMB,czychuuu,/tp @s -64.5 42 -12.5 -90 0,,Exploits,Item
+Lag Hologram,jukerx,/tp @s -64.5 42 -13.5 -90 0,,Exploits,Item
+Ghost Guardian Crasher,Unknown Author,/tp @s -64.5 42 -14.5 -90 0,,Exploits,Item
+Translater Crasher Item,Unknown Author,/tp @s -64.5 42 -15.5 -90 0,,Exploits,Item
+F.U.N. (Forceloading Unusual Nightmare),Wylaze,/tp @s -64.5 42 -16.5 -90 0,,Exploits,Item
+W.E. (Wither Ender),Wylaze,/tp @s -64.5 42 -17.5 -90 0,,Exploits,Item
+I.D.A. (In-game DDoS Attack),Wylaze,/tp @s -64.5 42 -18.5 -90 0,,Exploits,Item
+C.O.O.L. (Chat Obliteration Overkill Lagger),Wylaze,/tp @s -64.5 41 -12.5 -90 0,,Exploits,Item
+P.C. (Player Crasher),Wylaze,/tp @s -64.5 41 -13.5 -90 0,,Exploits,Item
+枯れて破壊する 「Poison Fog」,Unknown Author,/tp @s -58.5 45 -16.5 90 0,,Potions,Item
+Soul Eraser,Unknown Author,/tp @s -58.5 45 -15.5 90 0,,Potions,Item
+COVID-XW ACDG,Krypandenej,/tp @s -58.5 45 -14.5 90 0,,Potions,Item
+COVID-XW TS,Krypandenej,/tp @s -58.5 45 -13.5 90 0,,Potions,Item
+"UVX-127 ""Totem Melter""",Krypandenej,/tp @s -58.5 44 -18.5 90 0,,Potions,Item
+"UVX-E ""Cleric""",Krypandenej,/tp @s -58.5 44 -17.5 90 0,,Potions,Item
+Gravity Potion,Thorioum_,/tp @s -58.5 44 -16.5 90 0,,Potions,Item
+Splash Potion of Invulnerability,Thorioum_,/tp @s -58.5 44 -15.5 90 0,,Potions,Item
+Surix Bottle,Unknown Author,/tp @s -58.5 44 -14.5 90 0,,Potions,Item
+Mass Inspection 2: Electric Boogaloo,Unknown Author,/tp @s -58.5 44 -13.5 90 0,,Potions,Item
+Ghost Potion,sithvsjedi,/tp @s -58.5 44 -12.5 90 0,,Potions,Item
+Anti-Gravity Potion,Unknown Author,/tp @s -58.5 43 -18.5 90 0,,Potions,Item
+Ultra Weed Bong,Unknown Author,/tp @s -58.5 43 -17.5 90 0,,Potions,Item
+Gods Protection,Unknown Author,/tp @s -52.5 43 16.5 -90 0,,Armor,Item
+SkimmedMilk,FileExtension,/tp @s -70.5 43 16.5 90 0,,Melee Weapons,Item
+Harry Potter's Wand,Unknown Author,/tp @s -70.5 43 15.5 90 0,,Melee Weapons,Item
+HELL STICK,Unknown Author,/tp @s -70.5 43 14.5 90 0,,Melee Weapons,Item
+Furslice,Team Meltdown,/tp @s -70.5 43 13.5 90 0,,Melee Weapons,Item
+Void Blade,Unknown Author,/tp @s -70.5 42 19.5 90 0,,Melee Weapons,Item
+Glass Sword,Unknown Author,/tp @s -70.5 42 18.5 90 0,,Melee Weapons,Item
+Unenchanted Netherite Sword,FleshlyIsTaken,/tp @s -70.5 42 17.5 90 0,,Melee Weapons,Item
+Celestial Ashbringer,FleshlyIsTaken,/tp @s -70.5 42 16.5 90 0,,Melee Weapons,Item
+Get Killed Bitch,Ira33,/tp @s -70.5 42 15.5 90 0,,Melee Weapons,Item
+Starbreaker,Unknown Author,/tp @s -70.5 42 14.5 90 0,,Melee Weapons,Item
+THE HEX SWORD,Unknown Author,/tp @s -70.5 42 13.5 90 0,,Melee Weapons,Item
+F In The Chat,Ira33ir,/tp @s -70.5 41 19.5 90 0,,Melee Weapons,Item
+Dawn of Corruption,fairygirl12,/tp @s -70.5 41 18.5 90 0,,Melee Weapons,Item
+Smite,Unknown Author,/tp @s -88.5 41 15.5 -90 35,,Ranged Weapons,Item
+Scoped Smite,Unknown Author,/tp @s -88.5 41 16.5 -90 35,,Ranged Weapons,Item
+Cryogenic Trident,Unknown Author,/tp @s -88.5 41 17.5 -90 35,,Ranged Weapons,Item
+Yurni's Crossbow,Yurni,/tp @s -88.5 41 18.5 -90 35,,Ranged Weapons,Item
+AlexTheOOF's multi-range blaster,AlexTheOOF,/tp @s -88.5 41 19.5 -90 35,,Ranged Weapons,Item
+Electric Plasma,AlexTheOOF,/tp @s -89.5 45 19.5 0 0,,Ranged Weapons,Item
+The Devil's Mini-Lance,Unknown Author,/tp @s -90.5 45 19.5 0 0,,Ranged Weapons,Item
+LW Lagstand,Unknown Author,/tp @s -64.5 41 -14.5 -90 0,,Exploits,Item
+Lagmor Stand 20k + custom Position,EvoIve,/tp @s -64.5 41 -15.5 -90 0,,Exploits,Item
+Lagmor Stand 20k,EvoIve,/tp @s -64.5 41 -16.5 -90 0,,Exploits,Item
+wut,xanderdk,/tp @s -82.5 45 -14.5 90 0,,Misc. Func.,Item
+SPACESHIP,Unknown Author,/tp @s -82.5 45 -13.5 90 0,,Misc. Func.,Item
+Mass Hysteria Cloud That Smells Faintly of Cheese,Unknown Author,/tp @s -82.5 44 -18.5 90 0,,Misc. Func.,Item
+Infinite Black Hole,Unknown Author,/tp @s -82.5 44 -17.5 90 0,,Misc. Func.,Item
+Lucky Block Command Block Bundle,enderples,/tp @s -82.5 44 -16.5 90 0,,Misc. Func.,Item
+Bowie's Heart,Unknown Author,/tp @s 54.5 42 -18.5 -180 0,,Lore,Item
+Confirm,Unknown Author,/tp @s 55.5 42 -18.5 -180 0,,Lore,Item
+Test Item (lore),333b,/tp @s 56.5 42 -18.5 -180 0,,Lore,Item
+Yoshi Sword,Unknown Author,/tp @s 57.5 42 -18.5 -180 0,,Lore,Item
+Quark Qore™,Unknown Author,/tp @s 58.5 42 -18.5 -180 0,,Lore,Item
+Quark Atom,Unknown Author,/tp @s 59.5 42 -18.5 -180 0,,Lore,Item
+Marihuana Red No. 2 SATIVA,Unknown Author,/tp @s 53.5 41 -18.5 -180 0,,Lore,Item
+Джин,Basilina,/tp @s 54.5 41 -18.5 -180 0,NSFW,Lore,Item
+Femboy Fevh's Catnip,Fevh,/tp @s 57.5 41 19.5 0 35,,Misc. Non-Func.,Item
+Femboy Fevh's Collar,Fevh,/tp @s 58.5 41 19.5 0 35,,Misc. Non-Func.,Item
+Aquameade,Unknown Author,/tp @s 59.5 41 19.5 0 35,,Misc. Non-Func.,Item
+Cum Chalice,Unknown Author,/tp @s 59.5 45 18.5 -90 0,,Misc. Non-Func.,Item
+DRN-001 R Lass Helmet,DashTheDevilDog,/tp @s -52.5 43 17.5 -90 0,,Armor,Item
+DRN-001 R Lass Flight Adaptor,DashTheDevilDog,/tp @s -52.5 43 17.5 -90 0,,Armor,Item
+DRN-001 R Lass Armor,DashTheDevilDog,/tp @s -52.5 43 17.5 -90 0,,Armor,Item
+DRN-001 R Lass Boots,DashTheDevilDog,/tp @s -52.5 43 17.5 -90 0,,Armor,Item
+toweled,Unknown Author,/tp @s -52.5 43 18.5 -90 0,Helmet,Armor,Item
+toweled,Unknown Author,/tp @s -52.5 43 18.5 -90 0,Chestplate,Armor,Item
+toweled,Unknown Author,/tp @s -52.5 43 18.5 -90 0,Leggings,Armor,Item
+toweled,Unknown Author,/tp @s -52.5 43 18.5 -90 0,Boots,Armor,Item
+"""Art"" part 1",InternetDragon,/tp @s 29.5 45 -35.5 0 0,NSFW,Lore,Kit
+"""Art"" part 2",InternetDragon,/tp @s 28.5 45 -35.5 0 0,NSFW,Lore,Kit
+TheHub,Unknown Author,/tp @s 30.5 45 -35.5 0 0,NSFW,Lore,Kit
+"NSFW Collection #10-12 ""BMWM II""",Unknown Author,/tp @s 31.5 45 -35.5 0 0,NSFW,Lore,Kit
+Porn Shulker,Unknown Author,/tp @s 14.5 43 -35.5 0 0,NSFW,Lore,Kit
+Hentai 1,Unknown Author,/tp @s 15.5 43 -35.5 0 0,NSFW,Lore,Kit
+Hentai 2,Unknown Author,/tp @s 15.5 43 -35.5 0 0,NSFW,Lore,Kit
+Hentai 3,Unknown Author,/tp @s 15.5 43 -35.5 0 0,NSFW,Lore,Kit
+Hentai 4,Unknown Author,/tp @s 15.5 43 -35.5 0 0,NSFW,Lore,Kit
+Hentai 5,Unknown Author,/tp @s 15.5 43 -35.5 0 0,NSFW,Lore,Kit
+Hentai 6,Unknown Author,/tp @s 15.5 43 -35.5 0 0,NSFW,Lore,Kit
+Hentai 7,Unknown Author,/tp @s 15.5 43 -35.5 0 0,NSFW,Lore,Kit
+THE BOOK KIT,Unknown Author,/tp @s -25.5 47 -95.5 0 0,,Misc. Func.,Kit
+Freedom Box,omate06,/tp @s -30.5 47 -99.5 90 0,,Misc. Func.,Kit
+Freedom Box 1.1,omate06,/tp @s -30.5 47 -100.5 90 0,,Misc. Func.,Kit
+Freedom Box 1.3,omate06,/tp @s -30.5 47 -101.5 90 0,,Misc. Func.,Kit
+Crash Shulkerbox,Unknown Author,/tp @s -26.5 49 -71.5 0 0,,Abuse,Kit
+Force OP / Ban Signs,Unknown Author,/tp @s -27.5 49 -71.5 0 0,,Abuse,Kit
+Command Block Griefers,ImproperIssues,/tp @s -28.5 49 -71.5 0 0,,Abuse,Kit
+Kadrith Set,Unknown Author,/tp @s -22.5 49 -55.5 -180 0,,PvP,Kit
+darkes Combat kit,Unknown Author,/tp @s -21.5 49 -55.5 -180 0,,PvP,Kit
+darkes upgrade kit mk-2,Unknown Author,/tp @s -20.5 49 -55.5 -180 0,,PvP,Kit
+[DeadEnd]Kit,HowToFailBote,/tp @s -19.5 49 -55.5 -180 0,,PvP,Kit
+KENAI_REDSTONE,Unknown Author,/tp @s -14.5 47 -95.5 0 0,,Misc. Func.,Kit
+DeadEndKit,HowToFailBote,/tp @s -18.5 49 -55.5 -180 0,,PvP,Kit
+Soulless,Utvinn,/tp @s -17.5 49 -55.5 -180 0,,PvP,Kit
+D3v's PvPros Clan Kit,D3v4tm05ph3r3,/tp @s -16.5 49 -55.5 -180 0,,PvP,Kit
+Thermo's Lightfall Kit,Unknown Author,/tp @s -15.5 49 -55.5 -180 0,,PvP,Kit
+Practice Kit,Unknown Author,/tp @s -14.5 49 -55.5 -180 0,,PvP,Kit
+Black Lotus NBT Kit,StinkyMan32,/tp @s -13.5 49 -55.5 -180 0,,PvP,Kit
+Astronaut Set,Langweilliger,/tp @s -30.5 47 -55.5 -180 0,,PvP,Kit
+BLACKHOLE PORTAL,Unknown Author,/tp @s -29.5 47 -55.5 -180 0,,PvP,Kit
+Terribole's Kit,Terribole,/tp @s -28.5 47 -55.5 -180 0,,PvP,Kit
+Palette Creator (CTJ ver),"hibao, CrashTestJava",/tp @s -30.5 45 -83.5 0 0,Archivist Pick,Utility,Kit
+All End City Orders,RyanUwU,/tp @s 29.5 47 -67.5 -180 0,,Misc. Non-Func.,Kit
+Artifacts S1,Unknown Author,/tp @s 28.5 47 -67.5 -180 0,,Misc. Non-Func.,Kit
+marketable anti plushie kit,antigamesm12,/tp @s 27.5 47 -67.5 -180 0,,Misc. Non-Func.,Kit
+Gift shop package,Unknown Author,/tp @s 26.5 47 -67.5 -180 0,,Misc. Non-Func.,Kit
+Shulker of BETA,Unknown Author,/tp @s 25.5 47 -67.5 -180 0,,Misc. Non-Func.,Kit
+MHF Heads,Unknown Author,/tp @s 24.5 47 -67.5 -180 0,,Misc. Non-Func.,Kit
+TAKE THE BOX,Unknown Author,/tp @s -30.5 47 -102.5 90 0,,Misc. Func.,Kit
+Deep Rock Galactic Supply Pod,Unknown Author,/tp @s -18.5 51 -67.5 -180 0,,PvP-Related,Kit
+deathstalk,Unknown Author,/tp @s -28.5 49 -59.5 0 0,,PvP-Related,Kit
+Kit Collection,Unknown Author,/tp @s -29.5 49 -59.5 0 0,,PvP-Related,Kit
+Mini Mes,Unknown Author,/tp @s -5.5 62 -129.5 -180 0,,N/A,Unnamed Kit
+恶魔之剑 (Demon Sword),Unknown Author,/tp @s -99.5 42 -13.5 -90 0,,Item Sets,Item
+豆头盔 (Bean Helmet),Unknown Author,/tp @s -99.5 42 -13.5 -90 0,,Item Sets,Item
+豆胸甲 (Bean Chestplate),Unknown Author,/tp @s -99.5 42 -13.5 -90 0,,Item Sets,Item
+豆绑腿 (Bean Leggings),Unknown Author,/tp @s -99.5 42 -13.5 -90 0,,Item Sets,Item
+豆靴 (Bean Boots),Unknown Author,/tp @s -99.5 42 -13.5 -90 0,,Item Sets,Item
+很棒的豆剑，但更好 (Demon Sword but Better),Unknown Author,/tp @s -99.5 42 -13.5 -90 0,,Item Sets,Item
+dagger,Aeluraydak,/tp @s -70.5 41 17.5 90 0,,Melee Weapons,Item
+riptides,Aeluraydak,/tp @s -91.5 45 19.5 0 0,,Ranged Weapons,Item
+panacea,Aeluraydak,/tp @s -92.5 45 19.5 0 0,,Ranged Weapons,Item
+elixir,Aeluraydak,/tp @s -93.5 45 19.5 0 0,,Ranged Weapons,Item
+elytra,Aeluraydak,/tp @s -82.5 44 -15.5 90 0,,Misc. Func.,Item
+elytrianq,Aeluraydak,/tp @s -82.5 44 -14.5 90 0,,Misc. Func.,Item
+Cyan Surprise,Unknown Author,/tp @s 23.5 47 -59.5 0 0,,Misc. Non-Func.,Kit
+Unicorn,_LeCookie_,/tp @s 22.5 47 -59.5 0 0,,Misc. Non-Func.,Kit
+Flowers,Unknown Author,/tp @s 21.5 47 -59.5 0 0,,Misc. Non-Func.,Kit
+Lovez Box <3,Unknown Author,/tp @s 23.5 47 -67.5 -180 0,,Misc. Non-Func.,Kit
+Drinks,Unknown Author,/tp @s 22.5 47 -67.5 -180 0,,Misc. Non-Func.,Kit
+Waffle's Backpack,Unknown Author,/tp @s 21.5 47 -67.5 -180 0,,Misc. Non-Func.,Kit
+Numix's Goodies,Numixgaming,/tp @s 22.5 47 -95.5 0 0,,Random,Kit
+Plauge Doctors,starkeyfolk,/tp @s 19.5 58 53.5 -90 0,,Misc. Non-Func.,Book
+True Story,sgraham2040,/tp @s 19.5 58 52.5 -90 0,,Misc. Non-Func.,Book
+Nightmare,_Draco_Queen_,/tp @s 19.5 58 51.5 -90 0,,Misc. Non-Func.,Book
+A Cow Story,TheCowHasCheese_,/tp @s 19.5 58 50.5 -90 0,,Misc. Non-Func.,Book
+Bee Movie,__Ko,/tp @s 19.5 58 49.5 -90 0,,Misc. Non-Func.,Book
+Mon Aventure,VargRigate,/tp @s 19.5 58 55.5 -90 35,,Misc. Non-Func.,Book
+Book #2,Rip_evan,/tp @s 19.5 58 54.5 -90 35,NSFW,Misc. Non-Func.,Book
+Big book of stuf,Pixel_Fighters12,/tp @s 19.5 58 53.5 -90 35,,Misc. Non-Func.,Book
+I'll Wait Mr.Panda,marryberry2009,/tp @s 19.5 58 51.5 -90 35,,Misc. Non-Func.,Book
+DeBookOfWisdom,xAdisMC,/tp @s 19.5 58 50.5 -90 35,,Misc. Non-Func.,Book
+6-Words. Part 1,Halfamuffin,/tp @s 19.5 58 49.5 -90 35,,Misc. Non-Func.,Book
+The Danger,Mythical_Dreams,/tp @s 19.5 61 43.5 -90 0,,Misc. Non-Func.,Book
+DiaryOfADirtBloc,semicolonz,/tp @s 19.5 61 42.5 -90 0,,Misc. Non-Func.,Book
+You and You.,Heccin,/tp @s 19.5 61 41.5 -90 0,,Misc. Non-Func.,Book
+Portal,riloawesome,/tp @s 19.5 61 39.5 -90 0,,Misc. Non-Func.,Book
+10 Inspiring Qs,LightningGirI,/tp @s 19.5 61 38.5 -90 0,,Misc. Non-Func.,Book
+Joke Book :D,Strafe74,/tp @s 19.5 61 37.5 -90 0,,Misc. Non-Func.,Book
+Story of the Hills: Chapter 1,Texonical,/tp @s 19.5 60 43.5 -90 0,,Misc. Non-Func.,Book
+Vine 1,DilliGaf_,/tp @s 19.5 60 42.5 -90 0,,Misc. Non-Func.,Book
+Artemial's Call,AyeItsSkye,/tp @s 19.5 60 41.5 -90 0,,Misc. Non-Func.,Book
+Chase & Brylee 1,IdcMika,/tp @s 19.5 60 40.5 -90 0,NSFW,Misc. Non-Func.,Book
+Shimmering Black,Numixgaming,/tp @s 19.5 60 39.5 -90 0,,Misc. Non-Func.,Book
+A Sharp Nothing,Numixgaming,/tp @s 19.5 60 38.5 -90 0,,Misc. Non-Func.,Book
+The Tree - Part 1,LittleMoo04,/tp @s 19.5 60 37.5 -90 0,,Misc. Non-Func.,Book
+The End Side.,LittleMoo04,/tp @s 19.5 59 43.5 -90 0,,Misc. Non-Func.,Book
+Prof_Witley,Prof_Witley,/tp @s 19.5 59 42.5 -90 0,,Misc. Non-Func.,Book
+The Watchers,Prof_Witley,/tp @s 19.5 59 41.5 -90 0,,Misc. Non-Func.,Book
+English Book,Prof_Witley,/tp @s 19.5 59 40.5 -90 0,,Misc. Non-Func.,Book
+Darth Plageus,Prof_Witley,/tp @s 19.5 59 39.5 -90 0,,Misc. Non-Func.,Book
+Makarov,Prof_Witley,/tp @s 19.5 59 38.5 -90 0,,Misc. Non-Func.,Book
+So long,Prof_Witley,/tp @s 19.5 59 37.5 -90 0,,Misc. Non-Func.,Book
+Jack's Speech,Prof_Witley,/tp @s 19.5 58 43.5 -90 0,,Misc. Non-Func.,Book
+A New Order,Prof_Witley,/tp @s 19.5 58 42.5 -90 0,,Misc. Non-Func.,Book
+End of Line,Prof_Witley,/tp @s 19.5 58 41.5 -90 0,,Misc. Non-Func.,Book
+The Man In White,Prof_Witley,/tp @s 19.5 58 40.5 -90 0,,Misc. Non-Func.,Book
+World Take Over,Prof_Witley,/tp @s 19.5 58 39.5 -90 0,,Misc. Non-Func.,Book
+Guide,Prof_Witley,/tp @s 19.5 58 38.5 -90 0,,Misc. Non-Func.,Book
+Bratva,Prof_Witley,/tp @s 19.5 58 37.5 -90 0,,Misc. Non-Func.,Book
+The Numbers,Prof_Witley,/tp @s 19.5 58 39.5 -90 35,,Misc. Non-Func.,Book
+The Owls,Prof_Witley,/tp @s 19.5 58 41.5 -90 35,,Misc. Non-Func.,Book
+The Owls Part 2,Prof_Witley,/tp @s 19.5 58 42.5 -90 35,,Misc. Non-Func.,Book
+The Owls Part 3,Prof_Witley,/tp @s 19.5 58 43.5 -90 35,,Misc. Non-Func.,Book
+The Shower,LadyLiddyBug,/tp @s 19.5 58 38.5 -90 35,NSFW,Misc. Non-Func.,Book
+Xanz,WizardWarlordYT,/tp @s 19.5 58 37.5 -90 35,,Misc. Non-Func.,Book
+Save ME,WizardWarlordYT,/tp @s 19.5 61 -36.5 -90 0,,Misc. Non-Func.,Book
+Fuck With ME,WizardWarlordYT,/tp @s 19.5 61 -37.5 -90 0,,Misc. Non-Func.,Book
+Moonlight,WizardWarlordYT,/tp @s 19.5 61 -38.5 -90 0,,Misc. Non-Func.,Book
+DEATH,WizardWarlordYT,/tp @s 19.5 61 -40.5 -90 0,,Misc. Non-Func.,Book
+This Is My Life,WizardWarlordYT,/tp @s 19.5 61 -41.5 -90 0,,Misc. Non-Func.,Book
+PR0BL3MS,WizardWarlordYT,/tp @s 19.5 61 -42.5 -90 0,,Misc. Non-Func.,Book
+My Only Hope,WizardWarlordYT,/tp @s 19.5 60 -36.5 -90 0,,Misc. Non-Func.,Book
+DONT,WizardWarlordYT,/tp @s 19.5 60 -37.5 -90 0,,Misc. Non-Func.,Book
+"""TRNT""",ENISHEINZ,/tp @s 19.5 60 -38.5 -90 0,,Misc. Non-Func.,Book
+Trapped In TAS,ENISHEINZ,/tp @s 19.5 60 -39.5 -90 0,,Misc. Non-Func.,Book
+Powers...,ENISHEINZ,/tp @s 19.5 60 -40.5 -90 0,,Misc. Non-Func.,Book
+Skills and Power,ENISHEINZ,/tp @s 19.5 60 -41.5 -90 0,,Misc. Non-Func.,Book
+Google Chapter 1,ENISHEINZ,/tp @s 19.5 60 -42.5 -90 0,,Misc. Non-Func.,Book
+Google Chapter 2,ENISHEINZ,/tp @s 19.5 59 -42.5 -90 0,,Misc. Non-Func.,Book
+Google Beginning,ENISHEINZ,/tp @s 19.5 59 -41.5 -90 0,,Misc. Non-Func.,Book
+Google-1990s,ENISHEINZ,/tp @s 19.5 59 -40.5 -90 0,,Misc. Non-Func.,Book
+Google-2000s,ENISHEINZ,/tp @s 19.5 59 -39.5 -90 0,,Misc. Non-Func.,Book
+Google-2010s,ENISHEINZ,/tp @s 19.5 59 -38.5 -90 0,,Misc. Non-Func.,Book
+Youtube-Founding,ENISHEINZ,/tp @s 19.5 59 -37.5 -90 0,,Misc. Non-Func.,Book
+Youtube-Growth,ENISHEINZ,/tp @s 19.5 59 -36.5 -90 0,,Misc. Non-Func.,Book
+Twilight 1,ENISHEINZ,/tp @s 19.5 58 -39.5 -90 0,,Misc. Non-Func.,Book
+Chapter 2 - Alice,ENISHEINZ,/tp @s 19.5 58 -38.5 -90 0,,Misc. Non-Func.,Book
+Chapter 3 - Carl,ENISHEINZ,/tp @s 19.5 58 -37.5 -90 0,,Misc. Non-Func.,Book
+Chapter 4 - Maya,ENISHEINZ,/tp @s 19.5 58 -36.5 -90 0,,Misc. Non-Func.,Book
+Shadow Hole,Gingowori,/tp @s -82.5 44 -13.5 90 0,Archivist Pick,Misc. Func.,Item
+The Nearest Player,Unknown Author,/tp @s -82.5 44 -12.5 90 0,,Misc. Func.,Item
+Soul Collector,Mob0,/tp @s -82.5 43 -18.5 90 0,Archivist Pick,Misc. Func.,Item
+Unnamed Leo Fireworks,LeoTheRavioli,/tp @s 9.5 62 -126.5 -90 0,,N/A,Unnamed Kit
+Fireworks,LeoTheRavioli,/tp @s -30.5 47 -103.5 90 0,,Misc. Func.,Kit
+Fireworks by LeoTheRavioli,LeoTheRavioli,/tp @s -30.5 45 -95.5 90 0,,Misc. Func.,Kit
+BCorp Armor,Unknown Author,/tp @s 10.5 62 -125.5 -90 0,,N/A,Unnamed Kit
+Bob's PvP Kit,Unknown Author,/tp @s 10.5 62 -124.5 -90 0,,N/A,Unnamed Kit
+Gangster PvP Kit,Unknown Author,/tp @s 10.5 62 -123.5 -90 0,,N/A,Unnamed Kit
+Knight Kit,Unknown Author,/tp @s -27.5 47 -55.5 -180 0,,PvP,Kit
+Sharpshooter Crate,Unknown Author,/tp @s -26.5 47 -55.5 -180 0,,PvP,Kit
+Fiery Ezboy WIP,EzBoy,/tp @s 11.5 62 -122.5 -90 0,,N/A,Unnamed Kit
+Shulker PvP Kit,Unknown Author,/tp @s 11.5 62 -121.5 -90 0,,N/A,Unnamed Kit
+ObservedShark17,ObservedShark17,/tp @s 11.5 62 -120.5 -90 0,,N/A,Unnamed Kit
+misc. items,"Yurni, Cynacx",/tp @s -17.5 51 -67.5 -180 0,,PvP-Related,Kit
+The Neutralizer,"Parsa__, iceyou",/tp @s -58.5 43 -16.5 90 0,,Potions,Item
+Command Glock,Parsa__,/tp @s -88.5 44 19.5 0 0,,Ranged Weapons,Item
+Passive Serum,AlexTheOOF,/tp @s -89.5 44 19.5 0 0,,Ranged Weapons,Item
+One For All,Parsa__,/tp @s -82.5 43 -17.5 90 0,,Misc. Func.,Item
+Among Us Banner,Parsa__,/tp @s 59.5 45 17.5 -90 0,,Misc. Non-Func.,Item
+9,Parsa__,/tp @s -16.5 51 -67.5 -180 0,,PvP-Related,Kit
+"Judge, Jury and Executioner",Parsa__,/tp @s -15.5 51 -67.5 -180 0,,PvP-Related,Kit
+Ice Cream Box,Parsa__,/tp @s 20.5 47 -67.5 -180 0,,Misc. Non-Func.,Kit
+Long Obfuscated Name Banner Lag,Parsa__,/tp @s -29.5 49 -71.5 0 0,,Abuse,Kit
+Parsa's God Pot,Parsa__,/tp @s -14.5 51 -67.5 -180 0,,PvP-Related,Kit
+boxgruv 2.1,"Parsa__, iceyou",/tp @s -25.5 47 -55.5 -180 0,,PvP,Kit
+Yurni's Portable Hous. V1.2,Parsa__,/tp @s 19.5 47 -67.5 -180 0,,Misc. Non-Func.,Kit
+Parsa's Mad Ideas VOLUME ONE,Parsa__,/tp @s 19.5 58 -40.5 -90 0,,Misc. Non-Func.,Book
+"Backrooms Level 0 : ""The Lobby""",Parsa__,/tp @s 19.5 58 -41.5 -90 0,,Misc. Non-Func.,Book
+Quadfect Employee Package,Unknown Author,/tp @s -13.5 51 -67.5 -180 0,,PvP-Related,Kit
+Kurafect Kit,Unknown Author,/tp @s -30.5 49 -67.5 -180 0,,PvP-Related,Kit
+Kurafect Employee Assets,Unknown Author,/tp @s -29.5 49 -67.5 -180 0,,PvP-Related,Kit
+Souls,Unknown Author,/tp @s 18.5 47 -67.5 -180 0,,Misc. Non-Func.,Kit
+Souls,Unknown Author,/tp @s 17.5 47 -67.5 -180 0,,Misc. Non-Func.,Kit
+jwmp Soul,Unknown Author,/tp @s 11.5 62 -119.5 -90 0,,N/A,Unnamed Kit
+Mariokartwii Collar,antigamesm12,/tp @s 11.5 62 -119.5 -90 0,,Misc. Non-Func.,Item
+History Flags,antigamesm12,/tp @s 16.5 47 -67.5 -180 0,,Misc. Non-Func.,Kit
+Unnamed Video Kit,Unknown Author,/tp @s 9.5 60 -127.5 -90 0,,N/A,Unnamed Kit
+EXTINCTION,antigamesm12,/tp @s -70.5 41 16.5 90 0,,Melee Weapons,Item
+The Ides of March,antigamesm12,/tp @s -70.5 41 15.5 90 0,,Melee Weapons,Item
+Undertails Helmet,antigamesm12,/tp @s -52.5 43 19.5 -90 0,,Armor,Item
+Anti's Computer Helmet,antigamesm12,/tp @s -52.5 42 13.5 -90 0,,Armor,Item
+Void Juice,antigamesm12,/tp @s -58.5 43 -15.5 90 0,,Potions,Item
+How did we get here,antigamesm12,/tp @s -58.5 43 -14.5 90 0,,Potions,Item
+Infinity SPEEEEEEEEEEEEEED,antigamesm12,/tp @s -82.5 43 -16.5 90 0,,Potions,Item
+Anti/Window's Collar,antigamesm12,/tp @s 59.5 45 15.5 -90 0,,Misc. Non-Func.,Item
+DISCORD'S SKULL,antigamesm12,/tp @s 59.5 45 14.5 -90 0,,Misc. Non-Func.,Item
+Galatic Spyglass,antigamesm12,/tp @s 59.5 44 19.5 -90 0,,Misc. Non-Func.,Item
+UltimEVB's iBoots,UltimEVB,/tp @s 55.5 41 -18.5 -180 0,,Lore,Item
+Anti's iCollar,antigamesm12,/tp @s 56.5 41 -18.5 -180 0,,Lore,Item
+UltimEVB's jCollar,"antigamesm12, UltimEVB",/tp @s 57.5 41 -18.5 -180 0,,Lore,Item
+The All Hearing Echo Shard,antigamesm12,/tp @s 58.5 41 -18.5 -180 0,,Lore,Item
+The Time Turner,antigamesm12,/tp @s 59.5 41 -18.5 -180 0,,Lore,Item
+Cherry Blossom Tree by Eva,Unknown Author,/tp @s 53.5 41 -18.5 -180 35,,Lore,Item
+Actually NBT Stands for Named Binary Tag,Unknown Author,/tp @s 54.5 41 -18.5 -180 35,,Lore,Item
+ItemHub Weapons,Unknown Author,/tp @s 26.5 41 47.5 -90 0,,Collections,Kit
+ItemHub Deluxo Set 1,Unknown Author,/tp @s 26.5 41 47.5 -90 0,,Collections,Kit
+ItemHub Deluxo Set 2,Unknown Author,/tp @s 26.5 41 47.5 -90 0,,Collections,Kit
+Builder's Pack,Unknown IGN,/tp @s 27.5 41 51.5 -90 0,,Collections,Kit
+Album Pack,Unknown IGN,/tp @s 27.5 41 51.5 -90 0,,Collections,Kit
+Leo's Hats,LeoTheRavioli,/tp @s 27.5 41 51.5 -90 0,White,Collections,Kit
+Leo's Hats,LeoTheRavioli,/tp @s 27.5 41 51.5 -90 0,Red,Collections,Kit
+Leo's Hats,LeoTheRavioli,/tp @s 27.5 41 51.5 -90 0,Green,Collections,Kit
+Leo's Hats,LeoTheRavioli,/tp @s 27.5 41 51.5 -90 0,Black,Collections,Kit
+Just Some Heads #1,Unknown Author,/tp @s 27.5 41 51.5 -90 0,,Collections,Kit
+Just Some Heads #2,Unknown Author,/tp @s 27.5 41 51.5 -90 0,,Collections,Kit
+HoloHead,Unknown Author,/tp @s 27.5 41 51.5 -90 0,,Collections,Item
+Deocrative Bat Silhouette #1,courteously,/tp @s 27.5 41 51.5 -90 0,,Collections,Item
+Misc. HD Heads,Unknown Author,/tp @s 27.5 41 51.5 -90 0,,Collections,Unnamed Kit
+Enders Pot Pack 1,Misc. Authors,/tp @s 16.5 41 48.5 180 0,,Collections,Kit
+Enders Pot Pack 2,Misc. Authors,/tp @s 16.5 41 48.5 180 0,,Collections,Kit
+Enders Pot Pack 3,Misc. Authors,/tp @s 16.5 41 48.5 180 0,,Collections,Kit
+Enders Pot Pack 4,Misc. Authors,/tp @s 16.5 41 48.5 180 0,,Collections,Kit
+Enders Arrow Pack 1,Misc. Authors,/tp @s 16.5 41 48.5 180 0,,Collections,Kit
+Enders Arrow Pack 2,Misc. Authors,/tp @s 16.5 41 48.5 180 0,,Collections,Kit
+Enders Shield Pack 1,Misc. Authors,/tp @s 16.5 41 48.5 180 0,,Collections,Kit
+Enders Other Item Pack 1,Misc. Authors,/tp @s 16.5 41 48.5 180 0,,Collections,Kit
+Enders Other Item Pack 2,Misc. Authors,/tp @s 16.5 41 48.5 180 0,,Collections,Kit
+Enders Other Item Pack 3,Misc. Authors,/tp @s 16.5 41 48.5 180 0,,Collections,Kit
+Enders Items,Misc. Authors,/tp @s 16.5 41 48.5 180 0,,Collections,Kit
+Endermatter Barrel,Unknown Author,/tp @s 16.5 41 48.5 180 0,,Collections,Kit
+Endermatter Shulker,Unknown Author,/tp @s 16.5 41 48.5 180 0,,Collections,Kit
+Tesla's Modified Box v4.1.1,_txsla,/tp @s 21.5 41 45.5 -180 0,,Collections,Kit
+Tesla's Utility Box v4.1.1,_txsla,/tp @s 21.5 41 45.5 -180 0,,Collections,Kit
+Tesla's Potions v4.1.1,_txsla,/tp @s 21.5 41 45.5 -180 0,,Collections,Kit
+Tesla's Spells v4.1.1,_txsla,/tp @s 21.5 41 45.5 -180 0,,Collections,Kit
+Tesla's Unobtainables Box v4.1.1,_txsla,/tp @s 21.5 41 45.5 -180 0,,Collections,Kit
+Tesla's Griefing Kit v4.1.1,_txsla,/tp @s 21.5 41 45.5 -180 0,,Collections,Kit
+Tesla's Forceop Kit v4.1.1,_txsla,/tp @s 21.5 41 45.5 -180 0,,Collections,Kit
+Tesla's Spawners v4.1.1,_txsla,/tp @s 21.5 41 45.5 -180 0,,Collections,Kit
+Guidebook v4.1.1,_txsla,/tp @s 21.5 41 45.5 -180 0,,Collections,Book
+Tesla's Modified Box v4.1.1u,_txsla,/tp @s 21.5 41 45.5 -180 0,,Collections,Kit
+Tesla's Utility Box v4.1.1u,_txsla,/tp @s 21.5 41 45.5 -180 0,,Collections,Kit
+Tesla's Potions v4.1.1u,_txsla,/tp @s 21.5 41 45.5 -180 0,,Collections,Kit
+Tesla's Spells v4.1.1u,_txsla,/tp @s 21.5 41 45.5 -180 0,,Collections,Kit
+Tesla's Unobtainables Box v4.1.1u,_txsla,/tp @s 21.5 41 45.5 -180 0,,Collections,Kit
+Tesla's Griefing Kit v4.1.1u,_txsla,/tp @s 21.5 41 45.5 -180 0,,Collections,Kit
+Tesla's Forceop Kit v4.1.1u,_txsla,/tp @s 21.5 41 45.5 -180 0,,Collections,Kit
+Tesla's Spawners v4.1.1u,_txsla,/tp @s 21.5 41 45.5 -180 0,,Collections,Kit
+Guidebook v4.1.1u,_txsla,/tp @s 21.5 41 45.5 -180 0,,Collections,Book
+Team Fortress 2 Songs,Unknown Author,/tp @s 18.5 41 49.5 -180 0,,Collections,Kit
+Song Requests,Unknown Author,/tp @s 18.5 41 49.5 -180 0,,Collections,Kit
+Song Item Playlist,Unknown Author,/tp @s 18.5 41 49.5 -180 0,,Collections,Kit
+"Minecraft Volume Alpha, The Full Collection",Unknown Author,/tp @s 18.5 41 49.5 -180 0,,Collections,Item
+Bad Apple!!,Unknown Author,/tp @s 18.5 41 49.5 -180 0,,Collections,Item

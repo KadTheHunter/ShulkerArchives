@@ -38,6 +38,8 @@ If you aren't into making your own instances and dealing with Mods, the Modpack 
   - Hotbars+ allows you to have an infinite number of hotbars by creating new hotbar files, and swapping them out at the click of a button. It may not be the easiest for on-the-go item storage (for that, see NBT Editor) but it's perfect for making sure your items and kits are safely stored and accessible from anywhere in your Minecraft instance.
 - [IBE Editor](https://modrinth.com/mod/ibe-editor)
   - IBE Editor (Item Block Entity Editor) is a Mod with similar features to NBT Editor (NBT/SNBT editing, Item Vault, etc.), though it really shines with its NBT Tag Editing page. No other mod displays NBT Tags in such a nice, easy to read tree format besides IBE Editor, and that alone makes it worthy of including in your Minecraft instance.
+- [Map.png](https://modrinth.com/mod/map.png)
+  - Map.png allows downloading and converting Minecraft maps to `.png` images with the press of a key-bind, in both Single- and Multi- player gamemodes.
 - [NBT Editor](https://modrinth.com/mod/nbt-editor)
   - NBT Editor is the pinnacle of NBT Editing Mods. What it lacks in UI design, it makes up for a thousand times over in other features, such as the ability to Import and Export `.nbt` files, retrieval of "lost" items via its /get lostitem history command, and its amazing Client Chest, which by default has 100 large chests' space for items, but can be expanded infinitely. All of its features also fully support tags such as `Infinity` and `NaN`, which means you can safely use it without worrying about your tags being messed with.
 - [NBT Void](https://modrinth.com/mod/nbt-void)
@@ -66,6 +68,8 @@ If you aren't into making your own instances and dealing with Mods, the Modpack 
   - *There is also an (older) application version of this site available at [LucasDower/ObjToSchematic](https://github.com/LucasDower/ObjToSchematic) on GitHub.*
 - [R74n](https://r74n.com/)
   - R74n is an interesting amalgamation of resources and tools for Minecraft and other things. Of particular note is the hidden [HD Heads](https://r74n.com/mc/heads) page, as well as the [Box Page](https://r74n.com/box) containing the `/give` commands and NBT for a number of Shulker Kits.
+- [txsla.net](http://www.txsla.net/)
+  - Txsla.net is the official website for Tesla Tower and hosts a variety of tools, from programs for the Ti84+CE calculator, to the Tesla Kit series, and the NBT Archives Minecraft Server. Of particular use is the dedicated [Tesla Kits page](http://www.txsla.net/kit/kit.htm), providing downloads for the latest release of the Tesla Kits.
 - [webNBT](https://irath96.github.io/webNBT/)
   - webNBT lets you upload any .nbt file and edit it just as you would with an External Editor such as NBT Studio.
 

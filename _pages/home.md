@@ -10,11 +10,11 @@ header:
   overlay_filter: 0
   actions:
     - label: "<i class='fas fa-download'></i> Download"
-      url: "releases/v1.1.0/TheShulkerArchives_v1.1.0.zip"
+      url: "releases/v1.2.0/TheShulkerArchives_v1.2.0.zip"
 
 excerpt: >
-  A collection of NBT data in the form of Shulker Kits, Items, Books and more, 2.0k entries strong.<br />
-  <small><a href="releases/v1.1.0/Changelog">Latest release Changelog</a></small>
+  A collection of NBT data in the form of Shulker Kits, Items, Books and more, 2.3k entries strong.<br />
+  <small><a href="releases/v1.2.0/Changelog">Latest release Changelog</a></small>
 
 carousels:
   - images:
@@ -61,3 +61,11 @@ carousels:
 {: .text-center}
 
 {% include carousel.html height="50" unit="%" duration="7" number="1" %}
+
+***
+
+# Partners & Affiliates
+{: .text-center}
+
+[![image-left]({{ site.baseurl }}/assets/images/txsla.net.png){: .align-left style="width: 10vw;"}](http://www.txsla.net/) [Txsla.net](http://www.txsla.net/) is the official website for Tesla Tower and hosts a variety of tools, from programs for the Ti84+CE calculator, to the Tesla Kit series, and the NBT Archives Minecraft Server. Of particular use is the dedicated [Tesla Kits page](http://www.txsla.net/kit/kit.htm), providing downloads for the latest release of the Tesla Kits.
+{: .text-left style="font-size: 1.5vw;"}

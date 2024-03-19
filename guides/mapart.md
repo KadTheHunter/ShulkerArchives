@@ -82,32 +82,6 @@ Unfortunately, sometimes mapart builds can not be found (or in the case of gener
 
 This brings us to the final mapart guide: Ripping.
 
-To rip mapart, you will need the mod [WNT](https://modrinth.com/mod/wnt), in addition to an NBT Editing mod.
+To rip mapart, you will need the mod [Map.png](https://modrinth.com/mod/map.png).
 
-## Extraction
-First, get a copy of the mapart(s) you wish to rip, and place it in your inventory.
-
-Find an out-of-the-way spot where there are few if any entities and *no* other maps, be they in inventories, item frames, etc.
-
-Leave the world or server, and rejoin; This is to clear WNTs cache of entities, which includes maparts, so only those you wish to download are shown.
-
-Now go to WNTs Blackbox Menu (if it isn't open by default, run `/blackbox`), and select the "Maps" tab. It should only show the maps in your inventory, identifiable by ID.
-
-To download them, click through `"WNT" -> "Dump" -> "Maps"` and choose `"Dump all map data in memory to disk"` or `"Dump specific map in memory to disk"`.
-
-This will download the maps `.dat` files to `/.minecraft/wnt/dumps/`. To get the map in a local world, follow the instructions in Mapart Creating for [adding .dat mapart files](#dat-files) to your world.
-
-## Conversion
-
-To extract actual images from these `.dat` files, download [map-to-img.jar](https://github.com/mircokroon/minecraft-maps-to-images/releases/latest) from GitHub.
-
-To prevent any accidents (and save lots of typing), it's recommended you make a copy the `.dat` files and place them somewhere that has a shorter total filepath; A folder in your `Downloads` folder for example, called `Mapart`.
-
-Now, open Command Prompt in the directory that `map-to-img.jar` is located in, and run the following command:
-```
-java -jar map-to-img.jar /path/to/the/.dat/files/
-```
-
-There will now be a folder called "out" in the directory the `.dat` files are in, containing the extracted images.
-
-A known bug with `map-to-img.jar` is that it will sometimes error out and convert mapart with horrendously altered colors; It isn't known why this happens, and the author of the program appears to have forgotten about it, having not responded to the [relevant GitHub issue](https://github.com/mircokroon/minecraft-maps-to-images/issues/1).
+Once in the server or world containing the mapart, simply hold the mapart in your hand and press `F8` to save it to `.minecraft/maps/`
