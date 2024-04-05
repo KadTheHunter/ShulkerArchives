@@ -22,6 +22,10 @@ background: rgba(230,230,230,0.1);
 .dataTables_wrapper .dataTables_length select {
   background-color: rgb(37,42,52);
 }
+#database > tfoot > tr > th > select {
+background-color: rgb(37,42,52);
+color: rgb(143,146,150)
+}
 .table-wrapper {
 display: flex;
 justify-content: center;
@@ -71,39 +75,58 @@ Chrome users: use the [CopyTables](https://github.com/gebrkn/copytables) extensi
 <script src="{{ site.baseurl }}/assets/DataTables/datatables.min.js" type="text/javascript"></script>
 <script>
 $.noConflict();
-  jQuery(document).ready(function( $ ) {
+jQuery(document).ready(function($) {
     $('#database').DataTable({
         ajax: '{{ site.baseurl }}/assets/database.json',
         dom: "lrtip",
-        order: [[0, 'asc']],
-        initComplete: function () {
-        this.api()
-            .columns()
-            .every(function () {
+        order: [
+            [0, 'asc']
+        ],
+        initComplete: function() {
+            this.api().columns().every(function() {
                 let column = this;
                 let title = column.footer().textContent;
                 let input = document.createElement('input');
                 input.placeholder = title;
                 column.footer().replaceChildren(input);
-                input.addEventListener('keyup', () => {
-                    if (column.search() !== this.value) {
-                        column.search(input.value).draw();
-                    }
-                });
+                input.addEventListener('keyup',() => {
+                        if (column.search() !== this.value) {
+                            column.search(input.value).draw();
+                        }
+                    });
             });
-    }
-        });
+            this.api().columns([4, 5]).every(function() {
+                let column = this;
+                let select = document.createElement('select');
+                let title = column.header().textContent;
+                select.id = title.split(' ').map((word, index) => index === 0 ? word.toLowerCase() : word.charAt(0).toUpperCase() + word.slice(1).toLowerCase()).join('');
+                select.add(new Option(title, ''));
+                column.footer().replaceChildren(select);
+                select.addEventListener('change', function() {
+                    column.search(select.value, {
+                        exact: true
+                    }).draw();
+                });
+                column.data().unique().sort().each(function(d, j) {
+                    select.add(new Option(d));
+                });
+                let firstOption = select.querySelector('option:first-child');
+                firstOption.style.fontWeight = 'bold';
+            })
+        }
     });
+});
 </script>
 <script>
 document.addEventListener("keydown", function(event) {
-if (event.target.tagName.toLowerCase() === 'input' && event.target.type === 'text' || event.target.tagName.toLowerCase() === 'textarea' || event.target.isContentEditable) {
-    } else {
-    if(event.key === "ArrowLeft") {
-        document.querySelector(".previous").click();
-    } else if (event.key === "ArrowRight") {
-        document.querySelector(".next").click();
+    if (event.target.tagName.toLowerCase() === 'input' && event.target.type === 'text' || event.target.tagName.toLowerCase() === 'textarea' || event.target.isContentEditable) {}
+    else {
+        if (event.key === "ArrowLeft") {
+            document.querySelector(".previous").click();
+        }
+        else if (event.key === "ArrowRight") {
+            document.querySelector(".next").click();
+        }
     }
-}
 });
 </script>
