@@ -449,6 +449,6 @@ These are Kits and individual Items usable with hhhzzzsss' [SongPlayer](https://
   - This was _supposed_ to be added before the release of `v1.0.0-beta.1`, but I managed to forget it for three releases in a row. Big thank you to Miniozoid (Jimmy! on Discord) for pointing it out before I released a _fourth_ update missing it.
 
 # Download
-[v1.2.0](/releases/v1.2.0/TheShulkerArchives_v1.2.0.zip){: .align-center .btn .btn--success .btn--x-large style="width: 70%;"}
+[v1.2.0]({{ site.baseurl }}/releases/v1.2.0/TheShulkerArchives_v1.2.0.zip){: .align-center .btn .btn--success .btn--x-large style="width: 70%;"}
 [Mirror (GitHub)](https://github.com/KadTheHunter/ShulkerArchives/releases/tag/v1.2.0){: .align-center .btn .btn--success .btn--x-large style="width: 70%;"}
 [Modpack](https://modrinth.com/modpack/the-shulker-archives/version/1.2.0){: .align-center .btn .btn--success .btn--x-large style="width: 70%;"}
