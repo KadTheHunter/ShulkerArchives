@@ -57,6 +57,6 @@ X entries were flagged as Archivist Picks, and copied to the AP cabinets.
 # Organization/Display Changes
 
 # Download
-[v1.X.X](/releases/v1.X.X/TheShulkerArchives_v1.X.X.zip){: .align-center .btn .btn--success .btn--x-large style="width: 70%;"}
+[v1.X.X]({{ site.baseurl }}/releases/v1.X.X/TheShulkerArchives_v1.X.X.zip){: .align-center .btn .btn--success .btn--x-large style="width: 70%;"}
 [Mirror (GitHub)](https://github.com/KadTheHunter/ShulkerArchives/releases/tag/v1.X.X){: .align-center .btn .btn--success .btn--x-large style="width: 70%;"}
 [Modpack](https://modrinth.com/modpack/the-shulker-archives/version/1.X.X){: .align-center .btn .btn--success .btn--x-large style="width: 70%;"}
