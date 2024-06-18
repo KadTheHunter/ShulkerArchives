@@ -10,7 +10,7 @@ header:
   overlay_filter: 0
   actions:
     - label: "<i class='fas fa-download'></i> Download"
-      url: "releases/v1.2.0/TheShulkerArchives_v1.3.1.zip"
+      url: "releases/v1.3.1/TheShulkerArchives_v1.3.1.zip"
 
 excerpt: >
   A collection of NBT data in the form of Shulker Kits, Items, Books and more, 2.4k entries strong.<br />
