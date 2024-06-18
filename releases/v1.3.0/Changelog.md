@@ -21,7 +21,7 @@ Unlike other releases, I am providing three versions of the map, one each for Mi
 The Modpack will be using the 1.20.4 release of the map, as few of the mods within have been updated and thus the modpack is still 1.20.4.
 
 # Kits
-13 Kits were added. 1 Kit was removed
+13 Kits were added. 1 Kit was removed.
 
 ## Added
 - _Imperial Japanese Kits_ by _Unknown Author_ in _PvP_
