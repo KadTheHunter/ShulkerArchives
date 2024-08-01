@@ -66,7 +66,7 @@ Follow the steps for `.nbt` Mapart Files as shown above, but change "Mode" from 
 
 Cut the `.dat` files from your download folder, and paste them inside `/.minecraft/saves/YourWorldName/data/`. If there are already map.dat files in there, you will need to change the numbers of the ones you are adding before pasting them in (e.g: map_0.dat should become map_101755.dat
 
-Join your world, and create a mapart. Then, using [NBT Editor](https://modrinth.com/mod/nbt-editor), [IBE Editor](https://modrinth.com/mod/ibe-editor), or a similar mod of your choice, modify the `map` tags value to be the ID in the name of the `.dat` file.
+Join your world, and create a mapart. Then, using [NBT Editor](https://modrinth.com/mod/nbt-editor), or a similar mod of your choice, modify the `map` tags value to be the ID in the name of the `.dat` file.
 
 You now have mapart, and without the large cumbersome build!
 

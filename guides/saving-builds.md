@@ -25,8 +25,6 @@ The Chunk Ripper is an effective, but rather extreme method of saving builds. It
 
 This method will properly capture NBT data, such as chests, barrels, shulkers, signs, entities, etc. Despite this, it is not recommended to be used for saving NBT data unless no other options are available.
 
-This method also only (properly) works on 1.20.1; Future updates surrounding 1.20.2+ compatibility are [planned but will take time](https://github.com/Avanatiker/WorldTools/issues/11#issuecomment-1865747050).
-
 To get started, download the [WorldTools](https://modrinth.com/mod/worldtools) mod for Fabric or Forge. Make sure to get v1.1.1 or newer, because v1.0.0 has some very annoying bugs!
 
 Join the server you want to copy chunks from, and teleport to the area you wish to save. Once there, press `F12` to start the WorldTools capture.
