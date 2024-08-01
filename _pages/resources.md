@@ -12,7 +12,6 @@ toc_icon: scroll
 This is a collection of guides for various Minecraft NBT related things.
 - [Mapart]({{ site.baseurl }}/guides/mapart/) (Creating, Saving, Ripping)
 - [Saving Builds]({{ site.baseurl }}/guides/saving-builds/) (WorldEdit, Chunk Ripper)
-- [Restoring HD Heads]({{ site.baseurl }}/guides/restoring-hd-heads/)
 
 *Coming soon:*
 - Basic NBT (Name, Lore, Colors)
