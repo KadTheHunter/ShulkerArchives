@@ -30,7 +30,11 @@ name: "Kadalyst"
 
 # Build settings
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
+theme: minimal-mistakes-jekyll
+
+# Silence SASS bitching about future deprecation
+sass:
+  quiet_deps: true
 
 # Outputting
 permalink: /:categories/:title/
