@@ -14,9 +14,7 @@ toc_icon: scroll
 # Summary / Notes
 In total there are now 2,433 Entries.
 
-This is an itty-bitty update that clears out the few new entries in advance of the major 1.20.5+ support update.
-v1.4.1 will release shortly, with support for 1.20.5/1.20.6, and v1.4.2 will be released in the near future with support for 1.21.0.
-Both of those releases will include a (finally) updated Modpack, but this release is still using the 1.20.4 Modpack.
+This is an itty-bitty update that clears out the last few new entries.
 
 # Kits
 5 Kits were added.

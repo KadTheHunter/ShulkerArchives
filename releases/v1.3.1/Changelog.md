@@ -16,8 +16,6 @@ In total there are now 2,419 Entries.
 
 This update is largely a patch update to fix a few known issues with the Archives, including misattributed Authors, improperly categorized entries, and unintended features/annoying bugs.
 
-The map is marked as 1.20.4 in Minecraft, but can be safely loaded up to 1.20.6, and potentially beyond; I have yet to test it on 1.21, and will create another patch release specifically for 1.21
-
 # Kits
 2 Kits were moved. 2 Kits were removed
 

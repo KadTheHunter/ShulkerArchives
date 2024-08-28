@@ -16,9 +16,7 @@ In total there are now 2,420 Entries
 
 This update largely consists of submissions from the NBT Archives server, but also has a handful of odds and ends from my ClientChest that were missed in the last update.
 
-Unlike other releases, I am providing three versions of the map, one each for Minecraft 1.20.4, 1.20.5 and 1.20.6. I will continue to use and develop on 1.20.4 for now, but the 1.20.5 and 1.20.6 branches are provided for anyone who wants them: be warned however, that I have not verified the integrity of the 1.20.5 and 1.20.6 branches yet. *Ideally* they are intact and everything has been upgraded properly, but there have been mojang bug reports (specifically [MC-271159](https://bugs.mojang.com/browse/MC-271159), [MC-271222](https://bugs.mojang.com/browse/MC-271222), [MC-271220](https://bugs.mojang.com/browse/MC-271220) and [MC-271094](https://bugs.mojang.com/browse/MC-271094)) that 1.20.5 did *not* properly upgrade things.
-
-The Modpack will be using the 1.20.4 release of the map, as few of the mods within have been updated and thus the modpack is still 1.20.4.
+The Modpack will be using the 1.20.4 release of the map, as few of the mods within have been updated.
 
 # Kits
 13 Kits were added. 1 Kit was removed.
@@ -117,8 +115,6 @@ The Modpack will be using the 1.20.4 release of the map, as few of the mods with
   - _Both entries contents were largely made by MarioKartWii, but Marios name was replaced with theirs in a poor attempt to claim credit for something they knew they could never make themselves. I didn't want these in the main body of the Archives for obvious reasons, but I feel it's important to highlight them as examples of credit thievery._
 
 # Download
-[v1.3.0-1.20.4]({{ site.baseurl }}/releases/v1.3.0/TheShulkerArchives_v1.3.0-1.20.4.zip){: .align-center .btn .btn--success .btn--x-large style="width: 70%;"}
-[v1.3.0-1.20.5]({{ site.baseurl }}/releases/v1.3.0/TheShulkerArchives_v1.3.0-1.20.5.zip){: .align-center .btn .btn--success .btn--x-large style="width: 70%;"}
-[v1.3.0-1.20.6]({{ site.baseurl }}/releases/v1.3.0/TheShulkerArchives_v1.3.0-1.20.6.zip){: .align-center .btn .btn--success .btn--x-large style="width: 70%;"}
+[v1.3.0]({{ site.baseurl }}/releases/v1.3.0/TheShulkerArchives_v1.3.0-1.20.4.zip){: .align-center .btn .btn--success .btn--x-large style="width: 70%;"}
 [Mirror (GitHub)](https://github.com/KadTheHunter/ShulkerArchives/releases/tag/v1.3.0){: .align-center .btn .btn--success .btn--x-large style="width: 70%;"}
 [Modpack](https://modrinth.com/modpack/the-shulker-archives/version/1.3.0){: .align-center .btn .btn--success .btn--x-large style="width: 70%;"}

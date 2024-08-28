@@ -10,11 +10,11 @@ header:
   overlay_filter: 0
   actions:
     - label: "<i class='fas fa-download'></i> Download"
-      url: "releases/v1.4.1/TheShulkerArchives_v1.4.1.zip"
+      url: "releases/v1.4.0/TheShulkerArchives_v1.4.0.zip"
 
 excerpt: >
   A collection of NBT data in the form of Shulker Kits, Items, Books and more, 2.4k entries strong.<br />
-  <small><a href="releases/v1.4.1/Changelog">Latest release Changelog</a></small>
+  <small><a href="releases/v1.4.0/Changelog">Latest release Changelog</a></small>
 
 carousels:
   - images:
