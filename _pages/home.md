@@ -6,7 +6,7 @@ permalink: /
 header:
   text_color: "#00FF00"
   overlay_color: "#252A34"
-  overlay_image: "assets/images/header7.png"
+  overlay_image: "assets/images/header7.webp"
   overlay_filter: 0
   actions:
     - label: "<i class='fas fa-download'></i> Download"
@@ -67,5 +67,5 @@ carousels:
 # Partners & Affiliates
 {: .text-center}
 
-[![image-left]({{ site.baseurl }}/assets/images/txsla.net.png){: .align-left style="width: 10vw;"}](http://www.txsla.net/) [Txsla.net](http://www.txsla.net/) is the official website for Tesla Tower and hosts a variety of tools, from programs for the Ti84+CE calculator, to the Tesla Kit series, and the NBT Archives Minecraft Server. Of particular use is the dedicated [Tesla Kits page](http://www.txsla.net/kit/kit.htm), providing downloads for the latest release of the Tesla Kits.
+[![image-left]({{ site.baseurl }}/assets/images/txsla.net.webp){: .align-left style="width: 10vw;"}](http://www.txsla.net/) [Txsla.net](http://www.txsla.net/) is the official website for Tesla Tower and hosts a variety of tools, from programs for the Ti84+CE calculator, to the Tesla Kit series, and the NBT Archives Minecraft Server. Of particular use is the dedicated [Tesla Kits page](http://www.txsla.net/kit/kit.htm), providing downloads for the latest release of the Tesla Kits.
 {: .text-left style="font-size: 1.5vw;"}
