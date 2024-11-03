@@ -29,8 +29,8 @@ article.page {
 }
 </style>
 
-# Recommended Mods, Websites, and Software
-This is a list of recommended Mods, Websites, and Software, some directly related to NBT and some loosely related but still useful.
+# Recommended Mods, Websites, Software and Servers
+This is a list of recommended Mods, Websites, Software and Servers, some directly related to NBT and some loosely related but still useful.
 
 ## Official Archives Modpack
 The Shulker Archives has an [official Modpack](https://modrinth.com/modpack/the-shulker-archives) containing many of the mods listed below, alongside the latest release of the Map, all preconfigured and ready to use. 
@@ -64,7 +64,7 @@ If you aren't into making your own instances and dealing with Mods, the Modpack 
 - GamerGeeks.net provides a variety of generators similar to MCStacker, though with a more visually pleasing UI.
 
 ### [Block Display Engine](https://block-display.com/)
-  - Block Display Engine is a 3D editor and command generator for Minecraft's display entities, enabling you to bring custom 3D models into your Minecraft worlds without the use of mods or resource packs. The site also contains a library of user-created display entities for use in your world.
+  - Block Display Engine is a 3D editor and command generator for Minecraft's display entities, enabling you to bring custom 3D models into your Minecraft worlds without the use of mods or resource packs. The site also contains a library of user-created display entities for use in your world. _See also: [Block Display Engine App](#block-display-engine-app)._
 
 ### [MapartCraft](https://rebane2001.com/mapartcraft/)
   - MapartCraft is the do-it-all site for Mapart, where you can upload an image and customize the dithering, size, blocks used, etc. before either saving the preview image or downloading the map as a Schematic (.nbt) or Data (.dat) file.
@@ -72,6 +72,12 @@ If you aren't into making your own instances and dealing with Mods, the Modpack 
 ### [Obj To Schematic](https://objtoschematic.com/)
   - Obj To Schematic converts 3D model files such as `.obj` and `.glb` files into `.schematic`, `.schem`, `.litematic`, `.nbt` and `.json` files, with tons of settings to tweak and customize the output.
   - *There is also an (older) application version of this site available at [LucasDower/ObjToSchematic](https://github.com/LucasDower/ObjToSchematic) on GitHub.*
+
+### [MCUtils](https://mcutils.com/)
+  - MCUtils holds a wide array of utilities for Minecraft, ranging from Server Info and Skin Stealers, to Firework Creators and even a database of Noteblock Songs.
+
+### [Item NBT -> Components](https://misode.github.io/nbt2components/)
+  - Item NBT -> Components is a tool for converting Item NBT data in the form of SNBT to Component data, with output as JSON, Command and SNBT data.
 
 {::comment}
 
@@ -93,6 +99,9 @@ Add Epsilon Bot back whenever hhhzzzsss finally fixes it
 
 {:/comment}
 
+### [Block Display Engine App](https://block-display.com/BDEngine.exe)
+  - Block Display Engine is a 3D editor and command generator for Minecraft's display entities, enabling you to bring custom 3D models into your Minecraft worlds without the use of mods or resource packs. The app is the same as the [website](#block-display-engine), but in a standalone app format with improved performance.
+
 ### [map-to-img](https://github.com/mircokroon/minecraft-maps-to-images/)
   - map-to-img is a fairly obscure tool for converting Minecraft maps to images.
 
@@ -102,4 +111,6 @@ Add Epsilon Bot back whenever hhhzzzsss finally fixes it
 ### [NBT Studio](https://github.com/tryashtar/nbt-studio/)
   - NBT Studio is one of the best External NBT Editors, capable of editing any `.nbt` file with ease. Significant knowledge of NBT is needed to use it effectively.
 
-
+## Servers
+### [NBT Archives](https://discord.gg/ZhJyamzvvE)
+  - NBT Archives is the largest public collection of Component Data for Minecraft, where users can easily submit their creations for all to see. Join it via `play.nbtarchives.net`!
