@@ -1,6 +1,6 @@
 ---
-permalink: /database/
-title: Archive Entry Database
+permalink: /database-v1/
+title: v1 Archive Entry Database
 layout: single
 classes: wide
 ---
@@ -47,9 +47,9 @@ Firefox users: Just `CTRL+Click` and `CTRL+C` on the cell.
 Chrome users: use the [CopyTables](https://github.com/gebrkn/copytables) extension.
 {: .notice--info .text-center}
 
-This database is for the latest releases in the v2 line.
-If you are using an older release (v1.4.0 or earlier), please refer to the [v1 Database]({{ site.baseurl }}/database-v1/) instead.
-{: .notice--warning .text-center}
+This database is for the v1.0.0-v1.4.0 releases.
+If you are using a newer release (v2.0.0 or later), please refer to the [v2 Database]({{ site.baseurl }}/database/) instead.
+{: .notice--danger .text-center}
 <div class="table-wrapper">
 <table id="database" class="hover">
     <thead>
@@ -81,7 +81,7 @@ If you are using an older release (v1.4.0 or earlier), please refer to the [v1 D
 $.noConflict();
 jQuery(document).ready(function($) {
     $('#database').DataTable({
-        ajax: '{{ site.baseurl }}/assets/database.json',
+        ajax: '{{ site.baseurl }}/assets/database-v1.json',
         dom: "lrtip",
         order: [
             [0, 'asc']
