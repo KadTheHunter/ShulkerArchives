@@ -48,20 +48,23 @@ If you aren't into making your own instances and dealing with Mods, the Modpack 
   - Map.png allows downloading and converting Minecraft maps to `.png` images at the press of a keybind, in both Single and Multiplayer gamemodes.
 
 ### [Armor Stands](https://modrinth.com/mod/armor-stands)
-- Armor Stands adds a full-featured and easy to use UI for editing Armor Stands. Simply right-click on the armorstand, and begin!
+  - Armor Stands adds a full-featured and easy to use UI for editing Armor Stands. Simply right-click on the armorstand, and begin!
+
+### [Hotbars+](https://github.com/VideoGameSmash12/HotbarsPlus/releases/)
+  - Hotbars+ allows switching between multiple hotbar files with ease, allowing for effectively infinite hotbar storage.
 
 ### [Symbol Chat](https://modrinth.com/mod/symbol-chat)
-- Symbol Chat adds a menu to Chat, Signs, Books, and most other Text Inputs that allows you to use different fonts, and all manner of unicode symbols.
+  - Symbol Chat adds a menu to Chat, Signs, Books, and most other Text Inputs that allows you to use different fonts, and all manner of unicode symbols.
 
 ### [Song Player](https://modrinth.com/mod/songplayer)
   - Song Player plays valid `.midi` and `.nbs` song files on Note Blocks. While this alone (and how it does it) is fairly impressive, the NBT aspect comes in with Song Items: Items with song data encoded to them in an NBT tag, allowing sharing of songs so other users can play them without having copies of the files. Now *that's* impressive.
 
 ## Websites
 ### [MCStacker](https://mcstacker.net/)
-- MCStacker is an online Command/NBT generator that allows you to choose the command and features, and then generates it for you.
+  - MCStacker is an online Command/NBT generator that allows you to choose the command and features, and then generates it for you.
 
 ### [GamerGeeks](https://www.gamergeeks.net/apps/minecraft/)
-- GamerGeeks.net provides a variety of generators similar to MCStacker, though with a more visually pleasing UI.
+  - GamerGeeks.net provides a variety of generators similar to MCStacker, though with a more visually pleasing UI.
 
 ### [Block Display Engine](https://block-display.com/)
   - Block Display Engine is a 3D editor and command generator for Minecraft's display entities, enabling you to bring custom 3D models into your Minecraft worlds without the use of mods or resource packs. The site also contains a library of user-created display entities for use in your world. _See also: [Block Display Engine App](#block-display-engine-app)._
