@@ -44,6 +44,9 @@ If you aren't into making your own instances and dealing with Mods, the Modpack 
 ### [FZMM](https://modrinth.com/mod/FZMM)
   - FZMM is a somewhat niche but still incredible mod, offering tons of advanced features like creating Lore Art/Hologram Art, modifying Player Head Data to add custom textures, a GUI for designing Banners, and an excellent array of tools to give text everything from simple colors to beautiful gradients.
 
+### [CFX](https://modrinth.com/mod/cfx)
+  - CFX blocks a variety of exploits and vulnerabilities found in Minecraft, with patches for versions 1.14.0 to 1.21.4. Very useful when working with Abuse items, or other dangerous bits of NBT.
+
 ### [Map.png](https://modrinth.com/mod/map.png)
   - Map.png allows downloading and converting Minecraft maps to `.png` images at the press of a keybind, in both Single and Multiplayer gamemodes.
 
