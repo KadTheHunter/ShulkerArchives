@@ -10,11 +10,11 @@ header:
   overlay_filter: 0
   actions:
     - label: "<i class='fas fa-download'></i> Download"
-      url: "releases/v2.0.0/TheShulkerArchives_v2.0.0.zip"
+      url: "releases/v2.1.0/TheShulkerArchives_v2.1.0.zip"
 
 excerpt: >
   A collection of Component data in the form of Shulker Kits, Items, Books and more.<br />
-  <small><a href="releases/v2.0.0/Changelog">Latest release Changelog</a></small>
+  <small><a href="releases/v2.1.0/Changelog">Latest release Changelog</a></small>
 
 carousels:
   - images:
