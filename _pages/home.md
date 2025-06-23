@@ -54,11 +54,7 @@ Started in January 2023, the Archives have grown from a little collection of `/g
 [![image-left]({{ site.baseurl }}/assets/images/discord.png){: .align-left}](https://discord.gg/cfq25qURfv)
 Come join our [Discord](https://discord.gg/cfq25qURfv) for answers to any NBT questions you may have, as well as a place to share your latest creations and tools with the community. We also run bi-weekly Item-making Competitions, with a wide variety of themes!
 
-**Explore the Archives Map**
-{: .text-center}
-
-[![image-right]({{ site.baseurl }}/assets/images/modpack.png){: .align-right}](https://modrinth.com/modpack/the-shulker-archives)
-Want a pre-made environment to explore the Archives? Why not use our [Modpack](https://modrinth.com/modpack/the-shulker-archives), designed specifically for exploring the Archives and working with Component data! Regularly updated with the best mods for item-making like NBT Editor, FZMM, Armor Stands, and more, it's a guaranteed jump-start to making good items.
+<br>
 
 ***
 
@@ -88,3 +84,8 @@ Want a pre-made environment to explore the Archives? Why not use our [Modpack](h
 [![image-left]({{ site.baseurl }}/assets/images/nbtarchives.webp){: .align-left}](https://discord.gg/ZhJyamzvvE) 
 [NBT Archives](https://discord.gg/ZhJyamzvvE) is the largest public collection of Component Data for Minecraft, where users can easily submit their creations for all to see. While it isn't as organized or filtered as The Shulker Archives, it more than makes up for that with the sheer quantity of entries, and the ability for everyone to submit their creations instantaneously.
 {: .text-left}
+
+<br>
+
+[![image-left]({{ site.baseurl }}/assets/images/odysseyfreedom.webp){:.align-left}](https://discord.gg/HvYMNG62fS)
+[Odyssey Freedom](https://discord.gg/HvYMNG62fS) is one of the few true Creative FreeBuild servers left, offering players a flatworld with access to WorldEdit, EasyArmorStands, BuildersUtilities, ImageFrame, (some) NBT Data, and much more.

@@ -5,9 +5,6 @@ main:
   - title: "Discord"
     url: https://discord.gg/cfq25qURfv
     description: "The Shulker Archives Discord Server"
-  - title: "Modpack"
-    url: https://modrinth.com/modpack/the-shulker-archives
-    description: "The Shulker Archives Modpack"
   - title: "Database"
     url: /database/
     description: "Database of all Archive Entries"

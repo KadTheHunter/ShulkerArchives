@@ -32,11 +32,6 @@ article.page {
 # Recommended Mods, Websites, Software and Servers
 This is a list of recommended Mods, Websites, Software and Servers, some directly related to NBT and some loosely related but still useful.
 
-## Official Archives Modpack
-The Shulker Archives has an [official Modpack](https://modrinth.com/modpack/the-shulker-archives) containing many of the mods listed below, alongside the latest release of the Map, all preconfigured and ready to use. 
-
-If you aren't into making your own instances and dealing with Mods, the Modpack is a perfect alternative.
-
 ## (Fabric) Mods
 ### [NBT Editor](https://modrinth.com/mod/nbt-editor)
   - NBT Editor is the current pinnacle of NBT Editing Mods, making creating and editing items a breeze, with a variety of advanced features, including the ability to Import and Export `.nbt` files, retrieval of "lost" items via its /get lostitem history command, and its amazing Client Chest, which by default has 100 large chests' space for items, but can be expanded infinitely.

@@ -59,4 +59,3 @@ X entries were flagged as Archivist Picks, and copied to the AP racks.
 # Download
 [v2.X.X]({{ site.baseurl }}/releases/v2.X.X/TheShulkerArchives_v2.X.X.zip){: .align-center .btn .btn--success .btn--x-large style="width: 70%;"}
 [Mirror (GitHub)](https://github.com/KadTheHunter/ShulkerArchives/releases/tag/v2.X.X){: .align-center .btn .btn--success .btn--x-large style="width: 70%;"}
-[Modpack](https://modrinth.com/modpack/the-shulker-archives/version/2.X.X){: .align-center .btn .btn--success .btn--x-large style="width: 70%;"}
