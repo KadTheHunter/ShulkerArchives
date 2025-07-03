@@ -88,4 +88,3 @@ This is a small update to clear out a few new entries from my client chest in pr
 # Download
 [v2.1.0]({{ site.baseurl }}/releases/v2.1.0/TheShulkerArchives_v2.1.0.zip){: .align-center .btn .btn--success .btn--x-large style="width: 70%;"}
 [Mirror (GitHub)](https://github.com/KadTheHunter/ShulkerArchives/releases/tag/v2.1.0){: .align-center .btn .btn--success .btn--x-large style="width: 70%;"}
-[Modpack](https://modrinth.com/modpack/the-shulker-archives/version/2.1.0){: .align-center .btn .btn--success .btn--x-large style="width: 70%;"}

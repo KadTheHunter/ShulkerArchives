@@ -40,4 +40,3 @@ Both of these were reported to be fakes by `_txsla`, and have been removed accor
 # Download
 [v1.2.1]({{ site.baseurl }}/releases/v1.2.1/TheShulkerArchives_v1.2.1.zip){: .align-center .btn .btn--success .btn--x-large style="width: 70%;"}
 [Mirror (GitHub)](https://github.com/KadTheHunter/ShulkerArchives/releases/tag/v1.2.1){: .align-center .btn .btn--success .btn--x-large style="width: 70%;"}
-[Modpack](https://modrinth.com/modpack/the-shulker-archives/version/1.2.1){: .align-center .btn .btn--success .btn--x-large style="width: 70%;"}

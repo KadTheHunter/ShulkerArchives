@@ -24,4 +24,3 @@ Yes, the Modpack has finally been updated as well! Check the [Modpack Page](http
 # Download
 [v1.4.1]({{ site.baseurl }}/releases/v1.4.1/TheShulkerArchives_v1.4.1.zip){: .align-center .btn .btn--success .btn--x-large style="width: 70%;"}
 [Mirror (GitHub)](https://github.com/KadTheHunter/ShulkerArchives/releases/tag/v1.4.1){: .align-center .btn .btn--success .btn--x-large style="width: 70%;"}
-[Modpack](https://modrinth.com/modpack/the-shulker-archives/version/1.4.1){: .align-center .btn .btn--success .btn--x-large style="width: 70%;"}

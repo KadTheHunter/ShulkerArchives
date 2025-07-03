@@ -17,4 +17,3 @@ This is a patch update to provide native support for Minecraft 1.21.4; No entrie
 # Download
 [v2.1.2]({{ site.baseurl }}/releases/v2.1.2/TheShulkerArchives_v2.1.2.zip){: .align-center .btn .btn--success .btn--x-large style="width: 70%;"}
 [Mirror (GitHub)](https://github.com/KadTheHunter/ShulkerArchives/releases/tag/v2.1.2){: .align-center .btn .btn--success .btn--x-large style="width: 70%;"}
-[Modpack](https://modrinth.com/modpack/the-shulker-archives/version/2.1.2){: .align-center .btn .btn--success .btn--x-large style="width: 70%;"}

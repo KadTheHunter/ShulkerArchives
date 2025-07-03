@@ -261,4 +261,3 @@ All the source worlds will be provided on this website in a future update, once 
 # Download
 [v1.1.0]({{ site.baseurl }}/releases/v1.1.0/TheShulkerArchives_v1.1.0.zip){: .align-center .btn .btn--success .btn--x-large style="width: 70%;"}
 [Mirror (GitHub)](https://github.com/KadTheHunter/ShulkerArchives/releases/tag/v1.1.0){: .align-center .btn .btn--success .btn--x-large style="width: 70%;"}
-[Modpack](https://modrinth.com/modpack/the-shulker-archives/version/1.1.0){: .align-center .btn .btn--success .btn--x-large style="width: 70%;"}

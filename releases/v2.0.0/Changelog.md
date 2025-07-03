@@ -749,4 +749,3 @@ There are a few notable caveats to be aware of:
 # Download
 [v2.0.0]({{ site.baseurl }}/releases/v2.0.0/TheShulkerArchives_v2.0.0.zip){: .align-center .btn .btn--success .btn--x-large style="width: 70%;"}
 [Mirror (GitHub)](https://github.com/KadTheHunter/ShulkerArchives/releases/tag/v2.0.0){: .align-center .btn .btn--success .btn--x-large style="width: 70%;"}
-[Modpack](https://modrinth.com/modpack/the-shulker-archives/version/2.0.0){: .align-center .btn .btn--success .btn--x-large style="width: 70%;"}
