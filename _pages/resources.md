@@ -124,7 +124,12 @@ MCUtils holds a wide array of utilities for Minecraft, ranging from Server Info 
 ***
 
 ### [![image-left]({{ site.baseurl }}/assets/images/resource-icons/NBT2Component.webp){: .align-left} Item NBT -> Components](https://misode.github.io/nbt2components/)
-Item NBT -> Components is a tool for converting Item NBT data in the form of SNBT to Component data, with output as JSON, Command and SNBT data.
+Item NBT -> Components is a tool for converting Item NBT data in the form of SNBT to the Minecraft 1.20.5+ Component Data, with output as JSON, Command and SNBT data.
+
+***
+
+### [![image-left]({{ site.baseurl }}/assets/images/resource-icons/Minetrim.webp){: .align-left} Minetrim](https://minetrim.com/)
+Minetrim is a tool to create and view different armor trim combinations, making it easier to design armor sets by showing what the final result will be, and what ingredients or data is needed.
 
 {::comment}
 
