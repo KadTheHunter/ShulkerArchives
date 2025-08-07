@@ -630,7 +630,7 @@
     ["Easy Tank Block Display", "1Clickprosekunde", "/tp @s 10.5 24 -37.5 180 0", "Archivist Pick", "Misc. Func.", "Item"],
     ["Mona Lisa", "1Clickprosekunde", "/tp @s 11.5 24 -37.5 180 0", "Archivist Pick", "Misc. Func.", "Item"],
     ["Sleepy Sleepy", "Unknown Author", "/tp @s 8.5 24 -13.5 180 0", "", "Lore", "Item"],
-    ["Dagger of the Heavens", "Unknown Author", "/tp @s -5.5 24 -13.5 180 0", "", "Melee Weapon", "Item"],
+    ["Dagger of the Heavens", "Unknown Author", "/tp @s -5.5 24 -13.5 180 0", "", "Melee Weapons", "Item"],
     ["Simple Health Above Head Command Book", "PlainBagel65", "/tp @s -15.5 44 -13.5 180 0", "", "Utility", "Book"],
     ["The Useful Book", "Simon_Y_007", "/tp @s -16.5 44 -13.5 180 0", "", "Utility", "Book"],
     ["The Deadly Sins", "ThermalNenish", "/tp @s 16.5 8 -13.5 180 0", "", "Lore", "Kit"],
