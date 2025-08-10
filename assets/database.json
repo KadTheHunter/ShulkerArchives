@@ -440,7 +440,7 @@
     ["Chaos Insurgency", "Kaibyr99", "/tp @s 16.5 6 -37.5 180 0", "", "Misc. Func.", "Kit"],
     ["Kantonian Item Pack", "Kaibyr99", "/tp @s 17.5 6 -37.5 180 0", "", "Misc. Func.", "Kit"],
     ["Box of TNT Replicas", "Kaibyr99", "/tp @s 18.5 6 -37.5 180 0", "", "Misc. Func.", "Kit"],
-    ["Trans-Multiversal Emergency Reciever Results", "", "/tp @s 7.5 6 -21.5 180 0", "", "Misc. Non-Func.", "Kit"],
+    ["Trans-Multiversal Emergency Reciever Results", "Kaibyr99", "/tp @s 7.5 6 -21.5 180 0", "", "Misc. Non-Func.", "Kit"],
     ["Box of Curios", "Kaibyr99", "/tp @s 6.5 8 -29.5 180 0", "", "Random", "Kit"],
     ["Box of Curios II", "Kaibyr99", "/tp @s 6.5 8 -29.5 180 0", "", "Random", "Kit"],
     ["Box of Curios III", "Kaibyr99", "/tp @s 6.5 8 -29.5 180 0", "", "Random", "Kit"],
