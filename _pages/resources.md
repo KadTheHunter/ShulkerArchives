@@ -43,6 +43,16 @@ NBT Autocomplete auto-suggests appropriate components, tags and values, making i
 
 ***
 
+### [![image-left]({{ site.baseurl }}/assets/images/resource-icons/In-GameNBTEditReborn.webp){: .align-left} InGame NBTEdit Reborn](https://modrinth.com/mod/nbtedit-reborn)
+In-Game NBTEdit Reborn is a (primarily Chinese) NBT Editing mod, with full support for Fabric, Forge and NeoForge for 1.16.5+. It bears many similarities to NBT Editor, IBE Editor and CAD Editor, and covers virtually all aspects of NBT Editing.
+
+***
+
+### [![image-left]({{ site.baseurl }}/assets/images/resource-icons/DynamicIn-GameNBTEditor.webp){: .align-left} Dynamic In-Game NBT Editor](https://modrinth.com/mod/dine)
+Dynamic In-Game NBT Editor is a relatively new NBT Editing mod, with full support for Fabric, Forge and NeoForge for 1.20+. Unlike most other editors, it edits NBT by forming and sending `/data` commands to the server.
+
+***
+
 ### [![image-left]({{ site.baseurl }}/assets/images/resource-icons/FZMM.webp){: .align-left} FZMM](https://modrinth.com/mod/FZMM)
 FZMM is a somewhat niche but still incredible mod, offering tons of advanced features like creating Lore Art/Hologram Art, modifying Player Head Data to add custom textures, a GUI for designing Banners, and an excellent array of tools to give text everything from simple colors to beautiful gradients.
 
@@ -71,7 +81,7 @@ See also: [Map to Image](#-map-to-image)
 ***
 
 ### [![image-left]({{ site.baseurl }}/assets/images/resource-icons/ArmorStands.webp){: .align-left} Armor Stands](https://modrinth.com/mod/armor-stands)
-Armor Stands allows editing truly anything about an armor stand, from its individual limbs and their position, to pre-set poses, precise positioning and inventory, all with clean, well designed menus.
+Armor Stands allows editing truly anything about an armor stand, from its individual limbs and their position, to pre-set poses, precise positioning and inventory, all with clean, well-designed menus.
 
 ***
 
@@ -81,12 +91,19 @@ Librarian overhauls the existing feature of Saved Hotbars, and while its main fe
 ***
 
 ### [![image-left]({{ site.baseurl }}/assets/images/resource-icons/SymbolChat.webp){: .align-left} Symbol Chat](https://modrinth.com/mod/symbol-chat)
-Symbol Chat adds a menu to Chat, Signs, Books, and most other Text Inputs that allows you to use different fonts, and all manner of unicode symbols. You can search for and favorite any UNICODE symbol, even those unsupported by Minecraft.
+Symbol Chat adds a menu to Chat, Signs, Books, and most other Text Inputs that allows you to use different fonts, and all manner of Unicode symbols. You can search for and favorite any UNICODE symbol, even those unsupported by Minecraft.
 
 ***
 
 ### [![image-left]({{ site.baseurl }}/assets/images/resource-icons/SongPlayer.webp){: .align-left} SongPlayer](https://modrinth.com/mod/songplayer)
-Song Player plays valid `.midi` and `.nbs` song files on Note Blocks. While this alone (and how it does it) is fairly impressive, the NBT aspect comes in with Song Items: Items with song data encoded to them in an NBT tag, allowing sharing of songs so other users can play them without having copies of the files. Now *that's* impressive.
+Song Player plays valid `.midi` and `.nbs` song files on Note Blocks. While this alone is fairly impressive, the NBT aspect comes in with Song Items: Items with song data encoded to them in an NBT tag, allowing sharing of songs so other users can play them without having copies of the files. Now *that's* impressive.
+
+***
+
+### [![image-left]({{ site.baseurl }}/assets/images/resource-icons/CADEditor.webp){: .align-left} CAD Editor](https://modrinth.com/mod/cad-editor)
+CAD Editor is a fork of IBE Editor adding 1.20.5+ support, starting with 1.21.1. Currently has no support for other versions, although there is a 1.21.4 branch in development.
+
+
 
 ## Websites
 ### [![image-left]({{ site.baseurl }}/assets/images/resource-icons/MCStacker.webp){: .align-left} MCStacker](https://mcstacker.net/)
@@ -174,6 +191,11 @@ MCA Selector is *intended* to be used as a tool for exporting or deleting chunks
 
 ### [![image-left]({{ site.baseurl }}/assets/images/resource-icons/NBTStudio.webp){: .align-left} NBT Studio](https://github.com/tryashtar/nbt-studio/)
 NBT Studio is one of the best External NBT Editors, capable of editing any `.nbt` file with ease. Significant knowledge of NBT is needed to use it effectively.
+
+***
+
+### [![image-left]({{ site.baseurl }}/assets/images/resource-icons/NBTWorkbench.webp){: .align-left} NBT Workbench](https://github.com/RealRTTV/nbtworkbench)
+NBT Workbench is a sucessor to NBT Studio, written entirely in Rust, with a wide variety of new features, as well as support for Linux and macOS.
 
 ## Servers
 ### [![image-left]({{ site.baseurl }}/assets/images/nbtarchives.webp){: .align-left} NBT Archives](https://discord.gg/ZhJyamzvvE)
