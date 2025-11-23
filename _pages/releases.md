@@ -38,6 +38,7 @@ background-color: gray;
 
 | Release Version   | Minecraft Version | Entry Count                         | Download                                                                                    | Changelog                                                             |
 |:------------------|:------------------|-------------------------------------|---------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|
+| v2.3.0            | 1.21.5            | 747                                 | [Download]({{ site.baseurl }}/releases/v2.3.0/TheShulkerArchives_v2.3.0.zip)                | [v2.2.0 -> v2.3.0]({% link releases/v2.3.0/Changelog.md %})           |
 | v2.2.0            | 1.21.5            | 700                                 | [Download]({{ site.baseurl }}/releases/v2.2.0/TheShulkerArchives_v2.2.0.zip)                | [v2.1.3 -> v2.2.0]({% link releases/v2.2.0/Changelog.md %})           |
 | v2.1.3            | 1.21.5            | 660                                 | [Download]({{ site.baseurl }}/releases/v2.1.3/TheShulkerArchives_v2.1.3.zip)                | [v2.1.2 -> v2.1.3]({% link releases/v2.1.3/Changelog.md %})           |
 | v2.1.2            | 1.21.4            | 660                                 | [Download]({{ site.baseurl }}/releases/v2.1.2/TheShulkerArchives_v2.1.2.zip)                | [v2.1.1 -> v2.1.2]({% link releases/v2.1.2/Changelog.md %})           |
