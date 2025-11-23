@@ -102,9 +102,9 @@ def generate_changelog(version):  # noqa F402
         output.append("***\n\n")
 
     output.extend([
-        "#Build Changes\n\n",
-        "#Organization/Display Changes\n\n",
-        "#Download\n",
+        "# Build Changes\n\n",
+        "# Organization/Display Changes\n\n",
+        "# Download\n",
         f'[v{version}]({{{{ site.baseurl }}}}/releases/v{version}/TheShulkerArchives_v{version}.zip){{: .align-center .btn .btn--success .btn--x-large style="width: 70%;"}}\n',  # noqa: E501
         f'[Mirror (GitHub)](https://github.com/KadTheHunter/ShulkerArchives/releases/tag/v{version}){{: .align-center .btn .btn--success .btn--x-large style="width: 70%;"}}\n'  # noqa: E501
     ])
