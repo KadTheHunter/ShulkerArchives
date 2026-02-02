@@ -36,6 +36,10 @@ background-color: gray;
 }
 </style>
 
+The Shulker Archives has ended with v2.3.0 for 1.21.5; v2.3.0 has decent support for 1.21.6-1.21.8
+For newer versions (1.21.11+), please use the [NBT Library](https://github.com/KadTheHunter/NBT-Library)
+{: .notice--warning .text-center}
+
 | Release Version   | Minecraft Version | Entry Count                         | Download                                                                                    | Changelog                                                             |
 |:------------------|:------------------|-------------------------------------|---------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|
 | v2.3.0            | 1.21.5            | 747                                 | [Download]({{ site.baseurl }}/releases/v2.3.0/TheShulkerArchives_v2.3.0.zip)                | [v2.2.0 -> v2.3.0]({% link releases/v2.3.0/Changelog.md %})           |
