@@ -48,13 +48,6 @@ body {
 
 Started in January 2023, the Archives have grown from a little collection of `/give` commands, to a massive map with thousands of entries. Though it has been reduced with the v2.0.0 release for Minecraft v1.21.1+, it continues to grow with semi-regular updates.
 
-**Join the Archives Discord**
-{: .text-center}
-
-[![image-left]({{ site.baseurl }}/assets/images/discord.png){: .align-left}](https://discord.gg/cfq25qURfv)
-Come join our [Discord](https://discord.gg/cfq25qURfv) for answers to any NBT questions you may have, as well as a place to share your latest creations and tools with the community. We also run bi-weekly Item-making Competitions, with a wide variety of themes!
-
-<br>
 
 ***
 
