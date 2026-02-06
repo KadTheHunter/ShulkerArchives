@@ -44,10 +44,12 @@ body {
 
 ***
 
-**The Shulker Archives** is the ultimate collection of Component data (formerly NBT data) in the form of Shulker Kits, Items, Books and more, organized into a variety of categories, and recorded into the [Database]({{ site.baseurl }}/database/) for ease of access.
+**The Shulker Archives** is the ultimate collection of Component data (formerly NBT data) for Minecraft 1.20.0 to 1.21.5 in the form of Shulker Kits, Items, Books and more, organized into a variety of categories, and recorded into the [Database]({{ site.baseurl }}/database/) for ease of access.
 
-Started in January 2023, the Archives have grown from a little collection of `/give` commands, to a massive map with thousands of entries. Though it has been reduced with the v2.0.0 release for Minecraft v1.21.1+, it continues to grow with semi-regular updates.
+Started in January 2023, the Archives have grown from a little collection of `/give` commands, to a huge map with hundreds of entries.
 
+The Shulker Archives has ended with v2.3.0 for 1.21.5-1.21.8; For newer versions of Minecraft (1.21.11+), please see [NBT Library](https://github.com/KadTheHunter/NBT-Library)
+{: .notice--danger .text-center}
 
 ***
 
