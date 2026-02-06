@@ -10,4 +10,6 @@ It was initially a website-based collection, formerly located here, and presentl
 
 On November 13th 2023, the website-based collection was marked as No Longer Maintained (NLM) due to multiple major issues, and focus turned to a map-based alternative, which debuted with its [beta.1]({{ site.baseurl }}/releases/v1.0.0-beta.1/Changelog/) release in mid-January 2024, and full [v1.0.0]({{ site.baseurl }}/releases/v1.0.0/Changelog/) release on February 1st.
 
-Kadalyst continues to work on the Archives in his free time, and has considerable plans for its future.
+The Archives were reworked and re-released with v2.0.0 on November 7th 2024 (nearly 11 months after v1.0.0's debut) due to the Minecraft 1.20.5 update rewriting NBT into the new Components system, and breaking many items in the Archives. v2.0.0 used a brand-new map, with better scalability, and a more choice selection of entries.
+
+As of February 2026, The Shulker Archives is no longer receiving updates, and has been succeeded by the [NBT Library](https://github.com/KadTheHunter/NBT-Library).
